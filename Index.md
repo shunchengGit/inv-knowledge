@@ -2,6 +2,7 @@
 ## investing
 - [S&P 500 指数详解](investing/S-P-500-指数详解.md) — https://www.investopedia.com/terms/s/sp500.asp
 - [复利效应](investing/复利效应.md) — https://en.wikipedia.org/wiki/Compound_interest
+- [腾讯控股最近7天投资信息汇总（截至2026-05-27）](investing/腾讯控股最近7天投资信息汇总-截至2026-05-27.md) — https://www.cls.cn/searchPage?keyword=腾讯&type=all
 ## thinking
 - [读完《贫穷的本质》，我才发现自己对穷人的理解全是错的](thinking/读完-贫穷的本质-我才发现自己对穷人的理解全是错的.md) — https://mp.weixin.qq.com/s/vBgDCqwWga3pUjmvjtQatA
 ## ai-agent
