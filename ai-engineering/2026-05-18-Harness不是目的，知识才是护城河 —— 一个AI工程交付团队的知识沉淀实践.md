@@ -1,14 +1,16 @@
+---
+url: https://mp.weixin.qq.com/s/JV4-oPP0jjsBCZ4tW3Gy1g
+imported: 2026-05-18
+category: ai-engineering
+---
+
 # Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践
 
-> **URL**: https://mp.weixin.qq.com/s/JV4-oPP0jjsBCZ4tW3Gy1g
-> **抓取时间**: 2026-05-18 17:59
-> **标签**: 未分类
-> **状态**: ✅ 已总结
+## 摘要
+<!-- AI 待填充 -->
 
-## 备注
-无
-
----
+## 关键要点
+<!-- AI 待填充 -->
 
 ## 原文内容
 

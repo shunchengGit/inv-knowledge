@@ -1,14 +1,16 @@
+---
+url: https://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ
+imported: 2026-05-18
+category: ai-engineering
+---
+
 # 知识基座：让“AI 越用越懂业务”的团队经验实践【天猫AI Coding实践系列】
 
-> **URL**: https://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ
-> **抓取时间**: 2026-05-18 15:50
-> **标签**: 未分类
-> **状态**: ✅ 已总结
+## 摘要
+<!-- AI 待填充 -->
 
-## 备注
-无
-
----
+## 关键要点
+<!-- AI 待填充 -->
 
 ## 原文内容
 

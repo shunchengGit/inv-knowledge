@@ -1,45 +1,16 @@
+---
+url: https://mp.weixin.qq.com/s/3-hQ4vHYErfpIzYPC6wJwg
+imported: 2026-05-21
+category: ai-engineering
+---
+
 # 都是 AI Coding，为什么 Java 体验差了一个量级？五条方法论帮你构建自己的 Harness 环境
 
-> **URL**: https://mp.weixin.qq.com/s/3-hQ4vHYErfpIzYPC6wJwg
-> **抓取时间**: 2026-05-21 09:14
-> **标签**: 未分类
-> **状态**: ✅ 已总结
-> **标签**: Harness Engineering, Java, AI Coding, 本地开发环境, 架构改造
+## 摘要
+<!-- AI 待填充 -->
 
-## 备注
-无
-
----
-
-## AI 总结
-
-### 核心问题
-Java 微服务项目 AI Coding 体验远差于前端/Python，根源不在模型能力，而在**项目在本地跑不起来**。AI 写完代码无法自主验证，每轮都需要人工推预发→等待→验证→反馈，单轮耗时 5-10 分钟，人成为瓶颈。
-
-### 三条改造原则
-
-1. **依赖倒置，接口先行**：上层依赖抽象接口（StorageAdapter / CommandExecutor），线上用 OSS/Sandbox 实现，本地用 LocalStorageAdapter / LocalCommandExecutor。上层代码零改动。
-
-2. **零侵入，Profile 隔离**：本地代码通过 `@Profile("local")` 和数据 `@Nullable` 参数注入隔离，删除所有本地代码后线上行为完全不变。
-
-3. **工具 AI 化：CLI 优先**：AI 能用的是 CLI，不是 GUI。通过 CLI 桥接企业系统（mw-cli 查 Diamond/HSF），注册为 Agent Tools/Skills。优先级：CLI > MCP Server > Skill/Tool > GUI（不可用）。
-
-### 实践效果
-改造后一个完整 bug fix 从 30 分钟（3-4 轮推预发）降到 2 分钟（AI 本地自主 3-5 轮收敛），人只需最后 review。
-
-### 配套 Harness Engineering
-- **CLAUDE.md**：100 行以内，告诉 AI 项目结构/构建/测试/本地启动方式
-- **验证脚本**：`scripts/verify-local.sh`，AI 可自动跑编译→测试→启动→闭环检查
-- **Checklist**：7 个维度评估项目 AI Coding 友好度（本地可启动性、依赖隔离、可测试性、可观测性、工具 CLI 化、隔离性）
-
-### 五个方法论
-1. 找到最小可运行子集（不需要全部搬到本地，核心链路即可）
-2. 接口抽象 + Profile 切换实现
-3. 零侵入原则，删掉本地代码后线上不变
-4. CLI 优先，把运维工具 CLI 化供 AI 调用
-5. 验证脚本自动化，让 AI 自查结果
-
----
+## 关键要点
+<!-- AI 待填充 -->
 
 ## 原文内容
 

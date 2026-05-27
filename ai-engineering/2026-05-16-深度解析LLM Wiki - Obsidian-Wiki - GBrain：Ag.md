@@ -1,14 +1,16 @@
+---
+url: https://mp.weixin.qq.com/s/48XpgAMHeaKYj26PrJK-hw
+imported: 2026-05-16
+category: ai-engineering
+---
+
 # 深度解析LLM Wiki - Obsidian-Wiki - GBrain：Agent时代知识的“自组织”与“自进化”
 
-> **URL**: https://mp.weixin.qq.com/s/48XpgAMHeaKYj26PrJK-hw
-> **抓取时间**: 2026-05-16 14:56
-> **标签**: 未分类
-> **状态**: 📝 待总结
+## 摘要
+<!-- AI 待填充 -->
 
-## 备注
-无
-
----
+## 关键要点
+<!-- AI 待填充 -->
 
 ## 原文内容
 
