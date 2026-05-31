@@ -1,5 +1,3 @@
-- [S&P 500 指数详解](investing/S-P-500-指数详解.md) — https://www.investopedia.com/terms/s/sp500.asp
-- [复利效应](investing/复利效应.md) — https://en.wikipedia.org/wiki/Compound_interest
 - [腾讯控股最近7天投资信息汇总（截至2026-05-27）](investing/腾讯控股最近7天投资信息汇总-截至2026-05-27.md) — https://www.cls.cn/searchPage?keyword=腾讯&type=all
 - [福耀玻璃2026年一季报业绩分析](investing/2026-05-31-福耀玻璃2026年一季报业绩分析.md) — https://view.inews.qq.com/a/20260422A03M3W00
 - [福耀玻璃2025年年报业绩概览](investing/福耀玻璃2025年年报业绩概览.md) — https://finance.sina.com.cn/roll/2025-03-20/doc-ineqhfmx7971404.shtml
@@ -12,3 +10,4 @@
 - [福耀玻璃2026年Q1汇兑风险深度分析](investing/福耀玻璃2026年Q1汇兑风险深度分析.md) — https://news.qq.com/rain/a/20260527A048Z800
 - [福耀玻璃竞争壁垒与护城河分析](investing/福耀玻璃竞争壁垒与护城河分析.md) — https://news.qq.com/rain/a/20260527A048Z800
 - [腾讯控股投资者关系页面 - 2026年Q1财报与股价数据](investing/腾讯控股投资者关系页面-2026年Q1财报与股价数据.md) — https://www.tencent.com/en-us/investors.html
+- [腾讯沧海V2视频编解码芯片下半年量产](investing/2026-05-27-腾讯沧海V2视频编解码芯片下半年量产.md) — local
