@@ -1,0 +1,1 @@
+- [读完《贫穷的本质》，我才发现自己对穷人的理解全是错的](thinking/读完-贫穷的本质-我才发现对穷人的理解全是错的.md) — https://mp.weixin.qq.com/s/vBgDCqwWga3pUjmvjtQatA
