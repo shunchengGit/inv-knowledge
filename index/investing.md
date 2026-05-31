@@ -12,3 +12,4 @@
 - [腾讯控股投资者关系页面 - 2026年Q1财报与股价数据](investing/腾讯控股投资者关系页面-2026年Q1财报与股价数据.md) — https://www.tencent.com/en-us/investors.html
 - [腾讯沧海V2视频编解码芯片下半年量产](investing/2026-05-27-腾讯沧海V2视频编解码芯片下半年量产.md) — local
 - [台积电核心竞争力深度分析](investing/台积电核心竞争力深度分析.md) — https://www.36kr.com/p/2775079043613832
+- [台积电商业模式与护城河分析](investing/台积电商业模式与护城河分析.md) — https://www.163.com/dy/article/KDOEF29V05566SXC.html
