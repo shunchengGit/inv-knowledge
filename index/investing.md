@@ -13,3 +13,4 @@
 - [腾讯沧海V2视频编解码芯片下半年量产](investing/2026-05-27-腾讯沧海V2视频编解码芯片下半年量产.md) — local
 - [台积电核心竞争力深度分析](investing/台积电核心竞争力深度分析.md) — https://www.36kr.com/p/2775079043613832
 - [台积电商业模式与护城河分析](investing/台积电商业模式与护城河分析.md) — https://www.163.com/dy/article/KDOEF29V05566SXC.html
+- [福耀玻璃6月18日两融数据：融资余额21.41亿元](investing/福耀玻璃6月18日两融数据-融资余额21-41亿元.md) — https://stock.10jqka.com.cn/20260619/c677584845.shtml
