@@ -510,3 +510,7 @@ AI 是否能通过命令行获取运行时状态？（health check endpoint、me
 
 
 _（原文过长，仅显示前8000字。完整内容见 .claw/raw/都是 AI Coding，为什么 Java 体验差了一个量级？五条方法论帮你构建自己的 Harness 环境/content.raw.txt）_
+
+## 关联
+- [Skill Factory：三天手搓面向Harness设计的技能工厂（附AI coding实践）](ai-engineering/Skill Factory：三天手搓面向Harness设计的技能工厂（附AI coding实践）.md)
+- [AgentScope Java 1.1.0 Harness Framework 详解](ai-engineering/AgentScope Java Harness Framework 详解.md)
