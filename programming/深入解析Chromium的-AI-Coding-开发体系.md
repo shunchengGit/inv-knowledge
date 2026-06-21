@@ -1,7 +1,9 @@
 ---
-url: https://mp.weixin.qq.com/s/sCmRKJjTpdB4k3145OzZMg
-imported: 2026-06-01
-category: programming
+type: Article
+title: 深入解析Chromium的 AI Coding 开发体系
+description: url: https://mp.weixin.qq.com/s/sCmRKJjTpdB4k3145OzZMg
+timestamp: 2026-06-01T00:00:00+08:00
+resource: https://mp.weixin.qq.com/s/sCmRKJjTpdB4k3145OzZMg
 ---
 
 # 深入解析Chromium的 AI Coding 开发体系

@@ -1,7 +1,9 @@
 ---
-url: https://mp.weixin.qq.com/s/sZm-KDM7NoITchuhpbJkJQ
-imported: 2026-05-27
-category: ai-engineering
+type: Article
+title: 让AI自己做增长：基于OPC和Harness思想的自主增长系统探索
+description: 高德地图PC站团队借鉴OPC（一人公司）理念和Harness Engineering思想，构建了多Agent自主增长系统。系统从发现增长机会、生成提案、编写PRD到代码实现、部署上线全流程零人工干预。
+timestamp: 2026-05-27T00:00:00+08:00
+resource: https://mp.weixin.qq.com/s/sZm-KDM7NoITchuhpbJkJQ
 ---
 
 # 让AI自己做增长：基于OPC和Harness思想的自主增长系统探索

@@ -1,7 +1,9 @@
 ---
-url: https://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ
-imported: 2026-05-18
-category: ai-engineering
+type: Article
+title: 知识基座：让“AI 越用越懂业务”的团队经验实践【天猫AI Coding实践系列】
+description: 本文分享了构建“AI全栈研发知识基座”的团队实践经验，旨在解决通用大模型不懂特定业务逻辑的痛点。文章提出通过系统化梳理业务文档、代码规范、架构决策及历史案例，构建高质量的企业专属知识库，并结合RAG技术将其嵌入研发全流程。
+timestamp: 2026-05-18T00:00:00+08:00
+resource: https://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ
 ---
 
 # 知识基座：让“AI 越用越懂业务”的团队经验实践【天猫AI Coding实践系列】

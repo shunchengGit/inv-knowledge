@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>知识图谱</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.28.1/cytoscape.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  #container { display: flex; height: 100vh; }
+  #cy { flex: 1; background: #f8f9fa; }
+  #sidebar {
+    width: 340px; background: #fff; border-left: 1px solid #ddd;
+    overflow-y: auto; padding: 20px; display: none;
+  }
+  #sidebar.visible { display: block; }
+  #sidebar h2 { font-size: 16px; margin-bottom: 8px; word-break: break-all; }
+  #sidebar .meta { font-size: 13px; color: #666; margin-bottom: 12px; }
+  #sidebar .meta span { display: inline-block; margin-right: 12px; }
+  #sidebar .desc { font-size: 13px; color: #333; line-height: 1.6; margin-bottom: 12px; }
+  #sidebar .link { font-size: 13px; }
+  #sidebar .link a { color: #4C8BF5; text-decoration: none; }
+  #toolbar {
+    position: absolute; top: 12px; left: 12px; z-index: 10;
+    display: flex; gap: 8px; flex-wrap: wrap;
+  }
+  #toolbar select, #toolbar button {
+    padding: 6px 12px; border: 1px solid #ccc; border-radius: 6px;
+    font-size: 13px; background: white; cursor: pointer;
+  }
+  #toolbar button:hover { background: #e8e8e8; }
+  #stats {
+    position: absolute; bottom: 12px; right: 12px; z-index: 10;
+    font-size: 12px; color: #888; background: rgba(255,255,255,0.9);
+    padding: 6px 12px; border-radius: 6px;
+  }
+  .legend { position: absolute; top: 12px; right: 12px; z-index: 10;
+    background: rgba(255,255,255,0.95); padding: 10px 14px;
+    border-radius: 8px; font-size: 12px; border: 1px solid #e0e0e0; }
+  .legend-item { display: flex; align-items: center; margin: 4px 0; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; }
+</style>
+</head>
+<body>
+<div id="container">
+  <div id="toolbar">
+    <select id="type-filter" onchange="applyFilter()">
+      <option value="">全部类型</option>
+    </select>
+    <select id="cat-filter" onchange="applyFilter()">
+      <option value="">全部分类</option>
+    </select>
+    <button onclick="cy.fit(cy.elements(), 50)">重置视图</button>
+    <button onclick="togglePhysics()">🔧 布局</button>
+  </div>
+  <div class="legend" id="legend"></div>
+  <div id="cy"></div>
+  <div id="sidebar">
+    <h2 id="sidebar-title"></h2>
+    <div class="meta">
+      <span id="sidebar-type"></span>
+      <span id="sidebar-cat"></span>
+    </div>
+    <div class="desc" id="sidebar-desc"></div>
+    <div class="link"><a id="sidebar-url" target="_blank">🔗 来源</a></div>
+  </div>
+  <div id="stats">节点 31 · 边 0</div>
+</div>
+
+<script>
+const NODES = [{"data": {"id": "n0", "label": "让AI自己做增长：基于OPC和Harness思想的自主增长…", "title": "让AI自己做增长：基于OPC和Harness思想的自主增长系统探索", "description": "", "url": "https://mp.weixin.qq.com/s/sZm-KDM7NoITchuhpbJkJQ", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/让AI自己做增长-基于OPC和Harness思想的自主增长系统探索.md"}}, {"data": {"id": "n1", "label": "31万行代码重构：用评测管好AI Coding", "title": "31万行代码重构：用评测管好AI Coding", "description": "", "url": "https://mp.weixin.qq.com/s/example", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/2026-05-16-31万行代码重构：用评测管好AI Coding.md"}}, {"data": {"id": "n2", "label": "深度解析LLM Wiki - Obsidian-Wiki …", "title": "深度解析LLM Wiki - Obsidian-Wiki - GBrain：Agent时代知识的“自组织”与“自进化”", "description": "", "url": "https://mp.weixin.qq.com/s/48XpgAMHeaKYj26PrJK-hw", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/2026-05-16-深度解析LLM Wiki - Obsidian-Wiki - GBrain：Ag.md"}}, {"data": {"id": "n3", "label": "面向智能导购的Agent评测实践", "title": "面向智能导购的Agent评测实践", "description": "", "url": "https://mp.weixin.qq.com/s/EYjRYefh7yEwIBnuPMAzkw?click_id=95", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/2026-05-16-面向智能导购的Agent评测实践.md"}}, {"data": {"id": "n4", "label": "Harness不是目的，知识才是护城河 —— 一个AI工程…", "title": "Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践", "description": "", "url": "https://mp.weixin.qq.com/s/JV4-oPP0jjsBCZ4tW3Gy1g", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/2026-05-18-Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践.md"}}, {"data": {"id": "n5", "label": "知识基座：让“AI 越用越懂业务”的团队经验实践【天猫AI…", "title": "知识基座：让“AI 越用越懂业务”的团队经验实践【天猫AI Coding实践系列】", "description": "", "url": "https://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/2026-05-18-知识基座：让“AI 越用越懂业务”的团队经验实践【天猫AI Coding实践系列.md"}}, {"data": {"id": "n6", "label": "重新定义Skill开发：保姆级教程&一站式开发助手发布", "title": "重新定义Skill开发：保姆级教程&一站式开发助手发布", "description": "", "url": "https://mp.weixin.qq.com/s/FgGVPw0BOZEu5sH1FdrVoQ", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/2026-05-18-重新定义Skill开发：保姆级教程&一站式开发助手发布.md"}}, {"data": {"id": "n7", "label": "都是 AI Coding，为什么 Java 体验差了一个量…", "title": "都是 AI Coding，为什么 Java 体验差了一个量级？五条方法论帮你构建自己的 Harness 环境", "description": "", "url": "https://mp.weixin.qq.com/s/3-hQ4vHYErfpIzYPC6wJwg", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/2026-05-21-都是 AI Coding，为什么 Java 体验差了一个量级？五条方法论帮你构建.md"}}, {"data": {"id": "n8", "label": "AI智能转码 + 原生高性能：QQ音乐存量代码迁移Kuik…", "title": "AI智能转码 + 原生高性能：QQ音乐存量代码迁移Kuikly实践", "description": "", "url": "", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/AI智能转码 + 原生高性能：QQ音乐存量代码迁移Kuikly实践.md"}}, {"data": {"id": "n9", "label": "AgentScope Java 1.1.0 Harness…", "title": "AgentScope Java 1.1.0 Harness Framework 详解", "description": "", "url": "", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/AgentScope Java Harness Framework 详解.md"}}, {"data": {"id": "n10", "label": "Skill Factory：三天手搓面向Harness设计…", "title": "Skill Factory：三天手搓面向Harness设计的技能工厂（附AI coding实践）", "description": "", "url": "", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/Skill Factory：三天手搓面向Harness设计的技能工厂（附AI coding实践）.md"}}, {"data": {"id": "n11", "label": "基于Agentic Memory API实现OpenCla…", "title": "基于Agentic Memory API实现OpenClaw长记忆增强", "description": "", "url": "", "type": "Article", "category": "ai-engineering", "path": "ai-engineering/基于Agentic Memory API实现OpenClaw长记忆增强.md"}}, {"data": {"id": "n12", "label": "腾讯控股最近7天投资信息汇总（截至2026-05-27）", "title": "腾讯控股最近7天投资信息汇总（截至2026-05-27）", "description": "", "url": "https://www.cls.cn/searchPage?keyword=腾讯&type=all", "type": "Article", "category": "investing", "path": "investing/腾讯控股最近7天投资信息汇总-截至2026-05-27.md"}}, {"data": {"id": "n13", "label": "福耀玻璃2026年一季报业绩分析", "title": "福耀玻璃2026年一季报业绩分析", "description": "", "url": "https://view.inews.qq.com/a/20260422A03M3W00", "type": "Article", "category": "investing", "path": "investing/2026-05-31-福耀玻璃2026年一季报业绩分析.md"}}, {"data": {"id": "n14", "label": "福耀玻璃2025年年报业绩概览", "title": "福耀玻璃2025年年报业绩概览", "description": "", "url": "https://finance.sina.com.cn/roll/2025-03-20/doc-ineqhfmx7971404.shtml", "type": "Article", "category": "investing", "path": "investing/福耀玻璃2025年年报业绩概览.md"}}, {"data": {"id": "n15", "label": "福耀玻璃2025年度ESG报告解读", "title": "福耀玻璃2025年度ESG报告解读", "description": "", "url": "https://www.163.com/dy/article/KSUHN03P051984TV.html", "type": "Article", "category": "investing", "path": "investing/福耀玻璃2025年度ESG报告解读.md"}}, {"data": {"id": "n16", "label": "福耀玻璃深度分析-汽车强国背后的卖铲人", "title": "福耀玻璃深度分析-汽车强国背后的卖铲人", "description": "", "url": "https://news.qq.com/rain/a/20260527A048Z800", "type": "Article", "category": "investing", "path": "investing/福耀玻璃深度分析-汽车强国背后的卖铲人.md"}}, {"data": {"id": "n17", "label": "曹德旺2025年度股东大会表态-美国关税", "title": "曹德旺2025年度股东大会表态-美国关税", "description": "", "url": "https://baijiahao.baidu.com/s?id=1863153440184444051", "type": "Article", "category": "investing", "path": "investing/曹德旺2025年度股东大会表态-美国关税.md"}}, {"data": {"id": "n18", "label": "福耀玻璃2024年年报核心要点", "title": "福耀玻璃2024年年报核心要点", "description": "", "url": "https://finance.sina.com.cn/roll/2025-03-20/doc-ineqhfmx7971404.shtml", "type": "Article", "category": "investing", "path": "investing/福耀玻璃2024年年报核心要点.md"}}, {"data": {"id": "n19", "label": "福耀玻璃雪球财务分析-2025Q1", "title": "福耀玻璃雪球财务分析-2025Q1", "description": "", "url": "https://xueqiu.com/3071638983/334018178", "type": "Article", "category": "investing", "path": "investing/福耀玻璃雪球财务分析-2025Q1.md"}}, {"data": {"id": "n20", "label": "福耀玻璃2026年4月股价行情", "title": "福耀玻璃2026年4月股价行情", "description": "", "url": "https://finance.sina.com.cn/stock/aiassist/pzzd/2026-04-14/doc-inhumwqa1683803.shtml", "type": "Article", "category": "investing", "path": "investing/福耀玻璃2026年4月股价行情.md"}}, {"data": {"id": "n21", "label": "福耀玻璃2026年Q1汇兑风险深度分析", "title": "福耀玻璃2026年Q1汇兑风险深度分析", "description": "", "url": "https://news.qq.com/rain/a/20260527A048Z800", "type": "Article", "category": "investing", "path": "investing/福耀玻璃2026年Q1汇兑风险深度分析.md"}}, {"data": {"id": "n22", "label": "福耀玻璃竞争壁垒与护城河分析", "title": "福耀玻璃竞争壁垒与护城河分析", "description": "", "url": "https://news.qq.com/rain/a/20260527A048Z800", "type": "Article", "category": "investing", "path": "investing/福耀玻璃竞争壁垒与护城河分析.md"}}, {"data": {"id": "n23", "label": "腾讯控股投资者关系页面 - 2026年Q1财报与股价数据", "title": "腾讯控股投资者关系页面 - 2026年Q1财报与股价数据", "description": "", "url": "https://www.tencent.com/en-us/investors.html", "type": "Article", "category": "investing", "path": "investing/腾讯控股投资者关系页面-2026年Q1财报与股价数据.md"}}, {"data": {"id": "n24", "label": "腾讯沧海V2视频编解码芯片下半年量产", "title": "腾讯沧海V2视频编解码芯片下半年量产", "description": "", "url": "local", "type": "Article", "category": "investing", "path": "investing/2026-05-27-腾讯沧海V2视频编解码芯片下半年量产.md"}}, {"data": {"id": "n25", "label": "台积电核心竞争力深度分析", "title": "台积电核心竞争力深度分析", "description": "", "url": "https://www.36kr.com/p/2775079043613832", "type": "Article", "category": "investing", "path": "investing/台积电核心竞争力深度分析.md"}}, {"data": {"id": "n26", "label": "台积电商业模式与护城河分析", "title": "台积电商业模式与护城河分析", "description": "", "url": "https://www.163.com/dy/article/KDOEF29V05566SXC.html", "type": "Article", "category": "investing", "path": "investing/台积电商业模式与护城河分析.md"}}, {"data": {"id": "n27", "label": "福耀玻璃6月18日两融数据：融资余额21.41亿元", "title": "福耀玻璃6月18日两融数据：融资余额21.41亿元", "description": "", "url": "https://stock.10jqka.com.cn/20260619/c677584845.shtml", "type": "Article", "category": "investing", "path": "investing/福耀玻璃6月18日两融数据-融资余额21-41亿元.md"}}, {"data": {"id": "n28", "label": "福耀玻璃6月18日收盘与资金流：主力净流出3531.39万元", "title": "福耀玻璃6月18日收盘与资金流：主力净流出3531.39万元", "description": "", "url": "https://stock.stockstar.com/RB2026061800037075.shtml", "type": "Article", "category": "investing", "path": "investing/福耀玻璃6月18日收盘与资金流-主力净流出3531-39万元.md"}}, {"data": {"id": "n29", "label": "福耀玻璃H股6月17日南向资金减持12.28万股", "title": "福耀玻璃H股6月17日南向资金减持12.28万股", "description": "", "url": "https://stock.stockstar.com/RB2026061800003048.shtml", "type": "Article", "category": "investing", "path": "investing/福耀玻璃H股6月17日南向资金减持12-28万股.md"}}, {"data": {"id": "n30", "label": "深入解析Chromium的 AI Coding 开发体系", "title": "深入解析Chromium的 AI Coding 开发体系", "description": "", "url": "https://mp.weixin.qq.com/s/sCmRKJjTpdB4k3145OzZMg", "type": "Article", "category": "programming", "path": "programming/深入解析Chromium的-AI-Coding-开发体系.md"}}];
+const EDGES = [];
+
+// 构建类型选项
+const types = [...new Set(NODES.map(n => n.data.type))].sort();
+const cats = [...new Set(NODES.map(n => n.data.category))].sort();
+
+const tf = document.getElementById('type-filter');
+types.forEach(t => { const o = document.createElement('option'); o.value = t; o.textContent = t; tf.appendChild(o); });
+
+const cf = document.getElementById('cat-filter');
+cats.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; cf.appendChild(o); });
+
+// 图例
+const colors = {"Article": "#4C8BF5", "Reference": "#34A853", "Analysis": "#EA4335", "Note": "#FBBC04", "Synthesis": "#9C27B0", "Metric": "#00BCD4", "Playbook": "#FF9800"};
+const legend = document.getElementById('legend');
+types.forEach(t => {
+  const div = document.createElement('div');
+  div.className = 'legend-item';
+  div.innerHTML = `<span class="legend-dot" style="background:${colors[t] || '#999'}"></span>${t}`;
+  legend.appendChild(div);
+});
+
+// 初始化 Cytoscape
+const cy = cytoscape({
+  container: document.getElementById('cy'),
+  elements: [...NODES, ...EDGES],
+  style: [
+    {
+      selector: 'node',
+      style: {
+        'label': 'data(label)',
+        'font-size': '11px',
+        'text-valign': 'center',
+        'text-halign': 'center',
+        'color': '#333',
+        'text-wrap': 'wrap',
+        'text-max-width': '120px',
+        'background-color': function(e) { return colors[e.data('type')] || '#999'; },
+        'width': function(e) { return Math.max(28, Math.min(60, (e.data('label') || '').length * 2.5)); },
+        'height': function(e) { return Math.max(28, Math.min(60, (e.data('label') || '').length * 2.5)); },
+        'border-width': 1.5,
+        'border-color': '#fff',
+      }
+    },
+    {
+      selector: 'edge',
+      style: {
+        'width': 1,
+        'line-color': '#ccc',
+        'curve-style': 'bezier',
+        'opacity': 0.5,
+      }
+    },
+    {
+      selector: 'node.highlight',
+      style: { 'border-color': '#333', 'border-width': 3 }
+    },
+    {
+      selector: 'node.dimmed',
+      style: { 'opacity': 0.15 }
+    },
+    {
+      selector: 'edge.dimmed',
+      style: { 'opacity': 0.05 }
+    },
+    {
+      selector: 'node.filtered-out',
+      style: { 'display': 'none' }
+    },
+  ],
+  layout: { name: 'cose', padding: 40, animate: false },
+});
+
+// 交互
+cy.on('tap', 'node', function(evt) {
+  const node = evt.target;
+  const data = node.data();
+  document.getElementById('sidebar').classList.add('visible');
+  document.getElementById('sidebar-title').textContent = data.title;
+  document.getElementById('sidebar-type').textContent = '📄 ' + data.type;
+  document.getElementById('sidebar-cat').textContent = '📁 ' + data.category;
+  document.getElementById('sidebar-desc').textContent = data.description || '';
+  const urlEl = document.getElementById('sidebar-url');
+  if (data.url) {
+    urlEl.href = data.url;
+    urlEl.style.display = '';
+  } else {
+    urlEl.style.display = 'none';
+  }
+  cy.elements().removeClass('highlight dimmed');
+  node.addClass('highlight');
+  node.connectedEdges().removeClass('dimmed');
+  node.connectedEdges().targets().addClass('highlight').removeClass('dimmed');
+});
+
+cy.on('tap', function(evt) {
+  if (evt.target === cy) {
+    document.getElementById('sidebar').classList.remove('visible');
+    cy.elements().removeClass('highlight dimmed');
+  }
+});
+
+// 筛选
+function applyFilter() {
+  const typeVal = document.getElementById('type-filter').value;
+  const catVal = document.getElementById('cat-filter').value;
+
+  cy.batch(() => {
+    cy.nodes().forEach(n => {
+      const matchType = !typeVal || n.data('type') === typeVal;
+      const matchCat = !catVal || n.data('category') === catVal;
+      if (matchType && matchCat) {
+        n.removeClass('filtered-out');
+      } else {
+        n.addClass('filtered-out');
+      }
+    });
+  });
+  cy.fit(cy.nodes(':visible'), 30);
+}
+
+// 布局切换
+let useCose = true;
+function togglePhysics() {
+  if (useCose) {
+    cy.layout({ name: 'breadthfirst', directed: false, spacingFactor: 1.2 }).run();
+  } else {
+    cy.layout({ name: 'cose', padding: 40, animate: true }).run();
+  }
+  useCose = !useCose;
+}
+
+// 初始适配视图
+cy.ready(function() { setTimeout(() => cy.fit(cy.elements(), 30), 500); });
+</script>
+</body>
+</html>

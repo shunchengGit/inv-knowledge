@@ -1,7 +1,9 @@
 ---
-url: https://mp.weixin.qq.com/s/48XpgAMHeaKYj26PrJK-hw
-imported: 2026-05-16
-category: ai-engineering
+type: Article
+title: 深度解析LLM Wiki - Obsidian-Wiki - GBrain：Agent时代知识的“自组织”与“自进化”
+description: 本文是「项目深度解析」系列的第4篇，系列文章为《深度解析OpenClaw》、《深度解析Claude Code》、《深度解析Hermes Agent》。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）
+timestamp: 2026-05-16T00:00:00+08:00
+resource: https://mp.weixin.qq.com/s/48XpgAMHeaKYj26PrJK-hw
 ---
 
 # 深度解析LLM Wiki - Obsidian-Wiki - GBrain：Agent时代知识的“自组织”与“自进化”

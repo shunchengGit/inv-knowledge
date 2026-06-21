@@ -1,7 +1,9 @@
 ---
-url: https://mp.weixin.qq.com/s/JV4-oPP0jjsBCZ4tW3Gy1g
-imported: 2026-05-18
-category: ai-engineering
+type: Article
+title: Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践
+description: 当 Harness Engineering 成为 2026 年最热门的 AI 工程话题，业界争论焦点集中在"该用多大的模型"还是"该搭多复杂的工作流"时，我们团队在落地实践中发现了一个被低估的事实——构建 Harness 工作流不是最终目的。
+timestamp: 2026-05-18T00:00:00+08:00
+resource: https://mp.weixin.qq.com/s/JV4-oPP0jjsBCZ4tW3Gy1g
 ---
 
 # Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践
