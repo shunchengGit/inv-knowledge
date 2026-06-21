@@ -3,6 +3,8 @@ type: Article
 title: Skill Factory：三天手搓面向Harness设计的技能工厂（附AI coding实践）
 description: Skill Factory：三天手搓面向Harness设计的技能工厂（附AI coding实践）。
 timestamp: 2026-05-27T00:00:00+08:00
+url: null
+tags: [harness, skill, ai-coding, factory]
 ---
 
 # Skill Factory：三天手搓面向Harness设计的技能工厂（附AI coding实践）

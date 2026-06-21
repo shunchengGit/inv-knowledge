@@ -3,6 +3,8 @@ type: Article
 title: AgentScope Java 1.1.0 Harness Framework 详解
 description: AgentScope Java 1.1 把 Harness Engineering 收敛成 HarnessAgent + Workspace + 可插拔 Filesystem + Hook 管线。
 timestamp: 2026-05-27T00:00:00+08:00
+url: null
+tags: [harness, java, framework, agentscope]
 ---
 
 # AgentScope Java 1.1.0 Harness Framework 详解

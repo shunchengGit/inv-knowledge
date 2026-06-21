@@ -4,6 +4,7 @@ title: 都是 AI Coding，为什么 Java 体验差了一个量级？五条方法
 description: 在依赖比较轻的项目里（比如前端、CLI 工具、纯本地的 Python 脚本），AI Coding 的体验是这样的：
 timestamp: 2026-05-21T00:00:00+08:00
 resource: https://mp.weixin.qq.com/s/3-hQ4vHYErfpIzYPC6wJwg
+tags: [ai-coding, java, harness, methodology]
 ---
 
 # 都是 AI Coding，为什么 Java 体验差了一个量级？五条方法论帮你构建自己的 Harness 环境
