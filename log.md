@@ -1,6 +1,8 @@
 # 变更日志
 
 ## 2026-06-22
+- 清理非投资条目：删除 ai-engineering（11条）和 programming（1条），共12条
+- 知识库聚焦为专用投资知识库，仅保留 investing 分类 18 条
 - 30 条知识条目迁移至 OKF v0.1 格式
 - 目录结构改造为 OKF bundle（index/category.md → category/index.md）
 - 新增知识图谱可视化（knowledge-graph.html）
