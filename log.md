@@ -184,4 +184,5 @@
 - [Kweichow Moutai: 1Q a mixed bag; strong i-Moutai with margin pressure easing (BofA)](entries/Kweichow-Moutai-1Q-a-mixed-bag-strong-i-Moutai-with-margin-pressure-easing-BofA.md) — Research Report (pdf)
 - [Kweichow Moutai: Positioned for Structural Growth from 2H26 (Jefferies)](entries/Kweichow-Moutai-Positioned-for-Structural-Growth-from-2H26-Jefferies.md) — Research Report (pdf)
 - [Mao Geping: Global China Summit 2026 takeaways -- Solid growth visibility (JPMorgan)](entries/Mao-Geping-Global-China-Summit-2026-takeaways-Solid-growth-visibility-JPMorgan.md) — Research Report (pdf)
+- [ASML深度分析：High-NA-EUV采用时间线调整](entries/ASML深度分析-High-NA-EUV采用时间线调整.md) — Analysis (pdf)
 
