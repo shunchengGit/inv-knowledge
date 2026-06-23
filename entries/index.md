@@ -136,3 +136,4 @@
 - [BNP Paribas — SK海力士1Q26完整业绩简报（含财务细表）](entries/BNP-Paribas-SK海力士1Q26完整业绩简报-含财务细表.md) — BNP SK海力士研报完整版，含全部财务细表和数据
 - [宁波银行 2026-Q2 业绩分析 - UBS Equities](entries/宁波银行-2026-Q2-业绩分析-UBS-Equities.md) — Q126 a clean beat; sizable dividend payout hike
 - [恒瑞医药 研究报告 - JPMorgan (2026-05-12)](entries/恒瑞医药-研究报告-JPMorgan-2026-05-12.md) — Asia Pacific Equity Research
+- [澜起科技 研究报告 - UBS Equities (2026-04-28)](entries/澜起科技-研究报告-UBS-Equities-2026-04-28.md) — Montage Technology - H
