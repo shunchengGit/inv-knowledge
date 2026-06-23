@@ -62,3 +62,4 @@
 - [Asia Pacific Equity Research](entries/Asia-Pacific-Equity-Research.md) — Asia Pacific Equity Research www.jpmorganmarkets.com This material is neither intended to be distributed to Mainland China investors nor to provide securities investment consultancy services within the territory of Mainland China. This material or any portion hereof may not be reprinted, sold or red
 - [英特尔重新定价AI系统级价值](entries/英特尔重新定价AI系统级价值.md) — 华泰证券英特尔点评：AI驱动业务占60%营收，18A实现制程追赶，目标价12（4.0x 27E PB）重申买入
 - [Disclosures & Disclaimer](entries/Disclosures-Disclaimer.md) — Disclosures & Disclaimer This report must be read with the disclosures and the analyst certifications in the Disclosure appendix, and with the Disclaimer, which forms part of it. Issuer of report: The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch
+- [中际旭创1Q26超预期1-6T推动利润率上行](entries/中际旭创1Q26超预期1-6T推动利润率上行.md) — BofA中际旭创1Q26点评：净利润¥57.35亿+262%YoY超共识31%，1.6T/SiPh毛利率55-60%，目标价¥1,100重申买入
