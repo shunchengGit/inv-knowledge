@@ -85,3 +85,4 @@
 - [行业研究-传媒 - 20260417 国信证券 传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会](entries/行业研究-传媒-20260417-国信证券-传媒行业4月投资策略-持续看好游戏-IP潮玩业绩表现-关注AI应用底部机会.md) — 请务必阅读正文之后的免责声明及其项下所有内容
 - [汇川技术 研究报告 - 华泰证券 (2026-04-29)](entries/汇川技术-研究报告-华泰证券-2026-04-29.md) — 免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。
 - [行业研究-新能源 - JPMorgan China Battery Cherry picking amid supply side reform and glo...](entries/行业研究-新能源-JPMorgan-China-Battery-Cherry-picking-amid-supply-side-reform-and-glo.md) — Asia Pacific Equity Research
+- [泡泡玛特 研究报告 - 中国银河 (2026-03-29)](entries/泡泡玛特-研究报告-中国银河-2026-03-29.md) — www.chinastock.com.cn
