@@ -47,4 +47,5 @@
 - [谷歌(GOOG)研报 — 摩根士丹利 — 2026-05-20](entries/谷歌-GOOG-研报-摩根士丹利-2026-05-20.md) — ResearchReport (pdf)
 - [谷歌(GOOG)研报 — 汇丰全球投资 — 2026-06-02](entries/谷歌-GOOG-研报-汇丰全球投资-2026-06-02.md) — ResearchReport (pdf)
 - [谷歌(GOOG)研报 — 瑞银证券 — 2026-06-03](entries/谷歌-GOOG-研报-瑞银证券-2026-06-03.md) — ResearchReport (pdf)
+- [谷歌(GOOG)研报 — 美银全球研究 — 2026-06-08](entries/谷歌-GOOG-研报-美银全球研究-2026-06-08.md) — ResearchReport (pdf)
 
