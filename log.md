@@ -147,4 +147,5 @@
 - [HSBC — 微软FQ3'26强劲，Azure加速，维持Buy](entries/HSBC-微软FQ3-26强劲-Azure加速-维持Buy.md) — Article (pdf)
 - [UBS — 微软Capex加速、Azure增长加速、定价权提升](entries/UBS-微软Capex加速-Azure增长加速-定价权提升.md) — Article (pdf)
 - [BNP — 微软：多线推进，Copilot开始拉动增长](entries/BNP-微软-多线推进-Copilot开始拉动增长.md) — Article (pdf)
+- [HSBC — Anthropic可能是微软430亿美元年运营机会](entries/HSBC-Anthropic可能是微软430亿美元年运营机会.md) — Article (pdf)
 
