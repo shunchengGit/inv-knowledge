@@ -100,3 +100,4 @@
 - [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — JPMorgan分析外卖行业新披露规则对美团和饿了么竞争格局的影响
 - [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — JPMorgan分析AI数据中心储能系统(ESS)的参考架构设计和早期订单趋势
 - [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Morgan Stanley分析中国金融业高质量发展路径和人民币存款新规对银行的影响
+- [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Morgan Stanley总结Computex 2026展会关键趋势：AI PC、服务器与边缘计算
