@@ -39,3 +39,8 @@ BofA对福耀玻璃2026Q1给出EBIT超预期10%的评价。营收104.13亿（+5%
 
 ## 引用
 - [BofA - Fuyao Glass 1Q26 EBIT beat](res/福耀玻璃/2026-04-22-600660.SS-BofA Global Research-Fuyao Glass (HA) 1Q26 EBIT beat on ASP growth  resilient ...-121574015.undefined.pdf)
+- [福耀玻璃BNP 1Q26：运营和利润率保持稳健，重申Outperform](entries/福耀玻璃BNP-1Q26-运营和利润率保持稳健-重申Outperform.md) — 共享标签: profit-trend, 2026-Q1, fuyao-glass; 同标的: fuyao-glass; 共同关键词(17): 1q26, yoy, 2026, 耀玻
+- [福耀玻璃JPM 1Q26：管理层看好2Q26订单动能，ASP增长可持续](entries/福耀玻璃JPM-1Q26-管理层看好2Q26订单动能-ASP增长可持续.md) — 共享标签: profit-trend, 2026-Q1, fuyao-glass; 同标的: fuyao-glass; 共同关键词(17): 1q26, 2026, 耀玻, pdf
+- [福耀玻璃UBS 1Q26快评：毛利率超预期，剔除汇兑利润+10% YoY](entries/福耀玻璃UBS-1Q26快评-毛利率超预期-剔除汇兑利润-10-YoY.md) — 共享标签: profit-trend, 2026-Q1, fuyao-glass; 同标的: fuyao-glass; 共同关键词(17): yoy, 2026, 耀玻, pdf
+- [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — 共享标签: valuation, profit-trend, 2026-Q1; 共同关键词(12): yoy, beat, 2026, pdf
+- [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — 共享标签: valuation, profit-trend, 2026-Q1; 共同关键词(10): yoy, 2026, pdf, 增长

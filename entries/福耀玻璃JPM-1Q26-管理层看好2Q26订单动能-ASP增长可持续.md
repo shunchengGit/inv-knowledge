@@ -37,3 +37,7 @@ JPMorgan在福耀玻璃2026Q1业绩后发布管理层观点更新。管理层对
 
 ## 引用
 - [JPMorgan - Fuyao Glass 1Q26 Management View](res/福耀玻璃/2026-04-22-600660.SS-JPMorgan-Fuyao Glass Management sees positive order momentum in 2Q26;...-121576213.pdf)
+- [福耀玻璃BofA 1Q26：EBIT超预期10%，ASP增长11%驱动](entries/福耀玻璃BofA-1Q26-EBIT超预期10-ASP增长11-驱动.md) — 共享标签: profit-trend, 2026-Q1, fuyao-glass; 同标的: fuyao-glass; 共同关键词(17): 1q26, 2026, 耀玻, pdf
+- [福耀玻璃BNP 1Q26：运营和利润率保持稳健，重申Outperform](entries/福耀玻璃BNP-1Q26-运营和利润率保持稳健-重申Outperform.md) — 共享标签: profit-trend, competitive-advantage, 2026-Q1; 同标的: fuyao-glass; 共同关键词(12): 1q26, 2026, 耀玻, pdf
+- [福耀玻璃UBS 1Q26快评：毛利率超预期，剔除汇兑利润+10% YoY](entries/福耀玻璃UBS-1Q26快评-毛利率超预期-剔除汇兑利润-10-YoY.md) — 共享标签: profit-trend, competitive-advantage, 2026-Q1; 同标的: fuyao-glass; 共同关键词(12): 2026, 耀玻, pdf, glass
+- [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — 共享标签: profit-trend, 2026-Q1; 共同关键词(6): 2026, pdf, 增长, 00
