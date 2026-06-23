@@ -112,4 +112,5 @@
 - [工业富联 研究报告 - Morgan Stanley (2026-04-28)](entries/工业富联-研究报告-Morgan-Stanley-2026-04-28.md) — Article (pdf)
 - [工业富联 研究报告 - Morgan Stanley (2026-05-20)](entries/工业富联-研究报告-Morgan-Stanley-2026-05-20.md) — Article (pdf)
 - [中际旭创 2026-Q2 业绩分析 - BofA Global Research](entries/中际旭创-2026-Q2-业绩分析-BofA-Global-Research.md) — Article (pdf)
+- [中际旭创 研究报告 - Nomura (2026-04-16)](entries/中际旭创-研究报告-Nomura-2026-04-16.md) — Article (pdf)
 
