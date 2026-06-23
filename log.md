@@ -177,4 +177,5 @@
 - [泡泡玛特4月将推出小家电,有望持续推动IP势能提升（国信证券）](entries/泡泡玛特4月将推出小家电-有望持续推动IP势能提升-国信证券.md) — Research Report (pdf)
 - [Laopu Gold: Sales growth may decelerate but profitability could enhance YoY (UBS)](entries/Laopu-Gold-Sales-growth-may-decelerate-but-profitability-could-enhance-YoY-UBS.md) — Research Report (pdf)
 - [Laopu Gold: Resilient demand; likely no financial needs; attractive valuation (JPMorgan)](entries/Laopu-Gold-Resilient-demand-likely-no-financial-needs-attractive-valuation-JPMor.md) — Research Report (pdf)
+- [Laopu Gold Initiation: As good as it can get (Macquarie)](entries/Laopu-Gold-Initiation-As-good-as-it-can-get-Macquarie.md) — Research Report (pdf)
 
