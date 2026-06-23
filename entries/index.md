@@ -60,3 +60,4 @@
 - [英特尔服务器需求顺风与制造叙事改善](entries/英特尔服务器需求顺风与制造叙事改善.md) — UBS英特尔1Q26点评：营收35.8亿超预期，DCAI+22% YoY，18A良率提前6个月，目标价3评级中性
 - [China (PRC) | Technology](entries/China-PRC-Technology.md) — China (PRC) | Technology Nick Cheng *  | Equity Analyst +852 3743 8750 | nick.cheng@jefferies.com Edison Lee, CFA *  | Equity Analyst 852 3743 8009 | edison.lee@jefferies.com Jacky He *  | Equity Analyst +852 3743 8084 | jacky.he@jefferies.com Matt Ma *  | Equity Analyst
 - [Asia Pacific Equity Research](entries/Asia-Pacific-Equity-Research.md) — Asia Pacific Equity Research www.jpmorganmarkets.com This material is neither intended to be distributed to Mainland China investors nor to provide securities investment consultancy services within the territory of Mainland China. This material or any portion hereof may not be reprinted, sold or red
+- [英特尔重新定价AI系统级价值](entries/英特尔重新定价AI系统级价值.md) — 华泰证券英特尔点评：AI驱动业务占60%营收，18A实现制程追赶，目标价12（4.0x 27E PB）重申买入
