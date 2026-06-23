@@ -150,4 +150,5 @@
 - [HSBC — Anthropic可能是微软430亿美元年运营机会](entries/HSBC-Anthropic可能是微软430亿美元年运营机会.md) — Article (pdf)
 - [Morgan Stanley — 微软基础设施货币化：AI周期仍处早期](entries/Morgan-Stanley-微软基础设施货币化-AI周期仍处早期.md) — Article (pdf)
 - [Morgan Stanley — 微软Windows PC与NVIDIA合作开启AI PC时代](entries/Morgan-Stanley-微软Windows-PC与NVIDIA合作开启AI-PC时代.md) — Article (pdf)
+- [BNP — OpenAI(Anthropic)效应：AI基础设施的机会与挑战](entries/BNP-OpenAI-Anthropic-效应-AI基础设施的机会与挑战.md) — Article (pdf)
 
