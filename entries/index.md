@@ -77,3 +77,4 @@
 - [行业研究-金融 - HSBC Global Investme Daily dose of HK mainland China Real Estate Research Focus...](entries/行业研究-金融-HSBC-Global-Investme-Daily-dose-of-HK-mainland-China-Real-Estate-Researc.md) — Disclosures & Disclaimer
 - [汇川技术 研究报告 - Macquarie Research (2026-04-28)](entries/汇川技术-研究报告-Macquarie-Research-2026-04-28.md) — Macquarie Equity Research
 - [行业研究-金融 - UBS Equities Greater China Banks Daily China’s May trade data beat expec...](entries/行业研究-金融-UBS-Equities-Greater-China-Banks-Daily-China-s-May-trade-data-beat-expec.md) — Greater China Banks Daily
+- [汇川技术 研究报告 - Deutsche Bank (2026-04-29)](entries/汇川技术-研究报告-Deutsche-Bank-2026-04-29.md) — Distributed on: 29/04/2026 14:09:19 GMT
