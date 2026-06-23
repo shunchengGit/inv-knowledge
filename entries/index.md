@@ -51,3 +51,4 @@
 - [行业研究-互联网 - 0700.HK HSBC Global Investme China Internet HSBC Global Investment Summit 2026 tour takea...](entries/行业研究-互联网-0700-HK-HSBC-Global-Investme-China-Internet-HSBC-Global-Investment-Summ.md) — Disclosures & Disclaimer
 - [行业研究-互联网 - JPMorgan China Telecom Sector What we learned from China telcos 1Q26...](entries/行业研究-互联网-JPMorgan-China-Telecom-Sector-What-we-learned-from-China-telcos-1Q26.md) — www.jpmorganmarkets.com
 - [行业研究-互联网 - JPMorgan China Internet JPM 2026 Global China Summit Key Takeaways](entries/行业研究-互联网-JPMorgan-China-Internet-JPM-2026-Global-China-Summit-Key-Takeaways.md) — www.jpmorganmarkets.com
+- [行业研究-互联网 - BofA Global Research Internete Commerce May app data Mixed bag for Online medi... 122359248](entries/行业研究-互联网-BofA-Global-Research-Internete-Commerce-May-app-data-Mixed-bag-for-Onli.md) — BofA Securities does and seeks to do business with issuers covered in its research
