@@ -211,4 +211,6 @@
 - [Internet  | North America](entries/Internet-North-America.md) — Analysis (pdf)
 - [中际旭创上调PO至1650全栈光学供应商](entries/中际旭创上调PO至1650全栈光学供应商.md) — Analysis (pdf)
 - [请务必阅读正文之后的免责声明及其项下所有内容](entries/请务必阅读正文之后的免责声明及其项下所有内容.md) — Analysis (pdf)
+- [日月光投控中介层业务超预期VSMC资本支出降低](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Analysis (pdf)
+- [Semiconductors  | North America](entries/Semiconductors-North-America.md) — Analysis (pdf)
 
