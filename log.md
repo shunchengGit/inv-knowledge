@@ -98,4 +98,5 @@
 - [策略研究 - 20260429 华泰证券 资产配置月报：AI链行情进入新阶段](entries/策略研究-20260429-华泰证券-资产配置月报-AI链行情进入新阶段.md) — 行业研报 (pdf)
 - [老铺黄金 研究报告 - UBS Equities (2026-04-23)](entries/老铺黄金-研究报告-UBS-Equities-2026-04-23.md) — Article (pdf)
 - [老铺黄金 研究报告 - JPMorgan (2026-04-28)](entries/老铺黄金-研究报告-JPMorgan-2026-04-28.md) — Article (pdf)
+- [老铺黄金 首次覆盖报告 - Macquarie Research](entries/老铺黄金-首次覆盖报告-Macquarie-Research.md) — Article (pdf)
 

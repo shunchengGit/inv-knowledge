@@ -96,3 +96,4 @@
 - [老铺黄金 研究报告 - UBS Equities (2026-04-23)](entries/老铺黄金-研究报告-UBS-Equities-2026-04-23.md) — Sales growth may decelerate but profitability
 - [老铺黄金 研究报告 - JPMorgan (2026-04-28)](entries/老铺黄金-研究报告-JPMorgan-2026-04-28.md) — www.jpmorganmarkets.com
 - [老铺黄金 首次覆盖报告 - Macquarie Research](entries/老铺黄金-首次覆盖报告-Macquarie-Research.md) — Macquarie Equity Research
+- [老铺黄金 战术策略 - Morgan Stanley](entries/老铺黄金-战术策略-Morgan-Stanley.md) — Laopu Gold  | Asia Pacific
