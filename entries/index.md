@@ -100,3 +100,4 @@
 - [贵州茅台 价格调整分析 - Morgan Stanley](entries/贵州茅台-价格调整分析-Morgan-Stanley.md) — Kweichow Moutai Company Ltd.  | Asia Pacific
 - [贵州茅台 研究报告 - BofA Global Research (2026-04-16)](entries/贵州茅台-研究报告-BofA-Global-Research-2026-04-16.md) — under the FINRA rules.
 - [贵州茅台 研究报告 - BofA Global Research (2026-04-26)](entries/贵州茅台-研究报告-BofA-Global-Research-2026-04-26.md) — under the FINRA rules.
+- [贵州茅台 研究报告 - Jefferies (2026-04-27)](entries/贵州茅台-研究报告-Jefferies-2026-04-27.md) — China (PRC) | Consumer Staples
