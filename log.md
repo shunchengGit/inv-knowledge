@@ -215,4 +215,5 @@
 - [Semiconductors  | North America](entries/Semiconductors-North-America.md) — Analysis (pdf)
 - [North America Equity Research](entries/North-America-Equity-Research.md) — Analysis (pdf)
 - [Global Foundation](entries/Global-Foundation.md) — Analysis (pdf)
+- [China Industrials  | Asia Pacific](entries/China-Industrials-Asia-Pacific.md) — Analysis (pdf)
 
