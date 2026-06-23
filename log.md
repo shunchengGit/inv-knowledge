@@ -59,4 +59,5 @@
 - [行业研究-互联网 - Morgan Stanley Internet Where Are We Trading Now As AI Hardware vs AI Sof... 122496280](entries/行业研究-互联网-Morgan-Stanley-Internet-Where-Are-We-Trading-Now-As-AI-Hardware-vs-AI-S.md) — 行业研报 (pdf)
 - [行业研究-互联网 - Morgan Stanley Internet Where Are We Trading Now AI Hardware vs Software ... 122607614](entries/行业研究-互联网-Morgan-Stanley-Internet-Where-Are-We-Trading-Now-AI-Hardware-vs-Softwar.md) — 行业研报 (pdf)
 - [行业研究-互联网 - JPMorgan China Food Delivery Not Just a Soft Draft Disclosure Rules ...](entries/行业研究-互联网-JPMorgan-China-Food-Delivery-Not-Just-a-Soft-Draft-Disclosure-Rules.md) — 行业研报 (pdf)
+- [行业研究-半导体 - JPMorgan China AI Chip Fabless Supply a short term bottleneck, and C...](entries/行业研究-半导体-JPMorgan-China-AI-Chip-Fabless-Supply-a-short-term-bottleneck-and-C.md) — 行业研报 (pdf)
 
