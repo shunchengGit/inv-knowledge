@@ -126,3 +126,4 @@
 - [万国数据 研究报告 - Deutsche Bank (2026-05-21)](entries/万国数据-研究报告-Deutsche-Bank-2026-05-21.md) — Distributed on: 21/05/2026 07:03:12 GMT
 - [万国数据 研究报告 - JPMorgan (2026-05-21)](entries/万国数据-研究报告-JPMorgan-2026-05-21.md) — Asia Pacific Equity Research
 - [Macquarie — SK海力士：内存供不应求将持续，结构化短缺而非周期波动](entries/Macquarie-SK海力士-内存供不应求将持续-结构化短缺而非周期波动.md) — Macquarie提出Ubershortage框架，维持Outperform，目标价180万韩元
+- [万国数据 2026-Q2 业绩分析 - Macquarie Research](entries/万国数据-2026-Q2-业绩分析-Macquarie-Research.md) — Macquarie Equity Research
