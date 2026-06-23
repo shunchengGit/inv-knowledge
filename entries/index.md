@@ -150,3 +150,4 @@
 - [BNP Paribas — 微软与OpenAI调整合作协议：失去API独占权但消除AGI条款不确定性](entries/BNP-Paribas-微软与OpenAI调整合作协议-失去API独占权但消除AGI条款不确定性.md) — BNP分析微软OpenAI修订协议：Azure失去OpenAI API独占权，但AGI条款消除是长期利好
 - [UBS — 微软与OpenAI修订协议点评：消除AGI条款是积极变化](entries/UBS-微软与OpenAI修订协议点评-消除AGI条款是积极变化.md) — UBS分析微软OpenAI新协议：AGI条款消除是积极变化，数据/训练权保留
 - [BNP — 微软FQ3'26财报点评：Azure与M365稳健，云竞赛白热化](entries/BNP-微软FQ3-26财报点评-Azure与M365稳健-云竞赛白热化.md) — BNP点评微软F3Q26：Azure+M365增长强劲，云基础设施ARR约3400亿美元
+- [HSBC — 微软FQ3'26强劲，Azure加速，维持Buy](entries/HSBC-微软FQ3-26强劲-Azure加速-维持Buy.md) — HSBC点评微软F3Q26：Azure加速增长，M365稳健，AI投资回报可期
