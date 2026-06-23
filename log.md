@@ -18,4 +18,5 @@
 ## 2026-06-23
 - [BofA Future Car Review #78 — BYD Datang D-class seven-seater flagship SUV](entries/BofA-Future-Car-Review-78-BYD-Datang-D-class-seven-seater-flagship-SUV.md) — Article (pdf)
 - [BofA邀请CRIC林波——端午后中国地产实地考察电话会议（2026-06-22）](entries/BofA邀请CRIC林波-端午后中国地产实地考察电话会议-2026-06-22.md) — Note (pdf)
+- [腾讯控股2026年Q1业绩后15家券商研报综合摘要](entries/腾讯控股2026年Q1业绩后15家券商研报综合摘要.md) — Synthesis (pdf)
 
