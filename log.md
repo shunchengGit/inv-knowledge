@@ -227,4 +227,5 @@
 - [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — Analysis (pdf)
 - [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Analysis (pdf)
 - [BofA 5月App数据跟踪：中国电商与在线媒体格局分析](entries/BofA-5月App数据跟踪-中国电商与在线媒体格局分析.md) — Analysis (pdf)
+- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — Analysis (pdf)
 

@@ -87,3 +87,4 @@
 - [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Morgan Stanley分析AI投资从硬件到软件的轮动趋势，评估互联网板块当前估值水平
 - [BofA 5月App数据跟踪：中国电商与在线媒体格局分析](entries/BofA-5月App数据跟踪-中国电商与在线媒体格局分析.md) — BofA基于5月App下载量和活跃度数据分析中国互联网电商、本地生活和在线媒体竞争格局变化
 - [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — JPMorgan首次覆盖中国AI芯片Fabless板块，预计40%单位CAGR至2030年，聚焦本土AI芯片国产替代
+- [Morgan Stanley台湾半导体供应链调研纪要](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Morgan Stanley在台湾与半导体公司会面后的关键发现，涵盖CoWoS产能、HBM需求和先进制程展望
