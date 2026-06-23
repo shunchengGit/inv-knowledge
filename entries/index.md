@@ -118,3 +118,4 @@
 - [工业富联 研究报告 - Morgan Stanley (2026-04-28)](entries/工业富联-研究报告-Morgan-Stanley-2026-04-28.md) — Foxconn Industrial Internet Co. Ltd.  | Asia Pacific
 - [工业富联 研究报告 - Morgan Stanley (2026-05-20)](entries/工业富联-研究报告-Morgan-Stanley-2026-05-20.md) — Foxconn Industrial Internet Co. Ltd.  | Asia Pacific
 - [中际旭创 2026-Q2 业绩分析 - BofA Global Research](entries/中际旭创-2026-Q2-业绩分析-BofA-Global-Research.md) — This research report provides general information only. No part of this report may be used
+- [中际旭创 研究报告 - Nomura (2026-04-16)](entries/中际旭创-研究报告-Nomura-2026-04-16.md) — Zhongji InnoLight   300308.SZ 300308 CH
