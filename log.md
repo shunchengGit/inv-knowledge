@@ -224,4 +224,5 @@
 - [China Beauty  | Asia Pacific](entries/China-Beauty-Asia-Pacific.md) — Analysis (pdf)
 - [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — Analysis (pdf)
 - [Greater China Banks Daily](entries/Greater-China-Banks-Daily.md) — Analysis (pdf)
+- [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — Analysis (pdf)
 
