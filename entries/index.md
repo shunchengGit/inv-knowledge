@@ -94,3 +94,4 @@
 - [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Morgan Stanley分析中国金融业高质量发展路径、人民币存款新规的影响以及银行板块投资机会
 - [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Morgan Stanley总结Computex 2026展会关键趋势，AI PC生态成熟、服务器需求强劲、边缘计算崛起
 - [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — JPMorgan分析5月国家统计局房地产数据，一线城市房价环比止跌，但全国市场恢复仍需政策支持
+- [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — JPMorgan在中国电池行业报告中建议精选个股，关注供给侧改革受益标的和全球化布局领先的企业
