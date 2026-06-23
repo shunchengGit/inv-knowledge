@@ -101,4 +101,5 @@
 - [老铺黄金 首次覆盖报告 - Macquarie Research](entries/老铺黄金-首次覆盖报告-Macquarie-Research.md) — Article (pdf)
 - [老铺黄金 战术策略 - Morgan Stanley](entries/老铺黄金-战术策略-Morgan-Stanley.md) — Article (pdf)
 - [贵州茅台 价格调整分析 - Morgan Stanley](entries/贵州茅台-价格调整分析-Morgan-Stanley.md) — Article (pdf)
+- [贵州茅台 研究报告 - BofA Global Research (2026-04-16)](entries/贵州茅台-研究报告-BofA-Global-Research-2026-04-16.md) — Article (pdf)
 

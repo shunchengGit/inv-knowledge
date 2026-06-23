@@ -99,3 +99,4 @@
 - [老铺黄金 战术策略 - Morgan Stanley](entries/老铺黄金-战术策略-Morgan-Stanley.md) — Laopu Gold  | Asia Pacific
 - [贵州茅台 价格调整分析 - Morgan Stanley](entries/贵州茅台-价格调整分析-Morgan-Stanley.md) — Kweichow Moutai Company Ltd.  | Asia Pacific
 - [贵州茅台 研究报告 - BofA Global Research (2026-04-16)](entries/贵州茅台-研究报告-BofA-Global-Research-2026-04-16.md) — under the FINRA rules.
+- [贵州茅台 研究报告 - BofA Global Research (2026-04-26)](entries/贵州茅台-研究报告-BofA-Global-Research-2026-04-26.md) — under the FINRA rules.
