@@ -90,4 +90,5 @@
 - [行业研究-新能源 - JPMorgan China Battery Cherry picking amid supply side reform and glo...](entries/行业研究-新能源-JPMorgan-China-Battery-Cherry-picking-amid-supply-side-reform-and-glo.md) — 行业研报 (pdf)
 - [泡泡玛特 研究报告 - 中国银河 (2026-03-29)](entries/泡泡玛特-研究报告-中国银河-2026-03-29.md) — Article (pdf)
 - [行业研究-美妆 - Morgan Stanley China Beauty 6.18 Pre sale Rankings Proya No.1, Giant Biog... 122285043](entries/行业研究-美妆-Morgan-Stanley-China-Beauty-6-18-Pre-sale-Rankings-Proya-No-1-Giant-Biog.md) — 行业研报 (pdf)
+- [泡泡玛特 产品分析 - Deutsche Bank](entries/泡泡玛特-产品分析-Deutsche-Bank.md) — Article (pdf)
 
