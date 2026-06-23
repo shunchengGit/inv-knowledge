@@ -6,6 +6,7 @@
 - [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — BNP Paribas维持Outperform，1Q26 DRAM ASP中60%+/NAND ASP中70%+大幅增长。HBM4E预期>50%份额，容量扩张有纪律性（龙仁Cluster灵活分期）。TP上调26%至KRW 2,000,000，基于3x 2027E BVPS。
 - [BNP Paribas：台积电推出A13并更新技术路线图——重申Outperform](entries/台积电BNP-技术路线图-A13更新-重申Outperform.md) — BNP Paribas（Alex Chang）于2026年4月24日发布。A13（2029 HVM，面积节省6%）、A12（Super Power Rail背面供电）、N2U（2028 HVM，速度+3-4%/功耗-8-10%）、CoWoS扩展至14-reticle。评级Outperform，目标价TWD2,520/USD478。
 - [BofA 5月App数据跟踪：中国电商与在线媒体格局分析](entries/BofA-5月App数据跟踪-中国电商与在线媒体格局分析.md) — BofA基于5月App下载量和活跃度数据分析中国互联网电商、本地生活和在线媒体竞争格局变化
+- [BofA Greater China EV & Future Car — Structural leadership amid intensifying competition](entries/BofA-Greater-China-EV-Future-Car-20260618.md) — BofA发布中国电动车和未来汽车行业深度报告，分析中国新能源车企在激烈竞争中的结构性领先优势
 - [BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧](entries/台积电BofA-产能与技术爬坡-缓解竞争担忧.md) — BofA（Haas Liu）于2026年5月15日发布的台积电台湾技术研讨会要点分析。3nm产能Q4'26达190k WPM（远超三星/Intel），N2缺陷密度领先3nm两季度，CoWoS良率98%+。评级买入，目标价NT$2,560。
 - [BofA：台积电先进节点需求强劲——2026-27资本支出展望上调](entries/台积电BofA-先进节点资本支出-Arizona盈利改善.md) — BofA（Haas Liu）于2026年5月17日发布。TSMC董事会批准US$31bn资本拨款，Arizona 1Q26运营大幅改善（营收NT$39bn，净利润NT$19bn），2027年capex或达US$75bn。评级买入，目标价NT$2,560。
 - [BofA：台积电股东大会更新——AI驱动需求与技术执行支撑营收/毛利率展望](entries/台积电BofA-股东大会AI需求与技术执行.md) — BofA（Haas Liu）于2026年6月4日发布的台积电年度股东大会要点分析。管理层对AI需求高度乐观（2030年前增长可见度），维持56%+长期GM指引。N2利润率将优于N3。Intel为前十大客户。评级买入，目标价NT$2,560。
@@ -44,6 +45,7 @@
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — BNP Paribas 5月26日更新报告：微软处于关键拐点，Copilot用户反馈显著改善（Agent Mode/Copilot Cowork获好评），Azure 40%+增长可持续至FQ3'27
 - [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — HSBC 5月26日报告：Anthropic年化营收从0亿飙升至00亿，Azure可能到2030年从Anthropic获得30亿/年增量营收，维持Buy目标价71
 - [MS中国美妆618预售排名：珀莱雅第一，巨子生物快速崛起](entries/MS中国美妆618预售排名.md) — Morgan Stanley发布2026年618预售排名，珀莱雅蝉联第一，巨子生物可复美/可丽金快速增长，国际品牌表现分化，国货美妆持续抢占市场份额
+- [Nomura Sansera Engineering (SANSERA IN) — Diversification gains momentum (Buy)](entries/Nomura-Sansera-Engineering-Buy-Diversification-gains-momentum-20260521.md) — Nomura维持Sansera Engineering买入评级，目标价上调，认为公司业务多元化从汽车零部件向航空航天和工业领域拓展正获得动能
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
 - [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价40评级买入
 - [UBS快速解读：台积电4月营收NT$4,107亿——Q2开局符合预期](entries/台积电UBS-4月营收4107亿-符合Q2预期.md) — UBS（Sunny Lin）于2026年5月8日发布。4月营收NT$4,107亿（-1.1% MoM，+17.5% YoY），Q2追踪达UBSe的32.3%。预计2026年美元营收增长35%，受N3 AI加速器和N2爬坡驱动。维持买入，目标价NT$2,650。
@@ -59,6 +61,7 @@
 - [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — 华泰证券分析AI Agent发展趋势，认为Agent应用爆发将拉动算力需求持续增长，形成算力通胀效应
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — 华泰证券预计腾讯1Q26营收+11%/经调整净利+10%，AI Agent赛道迎拐点(龙虾产品矩阵升级/云提价/混元3.0发布)，SOTP目标价716港元，预计26年营收8410亿
 - [华泰证券资产配置月报：AI链行情进入新阶段](entries/华泰证券资产配置月报-AI链行情进入新阶段.md) — 华泰证券4月资产配置报告认为AI链行情正从第一阶段（算力硬件）向第二阶段（应用与生态）切换
+- [国信证券传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会](entries/国信证券-传媒行业4月投资策略-20260417.md) — 国信证券发布传媒行业4月投资策略，建议超配游戏和IP潮玩板块，认为AI应用经过调整后具备底部布局价值
 - [地平线机器人发布Starry舱驾融合芯片，3Q26 SOP](entries/地平线机器人舱驾融合分析.md) — 地平线机器人发布5nm Starry 6P(650 TOPS)舱驾融合SoC，3Q26 SOP首发奇瑞iCar，成本较传统方案省5000元/车，MS维持OW/TP 10港元，UBS维持买入/TP 13.2港元
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — 宁波银行2026Q1营收+10.2% YoY，净利润+10.3% YoY，NIM环比回升5bps至1.73%，贷款+15.7% YoY持续市占率提升，资产质量稳定(NPL 0.76%)，MS目标价45元对应0.87x 2026E P/B
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — 宁波银行2026Q1营收/净利润+10.2%/+10.3%超预期，NIM环比+5bps至1.73%，手续费收入+81.7% YoY，2025年分红率从21.9%大幅提升至27.0%，股息率3.7%
