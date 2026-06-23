@@ -48,4 +48,5 @@
 - [谷歌(GOOG)研报 — 汇丰全球投资 — 2026-06-02](entries/谷歌-GOOG-研报-汇丰全球投资-2026-06-02.md) — ResearchReport (pdf)
 - [谷歌(GOOG)研报 — 瑞银证券 — 2026-06-03](entries/谷歌-GOOG-研报-瑞银证券-2026-06-03.md) — ResearchReport (pdf)
 - [谷歌(GOOG)研报 — 美银全球研究 — 2026-06-08](entries/谷歌-GOOG-研报-美银全球研究-2026-06-08.md) — ResearchReport (pdf)
+- [行业研究-互联网 - JPMorgan China Internet What the Market May Be Missing on SAMR’s Ghos...](entries/行业研究-互联网-JPMorgan-China-Internet-What-the-Market-May-Be-Missing-on-SAMR-s-Ghos.md) — 行业研报 (pdf)
 
