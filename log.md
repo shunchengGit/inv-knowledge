@@ -178,4 +178,5 @@
 - [Laopu Gold: Sales growth may decelerate but profitability could enhance YoY (UBS)](entries/Laopu-Gold-Sales-growth-may-decelerate-but-profitability-could-enhance-YoY-UBS.md) — Research Report (pdf)
 - [Laopu Gold: Resilient demand; likely no financial needs; attractive valuation (JPMorgan)](entries/Laopu-Gold-Resilient-demand-likely-no-financial-needs-attractive-valuation-JPMor.md) — Research Report (pdf)
 - [Laopu Gold Initiation: As good as it can get (Macquarie)](entries/Laopu-Gold-Initiation-As-good-as-it-can-get-Macquarie.md) — Research Report (pdf)
+- [Laopu Gold Research Tactical Idea -- Shareholder purchase (Morgan Stanley)](entries/Laopu-Gold-Research-Tactical-Idea-Shareholder-purchase-Morgan-Stanley.md) — Research Report (pdf)
 
