@@ -33,3 +33,4 @@
 - [Pop Mart: Earnings reset ongoing, but limited downside (HSBC)](entries/Pop-Mart-Earnings-reset-ongoing-but-limited-downside-HSBC.md) — HSBC维持泡泡玛特Buy评级但下调目标价28.5%至HKD235.50。预计1Q26收入RMB9.9bn(环比低个位数下降),Labubu热潮降温导致盈利下调。
 - [泡泡玛特4月将推出小家电,有望持续推动IP势能提升（国信证券）](entries/泡泡玛特4月将推出小家电-有望持续推动IP势能提升-国信证券.md) — 国信证券对泡泡玛特推出小家电产品的深度分析。首批小家电品类包括冷藏箱、电热水壶、咖啡机、吹风机等,预计2026年收入占比约1%,毛利率50%以上。
 - [Laopu Gold: Sales growth may decelerate but profitability could enhance YoY (UBS)](entries/Laopu-Gold-Sales-growth-may-decelerate-but-profitability-could-enhance-YoY-UBS.md) — UBS对老铺黄金的First Read报告。渠道调研显示3-4月北京高基数门店SSSG下降20-30%,但线上NPM高于线下L-MSD,预计2026E收入/净利润同比增长55%/67%。
+- [Laopu Gold: Resilient demand; likely no financial needs; attractive valuation (JPMorgan)](entries/Laopu-Gold-Resilient-demand-likely-no-financial-needs-attractive-valuation-JPMor.md) — JPMorgan维持老铺黄金Overweight评级(top pick),目标价HK$1,296。4月股价回调22%后估值吸引(10.7x/8.7x 26E/27E P/E),预计2026年销售/盈利+58%/+71%。

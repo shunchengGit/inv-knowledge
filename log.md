@@ -175,4 +175,5 @@
 - [Pop Mart Mar-26 Performance: Intense Product Launches & Home Appliance Focus (Deutsche Bank)](entries/Pop-Mart-Mar-26-Performance-Intense-Product-Launches-Home-Appliance-Focus-Deutsc.md) — Research Report (pdf)
 - [Pop Mart: Earnings reset ongoing, but limited downside (HSBC)](entries/Pop-Mart-Earnings-reset-ongoing-but-limited-downside-HSBC.md) — Research Report (pdf)
 - [泡泡玛特4月将推出小家电,有望持续推动IP势能提升（国信证券）](entries/泡泡玛特4月将推出小家电-有望持续推动IP势能提升-国信证券.md) — Research Report (pdf)
+- [Laopu Gold: Sales growth may decelerate but profitability could enhance YoY (UBS)](entries/Laopu-Gold-Sales-growth-may-decelerate-but-profitability-could-enhance-YoY-UBS.md) — Research Report (pdf)
 
