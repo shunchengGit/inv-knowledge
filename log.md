@@ -27,4 +27,5 @@
 - [谷歌2026年AI搜索与云业务研报综合摘要](entries/谷歌2026年AI搜索与云业务研报综合摘要.md) — Synthesis (pdf)
 - [SK海力士2026年研报综合摘要](entries/SK海力士2026年研报综合摘要.md) — Synthesis (pdf)
 - [行业研究-互联网2026年研报综合摘要](entries/行业研究-互联网2026年研报综合摘要.md) — Synthesis (pdf)
+- [汇川技术2026年研报综合摘要](entries/汇川技术2026年研报综合摘要.md) — Synthesis (pdf)
 
