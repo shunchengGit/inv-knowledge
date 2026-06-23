@@ -49,3 +49,4 @@
 - [行业研究-互联网 - JPMorgan China Internet What the Market May Be Missing on SAMR’s Ghos...](entries/行业研究-互联网-JPMorgan-China-Internet-What-the-Market-May-Be-Missing-on-SAMR-s-Ghos.md) — www.jpmorganmarkets.com
 - [行业研究-互联网 - JPMorgan China Internet Post 4Q25 Re evaluating the Sector; Tencent ...](entries/行业研究-互联网-JPMorgan-China-Internet-Post-4Q25-Re-evaluating-the-Sector-Tencent.md) — www.jpmorganmarkets.com
 - [行业研究-互联网 - 0700.HK HSBC Global Investme China Internet HSBC Global Investment Summit 2026 tour takea...](entries/行业研究-互联网-0700-HK-HSBC-Global-Investme-China-Internet-HSBC-Global-Investment-Summ.md) — Disclosures & Disclaimer
+- [行业研究-互联网 - JPMorgan China Telecom Sector What we learned from China telcos 1Q26...](entries/行业研究-互联网-JPMorgan-China-Telecom-Sector-What-we-learned-from-China-telcos-1Q26.md) — www.jpmorganmarkets.com
