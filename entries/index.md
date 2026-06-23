@@ -33,3 +33,4 @@
 - [台积电2026年AI技术峰会与月度营收跟踪研报综合摘要](entries/台积电2026年AI技术峰会与月度营收跟踪研报综合摘要.md) — 台积电北美技术研讨会发布A13制程路线图，4-6月营收逐月跟踪。8份外资研报一致看好AI加速器驱动的N3增长，2026年营收预计+35-36%美元计。
 - [福耀玻璃2026年Q1业绩后外资研报综合摘要](entries/福耀玻璃2026年Q1业绩后外资研报综合摘要.md) — 福耀Q1营收104亿(+5.1%)，剔除汇兑后利润+10%，毛利率超预期。5份外资研报（UBS/BNP/BofA/JPMorgan/Morgan Stanley）一致看好。
 - [ASML 2026年High-NA光刻机进展与展望研报综合摘要](entries/ASML-2026年High-NA光刻机进展与展望研报综合摘要.md) — ASML High-NA EUV技术路线推进，5份外资研报一致看好其半导体设备垄断地位。
+- [Meta Platforms 2026年Q1业绩与AI战略研报综合摘要](entries/Meta-Platforms-2026年Q1业绩与AI战略研报综合摘要.md) — Meta Q1广告收入超预期但AI投入加大，7份研报（JPMorgan/BofA×2/Deutsche/Morgan Stanley/Jefferies×2）综合：看好AI长期价值但关注短期盈利压力。
