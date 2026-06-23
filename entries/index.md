@@ -53,3 +53,4 @@
 - [行业研究-互联网 - JPMorgan China Internet JPM 2026 Global China Summit Key Takeaways](entries/行业研究-互联网-JPMorgan-China-Internet-JPM-2026-Global-China-Summit-Key-Takeaways.md) — www.jpmorganmarkets.com
 - [行业研究-互联网 - BofA Global Research Internete Commerce May app data Mixed bag for Online medi... 122359248](entries/行业研究-互联网-BofA-Global-Research-Internete-Commerce-May-app-data-Mixed-bag-for-Onli.md) — BofA Securities does and seeks to do business with issuers covered in its research
 - [行业研究-互联网 - Morgan Stanley Internet Where Are We Trading Now Into the Summer of AI 122401246](entries/行业研究-互联网-Morgan-Stanley-Internet-Where-Are-We-Trading-Now-Into-the-Summer-of-AI.md) — Internet  | North America
+- [行业研究-互联网 - Morgan Stanley Internet Where Are We Trading Now As AI Hardware vs AI Sof... 122496280](entries/行业研究-互联网-Morgan-Stanley-Internet-Where-Are-We-Trading-Now-As-AI-Hardware-vs-AI-S.md) — Internet  | North America
