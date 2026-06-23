@@ -87,4 +87,5 @@
 - [汇川技术 风险收益分析 - Morgan Stanley](entries/汇川技术-风险收益分析-Morgan-Stanley.md) — Article (pdf)
 - [行业研究-传媒 - 20260417 国信证券 传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会](entries/行业研究-传媒-20260417-国信证券-传媒行业4月投资策略-持续看好游戏-IP潮玩业绩表现-关注AI应用底部机会.md) — 行业研报 (pdf)
 - [汇川技术 研究报告 - 华泰证券 (2026-04-29)](entries/汇川技术-研究报告-华泰证券-2026-04-29.md) — Article (pdf)
+- [行业研究-新能源 - JPMorgan China Battery Cherry picking amid supply side reform and glo...](entries/行业研究-新能源-JPMorgan-China-Battery-Cherry-picking-amid-supply-side-reform-and-glo.md) — 行业研报 (pdf)
 
