@@ -30,3 +30,4 @@
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — UBS认为腾讯2026Q1业绩符合预期，核心业务盈利能力稳健(+17% ex-AI)，当前约13x Forward PE处于历史低位，AI期权价值未充分定价，目标价516港元
 - [泡泡玛特入局小家电 -- 家电行业月度动态跟踪（中国银河）](entries/泡泡玛特入局小家电-家电行业月度动态跟踪-中国银河.md) — 中国银河证券2026年3月家电行业月度动态跟踪报告,重点分析泡泡玛特入局小家电赛道、大疆发布全景无人机、追觅发力清洁电器市场等热点。
 - [Pop Mart Mar-26 Performance: Intense Product Launches & Home Appliance Focus (Deutsche Bank)](entries/Pop-Mart-Mar-26-Performance-Intense-Product-Launches-Home-Appliance-Focus-Deutsc.md) — Deutsche Bank对泡泡玛特的Sell评级报告。跟踪中国线上销售数据,3月同比+106%但较2H25均值低约20%,观察到时尚疲劳信号。
+- [Pop Mart: Earnings reset ongoing, but limited downside (HSBC)](entries/Pop-Mart-Earnings-reset-ongoing-but-limited-downside-HSBC.md) — HSBC维持泡泡玛特Buy评级但下调目标价28.5%至HKD235.50。预计1Q26收入RMB9.9bn(环比低个位数下降),Labubu热潮降温导致盈利下调。
