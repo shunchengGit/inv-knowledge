@@ -69,3 +69,4 @@
 - [中际旭创上调PO至1650全栈光学供应商](entries/中际旭创上调PO至1650全栈光学供应商.md) — BofA中际旭创大幅上调目标价至¥1,650：1.6T需求更强延至2028年，NPO订单清晰可见（每5mn单位=¥100亿+盈利），62%盈利CAGR
 - [请务必阅读正文之后的免责声明及其项下所有内容](entries/请务必阅读正文之后的免责声明及其项下所有内容.md) — 请务必阅读正文之后的免责声明及其项下所有内容 持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会 zhangheng2@guosen.com.cn chenyaorong@guosen.com.cn
 - [日月光投控中介层业务超预期VSMC资本支出降低](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Nomura世界先进研报：中介层业务好于预期、VSMC资本支出从8亿降至7亿加速盈亏平衡，上调至买入目标价TWD178
+- [Semiconductors  | North America](entries/Semiconductors-North-America.md) — Semiconductors  | North America Takeaways from our meetings in Meetings at and adjacent to our AI summit bolster our positive views on NVDA,  AVGO, and memory.  NVDA remains our top pick heading into the second half product cycle. Morgan Stanley & Co. LLC
