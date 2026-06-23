@@ -127,3 +127,4 @@
 - [万国数据 研究报告 - JPMorgan (2026-05-21)](entries/万国数据-研究报告-JPMorgan-2026-05-21.md) — Asia Pacific Equity Research
 - [Macquarie — SK海力士：内存供不应求将持续，结构化短缺而非周期波动](entries/Macquarie-SK海力士-内存供不应求将持续-结构化短缺而非周期波动.md) — Macquarie提出Ubershortage框架，维持Outperform，目标价180万韩元
 - [万国数据 2026-Q2 业绩分析 - Macquarie Research](entries/万国数据-2026-Q2-业绩分析-Macquarie-Research.md) — Macquarie Equity Research
+- [HSBC (5月) — SK海力士：DRAM价格再超预期，TP从180万大幅上调至290万韩元](entries/HSBC-5月-SK海力士-DRAM价格再超预期-TP从180万大幅上调至290万韩元.md) — HSBC将SK海力士目标价从180万上调至290万韩元，通用服务器需求爆炸式增长
