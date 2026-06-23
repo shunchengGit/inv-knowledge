@@ -200,4 +200,5 @@
 - [免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。](entries/免责声明和披露以及分析师声明是报告的一部分-请务必一起阅读.md) — Analysis (pdf)
 - [China (PRC) | Internet](entries/China-PRC-Internet.md) — Analysis (pdf)
 - [www.jpmorganmarkets.com](entries/www-jpmorganmarkets-com.md) — Analysis (pdf)
+- [China (PRC) | Technology](entries/China-PRC-Technology.md) — Analysis (pdf)
 
