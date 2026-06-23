@@ -13,7 +13,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 **报告日期**: 2026-05-11 | **券商**: HSBC | **分析师**: Ricky Seo, Han Kil Chang  
 **评级**: Buy (维持) | **目标价**: KRW 2,900,000（上调自 KRW 1,800,000）| **涨幅**: +54.3%
 
-## 核心观点
+## 摘要
 
 ### 更强的 DRAM 价格趋势
 - 服务器和移动 DRAM 价格均超预期上涨

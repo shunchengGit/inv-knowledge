@@ -10,7 +10,7 @@ tags: [microsoft, competitive-advantage, 2026, copilot, azure, openai]
 
 # MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续
 
-## 核心论点
+## 关键要点
 BNP Paribas在FQ3财报后一个月（5月26日）发布更新，认为微软正处于一个关键拐点——Copilot用户反馈显著改善、Azure增长动能持续、OpenAI关系风险进一步解除。维持Outperform评级，目标价$555。
 
 ## Copilot拐点信号

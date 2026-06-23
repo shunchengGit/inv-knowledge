@@ -10,7 +10,7 @@ tags: [microsoft, profit-trend, competitive-advantage, 2026-Q1, azure, copilot]
 
 # MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞
 
-## 核心数据
+## 摘要
 - 营收：$828.86亿（同比+18.3%），略超HSBC预估$828.24亿，超Visible Alpha共识约2%
 - Non-GAAP EPS：$4.27（同比+19.9%），超HSBC预估$4.11和共识$4.07
 - Non-GAAP营业利润率：46.33%（同比+0.66pp），超共识100bps以上

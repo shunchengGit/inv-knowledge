@@ -13,7 +13,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 **报告日期**: 2026-05-17 | **券商**: JPMorgan | **分析师**: Jay Kwon, Sangsik Lee, Neelay Y Kamath  
 **评级**: Overweight (维持) | **目标价**: KRW 3,000,000（上调自 KRW 1,800,000）| **涨幅**: +67%
 
-## 核心观点
+## 摘要
 
 ### LTA 开启估值框架结构性转变
 - SK Hynix 正处于与 CSP（云服务提供商）客户进行 LTA 讨论的关键拐点

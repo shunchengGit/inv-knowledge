@@ -10,7 +10,7 @@ tags: [microsoft, profit-trend, valuation, competitive-advantage, 2026-Q1, capex
 
 # MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型
 
-## 核心发现
+## 关键要点
 UBS认为FQ3整体符合预期——核心指标（营收CCY+15%、Azure增长39%、M365增长15%、EBIT利润率46%）均落在预估范围内。但前瞻性指引出现三大意外：Azure H2 CY26加速指引、Capex大幅上修、以及向用量定价模式的加速转型。
 
 ## Azure增长拆解

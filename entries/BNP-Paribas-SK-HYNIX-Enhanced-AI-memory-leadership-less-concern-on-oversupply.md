@@ -13,7 +13,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 **报告日期**: 2026-04-23 | **券商**: BNP Paribas | **分析师**: Alex Chang, Scarlett Ge, Gwen Wang  
 **评级**: Outperform (维持) | **目标价**: KRW 2,000,000（上调自 KRW 1,590,000）| **涨幅**: +63%
 
-## 核心观点
+## 摘要
 
 ### 1Q26 业绩强劲
 - 营收创历史季度新高 KRW 52.6tn（+60% q-q, +198% y-y）

@@ -13,7 +13,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 **报告日期**: 2026-04-23 | **券商**: Nomura | **分析师**: CW Chung, Eon Hwang, YJ Kim  
 **评级**: Buy (维持) | **目标价**: KRW 2,340,000（上调自 KRW 1,930,000）| **隐含涨幅**: +82%
 
-## 核心观点
+## 摘要
 
 ### 1Q26 业绩超预期
 - 1Q26 营收/OP 均超市场预期，DRAM ASP 环比大幅提升

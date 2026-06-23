@@ -13,7 +13,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 **报告日期**: 2026-05-14 | **券商**: Macquarie | **分析师**: Daniel Kim, Jacob Kim  
 **评级**: Outperform (维持) | **目标价**: KRW 2,900,000（上调自 KRW 1,800,000）| **涨幅**: +46.8%
 
-## 核心观点
+## 摘要
 
 ### 存储器短缺将持续恶化
 - 尽管新工厂将在 2027 年后投产，DRAM 位供给增长仍受限于 20%（2028 年）
