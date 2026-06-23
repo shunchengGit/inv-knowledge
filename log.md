@@ -91,4 +91,5 @@
 - [泡泡玛特 研究报告 - 中国银河 (2026-03-29)](entries/泡泡玛特-研究报告-中国银河-2026-03-29.md) — Article (pdf)
 - [行业研究-美妆 - Morgan Stanley China Beauty 6.18 Pre sale Rankings Proya No.1, Giant Biog... 122285043](entries/行业研究-美妆-Morgan-Stanley-China-Beauty-6-18-Pre-sale-Rankings-Proya-No-1-Giant-Biog.md) — 行业研报 (pdf)
 - [泡泡玛特 产品分析 - Deutsche Bank](entries/泡泡玛特-产品分析-Deutsche-Bank.md) — Article (pdf)
+- [行业研究-装备制造 - 20260601 世纪证券 装备制造行业周报（5月第4周）：逆变器出口稳定增长](entries/行业研究-装备制造-20260601-世纪证券-装备制造行业周报-5月第4周-逆变器出口稳定增长.md) — 行业研报 (pdf)
 
