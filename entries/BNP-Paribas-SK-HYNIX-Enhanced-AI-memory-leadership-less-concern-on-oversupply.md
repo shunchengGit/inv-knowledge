@@ -14,20 +14,16 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 **评级**: Outperform (维持) | **目标价**: KRW 2,000,000（上调自 KRW 1,590,000）| **涨幅**: +63%
 
 ## 摘要
+BNP Paribas维持SK海力士Outperform，上调目标价26%至KRW 2,000,000。1Q26营收创历史新高KRW 52.6tn（+60% q-q/+198% y-y），OP KRW 37.6tn（OPM ~72%）。DRAM ASP中60%+/NAND ASP中70%+大幅增长，HBM4E预期>50%份额（TSMC base-die合作+1cnm技术优势）。产能扩张有纪律（龙仁Cluster灵活分期），净现金KRW 35tn。主要风险：Capex激增和通用服务器需求疲弱。
 
-### 1Q26 业绩强劲
-- 营收创历史季度新高 KRW 52.6tn（+60% q-q, +198% y-y）
-- OP 达 KRW 37.6tn，环比近翻倍，OPM 约 72%
-- DRAM ASP 中 60%+ 增长，NAND ASP 中 70%+ 增长
-- 净现金 KRW 35tn，负债权益比降至 12%
-
-### AI 内存领导力巩固
-- HBM 占 DRAM 收入降至 ~25%（2025: ~40%），主因非 HBM 内存涨价更快及均衡产能分配
-- HBM4E 预期 >50% 份额：与 TSMC 在 base-die 技术合作 + SKH 的 1cnm DRAM-die 技术
-- HBM4E 样品 2H26，目标 2027 量产
-- 1c nm 节点于 2025 年底开始量产，良率和产能已达成熟阶段
-
-### 产能扩张有纪律
+## 关键要点
+- 1Q26营收创历史新高KRW 52.6tn（+60% q-q/+198% y-y），OP KRW 37.6tn（OPM ~72%）
+- DRAM ASP中60%+增长，NAND ASP中70%+增长
+- HBM4E预期>50%份额：与TSMC base-die合作 + SK海力士1cnm DRAM技术
+- HBM4E样品2H26，目标2027量产
+- 净现金KRW 35tn，负债权益比降至12%
+- 产能扩张有纪律，龙仁Cluster灵活分期降低供应过剩风险
+- 目标价KRW 2,000,000（基于3x 2027E BVPS），较保守
 - 龙仁 Cluster Phase 1 洁净室提前 3 个月至 2027 年 2 月完工
 - Phase 2-6 建设节奏视市场状况灵活调整
 - 偏好灵活性，考虑中长期需求可见性和优化的 LTA 条款

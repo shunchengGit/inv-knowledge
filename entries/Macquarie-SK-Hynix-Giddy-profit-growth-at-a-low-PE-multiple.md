@@ -14,14 +14,11 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 **评级**: Outperform (维持) | **目标价**: KRW 2,900,000（上调自 KRW 1,800,000）| **涨幅**: +46.8%
 
 ## 摘要
+Macquarie维持SK海力士Outperform，上调目标价61%至KRW 2,900,000（6x 2027E PE）。核心逻辑：存储器短缺将持续恶化至2027年后，HBM 2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。当前估值仅3x ex-cash 2027E PE，严重低估。
 
-### 存储器短缺将持续恶化
-- 尽管新工厂将在 2027 年后投产，DRAM 位供给增长仍受限于 20%（2028 年）
-- 原因：1d/0a nm 节点的净 die 增长放缓 + HBM4E/5 的 trade ratio 恶化
-- Agentic AI 的普及将推动 Token 需求大幅上升
-- 存储器价格有望在 2027 年后持续坚挺
-
-### HBM 价格 2027 年将大幅上涨
+## 关键要点
+- 存储器短缺将持续恶化：DRAM位供给增长受限（1d/0a nm die增长放缓+HBM trade ratio恶化）
+- HBM 2027年价格有望大涨>50%，供给持续紧张
 - Macquarie 认为主要 AI 芯片公司将不得不接受 2027 年 HBM 的大幅价格上调（>50%）
 - 原因是为确保所需的 DRAM 晶圆产能
 - HBM 买家必须避免重蹈 2026 年未能锁定足够供应的覆辙

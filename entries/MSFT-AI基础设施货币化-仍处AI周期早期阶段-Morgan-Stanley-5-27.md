@@ -10,10 +10,10 @@ tags: [microsoft, competitive-advantage, valuation, 2026, infrastructure, datace
 
 # MSFT AI基础设施货币化：仍处AI周期早期阶段，营收预估可能滞后
 
-## 关键要点
+## 摘要
 Morgan Stanley从"每兆瓦营收"（Revenue per MW）角度分析微软的云与AI基础设施扩张，认为市场对AI营收的预估可能显著滞后于基础设施部署节奏。维持Overweight，目标价$650（同业最高）。
 
-## 关键发现：营收/MW持续下行暗示上行空间
+## 关键要点：营收/MW持续下行暗示上行空间
 - 微软云生态系统当前每MW年化营收约$2000-3000万
 - 随着DC容量从FY24的~5GW扩至FY28的~20GW，每MW营收预估降至$1700万+
 - 营收/MW下降并不代表变现能力恶化——恰恰相反，这反映微软正大规模超前部署AI基础设施，营收尚未完全跟上

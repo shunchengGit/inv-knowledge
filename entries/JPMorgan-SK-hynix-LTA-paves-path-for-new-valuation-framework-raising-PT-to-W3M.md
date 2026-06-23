@@ -14,9 +14,9 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 **评级**: Overweight (维持) | **目标价**: KRW 3,000,000（上调自 KRW 1,800,000）| **涨幅**: +67%
 
 ## 摘要
+JPMorgan维持SK海力士Overweight，目标价从KRW 1,800,000大幅上调至KRW 3,000,000（全市场最高之一）。核心催化：LTA谈判进入关键拐点，将推动存储器行业从P/B迁移至P/E估值框架（基于8x FY26-27E EPS）。大幅上调FY26-28E EPS 9-20%，股东回报计划KRW 240tn。
 
-### LTA 开启估值框架结构性转变
-- SK Hynix 正处于与 CSP（云服务提供商）客户进行 LTA 讨论的关键拐点
+## 关键要点
 - LTA 将推动存储器业务模式从"周期性"转向"结构性/长期性"
 - 存储器供需失衡短期内难以缓解，存储器厂商和 CSP 达成 LTA 的概率很高
 - LTA 将提升存储器盈利质量，成为估值重估的核心驱动因素

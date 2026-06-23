@@ -10,10 +10,10 @@ tags: [microsoft, profit-trend, valuation, 2026, anthropic, azure, ai]
 
 # MSFT：Anthropic合作有望成为Azure $430亿年化增量机会
 
-## 关键要点
-HSBC在5月26日发布报告，认为微软与Anthropic的新合作伙伴关系（以及更广泛的企业AI加速）可能为Azure带来巨大的增量营收——预计到2030年可达每年$430亿。
+## 摘要
+HSBC认为Anthropic协议深化有望为Azure带来巨额增量营收。HSBC预估Anthropic 2030年将产生$650亿营收，其中$430亿将流向Azure（按40-50%分润估计），同时Anthropic在Azure上的训练/推理支出将进一步推动Azure AI营收。但上调目标价面临的模型风险：Anthropic营收可能被过度放大。
 
-## Anthropic增长火箭般蹿升
+## 关键要点
 - Anthropic年化营收从2025年12月的~$90亿飙升至2026年5月的~$400亿（据The Information报道）
 - HSBC预估Anthropic 2030年营收可达~$2410亿（vs 2025年不到$50亿）
 - Anthropic目前仅占微软RPO的~5%（vs OpenAI占~46%），表明未来增长空间巨大

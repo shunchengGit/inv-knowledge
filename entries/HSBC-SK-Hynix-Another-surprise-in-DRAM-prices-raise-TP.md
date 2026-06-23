@@ -14,19 +14,12 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 **评级**: Buy (维持) | **目标价**: KRW 2,900,000（上调自 KRW 1,800,000）| **涨幅**: +54.3%
 
 ## 摘要
+HSBC维持SK海力士Buy，目标价从KRW 1,800,000大幅上调至KRW 2,900,000（+54%）。核心催化剂：通用服务器DRAM需求爆发，AI服务器与通用服务器的比例从4-8:1快速趋于1:1。2Q26 OP上调14%至KRW 65tn，2026全年OP上调13%至KRW 265tn。HBM3e价格回升、SO-CAMM2增长提供额外ASP支撑。CSP 2026年Capex预期USD 640bn（+70% YoY）。
 
-### 更强的 DRAM 价格趋势
-- 服务器和移动 DRAM 价格均超预期上涨
-- 2Q26 OP 预计 KRW 65tn（+73% q-q, +606% y-o-y），较此前预测高 14%
-- 2Q26 营收预计 KRW 80tn（+52% q-q, +260% y-o-y）
-- 2026 全年 OP 上调 13% 至 KRW 265tn（+460% y-o-y）
-- 营收上调至 KRW 329tn（+238% y-o-y）
-
-### DRAM ASP 上修的核心驱动力
-1. **通用服务器需求爆发**：AI 数据中心中 AI 服务器与通用服务器的比例从 4-8:1 趋于 1:1，通用服务器长期增长受益
-2. **PC 转服务器产能转换**：推动 PC DRAM 价格同步上涨
-3. **HBM3e 价格回升**：缩小与 PC DRAM 的价差
-4. **SO-CAMM2 增长**：由 NVIDIA Vera CPU 推动的 SO-CAMM2 将扩散至其他 ARM CPU，推升 ASP
+## 关键要点
+- 2Q26 OP预计KRW 65tn（+73% q-q/+606% y-y），较此前预测高14%
+- 2Q26营收预计KRW 80tn（+52% q-q/+260% y-y）
+- 2026全年OP上调13%至KRW 265tn（+460% y-y），营收上调至KRW 329tn（+238% y-y）
 
 ### CSP 资本开支持续激进
 - 四大 CSP 2026 年 capex 增长上调至 USD 640bn（+70% y-o-y）
