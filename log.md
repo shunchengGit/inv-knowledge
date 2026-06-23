@@ -17,4 +17,5 @@
 
 ## 2026-06-23
 - [BofA Future Car Review #78 — BYD Datang D-class seven-seater flagship SUV](entries/BofA-Future-Car-Review-78-BYD-Datang-D-class-seven-seater-flagship-SUV.md) — Article (pdf)
+- [BofA邀请CRIC林波——端午后中国地产实地考察电话会议（2026-06-22）](entries/BofA邀请CRIC林波-端午后中国地产实地考察电话会议-2026-06-22.md) — Note (pdf)
 
