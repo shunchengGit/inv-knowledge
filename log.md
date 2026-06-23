@@ -30,4 +30,5 @@
 - [汇川技术2026年研报综合摘要](entries/汇川技术2026年研报综合摘要.md) — Synthesis (pdf)
 - [中通快递2026年研报综合摘要](entries/中通快递2026年研报综合摘要.md) — Synthesis (pdf)
 - [贵州茅台2026年研报综合摘要](entries/贵州茅台2026年研报综合摘要.md) — Synthesis (pdf)
+- [老铺黄金2026年研报综合摘要](entries/老铺黄金2026年研报综合摘要.md) — Synthesis (pdf)
 
