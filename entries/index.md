@@ -144,3 +144,4 @@
 - [日月光投控 研究报告 - Nomura (2026-05-05)](entries/日月光投控-研究报告-Nomura-2026-05-05.md) — Vanguard   5347.TWO 5347 TT
 - [毛戈平 调研纪要 - JPMorgan](entries/毛戈平-调研纪要-JPMorgan.md) — www.jpmorganmarkets.com
 - [Nova 调研纪要 - Jefferies](entries/Nova-调研纪要-Jefferies.md) — USA | Semi. Cap. Equipment
+- [Hubbell 并购分析 - Deutsche Bank](entries/Hubbell-并购分析-Deutsche-Bank.md) — Distributed on: 04/05/2026 19:34:41 GMT
