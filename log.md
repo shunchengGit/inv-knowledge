@@ -235,4 +235,5 @@
 - [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Analysis (pdf)
 - [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — Analysis (pdf)
 - [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — Analysis (pdf)
+- [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — Analysis (pdf)
 
