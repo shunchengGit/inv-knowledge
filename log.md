@@ -139,4 +139,5 @@
 - [毛戈平 调研纪要 - JPMorgan](entries/毛戈平-调研纪要-JPMorgan.md) — Article (pdf)
 - [Nova 调研纪要 - Jefferies](entries/Nova-调研纪要-Jefferies.md) — Article (pdf)
 - [Hubbell 并购分析 - Deutsche Bank](entries/Hubbell-并购分析-Deutsche-Bank.md) — Article (pdf)
+- [Hubbell 并购分析 - Morgan Stanley](entries/Hubbell-并购分析-Morgan-Stanley.md) — Article (pdf)
 
