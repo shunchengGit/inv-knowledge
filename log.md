@@ -124,4 +124,5 @@
 - [HSBC (5月) — SK海力士：DRAM价格再超预期，TP从180万大幅上调至290万韩元](entries/HSBC-5月-SK海力士-DRAM价格再超预期-TP从180万大幅上调至290万韩元.md) — Article (pdf)
 - [地平线机器人 研究报告 - Morgan Stanley (2026-04-22)](entries/地平线机器人-研究报告-Morgan-Stanley-2026-04-22.md) — Article (pdf)
 - [Macquarie (5月) — SK海力士：惊人利润增长拖低PE，目标价上调至₩290万](entries/Macquarie-5月-SK海力士-惊人利润增长拖低PE-目标价上调至-290万.md) — Article (pdf)
+- [地平线机器人 产品分析 - UBS Equities](entries/地平线机器人-产品分析-UBS-Equities.md) — Article (pdf)
 
