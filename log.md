@@ -126,4 +126,5 @@
 - [Macquarie (5月) — SK海力士：惊人利润增长拖低PE，目标价上调至₩290万](entries/Macquarie-5月-SK海力士-惊人利润增长拖低PE-目标价上调至-290万.md) — Article (pdf)
 - [地平线机器人 产品分析 - UBS Equities](entries/地平线机器人-产品分析-UBS-Equities.md) — Article (pdf)
 - [JPMorgan (5月) — SK海力士：LTA铺路新估值框架，目标价上调至₩3,000,000](entries/JPMorgan-5月-SK海力士-LTA铺路新估值框架-目标价上调至-3-000-000.md) — Article (pdf)
+- [宁波银行 研究报告 - Morgan Stanley (2026-04-26)](entries/宁波银行-研究报告-Morgan-Stanley-2026-04-26.md) — Article (pdf)
 

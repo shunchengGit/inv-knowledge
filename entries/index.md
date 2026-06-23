@@ -134,3 +134,4 @@
 - [JPMorgan (5月) — SK海力士：LTA铺路新估值框架，目标价上调至₩3,000,000](entries/JPMorgan-5月-SK海力士-LTA铺路新估值框架-目标价上调至-3-000-000.md) — JPMorgan大幅上调SK海力士目标价至300万韩元，从P/B切换到P/E估值框架
 - [宁波银行 研究报告 - Morgan Stanley (2026-04-26)](entries/宁波银行-研究报告-Morgan-Stanley-2026-04-26.md) — Bank of Ningbo Co. Ltd  | Asia Pacific
 - [BNP Paribas — SK海力士1Q26完整业绩简报（含财务细表）](entries/BNP-Paribas-SK海力士1Q26完整业绩简报-含财务细表.md) — BNP SK海力士研报完整版，含全部财务细表和数据
+- [宁波银行 2026-Q2 业绩分析 - UBS Equities](entries/宁波银行-2026-Q2-业绩分析-UBS-Equities.md) — Q126 a clean beat; sizable dividend payout hike
