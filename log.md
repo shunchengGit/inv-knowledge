@@ -114,4 +114,5 @@
 - [中际旭创 2026-Q2 业绩分析 - BofA Global Research](entries/中际旭创-2026-Q2-业绩分析-BofA-Global-Research.md) — Article (pdf)
 - [中际旭创 研究报告 - Nomura (2026-04-16)](entries/中际旭创-研究报告-Nomura-2026-04-16.md) — Article (pdf)
 - [中际旭创 研究报告 - BofA Global Research (2026-06-09)](entries/中际旭创-研究报告-BofA-Global-Research-2026-06-09.md) — Article (pdf)
+- [拼多多 研究报告 - Deutsche Bank (2026-04-23)](entries/拼多多-研究报告-Deutsche-Bank-2026-04-23.md) — Article (pdf)
 
