@@ -219,4 +219,5 @@
 - [>> Employed by a non-US affiliate of BofAS and is not registered/qualified as a research analyst](entries/Employed-by-a-non-US-affiliate-of-BofAS-and-is-not-registered-qualified-as-a-res.md) — Analysis (pdf)
 - [EQUITY: AUTOS & AUTO PARTS](entries/EQUITY-AUTOS-AUTO-PARTS.md) — Analysis (pdf)
 - [IT Hardware  | North America](entries/IT-Hardware-North-America.md) — Analysis (pdf)
+- [Investor Presentation  | Asia Pacific](entries/Investor-Presentation-Asia-Pacific.md) — Analysis (pdf)
 
