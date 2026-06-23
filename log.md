@@ -133,4 +133,5 @@
 - [澜起科技 研究报告 - UBS Equities (2026-04-28)](entries/澜起科技-研究报告-UBS-Equities-2026-04-28.md) — Article (pdf)
 - [美光 2026-Q2 业绩分析 - UBS Equities](entries/美光-2026-Q2-业绩分析-UBS-Equities.md) — Article (pdf)
 - [英特尔 研究报告 - UBS Equities (2026-04-23)](entries/英特尔-研究报告-UBS-Equities-2026-04-23.md) — Article (pdf)
+- [英特尔 研究报告 - 华泰证券 (2026-04-25)](entries/英特尔-研究报告-华泰证券-2026-04-25.md) — Article (pdf)
 

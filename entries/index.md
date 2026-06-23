@@ -140,3 +140,4 @@
 - [美光 2026-Q2 业绩分析 - UBS Equities](entries/美光-2026-Q2-业绩分析-UBS-Equities.md) — Micron Technology Inc
 - [英特尔 研究报告 - UBS Equities (2026-04-23)](entries/英特尔-研究报告-UBS-Equities-2026-04-23.md) — Server Tailwinds and Continued Improvement in
 - [英特尔 研究报告 - 华泰证券 (2026-04-25)](entries/英特尔-研究报告-华泰证券-2026-04-25.md) — 免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。
+- [三星电子 研究报告 - BNP Paribas (2026-04-30)](entries/三星电子-研究报告-BNP-Paribas-2026-04-30.md) — SAMSUNG ELECTRONICS OUTPERFORM
