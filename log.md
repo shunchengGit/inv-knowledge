@@ -68,4 +68,5 @@
 - [行业研究-AI - Jefferies AI Series #41 New Developments of DeepSeek Post V4](entries/行业研究-AI-Jefferies-AI-Series-41-New-Developments-of-DeepSeek-Post-V4.md) — 行业研报 (pdf)
 - [行业研究-AI - JPMorgan China Artificial Intelligence China AI Application Tour Take...](entries/行业研究-AI-JPMorgan-China-Artificial-Intelligence-China-AI-Application-Tour-Take.md) — 行业研报 (pdf)
 - [行业研究-AI - Jefferies Huaweis Tau Scaling Law Not Yet a DeepSeek Moment for C...](entries/行业研究-AI-Jefferies-Huaweis-Tau-Scaling-Law-Not-Yet-a-DeepSeek-Moment-for-C.md) — 行业研报 (pdf)
+- [行业研究-AI - JPMorgan AIDC ESS Reference Architectures and Early Orders Point to E...](entries/行业研究-AI-JPMorgan-AIDC-ESS-Reference-Architectures-and-Early-Orders-Point-to-E.md) — 行业研报 (pdf)
 

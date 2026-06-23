@@ -66,3 +66,4 @@
 - [行业研究-AI - JPMorgan China Artificial Intelligence China AI Application Tour Take...](entries/行业研究-AI-JPMorgan-China-Artificial-Intelligence-China-AI-Application-Tour-Take.md) — www.jpmorganmarkets.com
 - [行业研究-AI - Jefferies Huaweis Tau Scaling Law Not Yet a DeepSeek Moment for C...](entries/行业研究-AI-Jefferies-Huaweis-Tau-Scaling-Law-Not-Yet-a-DeepSeek-Moment-for-C.md) — China (PRC) | Technology
 - [行业研究-AI - JPMorgan AIDC ESS Reference Architectures and Early Orders Point to E...](entries/行业研究-AI-JPMorgan-AIDC-ESS-Reference-Architectures-and-Early-Orders-Point-to-E.md) — Asia Pacific Equity Research
+- [行业研究-科技硬件 - Morgan Stanley IT Hardware What Lenovos Results Mean for US Enterprise Ha... 122233036](entries/行业研究-科技硬件-Morgan-Stanley-IT-Hardware-What-Lenovos-Results-Mean-for-US-Enterprise.md) — IT Hardware  | North America
