@@ -135,4 +135,5 @@
 - [英特尔 研究报告 - UBS Equities (2026-04-23)](entries/英特尔-研究报告-UBS-Equities-2026-04-23.md) — Article (pdf)
 - [英特尔 研究报告 - 华泰证券 (2026-04-25)](entries/英特尔-研究报告-华泰证券-2026-04-25.md) — Article (pdf)
 - [三星电子 研究报告 - BNP Paribas (2026-04-30)](entries/三星电子-研究报告-BNP-Paribas-2026-04-30.md) — Article (pdf)
+- [日月光投控 研究报告 - Nomura (2026-05-05)](entries/日月光投控-研究报告-Nomura-2026-05-05.md) — Article (pdf)
 
