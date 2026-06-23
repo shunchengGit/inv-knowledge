@@ -29,3 +29,4 @@
 - [腾讯控股JPM 1Q26：转向更积极，双P&L披露化解AI稀释担忧](entries/腾讯控股JPM-1Q26-转向更积极-双P-L披露化解AI稀释担忧.md) — JPMorgan在腾讯2026Q1后转向更积极，管理层首次披露双P&L：Non-IFRS OP ex-AI为844亿(+17%) vs 含AI的756亿(+9%)，将AI稀释从叙事担忧转化为可审计数据，目标价690港元
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — UBS认为腾讯2026Q1业绩符合预期，核心业务盈利能力稳健(+17% ex-AI)，当前约13x Forward PE处于历史低位，AI期权价值未充分定价，目标价516港元
 - [泡泡玛特入局小家电 -- 家电行业月度动态跟踪（中国银河）](entries/泡泡玛特入局小家电-家电行业月度动态跟踪-中国银河.md) — 中国银河证券2026年3月家电行业月度动态跟踪报告,重点分析泡泡玛特入局小家电赛道、大疆发布全景无人机、追觅发力清洁电器市场等热点。
+- [Pop Mart Mar-26 Performance: Intense Product Launches & Home Appliance Focus (Deutsche Bank)](entries/Pop-Mart-Mar-26-Performance-Intense-Product-Launches-Home-Appliance-Focus-Deutsc.md) — Deutsche Bank对泡泡玛特的Sell评级报告。跟踪中国线上销售数据,3月同比+106%但较2H25均值低约20%,观察到时尚疲劳信号。

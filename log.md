@@ -171,4 +171,5 @@
 - [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis (pdf)
 - [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — Analysis (pdf)
 - [temp](entries/temp.md) — Analysis (pdf)
+- [泡泡玛特入局小家电 -- 家电行业月度动态跟踪（中国银河）](entries/泡泡玛特入局小家电-家电行业月度动态跟踪-中国银河.md) — Research Report (pdf)
 
