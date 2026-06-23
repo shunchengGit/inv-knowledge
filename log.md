@@ -33,4 +33,5 @@
 - [老铺黄金2026年研报综合摘要](entries/老铺黄金2026年研报综合摘要.md) — Synthesis (pdf)
 - [行业研究-半导体2026年研报综合摘要](entries/行业研究-半导体2026年研报综合摘要.md) — Synthesis (pdf)
 - [行业研究-AI2026年研报综合摘要](entries/行业研究-AI2026年研报综合摘要.md) — Synthesis (pdf)
+- [中际旭创2026年研报综合摘要](entries/中际旭创2026年研报综合摘要.md) — Synthesis (pdf)
 
