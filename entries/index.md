@@ -83,3 +83,4 @@
 - [China Beauty  | Asia Pacific](entries/China-Beauty-Asia-Pacific.md) — China Beauty  | Asia Pacific 6.18 Pre-sale Rankings: Proya No.1, Giant Biogene Positive Morgan Stanley Asia Limited+ Dustin.Wei@morganstanley.com Jenny.Yu1@morganstanley.com
 - [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — 邮箱：zhaoxc@csco.com.cn 邮箱：donglyn@csco.com.cn
 - [Greater China Banks Daily](entries/Greater-China-Banks-Daily.md) — Greater China Banks Daily China’s May trade data beat expectations on strong AI-related demand; China’s Tier-1 city rents rise for a third straight month China’s May trade data beat expectations on strong AI-related demand Caixin, Reuters, Jun 9: According to Custom data released, China’s exports in
+- [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — JPMorgan全球中国峰会2026互联网行业核心要点：AI应用落地、电商竞争格局和监管环境展望

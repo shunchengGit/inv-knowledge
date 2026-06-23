@@ -223,4 +223,5 @@
 - [Global Technology](entries/Global-Technology.md) — Analysis (pdf)
 - [China Beauty  | Asia Pacific](entries/China-Beauty-Asia-Pacific.md) — Analysis (pdf)
 - [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — Analysis (pdf)
+- [Greater China Banks Daily](entries/Greater-China-Banks-Daily.md) — Analysis (pdf)
 
