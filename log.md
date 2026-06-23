@@ -127,4 +127,6 @@
 - [地平线机器人 产品分析 - UBS Equities](entries/地平线机器人-产品分析-UBS-Equities.md) — Article (pdf)
 - [JPMorgan (5月) — SK海力士：LTA铺路新估值框架，目标价上调至₩3,000,000](entries/JPMorgan-5月-SK海力士-LTA铺路新估值框架-目标价上调至-3-000-000.md) — Article (pdf)
 - [宁波银行 研究报告 - Morgan Stanley (2026-04-26)](entries/宁波银行-研究报告-Morgan-Stanley-2026-04-26.md) — Article (pdf)
+- [BNP Paribas — SK海力士1Q26完整业绩简报（含财务细表）](entries/BNP-Paribas-SK海力士1Q26完整业绩简报-含财务细表.md) — Note (pdf)
+- [宁波银行 2026-Q2 业绩分析 - UBS Equities](entries/宁波银行-2026-Q2-业绩分析-UBS-Equities.md) — Article (pdf)
 
