@@ -26,3 +26,4 @@
 - [测试：福耀玻璃2026年Q1毛利率趋势](entries/测试-福耀玻璃2026年Q1毛利率趋势.md) — 福耀玻璃2026年Q1毛利率回升至38%，受益于纯碱价格下降和产品结构升级
 - [JPMorgan: 中国外卖行业 — 即时配送监管新规影响分析](entries/JPMorgan-中国外卖行业-即时配送监管新规影响分析.md) — JPMorgan 2026年6月研报，分析中国外卖行业即时配送监管新规对美团、饿了么等平台的潜在影响
 - [测试条目-v2](entries/测试条目-v2.md) — 这是一个测试知识条目，用来验证整个存储流程是否正常工作。
+- [BofA Future Car Review #78 — BYD Datang D-class seven-seater flagship SUV](entries/BofA-Future-Car-Review-78-BYD-Datang-D-class-seven-seater-flagship-SUV.md) — 美银第78期未来汽车评测：比亚迪大唐D级7座旗舰纯电SUV上市，售价23.99-30.99万元，对比竞品在空间/动力/性价比领先
