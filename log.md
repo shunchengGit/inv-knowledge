@@ -23,4 +23,5 @@
 - [福耀玻璃2026年Q1业绩后外资研报综合摘要](entries/福耀玻璃2026年Q1业绩后外资研报综合摘要.md) — Synthesis (pdf)
 - [ASML 2026年High-NA光刻机进展与展望研报综合摘要](entries/ASML-2026年High-NA光刻机进展与展望研报综合摘要.md) — Synthesis (pdf)
 - [Meta Platforms 2026年Q1业绩与AI战略研报综合摘要](entries/Meta-Platforms-2026年Q1业绩与AI战略研报综合摘要.md) — Synthesis (pdf)
+- [微软2026年AI与云业务研报综合摘要](entries/微软2026年AI与云业务研报综合摘要.md) — Synthesis (pdf)
 
