@@ -47,3 +47,4 @@
 - [ZTO Express: 1Q26 Results Call -- Sustained Positive Management Tone (Morgan Stanley)](entries/ZTO-Express-1Q26-Results-Call-Sustained-Positive-Management-Tone-Morgan-Stanley.md) — Morgan Stanley总结ZTO 1Q26电话会要点。管理层对盈利展望保持积极,单位成本降幅超预期且5月持续改善。4月市场量增仅低个位数,但ZTO保持10-13%量增指引。
 - [ASML首选股：三大驱动因素](entries/ASML首选股-三大驱动因素.md) — UBS重申ASML首选股：产能瓶颈被夸大、存储器曝光度最高、High-NA价值巨大，目标价€1,900（上调自€1,600）
 - [ZTO Express: Earnings Upgrade Continues Despite Macro Challenges (Morgan Stanley)](entries/ZTO-Express-Earnings-Upgrade-Continues-Despite-Macro-Challenges-Morgan-Stanley.md) — Morgan Stanley第三次上调ZTO盈利预测。1Q26后管理层对全年单位利润改善更乐观,正向循环(市场份额→定价权→成本优势)已重启。预计12个月回购约US$8亿(~8%股东回报)。
+- [ZTO Express Research Tactical Idea -- Alibaba stake concern offers entry (Morgan Stanley)](entries/ZTO-Express-Research-Tactical-Idea-Alibaba-stake-concern-offers-entry-Morgan-Sta.md) — Morgan Stanley 60日战术看多报告。Alibaba委派非执行董事许迪离职触发市场对减持担忧,但基本面无忧,预计回购即将恢复,股价回调是买入良机。
