@@ -52,3 +52,4 @@
 - [Hengrui: US$15.2bn multi-asset global alliance with BMS (JPMorgan)](entries/Hengrui-US-15-2bn-multi-asset-global-alliance-with-BMS-JPMorgan.md) — JPMorgan报告恒瑞与BMS达成全球战略合作,覆盖13个早期项目(肿瘤、血液、免疫),潜在总交易额US$152亿。这是恒瑞最大BD交易,也是中国药企第二大对外授权deal,标志从licensor向strategic co-creator转型。
 - [ASML伦敦TMT会议要点](entries/ASML伦敦TMT会议要点.md) — JPMorgan伦敦TMT大会ASML CFO炉边对话：EUV产能2027年≥80台，DRAM未来占比将超50%，High-NA产品数月内面世
 - [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价40评级买入
+- [美光FQ3-26业绩预览](entries/美光FQ3-26业绩预览.md) — UBS美光FQ3:26预览：定价持续走强，LTA锁定30%行业DDR量，Agentic AI重塑存储需求，目标价,625评级买入
