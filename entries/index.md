@@ -124,3 +124,4 @@
 - [JPMorgan — SK海力士 1Q26业绩wrap：DRAM/NAND涨价加速，维持OW目标₩1,800,000](entries/JPMorgan-SK海力士-1Q26业绩wrap-DRAM-NAND涨价加速-维持OW目标-1-800-000.md) — JPMorgan解读SK海力士1Q26：DRAM ASP +63%超预期，NAND ASP +73%，库存降至<2周
 - [拼多多 研究报告 - 华泰证券 (2026-03-26)](entries/拼多多-研究报告-华泰证券-2026-03-26.md) — 免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。
 - [万国数据 研究报告 - Deutsche Bank (2026-05-21)](entries/万国数据-研究报告-Deutsche-Bank-2026-05-21.md) — Distributed on: 21/05/2026 07:03:12 GMT
+- [万国数据 研究报告 - JPMorgan (2026-05-21)](entries/万国数据-研究报告-JPMorgan-2026-05-21.md) — Asia Pacific Equity Research

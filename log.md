@@ -117,4 +117,5 @@
 - [拼多多 研究报告 - Deutsche Bank (2026-04-23)](entries/拼多多-研究报告-Deutsche-Bank-2026-04-23.md) — Article (pdf)
 - [JPMorgan — SK海力士 1Q26业绩wrap：DRAM/NAND涨价加速，维持OW目标₩1,800,000](entries/JPMorgan-SK海力士-1Q26业绩wrap-DRAM-NAND涨价加速-维持OW目标-1-800-000.md) — Article (pdf)
 - [拼多多 研究报告 - 华泰证券 (2026-03-26)](entries/拼多多-研究报告-华泰证券-2026-03-26.md) — Article (pdf)
+- [万国数据 研究报告 - Deutsche Bank (2026-05-21)](entries/万国数据-研究报告-Deutsche-Bank-2026-05-21.md) — Article (pdf)
 
