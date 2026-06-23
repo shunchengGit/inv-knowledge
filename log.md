@@ -160,4 +160,5 @@
 - [福耀玻璃MS 1Q26电话会：ASP超指引，市占率持续提升](entries/福耀玻璃MS-1Q26电话会-ASP超指引-市占率持续提升.md) — Analysis (pdf)
 - [福耀玻璃BofA 1Q26：EBIT超预期10%，ASP增长11%驱动](entries/福耀玻璃BofA-1Q26-EBIT超预期10-ASP增长11-驱动.md) — Analysis (pdf)
 - [福耀玻璃JPM 1Q26：管理层看好2Q26订单动能，ASP增长可持续](entries/福耀玻璃JPM-1Q26-管理层看好2Q26订单动能-ASP增长可持续.md) — Analysis (pdf)
+- [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis (pdf)
 
