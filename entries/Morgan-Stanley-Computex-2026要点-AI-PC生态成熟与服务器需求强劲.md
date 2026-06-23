@@ -32,3 +32,4 @@ AI PC成为最大亮点，高通、AMD、Intel均推出下一代AI PC芯片。
 - 机构: morgan-stanley
 - 事件: computex-2026
 - 相关: ai-pc, liquid-cooling, server
+- [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — 共享标签: computex-2026, morgan-stanley, 2026-Q2; 同标的: tech-hardware, computex-2026; 共同关键词(29): mo, ga, le, 要点

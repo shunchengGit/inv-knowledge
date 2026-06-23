@@ -1,4 +1,5 @@
 ## Analysis
+- [>> Employed by a non-US affiliate of BofAS and is not registered/qualified as a research analyst](entries/Employed-by-a-non-US-affiliate-of-BofAS-and-is-not-registered-qualified-as-a-res.md) — >> Employed by a non-US affiliate of BofAS and is not registered/qualified as a research analyst under the FINRA rules. Refer to "Other Important Disclosures" for information on certain BofA Securities entities that take responsibility for the information herein in particular jurisdictions.
 - [Asia Pacific Equity Research](entries/Asia-Pacific-Equity-Research.md) — Asia Pacific Equity Research www.jpmorganmarkets.com This material is neither intended to be distributed to Mainland China investors nor to provide securities investment consultancy services within the territory of Mainland China. This material or any portion hereof may not be reprinted, sold or red
 - [ASML伦敦TMT会议要点](entries/ASML伦敦TMT会议要点.md) — JPMorgan伦敦TMT大会ASML CFO炉边对话：EUV产能2027年≥80台，DRAM未来占比将超50%，High-NA产品数月内面世
 - [ASML分析：两种孔径的故事](entries/ASML分析-两种孔径的故事.md) — BNP Paribas ASML研报：评级Outperform目标价€1,550，2026-30E EPS €33.74-€69.85，EV/EBITDA从30.9x降至13.8x
@@ -6,18 +7,44 @@
 - [ASML首选股：三大驱动因素](entries/ASML首选股-三大驱动因素.md) — UBS重申ASML首选股：产能瓶颈被夸大、存储器曝光度最高、High-NA价值巨大，目标价€1,900（上调自€1,600）
 - [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — BNP Paribas维持Outperform，1Q26 DRAM ASP中60%+/NAND ASP中70%+大幅增长。HBM4E预期>50%份额，容量扩张有纪律性（龙仁Cluster灵活分期）。TP上调26%至KRW 2,000,000，基于3x 2027E BVPS。
 - [BNP Paribas：台积电推出A13并更新技术路线图——重申Outperform](entries/台积电BNP-技术路线图-A13更新-重申Outperform.md) — BNP Paribas（Alex Chang）于2026年4月24日发布。A13（2029 HVM，面积节省6%）、A12（Super Power Rail背面供电）、N2U（2028 HVM，速度+3-4%/功耗-8-10%）、CoWoS扩展至14-reticle。评级Outperform，目标价TWD2,520/USD478。
+- [BofA 5月App数据跟踪：中国电商与在线媒体格局分析](entries/BofA-5月App数据跟踪-中国电商与在线媒体格局分析.md) — BofA基于5月App下载量和活跃度数据分析中国互联网电商、本地生活和在线媒体竞争格局变化
 - [BofA Securities does and seeks to do business with issuers covered in its research](entries/BofA-Securities-does-and-seeks-to-do-business-with-issuers-covered-in-its-resear.md) — BofA Securities does and seeks to do business with issuers covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this
 - [BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧](entries/台积电BofA-产能与技术爬坡-缓解竞争担忧.md) — BofA（Haas Liu）于2026年5月15日发布的台积电台湾技术研讨会要点分析。3nm产能Q4'26达190k WPM（远超三星/Intel），N2缺陷密度领先3nm两季度，CoWoS良率98%+。评级买入，目标价NT$2,560。
 - [BofA：台积电先进节点需求强劲——2026-27资本支出展望上调](entries/台积电BofA-先进节点资本支出-Arizona盈利改善.md) — BofA（Haas Liu）于2026年5月17日发布。TSMC董事会批准US$31bn资本拨款，Arizona 1Q26运营大幅改善（营收NT$39bn，净利润NT$19bn），2027年capex或达US$75bn。评级买入，目标价NT$2,560。
 - [BofA：台积电股东大会更新——AI驱动需求与技术执行支撑营收/毛利率展望](entries/台积电BofA-股东大会AI需求与技术执行.md) — BofA（Haas Liu）于2026年6月4日发布的台积电年度股东大会要点分析。管理层对AI需求高度乐观（2030年前增长可见度），维持56%+长期GM指引。N2利润率将优于N3。Intel为前十大客户。评级买入，目标价NT$2,560。
 - [China (PRC) | Internet](entries/China-PRC-Internet.md) — China (PRC) | Internet Thomas Chong *  | Equity Analyst 852 3743 8016 | thomas.chong@jefferies.com Zoey Zong *  | Equity Analyst 852 3743 8163 | zoey.zong@jefferies.com AI Series #41: New Developments of Highlights (1) media last Fri reported on DeepSeek's plan to raise USD7bn.
 - [China (PRC) | Technology](entries/China-PRC-Technology.md) — China (PRC) | Technology Nick Cheng *  | Equity Analyst +852 3743 8750 | nick.cheng@jefferies.com Edison Lee, CFA *  | Equity Analyst 852 3743 8009 | edison.lee@jefferies.com Jacky He *  | Equity Analyst +852 3743 8084 | jacky.he@jefferies.com Matt Ma *  | Equity Analyst
+- [China Beauty  | Asia Pacific](entries/China-Beauty-Asia-Pacific.md) — China Beauty  | Asia Pacific 6.18 Pre-sale Rankings: Proya No.1, Giant Biogene Positive Morgan Stanley Asia Limited+ Dustin.Wei@morganstanley.com Jenny.Yu1@morganstanley.com
+- [China Industrials  | Asia Pacific](entries/China-Industrials-Asia-Pacific.md) — China Industrials  | Asia Pacific Trip Takeaways: Stronger, The trip strengthened our conviction in the super capex cycle, from AI hardware equipment to broad equipment and automation, and on upgrade potential for China's advanced equipment. We prefer Wuxi Lead, Han's Laser, Hengli Hydraulic,
 - [Disclosures & Disclaimer](entries/Disclosures-Disclaimer.md) — Disclosures & Disclaimer This report must be read with the disclosures and the analyst certifications in the Disclosure appendix, and with the Disclaimer, which forms part of it. Issuer of report: The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch
+- [EQUITY: AUTOS & AUTO PARTS](entries/EQUITY-AUTOS-AUTO-PARTS.md) — EQUITY: AUTOS & AUTO PARTS Sansera Engineering   SASE.NS SANSERA IN Global Markets Research Diversification gaining pace 4QFY26 beats estimates; strong global traction in non- auto led by ADS division keeps growth visibility high 4QFY26: EBITDA ahead of our and Bloomberg consensus estimates
 - [Global Foundation](entries/Global-Foundation.md) — Morgan Stanley Asia Limited+ Sheng.Zhong@morganstanley.com Morgan Stanley & Co. LLC Adam.Jonas@morganstanley.com
+- [Global Technology](entries/Global-Technology.md) — Computex 2026 Takeaways A full suite of racks in a Nvidia Vera Rubin POD was on full display at Computex, including the Vera rack, Storage rack, Groq 3 LPX rack, Spectrum-X CPO Switch, and Vera Rubin NVL72. Nvidia also introduced its Agentic PC chip RTX Spark chip, which
+- [Greater China Banks Daily](entries/Greater-China-Banks-Daily.md) — Greater China Banks Daily China’s May trade data beat expectations on strong AI-related demand; China’s Tier-1 city rents rise for a third straight month China’s May trade data beat expectations on strong AI-related demand Caixin, Reuters, Jun 9: According to Custom data released, China’s exports in
 - [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — HSBC维持Buy评级，TP从KRW 1,800,000上调至2,900,000。DRAM服务器和移动端价格均超预期，2Q26 OP预测上调14%至KRW 65tn。通用服务器需求爆发（AI:非AI比例从4-8:1趋近1:1），CSP Capex大幅增长。
 - [Internet  | North America](entries/Internet-North-America.md) — Internet  | North America Where Are We Trading Now: Into the Summer of  AI Morgan Stanley & Co. LLC Brian.Nowak@morganstanley.com Matthew.Cost@morganstanley.com
+- [Investor Presentation  | Asia Pacific](entries/Investor-Presentation-Asia-Pacific.md) — Investor Presentation  | Asia Pacific Greater China Technology Hardware: How Long and How Much Will AI Profit  Beat? Morgan Stanley Taiwan Limited+ Howard.Kao@morganstanley.com Sharon.Shih@morganstanley.com Greater China Technology Hardware
+- [IT Hardware  | North America](entries/IT-Hardware-North-America.md) — IT Hardware  | North America What Lenovo's Results Mean for US Enterprise Hardware OEMs US Enterprise Hardware OEMs rallied 13% on Friday - the strongest day for the group since April '25 - after Lenovo posted strong F4Q rev growth and resilient margins. Given our Cautious
+- [Jefferies AI系列#41：DeepSeek V4发布后的新进展](entries/Jefferies-AI系列-41-DeepSeek-V4发布后的新进展.md) — Jefferies追踪DeepSeek V4发布后的行业影响，分析开源模型对AI竞争格局的冲击
+- [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — JPMorgan全球中国峰会2026互联网行业核心要点：AI应用落地、电商竞争格局和监管环境展望
+- [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — JPMorgan分析AI数据中心储能系统(ESS)的参考架构设计和早期订单趋势
 - [JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M](entries/JPMorgan-SK-hynix-LTA-paves-path-for-new-valuation-framework-raising-PT-to-W3M.md) — JPMorgan维持Overweight，TP从KRW 1,800,000大幅上调至3,000,000。LTA谈判进入关键拐点，将推动存储器从P/B向P/E估值框架迁移（8x FY26-27E EPS）。上调FY26-28E EPS 9-20%。
+- [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — JPMorgan在中国AI应用巡回调研中发现，AI正从模型开发阶段转向行业应用加速落地
+- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — JPMorgan首次覆盖中国AI芯片Fabless板块，预计40%单位CAGR至2030年，聚焦本土AI芯片国产替代
+- [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — JPMorgan分析外卖行业新披露规则对美团和饿了么竞争格局的影响
+- [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — JPMorgan分析5月国家统计局房地产数据，一线城市房价环比止跌，但全国市场恢复仍需政策支持
+- [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — JPMorgan在中国电池行业报告中建议精选个股，关注供给侧改革受益标的和全球化布局领先的企业
+- [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — JPMorgan全球房地产研究团队每日新闻和研究摘要，涵盖中国地产行业动态
+- [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — JPMorgan分析4月WSTS半导体销售数据，同比增速再创新高，AI芯片和存储是主要驱动力
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Macquarie维持Outperform，TP上调61%至KRW 2,900,000（6x 2027E PE）。存储器短缺将持续恶化，HBM 2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。
+- [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Morgan Stanley总结Computex 2026展会关键趋势：AI PC、服务器与边缘计算
+- [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Morgan Stanley中国工业企业调研显示资本支出复苏范围扩大、力度增强
+- [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Morgan Stanley分析中国金融业高质量发展路径和人民币存款新规对银行的影响
+- [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Morgan Stanley分析中国金融业高质量发展路径、人民币存款新规的影响以及银行板块投资机会
+- [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Morgan Stanley分析AI投资从硬件到软件的轮动趋势，评估互联网板块当前估值水平
+- [Morgan Stanley人形机器人前沿：即将登陆彭博终端与产业进展](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Morgan Stanley追踪人形机器人行业最新进展，关注机器人登录彭博终端等里程碑事件
+- [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Morgan Stanley总结Computex 2026展会关键趋势，AI PC生态成熟、服务器需求强劲、边缘计算崛起
+- [Morgan Stanley台湾半导体供应链调研纪要](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Morgan Stanley在台湾与半导体公司会面后的关键发现，涵盖CoWoS产能、HBM需求和先进制程展望
 - [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — Morgan Stanley从每MW营收角度分析微软AI基础设施扩张：DC容量从FY24的5GW扩至FY28的20GW，营收/MW持续下降暗示营收预估可能滞后，目标价50
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，Capex从810亿上调至340亿，以及从席位向用量定价模式的加速转型
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 微软FQ3'26（2026年4月）财报综合速览：营收28.86亿(+18.3%)，EPS .27(+19.9%)，Azure CCY增长39%超预期，Capex指引900亿大幅上修，Copilot席位达2000万
@@ -36,7 +63,9 @@
 - [中际旭创上调PO至1650全栈光学供应商](entries/中际旭创上调PO至1650全栈光学供应商.md) — BofA中际旭创大幅上调目标价至¥1,650：1.6T需求更强延至2028年，NPO订单清晰可见（每5mn单位=¥100亿+盈利），62%盈利CAGR
 - [中际旭创多重增长驱动-AI光网络升级](entries/中际旭创多重增长驱动-AI光网络升级.md) — Nomura中际旭创深度：1.6T出货量上调至26mn/60mn单位，3.2T/NPO/CPO延伸AI周期，目标价¥1,015评级买入
 - [免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。](entries/免责声明和披露以及分析师声明是报告的一部分-请务必一起阅读.md) — 免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。 SAC No. S0570518110002 zhangjiqiang@htsc.com SAC No. S0570522040001
+- [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — 华泰证券分析AI Agent发展趋势，认为Agent应用爆发将拉动算力需求持续增长，形成算力通胀效应
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — 华泰证券预计腾讯1Q26营收+11%/经调整净利+10%，AI Agent赛道迎拐点(龙虾产品矩阵升级/云提价/混元3.0发布)，SOTP目标价716港元，预计26年营收8410亿
+- [华泰证券资产配置月报：AI链行情进入新阶段](entries/华泰证券资产配置月报-AI链行情进入新阶段.md) — 华泰证券4月资产配置报告认为AI链行情正从第一阶段（算力硬件）向第二阶段（应用与生态）切换
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — 宁波银行2026Q1营收+10.2% YoY，净利润+10.3% YoY，NIM环比回升5bps至1.73%，贷款+15.7% YoY持续市占率提升，资产质量稳定(NPL 0.76%)，MS目标价45元对应0.87x 2026E P/B
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — 宁波银行2026Q1营收/净利润+10.2%/+10.3%超预期，NIM环比+5bps至1.73%，手续费收入+81.7% YoY，2025年分红率从21.9%大幅提升至27.0%，股息率3.7%
 - [日月光投控中介层业务超预期VSMC资本支出降低](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Nomura世界先进研报：中介层业务好于预期、VSMC资本支出从8亿降至7亿加速盈亏平衡，上调至买入目标价TWD178
@@ -52,6 +81,7 @@
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — UBS认为腾讯2026Q1业绩符合预期，核心业务盈利能力稳健(+17% ex-AI)，当前约13x Forward PE处于历史低位，AI期权价值未充分定价，目标价516港元
 - [英特尔服务器需求顺风与制造叙事改善](entries/英特尔服务器需求顺风与制造叙事改善.md) — UBS英特尔1Q26点评：营收35.8亿超预期，DCAI+22% YoY，18A良率提前6个月，目标价3评级中性
 - [英特尔重新定价AI系统级价值](entries/英特尔重新定价AI系统级价值.md) — 华泰证券英特尔点评：AI驱动业务占60%营收，18A实现制程追赶，目标价12（4.0x 27E PB）重申买入
+- [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — 邮箱：zhaoxc@csco.com.cn 邮箱：donglyn@csco.com.cn
 - [请务必阅读正文之后的免责声明及其项下所有内容](entries/请务必阅读正文之后的免责声明及其项下所有内容.md) — 请务必阅读正文之后的免责声明及其项下所有内容 持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会 zhangheng2@guosen.com.cn chenyaorong@guosen.com.cn
 
 ## Research Report
@@ -74,33 +104,3 @@
 - [ZTO Express: Winning on quality over quantity (UBS)](entries/ZTO-Express-Winning-on-quality-over-quantity-UBS.md) — UBS对ZTO 1Q26的First Read报告。收入同比+22%超预期,但少数股东权益及补贴减少导致净利润仅+5%。市场份额提升1.4ppts,ASP改善由KA客户和单均重量增加驱动。
 - [泡泡玛特4月将推出小家电,有望持续推动IP势能提升（国信证券）](entries/泡泡玛特4月将推出小家电-有望持续推动IP势能提升-国信证券.md) — 国信证券对泡泡玛特推出小家电产品的深度分析。首批小家电品类包括冷藏箱、电热水壶、咖啡机、吹风机等,预计2026年收入占比约1%,毛利率50%以上。
 - [泡泡玛特入局小家电 -- 家电行业月度动态跟踪（中国银河）](entries/泡泡玛特入局小家电-家电行业月度动态跟踪-中国银河.md) — 中国银河证券2026年3月家电行业月度动态跟踪报告,重点分析泡泡玛特入局小家电赛道、大疆发布全景无人机、追觅发力清洁电器市场等热点。
-- [China Industrials  | Asia Pacific](entries/China-Industrials-Asia-Pacific.md) — China Industrials  | Asia Pacific Trip Takeaways: Stronger, The trip strengthened our conviction in the super capex cycle, from AI hardware equipment to broad equipment and automation, and on upgrade potential for China's advanced equipment. We prefer Wuxi Lead, Han's Laser, Hengli Hydraulic,
-- [>> Employed by a non-US affiliate of BofAS and is not registered/qualified as a research analyst](entries/Employed-by-a-non-US-affiliate-of-BofAS-and-is-not-registered-qualified-as-a-res.md) — >> Employed by a non-US affiliate of BofAS and is not registered/qualified as a research analyst under the FINRA rules. Refer to "Other Important Disclosures" for information on certain BofA Securities entities that take responsibility for the information herein in particular jurisdictions.
-- [EQUITY: AUTOS & AUTO PARTS](entries/EQUITY-AUTOS-AUTO-PARTS.md) — EQUITY: AUTOS & AUTO PARTS Sansera Engineering   SASE.NS SANSERA IN Global Markets Research Diversification gaining pace 4QFY26 beats estimates; strong global traction in non- auto led by ADS division keeps growth visibility high 4QFY26: EBITDA ahead of our and Bloomberg consensus estimates
-- [IT Hardware  | North America](entries/IT-Hardware-North-America.md) — IT Hardware  | North America What Lenovo's Results Mean for US Enterprise Hardware OEMs US Enterprise Hardware OEMs rallied 13% on Friday - the strongest day for the group since April '25 - after Lenovo posted strong F4Q rev growth and resilient margins. Given our Cautious
-- [Investor Presentation  | Asia Pacific](entries/Investor-Presentation-Asia-Pacific.md) — Investor Presentation  | Asia Pacific Greater China Technology Hardware: How Long and How Much Will AI Profit  Beat? Morgan Stanley Taiwan Limited+ Howard.Kao@morganstanley.com Sharon.Shih@morganstanley.com Greater China Technology Hardware
-- [Global Technology](entries/Global-Technology.md) — Computex 2026 Takeaways A full suite of racks in a Nvidia Vera Rubin POD was on full display at Computex, including the Vera rack, Storage rack, Groq 3 LPX rack, Spectrum-X CPO Switch, and Vera Rubin NVL72. Nvidia also introduced its Agentic PC chip RTX Spark chip, which
-- [China Beauty  | Asia Pacific](entries/China-Beauty-Asia-Pacific.md) — China Beauty  | Asia Pacific 6.18 Pre-sale Rankings: Proya No.1, Giant Biogene Positive Morgan Stanley Asia Limited+ Dustin.Wei@morganstanley.com Jenny.Yu1@morganstanley.com
-- [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — 邮箱：zhaoxc@csco.com.cn 邮箱：donglyn@csco.com.cn
-- [Greater China Banks Daily](entries/Greater-China-Banks-Daily.md) — Greater China Banks Daily China’s May trade data beat expectations on strong AI-related demand; China’s Tier-1 city rents rise for a third straight month China’s May trade data beat expectations on strong AI-related demand Caixin, Reuters, Jun 9: According to Custom data released, China’s exports in
-- [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — JPMorgan全球中国峰会2026互联网行业核心要点：AI应用落地、电商竞争格局和监管环境展望
-- [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Morgan Stanley分析AI投资从硬件到软件的轮动趋势，评估互联网板块当前估值水平
-- [BofA 5月App数据跟踪：中国电商与在线媒体格局分析](entries/BofA-5月App数据跟踪-中国电商与在线媒体格局分析.md) — BofA基于5月App下载量和活跃度数据分析中国互联网电商、本地生活和在线媒体竞争格局变化
-- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — JPMorgan首次覆盖中国AI芯片Fabless板块，预计40%单位CAGR至2030年，聚焦本土AI芯片国产替代
-- [Morgan Stanley台湾半导体供应链调研纪要](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Morgan Stanley在台湾与半导体公司会面后的关键发现，涵盖CoWoS产能、HBM需求和先进制程展望
-- [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — JPMorgan分析4月WSTS半导体销售数据，同比增速再创新高，AI芯片和存储是主要驱动力
-- [Jefferies AI系列#41：DeepSeek V4发布后的新进展](entries/Jefferies-AI系列-41-DeepSeek-V4发布后的新进展.md) — Jefferies追踪DeepSeek V4发布后的行业影响，分析开源模型对AI竞争格局的冲击
-- [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — JPMorgan在中国AI应用巡回调研中发现，AI正从模型开发阶段转向行业应用加速落地
-- [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Morgan Stanley分析中国金融业高质量发展路径、人民币存款新规的影响以及银行板块投资机会
-- [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Morgan Stanley总结Computex 2026展会关键趋势，AI PC生态成熟、服务器需求强劲、边缘计算崛起
-- [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — JPMorgan分析5月国家统计局房地产数据，一线城市房价环比止跌，但全国市场恢复仍需政策支持
-- [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — JPMorgan在中国电池行业报告中建议精选个股，关注供给侧改革受益标的和全球化布局领先的企业
-- [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — 华泰证券分析AI Agent发展趋势，认为Agent应用爆发将拉动算力需求持续增长，形成算力通胀效应
-- [华泰证券资产配置月报：AI链行情进入新阶段](entries/华泰证券资产配置月报-AI链行情进入新阶段.md) — 华泰证券4月资产配置报告认为AI链行情正从第一阶段（算力硬件）向第二阶段（应用与生态）切换
-- [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — JPMorgan分析外卖行业新披露规则对美团和饿了么竞争格局的影响
-- [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — JPMorgan分析AI数据中心储能系统(ESS)的参考架构设计和早期订单趋势
-- [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Morgan Stanley分析中国金融业高质量发展路径和人民币存款新规对银行的影响
-- [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Morgan Stanley总结Computex 2026展会关键趋势：AI PC、服务器与边缘计算
-- [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — JPMorgan全球房地产研究团队每日新闻和研究摘要，涵盖中国地产行业动态
-- [Morgan Stanley人形机器人前沿：即将登陆彭博终端与产业进展](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Morgan Stanley追踪人形机器人行业最新进展，关注机器人登录彭博终端等里程碑事件
-- [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Morgan Stanley中国工业企业调研显示资本支出复苏范围扩大、力度增强

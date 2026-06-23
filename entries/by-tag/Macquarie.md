@@ -1,0 +1,3 @@
+# Macquarie
+
+- [Laopu Gold Initiation: As good as it can get (Macquarie)](entries/Laopu-Gold-Initiation-As-good-as-it-can-get-Macquarie.md) — Research Report

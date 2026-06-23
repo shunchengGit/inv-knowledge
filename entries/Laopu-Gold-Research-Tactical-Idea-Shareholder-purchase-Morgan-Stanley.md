@@ -286,3 +286,7 @@ Morgan Stanley Research does not provide individually tailored investment advice
 who receive it. Morgan Stanley recommends that investors independently evaluate particular investments and strategies, and encourages investors to seek the advice of a financial adviser. 
 The appropriateness of an investment or strategy will depend on an investor's circumstances and objectives. The securities, instruments, or strategies discussed in Morgan Stanley Research
 …(截断)
+
+## 关联
+- [ZTO Express Research Tactical Idea -- Alibaba stake concern offers entry (Morgan Stanley)](entries/ZTO-Express-Research-Tactical-Idea-Alibaba-stake-concern-offers-entry-Morgan-Sta.md) — 共享标签: 战术机会, Morgan Stanley; 同标的: 战术机会, Morgan Stanley; 共同关键词(42): mo, ar, ga, le
+- [Laopu Gold: Resilient demand; likely no financial needs; attractive valuation (JPMorgan)](entries/Laopu-Gold-Resilient-demand-likely-no-financial-needs-attractive-valuation-JPMor.md) — 共享标签: Overweight, 老铺黄金, Laopu Gold; 同标的: Overweight, 老铺黄金; 共同关键词(29): mo, ga, ol, ac

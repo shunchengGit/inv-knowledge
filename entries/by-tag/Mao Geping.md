@@ -1,0 +1,3 @@
+# Mao Geping
+
+- [Mao Geping: Global China Summit 2026 takeaways -- Solid growth visibility (JPMorgan)](entries/Mao-Geping-Global-China-Summit-2026-takeaways-Solid-growth-visibility-JPMorgan.md) — Research Report

@@ -1275,3 +1275,6 @@ opinion history tables (if applicable), are available for compendium reports and
 covered companies, by visiting https://www.jpmm.com/research/disclosures, calling 1-800-477-0406, or e-mailing 
 research.disclosure.inquiries@jpmorgan.com with your request.
 …(截断)
+
+## 关联
+- [Laopu Gold Research Tactical Idea -- Shareholder purchase (Morgan Stanley)](entries/Laopu-Gold-Research-Tactical-Idea-Shareholder-purchase-Morgan-Stanley.md) — 共享标签: Overweight, 老铺黄金, Laopu Gold; 同标的: Overweight, 老铺黄金; 共同关键词(29): mo, ga, ol, ac
