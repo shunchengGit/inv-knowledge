@@ -57,3 +57,4 @@
 - [免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。](entries/免责声明和披露以及分析师声明是报告的一部分-请务必一起阅读.md) — 免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。 SAC No. S0570518110002 zhangjiqiang@htsc.com SAC No. S0570522040001
 - [China (PRC) | Internet](entries/China-PRC-Internet.md) — China (PRC) | Internet Thomas Chong *  | Equity Analyst 852 3743 8016 | thomas.chong@jefferies.com Zoey Zong *  | Equity Analyst 852 3743 8163 | zoey.zong@jefferies.com AI Series #41: New Developments of Highlights (1) media last Fri reported on DeepSeek's plan to raise USD7bn.
 - [www.jpmorganmarkets.com](entries/www-jpmorganmarkets-com.md) — www.jpmorganmarkets.com Asia Pacific Equity Research China Artificial Intelligence China AI Application Tour Takeaways: Early Evidence of Workflow-Led Monetization Head of China Equity Research and Co-Head of Asia TMT alex.yao@jpmorgan.com SAC Registration Number: S1730523020001
+- [英特尔服务器需求顺风与制造叙事改善](entries/英特尔服务器需求顺风与制造叙事改善.md) — UBS英特尔1Q26点评：营收35.8亿超预期，DCAI+22% YoY，18A良率提前6个月，目标价3评级中性
