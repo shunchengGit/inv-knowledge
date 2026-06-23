@@ -141,3 +141,4 @@
 - [英特尔 研究报告 - UBS Equities (2026-04-23)](entries/英特尔-研究报告-UBS-Equities-2026-04-23.md) — Server Tailwinds and Continued Improvement in
 - [英特尔 研究报告 - 华泰证券 (2026-04-25)](entries/英特尔-研究报告-华泰证券-2026-04-25.md) — 免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。
 - [三星电子 研究报告 - BNP Paribas (2026-04-30)](entries/三星电子-研究报告-BNP-Paribas-2026-04-30.md) — SAMSUNG ELECTRONICS OUTPERFORM
+- [日月光投控 研究报告 - Nomura (2026-05-05)](entries/日月光投控-研究报告-Nomura-2026-05-05.md) — Vanguard   5347.TWO 5347 TT
