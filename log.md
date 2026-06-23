@@ -136,4 +136,5 @@
 - [英特尔 研究报告 - 华泰证券 (2026-04-25)](entries/英特尔-研究报告-华泰证券-2026-04-25.md) — Article (pdf)
 - [三星电子 研究报告 - BNP Paribas (2026-04-30)](entries/三星电子-研究报告-BNP-Paribas-2026-04-30.md) — Article (pdf)
 - [日月光投控 研究报告 - Nomura (2026-05-05)](entries/日月光投控-研究报告-Nomura-2026-05-05.md) — Article (pdf)
+- [毛戈平 调研纪要 - JPMorgan](entries/毛戈平-调研纪要-JPMorgan.md) — Article (pdf)
 
