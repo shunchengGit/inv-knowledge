@@ -15,3 +15,6 @@
 - gen-knowledge-curator 初始版本，km_import/km_search/km_lint/km_stats 脚本就绪
 - [福耀玻璃2026年Q1业绩后五大外资研报综合摘要](investing/福耀玻璃2026年Q1业绩后五大外资研报综合摘要.md) — Synthesis → investing
 
+## 2026-06-23
+- [BofA Future Car Review #78 — BYD Datang D-class seven-seater flagship SUV](entries/BofA-Future-Car-Review-78-BYD-Datang-D-class-seven-seater-flagship-SUV.md) — Article (pdf)
+
