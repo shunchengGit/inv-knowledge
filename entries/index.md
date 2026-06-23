@@ -103,3 +103,4 @@
 - [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Morgan Stanley总结Computex 2026展会关键趋势：AI PC、服务器与边缘计算
 - [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — JPMorgan全球房地产研究团队每日新闻和研究摘要，涵盖中国地产行业动态
 - [Morgan Stanley人形机器人前沿：即将登陆彭博终端与产业进展](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Morgan Stanley追踪人形机器人行业最新进展，关注机器人登录彭博终端等里程碑事件
+- [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Morgan Stanley中国工业企业调研显示资本支出复苏范围扩大、力度增强
