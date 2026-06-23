@@ -155,3 +155,4 @@
 - [BNP — 微软：多线推进，Copilot开始拉动增长](entries/BNP-微软-多线推进-Copilot开始拉动增长.md) — BNP 5月分析：M365 Cloud + Azure占收入60%，Copilot渗透率提升
 - [HSBC — Anthropic可能是微软430亿美元年运营机会](entries/HSBC-Anthropic可能是微软430亿美元年运营机会.md) — HSBC认为Anthropic可为Azure带来年化430亿美元运营收入机会
 - [Morgan Stanley — 微软基础设施货币化：AI周期仍处早期](entries/Morgan-Stanley-微软基础设施货币化-AI周期仍处早期.md) — MS创新框架分析AI Capex回报：每兆瓦货币化率表明收入预测有上行空间
+- [Morgan Stanley — 微软Windows PC与NVIDIA合作开启AI PC时代](entries/Morgan-Stanley-微软Windows-PC与NVIDIA合作开启AI-PC时代.md) — MS分析微软NVIDIA联合发布RTX Spark Windows PC，首款NVIDIA架构Windows系统
