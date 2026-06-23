@@ -39,4 +39,5 @@
 - [行业研究-金融2026年研报综合摘要](entries/行业研究-金融2026年研报综合摘要.md) — Synthesis (pdf)
 - [BNP Paribas — SK海力士 1Q26业绩点评：AI内存领导力增强，目标价上调至₩2,000,000](entries/BNP-Paribas-SK海力士-1Q26业绩点评-AI内存领导力增强-目标价上调至-2-000-000.md) — Article (pdf)
 - [HSBC — SK海力士1Q26业绩点评：服务器需求超预期，维持Buy目标₩1,800,000](entries/HSBC-SK海力士1Q26业绩点评-服务器需求超预期-维持Buy目标-1-800-000.md) — Article (pdf)
+- [Nomura — SK海力士1Q26业绩点评：业绩Beat，LTA铺路新估值框架，目标价₩2,340,000](entries/Nomura-SK海力士1Q26业绩点评-业绩Beat-LTA铺路新估值框架-目标价-2-340-000.md) — Article (pdf)
 
