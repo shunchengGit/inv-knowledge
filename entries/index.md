@@ -73,3 +73,4 @@
 - [中通快递 2026-Q2 业绩分析 - Morgan Stanley](entries/中通快递-2026-Q2-业绩分析-Morgan-Stanley.md) — ZTO Express  | Asia Pacific
 - [中通快递 战术策略 - Morgan Stanley](entries/中通快递-战术策略-Morgan-Stanley.md) — ZTO Express  | Asia Pacific
 - [行业研究-金融 - Morgan Stanley Investor Presentation China Financials High quality develo... 122491082](entries/行业研究-金融-Morgan-Stanley-Investor-Presentation-China-Financials-High-quality-devel.md) — Investor Presentation  | Asia Pacific
+- [中通快递 研究报告 - UBS Equities (2026-05-20)](entries/中通快递-研究报告-UBS-Equities-2026-05-20.md) — Winning on quality over quantity
