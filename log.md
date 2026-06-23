@@ -205,4 +205,5 @@
 - [Asia Pacific Equity Research](entries/Asia-Pacific-Equity-Research.md) — Analysis (pdf)
 - [英特尔重新定价AI系统级价值](entries/英特尔重新定价AI系统级价值.md) — Analysis (pdf)
 - [Disclosures & Disclaimer](entries/Disclosures-Disclaimer.md) — Analysis (pdf)
+- [中际旭创1Q26超预期1-6T推动利润率上行](entries/中际旭创1Q26超预期1-6T推动利润率上行.md) — Analysis (pdf)
 
