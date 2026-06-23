@@ -202,6 +202,7 @@
 
 ## 行业研究-汽车
 - [2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf](行业研究-汽车/2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf)
+- [BofA-Greater-China-EV-Future-Car-2026-06-18.pdf](行业研究-汽车/BofA-Greater-China-EV-Future-Car-2026-06-18.pdf)
 
 ## 行业研究-科技硬件
 - [2026-05-26-Morgan Stanley-IT Hardware What Lenovos Results Mean for US Enterprise Ha...-122233036.undefined.pdf](行业研究-科技硬件/2026-05-26-Morgan Stanley-IT Hardware What Lenovos Results Mean for US Enterprise Ha...-122233036.undefined.pdf)
