@@ -9,4 +9,3 @@
 - [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — Analysis
 - [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — Analysis
 - [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — Analysis
-- [North America Equity Research](entries/North-America-Equity-Research.md) — Analysis
