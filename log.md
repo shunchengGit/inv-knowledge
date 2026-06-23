@@ -81,4 +81,5 @@
 - [汇川技术 研究报告 - Macquarie Research (2026-04-28)](entries/汇川技术-研究报告-Macquarie-Research-2026-04-28.md) — Article (pdf)
 - [行业研究-金融 - UBS Equities Greater China Banks Daily China’s May trade data beat expec...](entries/行业研究-金融-UBS-Equities-Greater-China-Banks-Daily-China-s-May-trade-data-beat-expec.md) — 行业研报 (pdf)
 - [汇川技术 研究报告 - Deutsche Bank (2026-04-29)](entries/汇川技术-研究报告-Deutsche-Bank-2026-04-29.md) — Article (pdf)
+- [行业研究-工业自动化 - Morgan Stanley 人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端 122326109](entries/行业研究-工业自动化-Morgan-Stanley-人形机器人-人形机器人前沿-人形机器人即将登陆彭博终端-122326109.md) — 行业研报 (pdf)
 

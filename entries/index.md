@@ -80,3 +80,4 @@
 - [汇川技术 研究报告 - Deutsche Bank (2026-04-29)](entries/汇川技术-研究报告-Deutsche-Bank-2026-04-29.md) — Distributed on: 29/04/2026 14:09:19 GMT
 - [行业研究-工业自动化 - Morgan Stanley 人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端 122326109](entries/行业研究-工业自动化-Morgan-Stanley-人形机器人-人形机器人前沿-人形机器人即将登陆彭博终端-122326109.md) — Morgan Stanley Asia Limited+
 - [汇川技术 研究报告 - JPMorgan (2026-04-29)](entries/汇川技术-研究报告-JPMorgan-2026-04-29.md) — Asia Pacific Equity Research
+- [行业研究-工业自动化 - Morgan Stanley China Industrials Trip Takeaways Stronger, Broader Capex B... 122462764](entries/行业研究-工业自动化-Morgan-Stanley-China-Industrials-Trip-Takeaways-Stronger-Broader-Cape.md) — China Industrials  | Asia Pacific
