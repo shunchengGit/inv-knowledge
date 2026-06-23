@@ -104,4 +104,5 @@
 - [贵州茅台 研究报告 - BofA Global Research (2026-04-16)](entries/贵州茅台-研究报告-BofA-Global-Research-2026-04-16.md) — Article (pdf)
 - [贵州茅台 研究报告 - BofA Global Research (2026-04-26)](entries/贵州茅台-研究报告-BofA-Global-Research-2026-04-26.md) — Article (pdf)
 - [贵州茅台 研究报告 - Jefferies (2026-04-27)](entries/贵州茅台-研究报告-Jefferies-2026-04-27.md) — Article (pdf)
+- [阿里巴巴 2026-Q2 业绩前瞻 - JPMorgan](entries/阿里巴巴-2026-Q2-业绩前瞻-JPMorgan.md) — Article (pdf)
 
