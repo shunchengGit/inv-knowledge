@@ -46,3 +46,4 @@
 - [ASML分析：两种孔径的故事](entries/ASML分析-两种孔径的故事.md) — BNP Paribas ASML研报：评级Outperform目标价€1,550，2026-30E EPS €33.74-€69.85，EV/EBITDA从30.9x降至13.8x
 - [ZTO Express: 1Q26 Results Call -- Sustained Positive Management Tone (Morgan Stanley)](entries/ZTO-Express-1Q26-Results-Call-Sustained-Positive-Management-Tone-Morgan-Stanley.md) — Morgan Stanley总结ZTO 1Q26电话会要点。管理层对盈利展望保持积极,单位成本降幅超预期且5月持续改善。4月市场量增仅低个位数,但ZTO保持10-13%量增指引。
 - [ASML首选股：三大驱动因素](entries/ASML首选股-三大驱动因素.md) — UBS重申ASML首选股：产能瓶颈被夸大、存储器曝光度最高、High-NA价值巨大，目标价€1,900（上调自€1,600）
+- [ZTO Express: Earnings Upgrade Continues Despite Macro Challenges (Morgan Stanley)](entries/ZTO-Express-Earnings-Upgrade-Continues-Despite-Macro-Challenges-Morgan-Stanley.md) — Morgan Stanley第三次上调ZTO盈利预测。1Q26后管理层对全年单位利润改善更乐观,正向循环(市场份额→定价权→成本优势)已重启。预计12个月回购约US$8亿(~8%股东回报)。

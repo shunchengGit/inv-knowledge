@@ -187,4 +187,5 @@
 - [ASML深度分析：High-NA-EUV采用时间线调整](entries/ASML深度分析-High-NA-EUV采用时间线调整.md) — Analysis (pdf)
 - [ZTO Express: 1Q26 beat, stronger unit economics as competition rationalizes (JPMorgan)](entries/ZTO-Express-1Q26-beat-stronger-unit-economics-as-competition-rationalizes-JPMorg.md) — Research Report (pdf)
 - [ASML分析：两种孔径的故事](entries/ASML分析-两种孔径的故事.md) — Analysis (pdf)
+- [ZTO Express: 1Q26 Results Call -- Sustained Positive Management Tone (Morgan Stanley)](entries/ZTO-Express-1Q26-Results-Call-Sustained-Positive-Management-Tone-Morgan-Stanley.md) — Research Report (pdf)
 
