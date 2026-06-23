@@ -216,4 +216,5 @@
 - [North America Equity Research](entries/North-America-Equity-Research.md) — Analysis (pdf)
 - [Global Foundation](entries/Global-Foundation.md) — Analysis (pdf)
 - [China Industrials  | Asia Pacific](entries/China-Industrials-Asia-Pacific.md) — Analysis (pdf)
+- [>> Employed by a non-US affiliate of BofAS and is not registered/qualified as a research analyst](entries/Employed-by-a-non-US-affiliate-of-BofAS-and-is-not-registered-qualified-as-a-res.md) — Analysis (pdf)
 
