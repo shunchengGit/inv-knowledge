@@ -217,4 +217,5 @@
 - [Global Foundation](entries/Global-Foundation.md) — Analysis (pdf)
 - [China Industrials  | Asia Pacific](entries/China-Industrials-Asia-Pacific.md) — Analysis (pdf)
 - [>> Employed by a non-US affiliate of BofAS and is not registered/qualified as a research analyst](entries/Employed-by-a-non-US-affiliate-of-BofAS-and-is-not-registered-qualified-as-a-res.md) — Analysis (pdf)
+- [EQUITY: AUTOS & AUTO PARTS](entries/EQUITY-AUTOS-AUTO-PARTS.md) — Analysis (pdf)
 
