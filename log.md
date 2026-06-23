@@ -213,4 +213,5 @@
 - [请务必阅读正文之后的免责声明及其项下所有内容](entries/请务必阅读正文之后的免责声明及其项下所有内容.md) — Analysis (pdf)
 - [日月光投控中介层业务超预期VSMC资本支出降低](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Analysis (pdf)
 - [Semiconductors  | North America](entries/Semiconductors-North-America.md) — Analysis (pdf)
+- [North America Equity Research](entries/North-America-Equity-Research.md) — Analysis (pdf)
 
