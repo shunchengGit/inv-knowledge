@@ -63,3 +63,4 @@
 - [行业研究-半导体 - JPMorgan Semiconductors April WSTS Growth Accelerates Again, Driven ...](entries/行业研究-半导体-JPMorgan-Semiconductors-April-WSTS-Growth-Accelerates-Again-Driven.md) — North America Equity Research
 - [行业研究-半导体 - Morgan Stanley Semiconductors Takeaways from public company meetings on ou... 122580650](entries/行业研究-半导体-Morgan-Stanley-Semiconductors-Takeaways-from-public-company-meetings-on.md) — Semiconductors  | North America
 - [行业研究-AI - Jefferies AI Series #41 New Developments of DeepSeek Post V4](entries/行业研究-AI-Jefferies-AI-Series-41-New-Developments-of-DeepSeek-Post-V4.md) — China (PRC) | Internet
+- [行业研究-AI - JPMorgan China Artificial Intelligence China AI Application Tour Take...](entries/行业研究-AI-JPMorgan-China-Artificial-Intelligence-China-AI-Application-Tour-Take.md) — www.jpmorganmarkets.com
