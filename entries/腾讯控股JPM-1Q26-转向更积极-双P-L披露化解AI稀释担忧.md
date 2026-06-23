@@ -40,3 +40,4 @@ JPMorgan在腾讯2026Q1业绩后发布深度分析，核心亮点是管理层首
 ## 引用
 - [JPMorgan - Tencent 1Q26 First Take](res/腾讯控股/2026-05-13-0700.HK-JPMorgan-Tencent (0700) First Take 1Q26 - two PLs under one ticker-122024510.pdf)
 - [JPMorgan - Tencent Compounding core](res/腾讯控股/2026-05-13-0700.HK-JPMorgan-Tencent (0700) Compounding core, bounded AI, trough multiple-122031596.pdf)
+- [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — 共享标签: tencent, 2026-Q1, profit-trend; 同标的: tencent; 共同关键词(8): q2, ai, pdf, 1q

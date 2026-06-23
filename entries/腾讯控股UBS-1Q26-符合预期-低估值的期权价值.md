@@ -39,3 +39,4 @@ UBS对腾讯2026Q1给出"符合预期"评价。非IFRS经营利润756亿（+9% Y
 
 ## 引用
 - [UBS - Tencent 1Q26 First Read](res/腾讯控股/2026-05-14-0700.HK-UBS Equities-First Read Tencent Holdings _1Q26 inline; undervalue option...-122029104.pdf)
+- [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — 共享标签: profit-trend, valuation, 2026-Q1; 共同关键词(14): read, ub, 2026, 1q26
