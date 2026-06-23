@@ -63,4 +63,5 @@
 - [行业研究-半导体 - Morgan Stanley Semiconductors Takeaways from our meetings in Taiwan 122325978](entries/行业研究-半导体-Morgan-Stanley-Semiconductors-Takeaways-from-our-meetings-in-Taiwan-122.md) — 行业研报 (pdf)
 - [行业研究-半导体 - JPMorgan Asian Tech Key takeaways from Broadcom’s Apr Q results](entries/行业研究-半导体-JPMorgan-Asian-Tech-Key-takeaways-from-Broadcom-s-Apr-Q-results.md) — 行业研报 (pdf)
 - [行业研究-半导体 - JPMorgan Asian Semis April WSTS data Strong YoY growth continues, be...](entries/行业研究-半导体-JPMorgan-Asian-Semis-April-WSTS-data-Strong-YoY-growth-continues-be.md) — 行业研报 (pdf)
+- [行业研究-半导体 - JPMorgan Semiconductors April WSTS Growth Accelerates Again, Driven ...](entries/行业研究-半导体-JPMorgan-Semiconductors-April-WSTS-Growth-Accelerates-Again-Driven.md) — 行业研报 (pdf)
 
