@@ -68,3 +68,4 @@
 - [行业研究-AI - JPMorgan AIDC ESS Reference Architectures and Early Orders Point to E...](entries/行业研究-AI-JPMorgan-AIDC-ESS-Reference-Architectures-and-Early-Orders-Point-to-E.md) — Asia Pacific Equity Research
 - [行业研究-科技硬件 - Morgan Stanley IT Hardware What Lenovos Results Mean for US Enterprise Ha... 122233036](entries/行业研究-科技硬件-Morgan-Stanley-IT-Hardware-What-Lenovos-Results-Mean-for-US-Enterprise.md) — IT Hardware  | North America
 - [行业研究-科技硬件 - Morgan Stanley Investor Presentation Greater China Technology Hardware Ho... 122271307](entries/行业研究-科技硬件-Morgan-Stanley-Investor-Presentation-Greater-China-Technology-Hardware.md) — Investor Presentation  | Asia Pacific
+- [行业研究-科技硬件 - Morgan Stanley Global Technology Computex 2026 Takeaways 122462326](entries/行业研究-科技硬件-Morgan-Stanley-Global-Technology-Computex-2026-Takeaways-122462326.md) — Computex 2026 Takeaways
