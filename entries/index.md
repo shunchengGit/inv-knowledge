@@ -152,3 +152,4 @@
 - [BNP — 微软FQ3'26财报点评：Azure与M365稳健，云竞赛白热化](entries/BNP-微软FQ3-26财报点评-Azure与M365稳健-云竞赛白热化.md) — BNP点评微软F3Q26：Azure+M365增长强劲，云基础设施ARR约3400亿美元
 - [HSBC — 微软FQ3'26强劲，Azure加速，维持Buy](entries/HSBC-微软FQ3-26强劲-Azure加速-维持Buy.md) — HSBC点评微软F3Q26：Azure加速增长，M365稳健，AI投资回报可期
 - [UBS — 微软Capex加速、Azure增长加速、定价权提升](entries/UBS-微软Capex加速-Azure增长加速-定价权提升.md) — UBS分析微软FQ3'26：Capex大幅上升反映AI需求，Azure加速增长
+- [BNP — 微软：多线推进，Copilot开始拉动增长](entries/BNP-微软-多线推进-Copilot开始拉动增长.md) — BNP 5月分析：M365 Cloud + Azure占收入60%，Copilot渗透率提升

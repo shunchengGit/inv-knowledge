@@ -145,4 +145,5 @@
 - [UBS — 微软与OpenAI修订协议点评：消除AGI条款是积极变化](entries/UBS-微软与OpenAI修订协议点评-消除AGI条款是积极变化.md) — Article (pdf)
 - [BNP — 微软FQ3'26财报点评：Azure与M365稳健，云竞赛白热化](entries/BNP-微软FQ3-26财报点评-Azure与M365稳健-云竞赛白热化.md) — Article (pdf)
 - [HSBC — 微软FQ3'26强劲，Azure加速，维持Buy](entries/HSBC-微软FQ3-26强劲-Azure加速-维持Buy.md) — Article (pdf)
+- [UBS — 微软Capex加速、Azure增长加速、定价权提升](entries/UBS-微软Capex加速-Azure增长加速-定价权提升.md) — Article (pdf)
 
