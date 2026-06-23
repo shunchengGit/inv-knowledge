@@ -12,3 +12,4 @@
 - [腾讯控股JPM 1Q26：转向更积极，双P&L披露化解AI稀释担忧](entries/腾讯控股JPM-1Q26-转向更积极-双P-L披露化解AI稀释担忧.md) — JPMorgan在腾讯2026Q1后转向更积极，管理层首次披露双P&L：Non-IFRS OP ex-AI为844亿(+17%) vs 含AI的756亿(+9%)，将AI稀释从叙事担忧转化为可审计数据，目标价690港元
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — UBS认为腾讯2026Q1业绩符合预期，核心业务盈利能力稳健(+17% ex-AI)，当前约13x Forward PE处于历史低位，AI期权价值未充分定价，目标价516港元
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 微软FQ3'26（2026年4月）财报综合速览：营收28.86亿(+18.3%)，EPS .27(+19.9%)，Azure CCY增长39%超预期，Capex指引900亿大幅上修，Copilot席位达2000万
+- [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，Capex从810亿上调至340亿，以及从席位向用量定价模式的加速转型
