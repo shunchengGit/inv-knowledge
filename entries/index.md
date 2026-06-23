@@ -91,3 +91,4 @@
 - [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — JPMorgan分析4月WSTS半导体销售数据，同比增速再创新高，AI芯片和存储是主要驱动力
 - [Jefferies AI系列#41：DeepSeek V4发布后的新进展](entries/Jefferies-AI系列-41-DeepSeek-V4发布后的新进展.md) — Jefferies追踪DeepSeek V4发布后的行业影响，分析开源模型对AI竞争格局的冲击
 - [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — JPMorgan在中国AI应用巡回调研中发现，AI正从模型开发阶段转向行业应用加速落地
+- [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Morgan Stanley分析中国金融业高质量发展路径、人民币存款新规的影响以及银行板块投资机会
