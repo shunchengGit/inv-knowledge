@@ -76,4 +76,5 @@
 - [行业研究-科技硬件 - Morgan Stanley Global Technology Computex 2026 Takeaways 122462326](entries/行业研究-科技硬件-Morgan-Stanley-Global-Technology-Computex-2026-Takeaways-122462326.md) — 行业研报 (pdf)
 - [中通快递 战术策略 - Morgan Stanley](entries/中通快递-战术策略-Morgan-Stanley.md) — Article (pdf)
 - [行业研究-金融 - Morgan Stanley Investor Presentation China Financials High quality develo... 122491082](entries/行业研究-金融-Morgan-Stanley-Investor-Presentation-China-Financials-High-quality-devel.md) — 行业研报 (pdf)
+- [中通快递 研究报告 - UBS Equities (2026-05-20)](entries/中通快递-研究报告-UBS-Equities-2026-05-20.md) — Article (pdf)
 

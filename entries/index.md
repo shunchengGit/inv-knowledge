@@ -75,3 +75,4 @@
 - [行业研究-金融 - Morgan Stanley Investor Presentation China Financials High quality develo... 122491082](entries/行业研究-金融-Morgan-Stanley-Investor-Presentation-China-Financials-High-quality-devel.md) — Investor Presentation  | Asia Pacific
 - [中通快递 研究报告 - UBS Equities (2026-05-20)](entries/中通快递-研究报告-UBS-Equities-2026-05-20.md) — Winning on quality over quantity
 - [行业研究-金融 - HSBC Global Investme Daily dose of HK mainland China Real Estate Research Focus...](entries/行业研究-金融-HSBC-Global-Investme-Daily-dose-of-HK-mainland-China-Real-Estate-Researc.md) — Disclosures & Disclaimer
+- [汇川技术 研究报告 - Macquarie Research (2026-04-28)](entries/汇川技术-研究报告-Macquarie-Research-2026-04-28.md) — Macquarie Equity Research
