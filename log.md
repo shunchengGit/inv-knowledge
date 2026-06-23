@@ -107,4 +107,5 @@
 - [阿里巴巴 2026-Q2 业绩前瞻 - JPMorgan](entries/阿里巴巴-2026-Q2-业绩前瞻-JPMorgan.md) — Article (pdf)
 - [阿里巴巴 2026-Q2 业绩前瞻 - UBS Equities](entries/阿里巴巴-2026-Q2-业绩前瞻-UBS-Equities.md) — Article (pdf)
 - [隆基绿能 调研纪要 - JPMorgan](entries/隆基绿能-调研纪要-JPMorgan.md) — Article (pdf)
+- [隆基绿能 研究报告 - UBS Equities (2026-04-30)](entries/隆基绿能-研究报告-UBS-Equities-2026-04-30.md) — Article (pdf)
 

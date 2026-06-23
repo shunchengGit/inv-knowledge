@@ -114,3 +114,4 @@
 - [阿里巴巴 2026-Q2 业绩前瞻 - UBS Equities](entries/阿里巴巴-2026-Q2-业绩前瞻-UBS-Equities.md) — 4QFY26 preview; higher  AI investments but
 - [隆基绿能 调研纪要 - JPMorgan](entries/隆基绿能-调研纪要-JPMorgan.md) — Asia Pacific Equity Research
 - [隆基绿能 研究报告 - UBS Equities (2026-04-30)](entries/隆基绿能-研究报告-UBS-Equities-2026-04-30.md) — Longi Green Energy Technology
+- [工业富联 研究报告 - Morgan Stanley (2026-04-16)](entries/工业富联-研究报告-Morgan-Stanley-2026-04-16.md) — Stay OW; new Rmb82.8 price target implies P/Es of 27x for 2026e and 20x for
