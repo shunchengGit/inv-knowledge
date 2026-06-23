@@ -55,3 +55,4 @@
 - [美光FQ3-26业绩预览](entries/美光FQ3-26业绩预览.md) — UBS美光FQ3:26预览：定价持续走强，LTA锁定30%行业DDR量，Agentic AI重塑存储需求，目标价,625评级买入
 - [三星电子存储能见度延伸至2027年代工提前盈亏平衡](entries/三星电子存储能见度延伸至2027年代工提前盈亏平衡.md) — BNPP三星电子1Q26点评：营收134万亿韩元创纪录+43%QoQ，存储能见度至2027年，代工2027年初盈亏平衡，目标价30万韩元
 - [免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。](entries/免责声明和披露以及分析师声明是报告的一部分-请务必一起阅读.md) — 免责声明和披露以及分析师声明是报告的一部分，请务必一起阅读。 SAC No. S0570518110002 zhangjiqiang@htsc.com SAC No. S0570522040001
+- [China (PRC) | Internet](entries/China-PRC-Internet.md) — China (PRC) | Internet Thomas Chong *  | Equity Analyst 852 3743 8016 | thomas.chong@jefferies.com Zoey Zong *  | Equity Analyst 852 3743 8163 | zoey.zong@jefferies.com AI Series #41: New Developments of Highlights (1) media last Fri reported on DeepSeek's plan to raise USD7bn.
