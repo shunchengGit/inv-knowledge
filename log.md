@@ -73,4 +73,5 @@
 - [行业研究-科技硬件 - Morgan Stanley Investor Presentation Greater China Technology Hardware Ho... 122271307](entries/行业研究-科技硬件-Morgan-Stanley-Investor-Presentation-Greater-China-Technology-Hardware.md) — 行业研报 (pdf)
 - [中通快递 2026-Q2 业绩分析 - JPMorgan](entries/中通快递-2026-Q2-业绩分析-JPMorgan.md) — Article (pdf)
 - [中通快递 2026-Q2 业绩分析 - Morgan Stanley](entries/中通快递-2026-Q2-业绩分析-Morgan-Stanley.md) — Article (pdf)
+- [行业研究-科技硬件 - Morgan Stanley Global Technology Computex 2026 Takeaways 122462326](entries/行业研究-科技硬件-Morgan-Stanley-Global-Technology-Computex-2026-Takeaways-122462326.md) — 行业研报 (pdf)
 
