@@ -61,3 +61,5 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 ## 关联
 - [JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M](entries/JPMorgan-SK-hynix-LTA-paves-path-for-new-valuation-framework-raising-PT-to-W3M.md) — 共享标签: valuation, 2026-Q1, sk-hynix; 同标的: sk-hynix; 共同关键词(19): es, an, asp, ve
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — 共享标签: valuation, 2026-Q1, sk-hynix; 同标的: sk-hynix; 共同关键词(18): sk, 2027e, pl, ix
+- [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — 共享标签: 2026-Q1, valuation, sk-hynix; 同标的: sk-hynix; 共同关键词(19): es, ri, 2026, yn
+- [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — 共享标签: 2026-Q1, valuation, sk-hynix; 同标的: sk-hynix; 共同关键词(18): hynix, lta, su, ea
