@@ -166,4 +166,5 @@
 - [申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化](entries/申万宏源腾讯深度之三-AI时代核心受益者-超级入口与生态壁垒的再进化.md) — Analysis (pdf)
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — Analysis (pdf)
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Analysis (pdf)
+- [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — Analysis (pdf)
 

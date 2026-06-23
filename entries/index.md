@@ -13,3 +13,4 @@
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — UBS认为腾讯2026Q1业绩符合预期，核心业务盈利能力稳健(+17% ex-AI)，当前约13x Forward PE处于历史低位，AI期权价值未充分定价，目标价516港元
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 微软FQ3'26（2026年4月）财报综合速览：营收28.86亿(+18.3%)，EPS .27(+19.9%)，Azure CCY增长39%超预期，Capex指引900亿大幅上修，Copilot席位达2000万
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，Capex从810亿上调至340亿，以及从席位向用量定价模式的加速转型
+- [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — BNP Paribas 5月26日更新报告：微软处于关键拐点，Copilot用户反馈显著改善（Agent Mode/Copilot Cowork获好评），Azure 40%+增长可持续至FQ3'27
