@@ -234,4 +234,5 @@
 - [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — Analysis (pdf)
 - [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Analysis (pdf)
 - [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — Analysis (pdf)
+- [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — Analysis (pdf)
 
