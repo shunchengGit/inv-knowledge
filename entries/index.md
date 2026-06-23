@@ -138,3 +138,4 @@
 - [恒瑞医药 研究报告 - JPMorgan (2026-05-12)](entries/恒瑞医药-研究报告-JPMorgan-2026-05-12.md) — Asia Pacific Equity Research
 - [澜起科技 研究报告 - UBS Equities (2026-04-28)](entries/澜起科技-研究报告-UBS-Equities-2026-04-28.md) — Montage Technology - H
 - [美光 2026-Q2 业绩分析 - UBS Equities](entries/美光-2026-Q2-业绩分析-UBS-Equities.md) — Micron Technology Inc
+- [英特尔 研究报告 - UBS Equities (2026-04-23)](entries/英特尔-研究报告-UBS-Equities-2026-04-23.md) — Server Tailwinds and Continued Improvement in
