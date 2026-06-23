@@ -221,4 +221,5 @@
 - [IT Hardware  | North America](entries/IT-Hardware-North-America.md) — Analysis (pdf)
 - [Investor Presentation  | Asia Pacific](entries/Investor-Presentation-Asia-Pacific.md) — Analysis (pdf)
 - [Global Technology](entries/Global-Technology.md) — Analysis (pdf)
+- [China Beauty  | Asia Pacific](entries/China-Beauty-Asia-Pacific.md) — Analysis (pdf)
 
