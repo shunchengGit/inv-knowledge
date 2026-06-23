@@ -112,3 +112,4 @@
 - [谷歌(GOOG)研报 — 瑞银证券 — 2026-06-08](谷歌-GOOG-研报-瑞银证券-2026-06-08-2026-06-23.md) — 
 - [阿里巴巴 2026-Q2 业绩前瞻 - JPMorgan](entries/阿里巴巴-2026-Q2-业绩前瞻-JPMorgan.md) — www.jpmorganmarkets.com
 - [阿里巴巴 2026-Q2 业绩前瞻 - UBS Equities](entries/阿里巴巴-2026-Q2-业绩前瞻-UBS-Equities.md) — 4QFY26 preview; higher  AI investments but
+- [隆基绿能 调研纪要 - JPMorgan](entries/隆基绿能-调研纪要-JPMorgan.md) — Asia Pacific Equity Research
