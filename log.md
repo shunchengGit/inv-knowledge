@@ -29,4 +29,5 @@
 - [行业研究-互联网2026年研报综合摘要](entries/行业研究-互联网2026年研报综合摘要.md) — Synthesis (pdf)
 - [汇川技术2026年研报综合摘要](entries/汇川技术2026年研报综合摘要.md) — Synthesis (pdf)
 - [中通快递2026年研报综合摘要](entries/中通快递2026年研报综合摘要.md) — Synthesis (pdf)
+- [贵州茅台2026年研报综合摘要](entries/贵州茅台2026年研报综合摘要.md) — Synthesis (pdf)
 
