@@ -40,3 +40,4 @@
 - [谷歌(GOOG)研报 — 美银全球研究 — 2026-04-30](entries/谷歌-GOOG-研报-美银全球研究-2026-04-30.md) — BofA Securities does and seeks to do business with issuers covered in its research
 - [谷歌(GOOG)研报 — 德意志银行 — 2026-04-30](entries/谷歌-GOOG-研报-德意志银行-2026-04-30.md) — Distributed on: 30/04/2026 11:08:15 GMT
 - [谷歌(GOOG)研报 — 汇丰全球投资 — 2026-04-30](entries/谷歌-GOOG-研报-汇丰全球投资-2026-04-30.md) — Disclosures & Disclaimer
+- [谷歌(GOOG)研报 — 美银全球研究 — 2026-05-05](entries/谷歌-GOOG-研报-美银全球研究-2026-05-05.md) — BofA Securities does and seeks to do business with issuers covered in its research
