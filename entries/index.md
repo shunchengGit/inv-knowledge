@@ -147,3 +147,4 @@
 - [Hubbell 并购分析 - Deutsche Bank](entries/Hubbell-并购分析-Deutsche-Bank.md) — Distributed on: 04/05/2026 19:34:41 GMT
 - [Hubbell 并购分析 - Morgan Stanley](entries/Hubbell-并购分析-Morgan-Stanley.md) — Hubbell Inc.  | North America
 - [Hubbell 研究报告 - UBS Equities (2026-06-15)](entries/Hubbell-研究报告-UBS-Equities-2026-06-15.md) — Getting a bit more charged up?
+- [BNP Paribas — 微软与OpenAI调整合作协议：失去API独占权但消除AGI条款不确定性](entries/BNP-Paribas-微软与OpenAI调整合作协议-失去API独占权但消除AGI条款不确定性.md) — BNP分析微软OpenAI修订协议：Azure失去OpenAI API独占权，但AGI条款消除是长期利好

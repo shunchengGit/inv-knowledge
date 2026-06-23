@@ -140,4 +140,5 @@
 - [Nova 调研纪要 - Jefferies](entries/Nova-调研纪要-Jefferies.md) — Article (pdf)
 - [Hubbell 并购分析 - Deutsche Bank](entries/Hubbell-并购分析-Deutsche-Bank.md) — Article (pdf)
 - [Hubbell 并购分析 - Morgan Stanley](entries/Hubbell-并购分析-Morgan-Stanley.md) — Article (pdf)
+- [Hubbell 研究报告 - UBS Equities (2026-06-15)](entries/Hubbell-研究报告-UBS-Equities-2026-06-15.md) — Article (pdf)
 
