@@ -85,4 +85,5 @@
 - [汇川技术 研究报告 - JPMorgan (2026-04-29)](entries/汇川技术-研究报告-JPMorgan-2026-04-29.md) — Article (pdf)
 - [行业研究-工业自动化 - Morgan Stanley China Industrials Trip Takeaways Stronger, Broader Capex B... 122462764](entries/行业研究-工业自动化-Morgan-Stanley-China-Industrials-Trip-Takeaways-Stronger-Broader-Cape.md) — 行业研报 (pdf)
 - [汇川技术 风险收益分析 - Morgan Stanley](entries/汇川技术-风险收益分析-Morgan-Stanley.md) — Article (pdf)
+- [行业研究-传媒 - 20260417 国信证券 传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会](entries/行业研究-传媒-20260417-国信证券-传媒行业4月投资策略-持续看好游戏-IP潮玩业绩表现-关注AI应用底部机会.md) — 行业研报 (pdf)
 
