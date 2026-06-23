@@ -36,3 +36,4 @@
 - [Meta Platforms 2026年Q1业绩与AI战略研报综合摘要](entries/Meta-Platforms-2026年Q1业绩与AI战略研报综合摘要.md) — Meta Q1广告收入超预期但AI投入加大，7份研报（JPMorgan/BofA×2/Deutsche/Morgan Stanley/Jefferies×2）综合：看好AI长期价值但关注短期盈利压力。
 - [微软2026年AI与云业务研报综合摘要](entries/微软2026年AI与云业务研报综合摘要.md) — 微软Azure+AI业务持续增长，10份研报覆盖AI Copilot、云计算和游戏业务。
 - [谷歌2026年AI搜索与云业务研报综合摘要](entries/谷歌2026年AI搜索与云业务研报综合摘要.md) — 谷歌AI搜索转型和云业务增长，9份研报覆盖Gemini模型、搜索广告和YouTube。
+- [SK海力士2026年研报综合摘要](entries/SK海力士2026年研报综合摘要.md) — SK海力士2026Q1财报后研报综合：受益AI驱动的HBM内存需求强劲增长，9份外资研报（BNP/HSBC/Nomura等）一致看好其AI内存领导地位。HBM4研发积极推进，与NVIDIA等客户深度绑定。
