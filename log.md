@@ -79,4 +79,5 @@
 - [中通快递 研究报告 - UBS Equities (2026-05-20)](entries/中通快递-研究报告-UBS-Equities-2026-05-20.md) — Article (pdf)
 - [行业研究-金融 - HSBC Global Investme Daily dose of HK mainland China Real Estate Research Focus...](entries/行业研究-金融-HSBC-Global-Investme-Daily-dose-of-HK-mainland-China-Real-Estate-Researc.md) — 行业研报 (pdf)
 - [汇川技术 研究报告 - Macquarie Research (2026-04-28)](entries/汇川技术-研究报告-Macquarie-Research-2026-04-28.md) — Article (pdf)
+- [行业研究-金融 - UBS Equities Greater China Banks Daily China’s May trade data beat expec...](entries/行业研究-金融-UBS-Equities-Greater-China-Banks-Daily-China-s-May-trade-data-beat-expec.md) — 行业研报 (pdf)
 
