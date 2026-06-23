@@ -237,4 +237,5 @@
 - [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — Analysis (pdf)
 - [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — Analysis (pdf)
 - [华泰证券资产配置月报：AI链行情进入新阶段](entries/华泰证券资产配置月报-AI链行情进入新阶段.md) — Analysis (pdf)
+- [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — Analysis (pdf)
 
