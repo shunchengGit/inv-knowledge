@@ -1,0 +1,3 @@
+# GDS
+
+- [万国数据AI需求爆发：三年Capex 300-500亿元，订单创纪录](entries/万国数据AI驱动数据中心分析.md) — Analysis

@@ -8,14 +8,19 @@
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Analysis
 - [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Analysis
+- [中通快递1Q26超预期+反内卷持续——JPM/MS/UBS一致看多，阿里减持为情绪扰动](entries/中通快递1Q26超预期-反内卷持续-阿里减持为情绪扰动.md) — Analysis
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — Analysis
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — Analysis
+- [毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持](entries/毛戈平JPM-增长可见性高-管理层承诺不减持.md) — Analysis
+- [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
 - [福耀玻璃BNP 1Q26：运营和利润率保持稳健，重申Outperform](entries/福耀玻璃BNP-1Q26-运营和利润率保持稳健-重申Outperform.md) — Analysis
 - [福耀玻璃BofA 1Q26：EBIT超预期10%，ASP增长11%驱动](entries/福耀玻璃BofA-1Q26-EBIT超预期10-ASP增长11-驱动.md) — Analysis
 - [福耀玻璃JPM 1Q26：管理层看好2Q26订单动能，ASP增长可持续](entries/福耀玻璃JPM-1Q26-管理层看好2Q26订单动能-ASP增长可持续.md) — Analysis
 - [福耀玻璃MS 1Q26电话会：ASP超指引，市占率持续提升](entries/福耀玻璃MS-1Q26电话会-ASP超指引-市占率持续提升.md) — Analysis
 - [福耀玻璃UBS 1Q26快评：毛利率超预期，剔除汇兑利润+10% YoY](entries/福耀玻璃UBS-1Q26快评-毛利率超预期-剔除汇兑利润-10-YoY.md) — Analysis
+- [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis
 - [腾讯控股JPM 1Q26：转向更积极，双P&L披露化解AI稀释担忧](entries/腾讯控股JPM-1Q26-转向更积极-双P-L披露化解AI稀释担忧.md) — Analysis
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — Analysis
+- [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — Analysis
