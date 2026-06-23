@@ -183,4 +183,5 @@
 - [Kweichow Moutai: 4Q25 miss as a clearing event; expecting healthy start to 2026 (BofA)](entries/Kweichow-Moutai-4Q25-miss-as-a-clearing-event-expecting-healthy-start-to-2026-Bo.md) — Research Report (pdf)
 - [Kweichow Moutai: 1Q a mixed bag; strong i-Moutai with margin pressure easing (BofA)](entries/Kweichow-Moutai-1Q-a-mixed-bag-strong-i-Moutai-with-margin-pressure-easing-BofA.md) — Research Report (pdf)
 - [Kweichow Moutai: Positioned for Structural Growth from 2H26 (Jefferies)](entries/Kweichow-Moutai-Positioned-for-Structural-Growth-from-2H26-Jefferies.md) — Research Report (pdf)
+- [Mao Geping: Global China Summit 2026 takeaways -- Solid growth visibility (JPMorgan)](entries/Mao-Geping-Global-China-Summit-2026-takeaways-Solid-growth-visibility-JPMorgan.md) — Research Report (pdf)
 
