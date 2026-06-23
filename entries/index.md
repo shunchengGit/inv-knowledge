@@ -116,3 +116,4 @@
 - [隆基绿能 研究报告 - UBS Equities (2026-04-30)](entries/隆基绿能-研究报告-UBS-Equities-2026-04-30.md) — Longi Green Energy Technology
 - [工业富联 研究报告 - Morgan Stanley (2026-04-16)](entries/工业富联-研究报告-Morgan-Stanley-2026-04-16.md) — Stay OW; new Rmb82.8 price target implies P/Es of 27x for 2026e and 20x for
 - [工业富联 研究报告 - Morgan Stanley (2026-04-28)](entries/工业富联-研究报告-Morgan-Stanley-2026-04-28.md) — Foxconn Industrial Internet Co. Ltd.  | Asia Pacific
+- [工业富联 研究报告 - Morgan Stanley (2026-05-20)](entries/工业富联-研究报告-Morgan-Stanley-2026-05-20.md) — Foxconn Industrial Internet Co. Ltd.  | Asia Pacific
