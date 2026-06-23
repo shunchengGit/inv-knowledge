@@ -188,6 +188,9 @@
 - [2026-06-12-JPMorgan-Semiconductors April WSTS Growth Accelerates Again, Driven ...-122546555.pdf](行业研究-半导体/2026-06-12-JPMorgan-Semiconductors April WSTS Growth Accelerates Again, Driven ...-122546555.pdf)
 - [2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf](行业研究-半导体/2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf)
 
+## 行业研究-地产
+- [BofA-China-Property-Conference-Call-2026-06-22.pdf](行业研究-地产/BofA-China-Property-Conference-Call-2026-06-22.pdf)
+
 ## 行业研究-工业自动化
 - [2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf](行业研究-工业自动化/2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf)
 - [2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf](行业研究-工业自动化/2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf)
