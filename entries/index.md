@@ -32,3 +32,4 @@
 - [Pop Mart Mar-26 Performance: Intense Product Launches & Home Appliance Focus (Deutsche Bank)](entries/Pop-Mart-Mar-26-Performance-Intense-Product-Launches-Home-Appliance-Focus-Deutsc.md) — Deutsche Bank对泡泡玛特的Sell评级报告。跟踪中国线上销售数据,3月同比+106%但较2H25均值低约20%,观察到时尚疲劳信号。
 - [Pop Mart: Earnings reset ongoing, but limited downside (HSBC)](entries/Pop-Mart-Earnings-reset-ongoing-but-limited-downside-HSBC.md) — HSBC维持泡泡玛特Buy评级但下调目标价28.5%至HKD235.50。预计1Q26收入RMB9.9bn(环比低个位数下降),Labubu热潮降温导致盈利下调。
 - [泡泡玛特4月将推出小家电,有望持续推动IP势能提升（国信证券）](entries/泡泡玛特4月将推出小家电-有望持续推动IP势能提升-国信证券.md) — 国信证券对泡泡玛特推出小家电产品的深度分析。首批小家电品类包括冷藏箱、电热水壶、咖啡机、吹风机等,预计2026年收入占比约1%,毛利率50%以上。
+- [Laopu Gold: Sales growth may decelerate but profitability could enhance YoY (UBS)](entries/Laopu-Gold-Sales-growth-may-decelerate-but-profitability-could-enhance-YoY-UBS.md) — UBS对老铺黄金的First Read报告。渠道调研显示3-4月北京高基数门店SSSG下降20-30%,但线上NPM高于线下L-MSD,预计2026E收入/净利润同比增长55%/67%。
