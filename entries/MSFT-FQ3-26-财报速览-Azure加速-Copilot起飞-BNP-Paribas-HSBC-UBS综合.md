@@ -38,3 +38,7 @@ tags: [microsoft, profit-trend, competitive-advantage, 2026-Q1, azure, copilot]
 
 ## 综合判断
 FQ3整体为强劲财报，Azure再加速和Copilot初步兑现缓解了市场对AI叙事的主要担忧。但capex大幅超预期和利润率承压（毛利率Q4指引仅66.2%，环比-240bps）构成主要矛盾点。关键在于微软能否证明$1900亿+的年化资本支出能转化为可持续的营收增长和投资回报率。
+
+## 关联
+- [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — 共享标签: copilot, competitive-advantage, microsoft; 同标的: copilot, microsoft; 共同关键词(29): ba, ar, 起飞, zu
+- [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — 共享标签: 2026-Q1, microsoft, competitive-advantage; 同标的: microsoft, azure; 共同关键词(18): q3, bs, ms, az

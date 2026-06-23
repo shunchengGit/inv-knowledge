@@ -44,3 +44,6 @@ BNP Paribas在FQ3财报后一个月（5月26日）发布更新，认为微软正
 - Capex回报率：$1900亿+年化capex需在中期产生可观ROIC
 - 与Anthropic的合作可能稀释Azure上OpenAI工作负载份额
 - PC/Windows周期下行压力持续
+
+## 关联
+- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 共享标签: copilot, competitive-advantage, microsoft; 同标的: copilot, microsoft; 共同关键词(29): ba, ar, 起飞, zu

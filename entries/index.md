@@ -1,4 +1,21 @@
 ## Analysis
+- [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — BNP Paribas维持Outperform，1Q26 DRAM ASP中60%+/NAND ASP中70%+大幅增长。HBM4E预期>50%份额，容量扩张有纪律性（龙仁Cluster灵活分期）。TP上调26%至KRW 2,000,000，基于3x 2027E BVPS。
+- [BNP Paribas：台积电推出A13并更新技术路线图——重申Outperform](entries/台积电BNP-技术路线图-A13更新-重申Outperform.md) — BNP Paribas（Alex Chang）于2026年4月24日发布。A13（2029 HVM，面积节省6%）、A12（Super Power Rail背面供电）、N2U（2028 HVM，速度+3-4%/功耗-8-10%）、CoWoS扩展至14-reticle。评级Outperform，目标价TWD2,520/USD478。
+- [BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧](entries/台积电BofA-产能与技术爬坡-缓解竞争担忧.md) — BofA（Haas Liu）于2026年5月15日发布的台积电台湾技术研讨会要点分析。3nm产能Q4'26达190k WPM（远超三星/Intel），N2缺陷密度领先3nm两季度，CoWoS良率98%+。评级买入，目标价NT$2,560。
+- [BofA：台积电先进节点需求强劲——2026-27资本支出展望上调](entries/台积电BofA-先进节点资本支出-Arizona盈利改善.md) — BofA（Haas Liu）于2026年5月17日发布。TSMC董事会批准US$31bn资本拨款，Arizona 1Q26运营大幅改善（营收NT$39bn，净利润NT$19bn），2027年capex或达US$75bn。评级买入，目标价NT$2,560。
+- [BofA：台积电股东大会更新——AI驱动需求与技术执行支撑营收/毛利率展望](entries/台积电BofA-股东大会AI需求与技术执行.md) — BofA（Haas Liu）于2026年6月4日发布的台积电年度股东大会要点分析。管理层对AI需求高度乐观（2030年前增长可见度），维持56%+长期GM指引。N2利润率将优于N3。Intel为前十大客户。评级买入，目标价NT$2,560。
+- [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — HSBC维持Buy评级，TP从KRW 1,800,000上调至2,900,000。DRAM服务器和移动端价格均超预期，2Q26 OP预测上调14%至KRW 65tn。通用服务器需求爆发（AI:非AI比例从4-8:1趋近1:1），CSP Capex大幅增长。
+- [JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M](entries/JPMorgan-SK-hynix-LTA-paves-path-for-new-valuation-framework-raising-PT-to-W3M.md) — JPMorgan维持Overweight，TP从KRW 1,800,000大幅上调至3,000,000。LTA谈判进入关键拐点，将推动存储器从P/B向P/E估值框架迁移（8x FY26-27E EPS）。上调FY26-28E EPS 9-20%。
+- [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Macquarie维持Outperform，TP上调61%至KRW 2,900,000（6x 2027E PE）。存储器短缺将持续恶化，HBM 2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。
+- [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — Morgan Stanley从每MW营收角度分析微软AI基础设施扩张：DC容量从FY24的5GW扩至FY28的20GW，营收/MW持续下降暗示营收预估可能滞后，目标价50
+- [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，Capex从810亿上调至340亿，以及从席位向用量定价模式的加速转型
+- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 微软FQ3'26（2026年4月）财报综合速览：营收28.86亿(+18.3%)，EPS .27(+19.9%)，Azure CCY增长39%超预期，Capex指引900亿大幅上修，Copilot席位达2000万
+- [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — BNP Paribas 5月26日更新报告：微软处于关键拐点，Copilot用户反馈显著改善（Agent Mode/Copilot Cowork获好评），Azure 40%+增长可持续至FQ3'27
+- [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — HSBC 5月26日报告：Anthropic年化营收从0亿飙升至00亿，Azure可能到2030年从Anthropic获得30亿/年增量营收，维持Buy目标价71
+- [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
+- [UBS快速解读：台积电4月营收NT$4,107亿——Q2开局符合预期](entries/台积电UBS-4月营收4107亿-符合Q2预期.md) — UBS（Sunny Lin）于2026年5月8日发布。4月营收NT$4,107亿（-1.1% MoM，+17.5% YoY），Q2追踪达UBSe的32.3%。预计2026年美元营收增长35%，受N3 AI加速器和N2爬坡驱动。维持买入，目标价NT$2,650。
+- [UBS快速解读：台积电5月营收NT$4,170亿——Q2稳步推进，目标价上调至NT$3,000](entries/台积电UBS-5月营收4170亿-Q2稳步推进-目标价上调至3000.md) — UBS于2026年6月10日发布。5月营收NT$4,170亿（+30.1% YoY），Q2追踪达UBSe的65%。2026年营收预测上调至+36%（美元计），目标价从NT$2,650大幅上调至NT$3,000（23x 2027E PE）。H2毛利率或从H1的66.8%降至65%。
+- [UBS：台积电US技术研讨会——A13/A12/N2U路线图与AI护城河](entries/台积电UBS-US技术研讨会-A13-A12-N2U路线图与AI护城河.md) — UBS于2026年4月23日发布的台积电北美技术研讨会深度分析。评级买入，目标价NT$2,650（21x 2027E PE）。A13/A12/N2U路线图、CoWoS扩展至14-reticle、CPO硅光子进展。2026E EPS NT$97.98，营收NT$5.21兆。
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — 华泰证券预计腾讯1Q26营收+11%/经调整净利+10%，AI Agent赛道迎拐点(龙虾产品矩阵升级/云提价/混元3.0发布)，SOTP目标价716港元，预计26年营收8410亿
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — 宁波银行2026Q1营收+10.2% YoY，净利润+10.3% YoY，NIM环比回升5bps至1.73%，贷款+15.7% YoY持续市占率提升，资产质量稳定(NPL 0.76%)，MS目标价45元对应0.87x 2026E P/B
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — 宁波银行2026Q1营收/净利润+10.2%/+10.3%超预期，NIM环比+5bps至1.73%，手续费收入+81.7% YoY，2025年分红率从21.9%大幅提升至27.0%，股息率3.7%
@@ -11,9 +28,3 @@
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — 腾讯2026Q1营收1965亿(+9%)，Non-IFRS净利679亿(+11%)，游戏/广告/金融科技全面增长，Hy3 AI模型发布并成为OpenRouter最受欢迎模型，WorkBuddy成中国最广用AI智能体
 - [腾讯控股JPM 1Q26：转向更积极，双P&L披露化解AI稀释担忧](entries/腾讯控股JPM-1Q26-转向更积极-双P-L披露化解AI稀释担忧.md) — JPMorgan在腾讯2026Q1后转向更积极，管理层首次披露双P&L：Non-IFRS OP ex-AI为844亿(+17%) vs 含AI的756亿(+9%)，将AI稀释从叙事担忧转化为可审计数据，目标价690港元
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — UBS认为腾讯2026Q1业绩符合预期，核心业务盈利能力稳健(+17% ex-AI)，当前约13x Forward PE处于历史低位，AI期权价值未充分定价，目标价516港元
-- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 微软FQ3'26（2026年4月）财报综合速览：营收28.86亿(+18.3%)，EPS .27(+19.9%)，Azure CCY增长39%超预期，Capex指引900亿大幅上修，Copilot席位达2000万
-- [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，Capex从810亿上调至340亿，以及从席位向用量定价模式的加速转型
-- [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — BNP Paribas 5月26日更新报告：微软处于关键拐点，Copilot用户反馈显著改善（Agent Mode/Copilot Cowork获好评），Azure 40%+增长可持续至FQ3'27
-- [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — HSBC 5月26日报告：Anthropic年化营收从0亿飙升至00亿，Azure可能到2030年从Anthropic获得30亿/年增量营收，维持Buy目标价71
-- [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — Morgan Stanley从每MW营收角度分析微软AI基础设施扩张：DC容量从FY24的5GW扩至FY28的20GW，营收/MW持续下降暗示营收预估可能滞后，目标价50
-- [temp](entries/temp.md) — temp

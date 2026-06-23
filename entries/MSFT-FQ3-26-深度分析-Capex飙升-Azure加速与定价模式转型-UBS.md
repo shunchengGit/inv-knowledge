@@ -53,3 +53,6 @@ UBS认为FQ3整体符合预期——核心指标（营收CCY+15%、Azure增长39
 - 取消微软向OpenAI的收入分成（此前在COGS而非收入抵减项），提振毛利率
 - 非排他性IP授权至2032年，但OpenAI可多云分发
 - OpenAI损失对GAAP EPS的拖累已降至最低（接近累计亏损上限）
+
+## 关联
+- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 共享标签: 2026-Q1, microsoft, competitive-advantage; 同标的: microsoft, azure; 共同关键词(18): q3, bs, ms, az
