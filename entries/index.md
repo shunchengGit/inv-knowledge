@@ -51,3 +51,4 @@
 - [ZTO Express: Winning on quality over quantity (UBS)](entries/ZTO-Express-Winning-on-quality-over-quantity-UBS.md) — UBS对ZTO 1Q26的First Read报告。收入同比+22%超预期,但少数股东权益及补贴减少导致净利润仅+5%。市场份额提升1.4ppts,ASP改善由KA客户和单均重量增加驱动。
 - [Hengrui: US$15.2bn multi-asset global alliance with BMS (JPMorgan)](entries/Hengrui-US-15-2bn-multi-asset-global-alliance-with-BMS-JPMorgan.md) — JPMorgan报告恒瑞与BMS达成全球战略合作,覆盖13个早期项目(肿瘤、血液、免疫),潜在总交易额US$152亿。这是恒瑞最大BD交易,也是中国药企第二大对外授权deal,标志从licensor向strategic co-creator转型。
 - [ASML伦敦TMT会议要点](entries/ASML伦敦TMT会议要点.md) — JPMorgan伦敦TMT大会ASML CFO炉边对话：EUV产能2027年≥80台，DRAM未来占比将超50%，High-NA产品数月内面世
+- [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价40评级买入
