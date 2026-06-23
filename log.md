@@ -180,4 +180,5 @@
 - [Laopu Gold Initiation: As good as it can get (Macquarie)](entries/Laopu-Gold-Initiation-As-good-as-it-can-get-Macquarie.md) — Research Report (pdf)
 - [Laopu Gold Research Tactical Idea -- Shareholder purchase (Morgan Stanley)](entries/Laopu-Gold-Research-Tactical-Idea-Shareholder-purchase-Morgan-Stanley.md) — Research Report (pdf)
 - [Kweichow Moutai: Price Hikes for Feitian Moutai (Morgan Stanley)](entries/Kweichow-Moutai-Price-Hikes-for-Feitian-Moutai-Morgan-Stanley.md) — Research Report (pdf)
+- [Kweichow Moutai: 4Q25 miss as a clearing event; expecting healthy start to 2026 (BofA)](entries/Kweichow-Moutai-4Q25-miss-as-a-clearing-event-expecting-healthy-start-to-2026-Bo.md) — Research Report (pdf)
 
