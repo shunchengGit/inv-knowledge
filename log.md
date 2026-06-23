@@ -37,4 +37,5 @@
 - [隆基绿能2026年研报综合摘要](entries/隆基绿能2026年研报综合摘要.md) — Synthesis (pdf)
 - [行业研究-房地产2026年研报综合摘要](entries/行业研究-房地产2026年研报综合摘要.md) — Synthesis (pdf)
 - [行业研究-金融2026年研报综合摘要](entries/行业研究-金融2026年研报综合摘要.md) — Synthesis (pdf)
+- [BNP Paribas — SK海力士 1Q26业绩点评：AI内存领导力增强，目标价上调至₩2,000,000](entries/BNP-Paribas-SK海力士-1Q26业绩点评-AI内存领导力增强-目标价上调至-2-000-000.md) — Article (pdf)
 
