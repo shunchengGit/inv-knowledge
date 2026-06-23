@@ -52,4 +52,5 @@
 - [谷歌(GOOG)研报 — 瑞银证券 — 2026-06-08](entries/谷歌-GOOG-研报-瑞银证券-2026-06-08.md) — ResearchReport (pdf)
 - [行业研究-互联网 - JPMorgan China Internet Post 4Q25 Re evaluating the Sector; Tencent ...](entries/行业研究-互联网-JPMorgan-China-Internet-Post-4Q25-Re-evaluating-the-Sector-Tencent.md) — 行业研报 (pdf)
 - [行业研究-互联网 - 0700.HK HSBC Global Investme China Internet HSBC Global Investment Summit 2026 tour takea...](entries/行业研究-互联网-0700-HK-HSBC-Global-Investme-China-Internet-HSBC-Global-Investment-Summ.md) — 行业研报 (pdf)
+- [行业研究-互联网 - JPMorgan China Telecom Sector What we learned from China telcos 1Q26...](entries/行业研究-互联网-JPMorgan-China-Telecom-Sector-What-we-learned-from-China-telcos-1Q26.md) — 行业研报 (pdf)
 
