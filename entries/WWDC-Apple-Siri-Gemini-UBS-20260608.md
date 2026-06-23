@@ -16,7 +16,13 @@ tags: [Google, UBS, WWDC, Apple, Siri, Gemini, AI, 2026-Q2]
 
 Apple在WWDC 2026发布全新Siri，底层基础模型由Gemini提供支持。UBS认为这对独立的AI聊天应用(Meta AI、ChatGPT、Gemini app)方向性负面——iOS生态推出更具竞争力的原生AI助手将减少第三方AI应用的吸引力。但Google可能通过与Apple的广告收入分成或Cloud收入获得长期补偿。
 
-## UBS财务预测
+## 关键要点
+- Apple新Siri基础模型由Gemini提供支持，对独立AI聊天应用方向性负面
+- Google可能通过广告收入分成或Cloud收入获得长期补偿
+- UBS维持Neutral评级，目标价$410
+- 2026E EPS $14.20，P/E 25.9x
+
+## 财务预测
 
 | 指标 | 2025A | 2026E | 2027E | 2028E |
 |------|-------|-------|-------|-------|

@@ -1,10 +1,8 @@
 # morgan-stanley
 
-- [China Beauty  | Asia Pacific](entries/China-Beauty-Asia-Pacific.md) — Analysis
 - [China Industrials  | Asia Pacific](entries/China-Industrials-Asia-Pacific.md) — Analysis
 - [Global Foundation](entries/Global-Foundation.md) — Analysis
 - [Global Technology](entries/Global-Technology.md) — Analysis
-- [Internet  | North America](entries/Internet-North-America.md) — Analysis
 - [Investor Presentation  | Asia Pacific](entries/Investor-Presentation-Asia-Pacific.md) — Analysis
 - [IT Hardware  | North America](entries/IT-Hardware-North-America.md) — Analysis
 - [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Analysis
