@@ -1,0 +1,1 @@
+- [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — 宁波银行2026Q1营收+10.2% YoY，净利润+10.3% YoY，NIM环比回升5bps至1.73%，贷款+15.7% YoY持续市占率提升，资产质量稳定(NPL 0.76%)，MS目标价45元对应0.87x 2026E P/B
