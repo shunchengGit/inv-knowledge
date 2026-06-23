@@ -44,3 +44,4 @@
 - [ASML深度分析：High-NA-EUV采用时间线调整](entries/ASML深度分析-High-NA-EUV采用时间线调整.md) — BofA ASML深度报告：High-NA EUV采用以DRAM为先台积电最晚，Low-NA EUV出货量上调至65/85/87台，EPS上调2.8-14.5%，目标价€1,710重申买入
 - [ZTO Express: 1Q26 beat, stronger unit economics as competition rationalizes (JPMorgan)](entries/ZTO-Express-1Q26-beat-stronger-unit-economics-as-competition-rationalizes-JPMorg.md) — JPMorgan报告ZTO 1Q26业绩超预期。ASP和产品组合好于预期,AI/数字化持续提升效率,反内卷下竞争格局改善,但需关注阿里巴巴9%持股潜在减持风险。目标价HK$225/US$29。
 - [ASML分析：两种孔径的故事](entries/ASML分析-两种孔径的故事.md) — BNP Paribas ASML研报：评级Outperform目标价€1,550，2026-30E EPS €33.74-€69.85，EV/EBITDA从30.9x降至13.8x
+- [ZTO Express: 1Q26 Results Call -- Sustained Positive Management Tone (Morgan Stanley)](entries/ZTO-Express-1Q26-Results-Call-Sustained-Positive-Management-Tone-Morgan-Stanley.md) — Morgan Stanley总结ZTO 1Q26电话会要点。管理层对盈利展望保持积极,单位成本降幅超预期且5月持续改善。4月市场量增仅低个位数,但ZTO保持10-13%量增指引。

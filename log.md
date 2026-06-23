@@ -185,4 +185,5 @@
 - [Kweichow Moutai: Positioned for Structural Growth from 2H26 (Jefferies)](entries/Kweichow-Moutai-Positioned-for-Structural-Growth-from-2H26-Jefferies.md) — Research Report (pdf)
 - [Mao Geping: Global China Summit 2026 takeaways -- Solid growth visibility (JPMorgan)](entries/Mao-Geping-Global-China-Summit-2026-takeaways-Solid-growth-visibility-JPMorgan.md) — Research Report (pdf)
 - [ASML深度分析：High-NA-EUV采用时间线调整](entries/ASML深度分析-High-NA-EUV采用时间线调整.md) — Analysis (pdf)
+- [ZTO Express: 1Q26 beat, stronger unit economics as competition rationalizes (JPMorgan)](entries/ZTO-Express-1Q26-beat-stronger-unit-economics-as-competition-rationalizes-JPMorg.md) — Research Report (pdf)
 
