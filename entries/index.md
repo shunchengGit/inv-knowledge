@@ -131,3 +131,4 @@
 - [地平线机器人 研究报告 - Morgan Stanley (2026-04-22)](entries/地平线机器人-研究报告-Morgan-Stanley-2026-04-22.md) — Horizon Robotics  | Asia Pacific
 - [Macquarie (5月) — SK海力士：惊人利润增长拖低PE，目标价上调至₩290万](entries/Macquarie-5月-SK海力士-惊人利润增长拖低PE-目标价上调至-290万.md) — Macquarie将SK海力士目标价上调至290万韩元(+61%)，预计HBM 2027涨价>50%
 - [地平线机器人 产品分析 - UBS Equities](entries/地平线机器人-产品分析-UBS-Equities.md) — 2026 product launch: transitioning to an auto AI
+- [JPMorgan (5月) — SK海力士：LTA铺路新估值框架，目标价上调至₩3,000,000](entries/JPMorgan-5月-SK海力士-LTA铺路新估值框架-目标价上调至-3-000-000.md) — JPMorgan大幅上调SK海力士目标价至300万韩元，从P/B切换到P/E估值框架
