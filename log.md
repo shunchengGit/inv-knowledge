@@ -240,4 +240,5 @@
 - [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — Analysis (pdf)
 - [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — Analysis (pdf)
 - [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Analysis (pdf)
+- [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Analysis (pdf)
 
