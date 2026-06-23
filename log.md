@@ -41,4 +41,5 @@
 - [HSBC — SK海力士1Q26业绩点评：服务器需求超预期，维持Buy目标₩1,800,000](entries/HSBC-SK海力士1Q26业绩点评-服务器需求超预期-维持Buy目标-1-800-000.md) — Article (pdf)
 - [Nomura — SK海力士1Q26业绩点评：业绩Beat，LTA铺路新估值框架，目标价₩2,340,000](entries/Nomura-SK海力士1Q26业绩点评-业绩Beat-LTA铺路新估值框架-目标价-2-340-000.md) — Article (pdf)
 - [谷歌(GOOG)研报 — 美银全球研究 — 2026-04-30](entries/谷歌-GOOG-研报-美银全球研究-2026-04-30.md) — ResearchReport (pdf)
+- [谷歌(GOOG)研报 — 德意志银行 — 2026-04-30](entries/谷歌-GOOG-研报-德意志银行-2026-04-30.md) — ResearchReport (pdf)
 
