@@ -120,3 +120,4 @@
 - [中际旭创 2026-Q2 业绩分析 - BofA Global Research](entries/中际旭创-2026-Q2-业绩分析-BofA-Global-Research.md) — This research report provides general information only. No part of this report may be used
 - [中际旭创 研究报告 - Nomura (2026-04-16)](entries/中际旭创-研究报告-Nomura-2026-04-16.md) — Zhongji InnoLight   300308.SZ 300308 CH
 - [中际旭创 研究报告 - BofA Global Research (2026-06-09)](entries/中际旭创-研究报告-BofA-Global-Research-2026-06-09.md) — This research report provides general information only. No part of this report may be used
+- [拼多多 研究报告 - Deutsche Bank (2026-04-23)](entries/拼多多-研究报告-Deutsche-Bank-2026-04-23.md) — Distributed on: 23/04/2026 14:11:18 GMT
