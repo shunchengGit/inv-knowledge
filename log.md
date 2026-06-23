@@ -34,4 +34,5 @@
 - [行业研究-半导体2026年研报综合摘要](entries/行业研究-半导体2026年研报综合摘要.md) — Synthesis (pdf)
 - [行业研究-AI2026年研报综合摘要](entries/行业研究-AI2026年研报综合摘要.md) — Synthesis (pdf)
 - [中际旭创2026年研报综合摘要](entries/中际旭创2026年研报综合摘要.md) — Synthesis (pdf)
+- [隆基绿能2026年研报综合摘要](entries/隆基绿能2026年研报综合摘要.md) — Synthesis (pdf)
 
