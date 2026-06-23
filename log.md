@@ -36,4 +36,5 @@
 - [中际旭创2026年研报综合摘要](entries/中际旭创2026年研报综合摘要.md) — Synthesis (pdf)
 - [隆基绿能2026年研报综合摘要](entries/隆基绿能2026年研报综合摘要.md) — Synthesis (pdf)
 - [行业研究-房地产2026年研报综合摘要](entries/行业研究-房地产2026年研报综合摘要.md) — Synthesis (pdf)
+- [行业研究-金融2026年研报综合摘要](entries/行业研究-金融2026年研报综合摘要.md) — Synthesis (pdf)
 
