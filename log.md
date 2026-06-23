@@ -189,4 +189,5 @@
 - [ASML分析：两种孔径的故事](entries/ASML分析-两种孔径的故事.md) — Analysis (pdf)
 - [ZTO Express: 1Q26 Results Call -- Sustained Positive Management Tone (Morgan Stanley)](entries/ZTO-Express-1Q26-Results-Call-Sustained-Positive-Management-Tone-Morgan-Stanley.md) — Research Report (pdf)
 - [ZTO Express: Earnings Upgrade Continues Despite Macro Challenges (Morgan Stanley)](entries/ZTO-Express-Earnings-Upgrade-Continues-Despite-Macro-Challenges-Morgan-Stanley.md) — Research Report (pdf)
+- [ZTO Express Research Tactical Idea -- Alibaba stake concern offers entry (Morgan Stanley)](entries/ZTO-Express-Research-Tactical-Idea-Alibaba-stake-concern-offers-entry-Morgan-Sta.md) — Research Report (pdf)
 

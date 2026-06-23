@@ -48,3 +48,4 @@
 - [ASML首选股：三大驱动因素](entries/ASML首选股-三大驱动因素.md) — UBS重申ASML首选股：产能瓶颈被夸大、存储器曝光度最高、High-NA价值巨大，目标价€1,900（上调自€1,600）
 - [ZTO Express: Earnings Upgrade Continues Despite Macro Challenges (Morgan Stanley)](entries/ZTO-Express-Earnings-Upgrade-Continues-Despite-Macro-Challenges-Morgan-Stanley.md) — Morgan Stanley第三次上调ZTO盈利预测。1Q26后管理层对全年单位利润改善更乐观,正向循环(市场份额→定价权→成本优势)已重启。预计12个月回购约US$8亿(~8%股东回报)。
 - [ZTO Express Research Tactical Idea -- Alibaba stake concern offers entry (Morgan Stanley)](entries/ZTO-Express-Research-Tactical-Idea-Alibaba-stake-concern-offers-entry-Morgan-Sta.md) — Morgan Stanley 60日战术看多报告。Alibaba委派非执行董事许迪离职触发市场对减持担忧,但基本面无忧,预计回购即将恢复,股价回调是买入良机。
+- [ZTO Express: Winning on quality over quantity (UBS)](entries/ZTO-Express-Winning-on-quality-over-quantity-UBS.md) — UBS对ZTO 1Q26的First Read报告。收入同比+22%超预期,但少数股东权益及补贴减少导致净利润仅+5%。市场份额提升1.4ppts,ASP改善由KA客户和单均重量增加驱动。
