@@ -225,4 +225,5 @@
 - [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — Analysis (pdf)
 - [Greater China Banks Daily](entries/Greater-China-Banks-Daily.md) — Analysis (pdf)
 - [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — Analysis (pdf)
+- [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Analysis (pdf)
 
