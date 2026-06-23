@@ -84,4 +84,5 @@
 - [行业研究-工业自动化 - Morgan Stanley 人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端 122326109](entries/行业研究-工业自动化-Morgan-Stanley-人形机器人-人形机器人前沿-人形机器人即将登陆彭博终端-122326109.md) — 行业研报 (pdf)
 - [汇川技术 研究报告 - JPMorgan (2026-04-29)](entries/汇川技术-研究报告-JPMorgan-2026-04-29.md) — Article (pdf)
 - [行业研究-工业自动化 - Morgan Stanley China Industrials Trip Takeaways Stronger, Broader Capex B... 122462764](entries/行业研究-工业自动化-Morgan-Stanley-China-Industrials-Trip-Takeaways-Stronger-Broader-Cape.md) — 行业研报 (pdf)
+- [汇川技术 风险收益分析 - Morgan Stanley](entries/汇川技术-风险收益分析-Morgan-Stanley.md) — Article (pdf)
 
