@@ -14,13 +14,13 @@ tags: [microsoft, profit-trend, competitive-advantage, 2026-Q1, azure, copilot]
 微软FQ3'26（2026年4月）财报表现强劲：营收$828.86亿（+18.3%），Non-GAAP EPS $4.27（+19.9%），Azure CCY增长39%超预期。M365 Copilot席位达2000万（环比+500万），AI年化营收$370亿（+123%）。最大争议是Capex指引大幅上修至$1900亿（含$250亿组件通胀），引发FCF担忧。三大券商综合评级Buy，目标价$510-571。
 
 ## 关键要点
-1. **Azure增长引擎强劲**：39% CCY增长超指引（37-38%），FQ4指引39-40%，管理层罕见指引H2 CY26加速。AWS和GCP同期亦大幅加速，反映AI算力需求极度旺盛
-2. **Capex大幅上修成最大争议**：CY26 capex指引$1900亿（vs此前共识~$1600亿），含$250亿内存硬件通胀。UBS将FY27 capex预估从$1810亿上调至$2340亿，FY27 FCF预估转负（-$210亿）
-3. **Copilot拐点渐近**：20M付费席位环比+33%，FQ4指引2500万+。微软转向混合席位+消费模式，GitHub Copilot token消耗大幅增长
-4. **OpenAI协议调整利好Azure**：修订后微软不再向OpenAI支付收入分成（原计入COGS），剔除后Azure增长更"纯粹"。UBS指出该分成此前为COGS项而非收入抵减项
-5. **Dynamics 365和Windows承压**：D365指引"低双位数"增速（显著减速），客户因评估新AI定价场景而推迟续约。Windows OEM因内存通胀和PC预算紧张面临量收缩
-6. **估值处历史低位**：NTM P/E 21-22x（5年均值29x），HSBC目标价$571（29x NTMEPS），UBS目标价$510（22x CY27E），BNPP目标价$555
-7. **Microsoft AI营收已达$370亿年化**，OpenAI占显著部分，但剔除收入分成后的基础AI营收增长仍然强劲
+- **Azure增长引擎强劲**：39% CCY增长超指引（37-38%），FQ4指引39-40%，管理层罕见指引H2 CY26加速。AWS和GCP同期亦大幅加速，反映AI算力需求极度旺盛
+- **Capex大幅上修成最大争议**：CY26 capex指引$1900亿（vs此前共识~$1600亿），含$250亿内存硬件通胀。UBS将FY27 capex预估从$1810亿上调至$2340亿，FY27 FCF预估转负（-$210亿）
+- **Copilot拐点渐近**：20M付费席位环比+33%，FQ4指引2500万+。微软转向混合席位+消费模式，GitHub Copilot token消耗大幅增长
+- **OpenAI协议调整利好Azure**：修订后微软不再向OpenAI支付收入分成（原计入COGS），剔除后Azure增长更"纯粹"
+- **Dynamics 365和Windows承压**：D365指引"低双位数"增速（显著减速），客户因评估新AI定价场景而推迟续约
+- **估值处历史低位**：NTM P/E 21-22x（5年均值29x），目标价$510-571区间
+- **Microsoft AI营收已达$370亿年化**，OpenAI占显著部分，但剔除收入分成后的基础AI营收增长仍然强劲
 
 ## 评级与目标价
 - BNP Paribas：Outperform，目标价$555（SOTP，25x FY28 P/E）
