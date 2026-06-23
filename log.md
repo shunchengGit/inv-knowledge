@@ -152,3 +152,6 @@
 - [Morgan Stanley — 微软Windows PC与NVIDIA合作开启AI PC时代](entries/Morgan-Stanley-微软Windows-PC与NVIDIA合作开启AI-PC时代.md) — Article (pdf)
 - [BNP — OpenAI(Anthropic)效应：AI基础设施的机会与挑战](entries/BNP-OpenAI-Anthropic-效应-AI基础设施的机会与挑战.md) — Article (pdf)
 
+## 2026-06-24
+- [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis (pdf)
+
