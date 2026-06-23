@@ -129,3 +129,4 @@
 - [万国数据 2026-Q2 业绩分析 - Macquarie Research](entries/万国数据-2026-Q2-业绩分析-Macquarie-Research.md) — Macquarie Equity Research
 - [HSBC (5月) — SK海力士：DRAM价格再超预期，TP从180万大幅上调至290万韩元](entries/HSBC-5月-SK海力士-DRAM价格再超预期-TP从180万大幅上调至290万韩元.md) — HSBC将SK海力士目标价从180万上调至290万韩元，通用服务器需求爆炸式增长
 - [地平线机器人 研究报告 - Morgan Stanley (2026-04-22)](entries/地平线机器人-研究报告-Morgan-Stanley-2026-04-22.md) — Horizon Robotics  | Asia Pacific
+- [Macquarie (5月) — SK海力士：惊人利润增长拖低PE，目标价上调至₩290万](entries/Macquarie-5月-SK海力士-惊人利润增长拖低PE-目标价上调至-290万.md) — Macquarie将SK海力士目标价上调至290万韩元(+61%)，预计HBM 2027涨价>50%
