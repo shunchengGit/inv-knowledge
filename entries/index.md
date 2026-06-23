@@ -121,3 +121,4 @@
 - [中际旭创 研究报告 - Nomura (2026-04-16)](entries/中际旭创-研究报告-Nomura-2026-04-16.md) — Zhongji InnoLight   300308.SZ 300308 CH
 - [中际旭创 研究报告 - BofA Global Research (2026-06-09)](entries/中际旭创-研究报告-BofA-Global-Research-2026-06-09.md) — This research report provides general information only. No part of this report may be used
 - [拼多多 研究报告 - Deutsche Bank (2026-04-23)](entries/拼多多-研究报告-Deutsche-Bank-2026-04-23.md) — Distributed on: 23/04/2026 14:11:18 GMT
+- [JPMorgan — SK海力士 1Q26业绩wrap：DRAM/NAND涨价加速，维持OW目标₩1,800,000](entries/JPMorgan-SK海力士-1Q26业绩wrap-DRAM-NAND涨价加速-维持OW目标-1-800-000.md) — JPMorgan解读SK海力士1Q26：DRAM ASP +63%超预期，NAND ASP +73%，库存降至<2周
