@@ -71,3 +71,4 @@
 - [行业研究-科技硬件 - Morgan Stanley Global Technology Computex 2026 Takeaways 122462326](entries/行业研究-科技硬件-Morgan-Stanley-Global-Technology-Computex-2026-Takeaways-122462326.md) — Computex 2026 Takeaways
 - [中通快递 2026-Q2 业绩分析 - JPMorgan](entries/中通快递-2026-Q2-业绩分析-JPMorgan.md) — www.jpmorganmarkets.com
 - [中通快递 2026-Q2 业绩分析 - Morgan Stanley](entries/中通快递-2026-Q2-业绩分析-Morgan-Stanley.md) — ZTO Express  | Asia Pacific
+- [中通快递 战术策略 - Morgan Stanley](entries/中通快递-战术策略-Morgan-Stanley.md) — ZTO Express  | Asia Pacific
