@@ -55,6 +55,12 @@
 - [2026-04-16-300308.SZ-Nomura-Zhongji InnoLight (300308 CH) (Buy) - Multiple growth driver...-121441677.pdf](中际旭创/2026-04-16-300308.SZ-Nomura-Zhongji InnoLight (300308 CH) (Buy) - Multiple growth driver...-121441677.pdf)
 - [2026-06-09-300308.SZ-BofA Global Research-Zhongji Innolight (A) Lift PO to CNY1,650 full-stack optic...-122497876.undefined.pdf](中际旭创/2026-06-09-300308.SZ-BofA Global Research-Zhongji Innolight (A) Lift PO to CNY1,650 full-stack optic...-122497876.undefined.pdf)
 
+## 博通
+- [2026-06-04-AVGO.OQ-JPMorgan-Broadcom Inc AI Momentum Accelerates on Strong Bookings; Mul...-122408104.pdf](博通/2026-06-04-AVGO.OQ-JPMorgan-Broadcom Inc AI Momentum Accelerates on Strong Bookings; Mul...-122408104.pdf)
+- [2026-06-04-AVGO.OQ-Morgan Stanley-Broadcom Inc. Expectations miss amid very strong demand-122403915.undefined.pdf](博通/2026-06-04-AVGO.OQ-Morgan Stanley-Broadcom Inc. Expectations miss amid very strong demand-122403915.undefined.pdf)
+- [2026-06-11-AVGO.OQ-UBS Equities-Broadcom Inc. _Responding To Investor Inbounds Post Earnings...-122546422.pdf](博通/2026-06-11-AVGO.OQ-UBS Equities-Broadcom Inc. _Responding To Investor Inbounds Post Earnings...-122546422.pdf)
+- [2026-06-17-AVGO.OQ-JPMorgan-Broadcom Inc Ignore The Noise - TPU v9 2nm ASIC Program On T...-122610719.pdf](博通/2026-06-17-AVGO.OQ-JPMorgan-Broadcom Inc Ignore The Noise - TPU v9 2nm ASIC Program On T...-122610719.pdf)
+
 ## 台积电
 - [2026-04-23-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _US Tech Symposium Scali...-121597085.pdf](台积电/2026-04-23-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _US Tech Symposium Scali...-121597085.pdf)
 - [2026-04-24-2330.TW-BNP Paribas-TSMC  TSMC debuts A13 and updates tech roadmap-121610129.pdf](台积电/2026-04-24-2330.TW-BNP Paribas-TSMC  TSMC debuts A13 and updates tech roadmap-121610129.pdf)
@@ -72,6 +78,9 @@
 ## 宁波银行
 - [2026-04-26-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd 1Q26 Revenue, PPOP and profit growt...-121638787.undefined.pdf](宁波银行/2026-04-26-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd 1Q26 Revenue, PPOP and profit growt...-121638787.undefined.pdf)
 - [2026-04-27-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q126 a clean beat; sizable divid...-121640444.pdf](宁波银行/2026-04-27-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q126 a clean beat; sizable divid...-121640444.pdf)
+
+## 安克创新
+- [2026062300038_c.pdf](安克创新/2026062300038_c.pdf)
 
 ## 工业富联
 - [2026-04-16-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. Grow with AI Infrastru...-121443582.undefined.pdf](工业富联/2026-04-16-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. Grow with AI Infrastru...-121443582.undefined.pdf)
@@ -185,6 +194,7 @@
 - [2026-04-07-JPMorgan-China AI Chip Fabless  Supply a short-term bottleneck, and C...-121196421.pdf](行业研究-半导体/2026-04-07-JPMorgan-China AI Chip Fabless  Supply a short-term bottleneck, and C...-121196421.pdf)
 - [2026-06-01-Morgan Stanley-Semiconductors Takeaways from our meetings in Taiwan-122325978.undefined.pdf](行业研究-半导体/2026-06-01-Morgan Stanley-Semiconductors Takeaways from our meetings in Taiwan-122325978.undefined.pdf)
 - [2026-06-04-JPMorgan-Asian Tech Key takeaways from Broadcom’s Apr-Q results-122410355.pdf](行业研究-半导体/2026-06-04-JPMorgan-Asian Tech Key takeaways from Broadcom’s Apr-Q results-122410355.pdf)
+- [2026-06-09-ADI.OQ-Deutsche Bank-US Semiconductors Quarterly End-Market Monitor-122498833.pdf](行业研究-半导体/2026-06-09-ADI.OQ-Deutsche Bank-US Semiconductors Quarterly End-Market Monitor-122498833.pdf)
 - [2026-06-10-JPMorgan-Asian Semis April WSTS data Strong YoY growth continues, be...-122503869.pdf](行业研究-半导体/2026-06-10-JPMorgan-Asian Semis April WSTS data Strong YoY growth continues, be...-122503869.pdf)
 - [2026-06-12-JPMorgan-Semiconductors April WSTS Growth Accelerates Again, Driven ...-122546555.pdf](行业研究-半导体/2026-06-12-JPMorgan-Semiconductors April WSTS Growth Accelerates Again, Driven ...-122546555.pdf)
 - [2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf](行业研究-半导体/2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf)
