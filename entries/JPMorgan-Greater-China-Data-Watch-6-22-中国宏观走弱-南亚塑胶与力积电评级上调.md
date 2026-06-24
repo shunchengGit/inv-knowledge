@@ -1,16 +1,6 @@
 ---
 type: Analysis
 title: JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调
-description: JPMorgan 6/22 Taiwan FTM周报：中国5月经济活动全面走弱，下调Q2 GDP预测；南亚塑胶目标价NT00（AI级CCL占比加速）；力积电升级至OW目标价NT00（存储代工涨价+HBM封装机会）
-timestamp: 2026-06-25T00:17:18.032685+08:00
-resource: res/策略研究/2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf
-source_type: pdf
-tags: [strategy-research, taiwan-semiconductor, china-macro, jpmorgan, 2026-Q2]
----
-
----
-type: Analysis
-title: JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调
 description: JPMorgan 6/22 Taiwan FTM周报：中国5月经济活动全面走弱，下调Q2 GDP预测；南亚塑胶目标价NT$200（AI级CCL占比加速）；力积电升级至OW目标价NT$100（存储代工涨价+HBM封装机会）
 timestamp: 2026-06-22T05:59:00+08:00
 resource: res/策略研究/2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf
@@ -19,7 +9,6 @@ tags: [strategy-research, taiwan-semiconductor, china-macro, jpmorgan, 2026-Q2]
 ---
 
 # JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调
-
 ## 摘要
 
 JPMorgan 2026年6月22日「Taiwan First to Market」/「Greater China Data Watch」周报覆盖中国宏观、台湾央行决策及两只台湾个股评级调整。宏观方面，中国5月国内经济活动全面走弱，JPM下调Q2 GDP增长预测但上调下半年展望；低线城市楼市复苏仍然滞后。台湾央行（CBC）维持利率不变符合预期，上调2026年GDP预测至9.5%、CPI预测至1.9%，但Q4加息风险上升。个股方面，（1）**南亚塑胶（1303 TT）**目标价从NT$125大幅上调至NT$200（Street最高），维持OW，因M9/M10 CCD获Nvidia认证进展超预期、AI级产品占比预计2028年>50%，EPS上调38-65%（2026/27/28E）；（2）**力积电PSMC（6770 TT）**从N升级至OW，目标价从NT$50上调至NT$100，14x 12M forward earnings，因存储代工ASP强势提升（预计从2Q25底部涨3x）、与美光HBM封装及DDR4工艺合作的潜在机会、逻辑代工硅电容新增长点，毛利率预计从1Q26的10%升至YE27的47%。此外，新兴市场资金流向显示GEM资金外流有所减缓。

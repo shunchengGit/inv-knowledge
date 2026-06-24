@@ -18,7 +18,7 @@
 - [Jefferies AI系列#41：DeepSeek V4发布后的新进展](entries/Jefferies-AI系列-41-DeepSeek-V4发布后的新进展.md) — Jefferies追踪DeepSeek V4发布后的行业影响，分析开源模型对AI竞争格局的冲击
 - [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — JPMorgan全球中国峰会2026互联网行业核心要点：AI应用落地、电商竞争格局和监管环境展望
 - [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — JPMorgan分析AI数据中心储能系统(ESS)的参考架构设计和早期订单趋势
-- [JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调](entries/JPMorgan-Greater-China-Data-Watch-6-22-中国宏观走弱-南亚塑胶与力积电评级上调.md) — JPMorgan 6/22 Taiwan FTM周报：中国5月经济活动全面走弱，下调Q2 GDP预测；南亚塑胶目标价NT00（AI级CCL占比加速）；力积电升级至OW目标价NT00（存储代工涨价+HBM封装机会）
+- [JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调](entries/JPMorgan-Greater-China-Data-Watch-6-22-中国宏观走弱-南亚塑胶与力积电评级上调.md) — JPMorgan 6/22 Taiwan FTM周报：中国5月经济活动全面走弱，下调Q2 GDP预测；南亚塑胶目标价NT$200（AI级CCL占比加速）；力积电升级至OW目标价NT$100（存储代工涨价+HBM封装机会）
 - [JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M](entries/JPMorgan-SK-hynix-LTA-paves-path-for-new-valuation-framework-raising-PT-to-W3M.md) — JPMorgan维持Overweight，TP从KRW 1,800,000大幅上调至3,000,000。LTA谈判进入关键拐点，将推动存储器从P/B向P/E估值框架迁移（8x FY26-27E EPS）。上调FY26-28E EPS 9-20%。
 - [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — JPMorgan在中国AI应用巡回调研中发现，AI正从模型开发阶段转向行业应用加速落地
 - [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — JPMorgan首次覆盖中国AI芯片Fabless板块，预计40%单位CAGR至2030年，聚焦本土AI芯片国产替代
