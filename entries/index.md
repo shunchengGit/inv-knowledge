@@ -90,3 +90,4 @@
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — 茅台2026年3月飞天出厂价提至Rmb1,269（+8.6%），1Q26收入+6.3%但毛利率-331bp；MS维持OW（PT Rmb1,790），BofA Buy（PT Rmb1,630），Jefferies Buy（PT Rmb2,100），共识聚焦2H26结构性增长
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
 - [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — 隆基绿能1Q26净亏损约17亿元(剔除减值)，BC组件出货占比从28%升至66%，目标6GWh BESS出货，UBS维持买入/TP 22.8元，JPM维持UW/TP 11.7元
+- [JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调](entries/JPMorgan-Greater-China-Data-Watch-6-22-中国宏观走弱-南亚塑胶与力积电评级上调.md) — JPMorgan 6/22 Taiwan FTM周报：中国5月经济活动全面走弱，下调Q2 GDP预测；南亚塑胶目标价NT00（AI级CCL占比加速）；力积电升级至OW目标价NT00（存储代工涨价+HBM封装机会）
