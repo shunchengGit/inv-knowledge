@@ -7,6 +7,7 @@
 - [BNP Paribas：台积电推出A13并更新技术路线图——重申Outperform](entries/台积电BNP-技术路线图-A13更新-重申Outperform.md) — BNP Paribas（Alex Chang）于2026年4月24日发布。A13（2029 HVM，面积节省6%）、A12（Super Power Rail背面供电）、N2U（2028 HVM，速度+3-4%/功耗-8-10%）、CoWoS扩展至14-reticle。评级Outperform，目标价TWD2,520/USD478。
 - [BofA 5月App数据跟踪：中国电商与在线媒体格局分析](entries/BofA-5月App数据跟踪-中国电商与在线媒体格局分析.md) — BofA基于5月App下载量和活跃度数据分析中国互联网电商、本地生活和在线媒体竞争格局变化
 - [BofA Greater China EV & Future Car — Structural leadership amid intensifying competition](entries/BofA-Greater-China-EV-Future-Car-20260618.md) — BofA发布中国电动车和未来汽车行业深度报告，分析中国新能源车企在激烈竞争中的结构性领先优势
+- [BofA中国银行业周报6/19 — 5月宏观数据分化、美联储鹰派、贷款增速放缓成新常态](entries/BofA中国银行业周报6-19-5月宏观数据分化-美联储鹰派-贷款增速放缓成新常态.md) — BofA 6/19周报：5月FAI降4.1% YoY/零售降0.6%/工业产出升4.5%宏观数据分化；PBOC潘功胜称更慢但更高质量的贷款增长或成新常态；H股银行板块跌5.1%（P/B 0.54x，股息率5.4%）；A-H溢价平均16.3%
 - [BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧](entries/台积电BofA-产能与技术爬坡-缓解竞争担忧.md) — BofA（Haas Liu）于2026年5月15日发布的台积电台湾技术研讨会要点分析。3nm产能Q4'26达190k WPM（远超三星/Intel），N2缺陷密度领先3nm两季度，CoWoS良率98%+。评级买入，目标价NT$2,560。
 - [BofA：台积电先进节点需求强劲——2026-27资本支出展望上调](entries/台积电BofA-先进节点资本支出-Arizona盈利改善.md) — BofA（Haas Liu）于2026年5月17日发布。TSMC董事会批准US$31bn资本拨款，Arizona 1Q26运营大幅改善（营收NT$39bn，净利润NT$19bn），2027年capex或达US$75bn。评级买入，目标价NT$2,560。
 - [BofA：台积电股东大会更新——AI驱动需求与技术执行支撑营收/毛利率展望](entries/台积电BofA-股东大会AI需求与技术执行.md) — BofA（Haas Liu）于2026年6月4日发布的台积电年度股东大会要点分析。管理层对AI需求高度乐观（2030年前增长可见度），维持56%+长期GM指引。N2利润率将优于N3。Intel为前十大客户。评级买入，目标价NT$2,560。
@@ -91,4 +92,3 @@
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — 茅台2026年3月飞天出厂价提至Rmb1,269（+8.6%），1Q26收入+6.3%但毛利率-331bp；MS维持OW（PT Rmb1,790），BofA Buy（PT Rmb1,630），Jefferies Buy（PT Rmb2,100），共识聚焦2H26结构性增长
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
 - [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — 隆基绿能1Q26净亏损约17亿元(剔除减值)，BC组件出货占比从28%升至66%，目标6GWh BESS出货，UBS维持买入/TP 22.8元，JPM维持UW/TP 11.7元
-- [BofA中国银行业周报6/19 — 5月宏观数据分化、美联储鹰派、贷款增速放缓成新常态](entries/BofA中国银行业周报6-19-5月宏观数据分化-美联储鹰派-贷款增速放缓成新常态.md) — BofA 6/19周报：5月FAI降4.1% YoY/零售降0.6%/工业产出升4.5%宏观数据分化；PBOC潘功胜称更慢但更高质量的贷款增长或成新常态；H股银行板块跌5.1%（P/B 0.54x，股息率5.4%）；A-H溢价平均16.3%
