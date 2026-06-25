@@ -98,6 +98,7 @@
 - [2026-05-27-MSFT.OQ-Morgan Stanley-Microsoft Infrastructure Monetization – Still Early Days in...-122260783.undefined.pdf](微软/2026-05-27-MSFT.OQ-Morgan Stanley-Microsoft Infrastructure Monetization – Still Early Days in...-122260783.undefined.pdf)
 - [2026-06-01-MSFT.OQ-Morgan Stanley-Microsoft The Next Chapter for Windows PCs – Partnership wi...-122346484.undefined.pdf](微软/2026-06-01-MSFT.OQ-Morgan Stanley-Microsoft The Next Chapter for Windows PCs – Partnership wi...-122346484.undefined.pdf)
 - [2026-06-02-MSFT.OQ-BNP Paribas-SOFTWARE  The OpenAI ( Anthropic) Effect AI Infrastructur...-122356064.pdf](微软/2026-06-02-MSFT.OQ-BNP Paribas-SOFTWARE  The OpenAI ( Anthropic) Effect AI Infrastructur...-122356064.pdf)
+- [2026-06-02-MSFT.OQ-BNP Paribas-SOFTWARE  The OpenAI ( Anthropic) Effect AI Infrastructur...-122356064_2.pdf](微软/2026-06-02-MSFT.OQ-BNP Paribas-SOFTWARE  The OpenAI ( Anthropic) Effect AI Infrastructur...-122356064_2.pdf)
 - [2026-06-09-MSFT.OQ-BNP Paribas-MICROSOFT (+)  10 questions ahead of New York NDR, and Spac...-122486295.pdf](微软/2026-06-09-MSFT.OQ-BNP Paribas-MICROSOFT (+)  10 questions ahead of New York NDR, and Spac...-122486295.pdf)
 - [2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685.pdf](微软/2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685.pdf)
 
