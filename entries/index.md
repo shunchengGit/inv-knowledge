@@ -44,9 +44,13 @@
 - [Morgan Stanley人形机器人前沿：即将登陆彭博终端与产业进展](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Morgan Stanley追踪人形机器人行业最新进展，关注机器人登录彭博终端等里程碑事件
 - [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Morgan Stanley总结Computex 2026展会关键趋势，AI PC生态成熟、服务器需求强劲、边缘计算崛起
 - [Morgan Stanley台湾半导体供应链调研纪要](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Morgan Stanley在台湾与半导体公司会面后的关键发现，涵盖CoWoS产能、HBM需求和先进制程展望
+- [MSFT AI基础设施深度系列：OpenAI与Anthropic效应——Token优化周期来临 (BNP Paribas 6/2)](entries/MSFT-AI基础设施深度系列-OpenAI与Anthropic效应-Token优化周期来临-BNP-Paribas-6-2.md) — BNP Paribas 6月2日深度报告：OpenAI+Anthropic合计ARR已达$800亿（2025年底$300亿），agentic AI推动token消耗爆发式增长，但企业token成本反弹正引发首次有意义的token优化周期，AI基础设施ROIC有望达20-30%
 - [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — Morgan Stanley从每MW营收角度分析微软AI基础设施扩张：DC容量从FY24的5GW扩至FY28的20GW，营收/MW持续下降暗示营收预估可能滞后，目标价50
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，Capex从810亿上调至340亿，以及从席位向用量定价模式的加速转型
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 微软FQ3'26（2026年4月）财报综合速览：营收28.86亿(+18.3%)，EPS .27(+19.9%)，Azure CCY增长39%超预期，Capex指引900亿大幅上修，Copilot席位达2000万
+- [MSFT NDR前瞻10问：Copilot进展、GPU定价权与AI基础设施融资 (BNP Paribas 6/9)](entries/MSFT-NDR前瞻10问-Copilot进展-GPU定价权与AI基础设施融资-BNP-Paribas-6-9.md) — BNP Paribas 6月9日发布微软纽约NDR前夕10大投资者核心问题：Copilot是否已突破2500万席位、agentic工作负载的算力经济性、Azure GPU定价权、OpenAI承诺中的对冲机制、Capex超现金流的融资选项，以及SpaceX AI云披露暗示AI基础设施收入远超此前预期
+- [MSFT NYC NDR反馈：Copilot成核心议题，FQ4席位或远超2500万 (BNP Paribas 6/11)](entries/MSFT-NDR反馈-Copilot成核心议题-FQ4席位或远超2500万-BNP-Paribas-6-11.md) — BNP Paribas 6月11日微软纽约NDR反馈：Copilot超越Azure成为投资者最关注话题，FQ4 Copilot席位有望远超2500万+指引，定价模式正从纯席位向席位+消费混合模式演进，Azure GPU定价倾向优化效率而非全面提价
+- [MSFT Windows AI PC新篇章：与NVIDIA合作发布RTX Spark平台 (Morgan Stanley 6/1)](entries/MSFT-Windows-AI-PC新篇章-与NVIDIA合作发布RTX-Spark平台-Morgan-Stanley-6-1.md) — Morgan Stanley 6月1日报告：微软与NVIDIA联合发布RTX Spark——为个人AI Agent设计的Windows AI计算平台，搭载Grace CPU+Blackwell RTX+128GB统一内存，可本地运行120B参数大模型；Surface Laptop Ultra成为首款NVIDIA架构旗舰PC
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — BNP Paribas 5月26日更新报告：微软处于关键拐点，Copilot用户反馈显著改善（Agent Mode/Copilot Cowork获好评），Azure 40%+增长可持续至FQ3'27
 - [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — HSBC 5月26日报告：Anthropic年化营收从0亿飙升至00亿，Azure可能到2030年从Anthropic获得30亿/年增量营收，维持Buy目标价71
 - [MS中国美妆618预售排名：珀莱雅第一，巨子生物快速崛起](entries/MS中国美妆618预售排名.md) — Morgan Stanley发布2026年618预售排名，珀莱雅蝉联第一，巨子生物可复美/可丽金快速增长，国际品牌表现分化，国货美妆持续抢占市场份额
