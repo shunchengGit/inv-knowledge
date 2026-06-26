@@ -5,6 +5,7 @@
 - [JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调](entries/JPMorgan-Greater-China-Data-Watch-6-22-中国宏观走弱-南亚塑胶与力积电评级上调.md) — Analysis
 - [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — Analysis
 - [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — Analysis
+- [JPMorgan中国地产周度数据监控：端午假期扰动致销售转弱，一线城市挂牌量持续下降支撑房价企稳](entries/jpm-china-property-weekly-data-2026-06.md) — Analysis
 - [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — Analysis
 - [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — Analysis
 - [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — Analysis

@@ -26,11 +26,13 @@
 - [JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M](entries/JPMorgan-SK-hynix-LTA-paves-path-for-new-valuation-framework-raising-PT-to-W3M.md) — JPMorgan维持Overweight，TP从KRW 1,800,000大幅上调至3,000,000。LTA谈判进入关键拐点，将推动存储器从P/B向P/E估值框架迁移（8x FY26-27E EPS）。上调FY26-28E EPS 9-20%。
 - [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — JPMorgan在中国AI应用巡回调研中发现，AI正从模型开发阶段转向行业应用加速落地
 - [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — JPMorgan首次覆盖中国AI芯片Fabless板块，预计40%单位CAGR至2030年，聚焦本土AI芯片国产替代
+- [JPMorgan中国地产周度数据监控：端午假期扰动致销售转弱，一线城市挂牌量持续下降支撑房价企稳](entries/jpm-china-property-weekly-data-2026-06.md) — 6月第三周受端午假期影响，冰山指数10城二手成交同比微降0.05%（扣除假期效应+15%），一线城市二手挂牌量环比-0.5%较3月峰值累计降2.6%，60城一手网签同比-23%但同期基数偏低不可比
 - [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — JPMorgan分析外卖行业新披露规则对美团和饿了么竞争格局的影响
 - [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — JPMorgan分析5月国家统计局房地产数据，一线城市房价环比止跌，但全国市场恢复仍需政策支持
 - [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — JPMorgan在中国电池行业报告中建议精选个股，关注供给侧改革受益标的和全球化布局领先的企业
 - [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — JPMorgan全球房地产研究团队每日新闻和研究摘要，涵盖中国地产行业动态
 - [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — JPMorgan分析4月WSTS半导体销售数据，同比增速再创新高，AI芯片和存储是主要驱动力
+- [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — JPM 6/23分析：中国地产股4个交易日跑输恒指9%，CRL/COLI单周跌11%；一线城市房价连续4个月环比正增长（NBS二手+0.3%/中原+0.3% MoM），9城冰山指数二手成交+15% YoY；维持SOE开发商择低买入建议
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Macquarie维持Outperform，TP上调61%至KRW 2,900,000（6x 2027E PE）。存储器短缺将持续恶化，HBM 2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。
 - [Meta 1Q26业绩超预期但资本开支大幅上调，多空观点激烈交锋](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Meta 1Q26营收$56.3bn(+29% y/y)超预期，但大幅上调2026年资本开支指引$100亿至$1,250-1,450亿，并预告2027年capex将增长42%至$2,020亿，导致FCF转负。BofA维持Buy(目标$835)，DB强调广告ROI改善，JPMorgan下调至Neutral(目标$725)。核心分歧在于AI巨额投资回报可见度。
 - [MetaxGoogle反垄断诉讼专家电话会(Jefferies)](entries/Meta-Google-Antitrust-Lawsuit-Jefferies-20260416.md) — Jefferies邀请反垄断专家Glenn Manishin(曾参与AT&T和微软反垄断案)解读Meta/Google近期反垄断诉讼进展，分析可能的判决结果及对科技巨头的行业影响。
@@ -76,6 +78,7 @@
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — 宁波银行2026Q1营收/净利润+10.2%/+10.3%超预期，NIM环比+5bps至1.73%，手续费收入+81.7% YoY，2025年分红率从21.9%大幅提升至27.0%，股息率3.7%
 - [安克创新(Anker)赴港IPO招股书核心分析](entries/安克创新-00668-HK-IPO-招股书分析.md) — 安克创新H股最高发售价HK$99.32，集资净额~HK$45.23亿，基石占比49.9%，AH折价21-27%，2025经营现金流骤降至4.81亿为最大红旗信号
 - [工业富联AI服务器持续驱动增长：MS维持OW，1Q26营收增57%](entries/工业富联AI服务器分析.md) — 工业富联1Q26营收2510亿元(+57% YoY)，AI GPU机架出货+3.8x，AI ASIC服务器+3.2x，毛利率提升至7.9%，营业利润率6.2%超预期
+- [德银中国NEV周度新订单监控（2026年6月第3周）](entries/db-china-nev-weekly-orders-2026-06.md) — Deutsche Bank发布中国新能源车周度新订单监控周报（2026年6月23日），基于Thinkercar数据追踪比亚迪、吉利、HIMA、理想、蔚来、小鹏、零跑、小米、特斯拉等关键车企的周度新订单趋势，为NEV需求领先指标
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — 恒瑞医药与BMS签订涵盖13个早期项目的全球战略合作，潜在总价值US$152亿（6亿首付款），为中国药企第二大license-out交易；JPM维持A股OW（PT Rmb70）/H股Neutral（PT HK$70）
 - [拼多多：电商监管再起与业务稳健发展周期(Deutsche Bank/华泰证券)](entries/PDD-Ecommerce-Regulation-Huatai-DB-202603-04.md) — 两份报告从不同角度分析拼多多。DB(2026-04-23)聚焦SAMR对主要电商平台罚款RMB36亿，标志从价格战转向"合规战"，有利于头部平台。华泰证券(2026-03-26)上调评级至买入(目标价$133)，认为拼多多电商业务有望进入稳健发展周期——平台模式较少受国补基数影响、竞争边际缓和、"新拼姆"自营模式提升海外确定性。
 - [日月光投控中介层业务超预期VSMC资本支出降低](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Nomura世界先进研报：中介层业务好于预期、VSMC资本支出从8亿降至7亿加速盈亏平衡，上调至买入目标价TWD178
