@@ -216,6 +216,7 @@
 
 ## 行业研究-新能源
 - [2026-06-12-JPMorgan-China Battery Cherry picking amid supply-side reform and glo...-122557008.pdf](行业研究-新能源/2026-06-12-JPMorgan-China Battery Cherry picking amid supply-side reform and glo...-122557008.pdf)
+- [2026-06-23-Deutsche Bank-China NEV Weekly New Orders Monitor China NEV demand leadin...-122699146.pdf](行业研究-新能源/2026-06-23-Deutsche Bank-China NEV Weekly New Orders Monitor China NEV demand leadin...-122699146.pdf)
 
 ## 行业研究-汽车
 - [2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf](行业研究-汽车/2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf)
