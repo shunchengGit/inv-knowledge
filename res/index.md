@@ -210,6 +210,7 @@
 - [2026-06-15-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122575218.pdf](行业研究-房地产/2026-06-15-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122575218.pdf)
 - [2026-06-16-JPMorgan-China Property NBS May 2026 data - tier-1 cities’ home price...-122608274.pdf](行业研究-房地产/2026-06-16-JPMorgan-China Property NBS May 2026 data - tier-1 cities’ home price...-122608274.pdf)
 - [2026-06-16-JPMorgan-J.P. Morgan Global Real Estate Daily News and Research Summa...-122604344.pdf](行业研究-房地产/2026-06-16-JPMorgan-J.P. Morgan Global Real Estate Daily News and Research Summa...-122604344.pdf)
+- [2026-06-22-JPMorgan-China Property Why the recent share price weakness-122692937.pdf](行业研究-房地产/2026-06-22-JPMorgan-China Property Why the recent share price weakness-122692937.pdf)
 - [BofA-China-Property-Conference-Call-2026-06-22.pdf](行业研究-房地产/BofA-China-Property-Conference-Call-2026-06-22.pdf)
 
 ## 行业研究-新能源
