@@ -32,9 +32,6 @@ tags: [bank-of-ningbo, profit-trend, valuation, 2026-Q1]
 - MS目标价45元（+39%上行空间），当前估值0.87x 2026E P/B
 - 2026E/2027E EPS预测4.80/5.55元，ROE 14.3%/14.8%
 
-## 关联
-- [宁波银行UBS 1Q26快评：超预期+分红提升](entries/宁波银行UBS-1Q26快评.md) — UBS同样给出正面评价，补充分红率提升至27%的关键信息
-
 ## 引用
 - [Morgan Stanley - Bank of Ningbo 1Q26 Update](res/宁波银行/2026-04-26-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd 1Q26 Revenue, PPOP and profit growt...-121638787.undefined.pdf)
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — 共享标签: valuation, profit-trend, bank-of-ningbo; 同标的: bank-of-ningbo; 共同关键词(15): 银行, bank, yoy, 2026

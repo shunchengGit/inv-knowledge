@@ -31,5 +31,4 @@ tags: [英特尔, INTC, AI, AgenticAI, 代工, 18A, 服务器CPU, analysis-dimen
 英特尔, INTC, AI, AgenticAI, 代工, 18A, 服务器CPU, analysis-dimension:估值重估, time:2026Q2
 
 ## 关联
-- [英特尔：服务器需求顺风与制造叙事](entries/英特尔服务器需求顺风与制造叙事.md)
 - [中际旭创1Q26超预期：1.6T推动利润率上行](entries/中际旭创1Q26超预期1-6T推动利润率上行.md)

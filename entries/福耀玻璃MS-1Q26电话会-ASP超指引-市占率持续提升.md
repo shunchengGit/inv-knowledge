@@ -32,10 +32,6 @@ Morgan Stanley在福耀玻璃2026Q1业绩电话会后发布更新。ASP同比+11
 - 返利仅确认1.17ppt（vs 2025全年正常水平），后续季度可能增加
 - MS DCF估值：WACC 13%，中期增长率8%，终值增长率3%
 
-## 关联
-- [福耀玻璃UBS 1Q26快评：毛利率超预期，剔除汇兑利润+10% YoY](entries/福耀玻璃UBS-1Q26快评-毛利率超预期-剔除汇兑利润+10%-YoY.md) — UBS补充毛利率超预期和纯碱降价细节
-- [福耀玻璃BNP 1Q26：运营和利润率保持稳健](entries/福耀玻璃BNP-1Q26-运营和利润率保持稳健.md) — BNP补充海外收入+11.2%和铝饰条业务进展
-
 ## 引用
 - [Morgan Stanley - Fuyao Glass 1Q26 Earnings Call Takeaways](res/福耀玻璃/2026-04-22-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 1Q26 Earnings Call Takeaways – S...-121554520.undefined.pdf)
 - [福耀玻璃JPM 1Q26：管理层看好2Q26订单动能，ASP增长可持续](entries/福耀玻璃JPM-1Q26-管理层看好2Q26订单动能-ASP增长可持续.md) — 共享标签: profit-trend, competitive-advantage, 2026-Q1; 同标的: fuyao-glass; 共同关键词(16): 1q26, 2026, 耀玻, pdf

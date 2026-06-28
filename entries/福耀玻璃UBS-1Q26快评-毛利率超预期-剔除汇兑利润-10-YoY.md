@@ -33,7 +33,6 @@ tags: [fuyao-glass, profit-trend, competitive-advantage, 2026-Q1]
 - UBS目标价：A股CNY80（+48%上行），H股HK$62.85（+52.5%回报率）
 
 ## 关联
-- [福耀玻璃BNP 1Q26：运营和利润率保持稳健](entries/福耀玻璃BNP-1Q26-运营和利润率保持稳健.md) — BNP同样给出Outperform，补充ASP分解和铝饰条业务进展
 - [福耀玻璃MS 1Q26电话会：ASP超指引，市占率持续提升](entries/福耀玻璃MS-1Q26电话会-ASP超指引-市占率持续提升.md) — MS补充高附加值产品占比57.6%和2Q26展望
 
 ## 引用
