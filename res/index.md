@@ -7,6 +7,9 @@
 - [2026-05-21-ASML.AS-BofA Global Research-ASML Holding N.V. High-NA inflection intact, with memory fi...-122166365.undefined.pdf](ASML/2026-05-21-ASML.AS-BofA Global Research-ASML Holding N.V. High-NA inflection intact, with memory fi...-122166365.undefined.pdf)
 - [2026-05-21-ASML.AS-JPMorgan-ASML Takeaways from London TMT Conference 2026-122159112.pdf](ASML/2026-05-21-ASML.AS-JPMorgan-ASML Takeaways from London TMT Conference 2026-122159112.pdf)
 
+## Eaton-ETN
+- [2026-05-05-ROK.N-Deutsche Bank-Multi-Industry and Electrical Equipment Todays Wrap ETN a...-121846011.pdf](Eaton-ETN/2026-05-05-ROK.N-Deutsche Bank-Multi-Industry and Electrical Equipment Todays Wrap ETN a...-121846011.pdf)
+
 ## Hubbell
 - [2026-05-04-HUBb.N-Deutsche Bank-Hubbell  Our Initial Thoughts on the NSI Acquisition-121819010.pdf](Hubbell/2026-05-04-HUBb.N-Deutsche Bank-Hubbell  Our Initial Thoughts on the NSI Acquisition-121819010.pdf)
 - [2026-05-04-HUBb.N-Morgan Stanley-Hubbell Inc. NSI Acquisition Brings Accretion at Attractive...-121816448.undefined.pdf](Hubbell/2026-05-04-HUBb.N-Morgan Stanley-Hubbell Inc. NSI Acquisition Brings Accretion at Attractive...-121816448.undefined.pdf)
@@ -205,6 +208,7 @@
 ## 行业研究-工业自动化
 - [2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf](行业研究-工业自动化/2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf)
 - [2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf](行业研究-工业自动化/2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf)
+- [2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf](行业研究-工业自动化/2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf)
 
 ## 行业研究-房地产
 - [2026-06-15-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122575218.pdf](行业研究-房地产/2026-06-15-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122575218.pdf)
