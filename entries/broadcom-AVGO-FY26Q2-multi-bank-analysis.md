@@ -38,3 +38,7 @@ Broadcom FY26Q2业绩后三份投行报告一致确认AI需求处于历史性爆
 
 - 公司: Broadcom (AVGO)
 - 机构: Morgan-Stanley, JPMorgan, UBS
+
+- ["Broadcom/JPMorgan：TPU v9 2nm ASIC按计划CY28量产——无延迟，锁定后续4代TPU"](entries/AVGO-JPM-TPUv9-2nm-ASIC-CY28.md) — 同公司：Broadcom/AVGO AI ASIC业务系列
+- [Google 1Q26云业务超预期爆发，Cloud backlog达$4,620亿(BofA/DB/HSBC)](entries/Google-1Q26-Cloud-Backlog-BofA-DB-HSBC-20260430.md) — 同主题：AI基础设施与云业务
+- [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — 同主题：AI基础设施资本开支
