@@ -1,5 +1,5 @@
 ---
-type: note
+type: Note
 title: Deutsche Bank: Humanoid Robot Comparing Unitree, UBTECH, DEEP, Dobot and Others
 description: DB 2026-06-15. Humanoid robot industry comparison: Unitree, UBTECH, DEEP, Dobot and others. Detailed competitive analysis of Chinese humanoid robot players.
 timestamp: 2026-06-28T11:48:37.900091+08:00

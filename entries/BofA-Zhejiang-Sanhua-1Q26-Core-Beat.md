@@ -1,5 +1,5 @@
 ---
-type: note
+type: Note
 title: BofA: Zhejiang Sanhua 1Q26 Core Beat
 description: BofA 2026-04-30. Zhejiang Sanhua (002050.SZ) 1Q26 core earnings beat expectations, but valuation looks stretched. Analysis of thermal management and automotive components.
 timestamp: 2026-06-28T11:48:42.784696+08:00

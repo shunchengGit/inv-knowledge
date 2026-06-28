@@ -106,7 +106,7 @@
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
 - [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — 隆基绿能1Q26净亏损约17亿元(剔除减值)，BC组件出货占比从28%升至66%，目标6GWh BESS出货，UBS维持买入/TP 22.8元，JPM维持UW/TP 11.7元
 
-## note
+## Note
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — BNPP 2026-06-11. ETN Mobility/Dana RMT is clear positive: Mobility valued at $5.1bn (8.3x EV/EBITDA, 5.9x with $250m synergies). ETN gets $1.1bn cash for deleveraging (net leverage 3.1x). Accelerates focus on high-growth Electrical + Aerospace. Data center to reach 34% of sales in 2027. ETN at ~24x 2027E PE is undervalued, expect re-rating. PT $490. Top Pick.
 - [BofA: Zhejiang Sanhua 1Q26 Core Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — BofA 2026-04-30. Zhejiang Sanhua (002050.SZ) 1Q26 core earnings beat expectations, but valuation looks stretched. Analysis of thermal management and automotive components.
 - [Deutsche Bank: ETN 1Q Wrap](entries/Deutsche-Bank-ETN-1Q-Wrap.md) — DB 2026-05-05. ETN 1Q: EA margin 25.6% (-440bps YoY) on capacity expansion + cost inflation. Orders strong (+60% EA). 2H margin recovery to >30% expected. 2026 adj EPS $13.38. PT $461 (27x NTM). Risks: DC capex slowdown, utility investment slowdown, M&A execution.

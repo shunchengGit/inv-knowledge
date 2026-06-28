@@ -1,5 +1,5 @@
 ---
-type: note
+type: Note
 title: BNP Paribas: ETN Mobility/Dana RMT Transaction
 description: BNPP 2026-06-11. ETN Mobility/Dana RMT is clear positive: Mobility valued at $5.1bn (8.3x EV/EBITDA, 5.9x with $250m synergies). ETN gets $1.1bn cash for deleveraging (net leverage 3.1x). Accelerates focus on high-growth Electrical + Aerospace. Data center to reach 34% of sales in 2027. ETN at ~24x 2027E PE is undervalued, expect re-rating. PT $490. Top Pick.
 timestamp: 2026-06-28T11:40:21.005734+08:00

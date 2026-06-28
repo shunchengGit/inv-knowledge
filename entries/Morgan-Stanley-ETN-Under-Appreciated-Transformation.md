@@ -1,5 +1,5 @@
 ---
-type: note
+type: Note
 title: Morgan Stanley: ETN Under-Appreciated Transformation
 description: MS 2026-05-08. ETN portfolio transformation under-appreciated: Mobility spin-off + Dana RMT ($5.1bn, 8.3x EV/EBITDA), Boyd acquisition. Data center to grow from 21% (2025) to 34% (2027). 2027 EPS $15.91 (P/E 25x). Market too focused on 2026 margin uncertainty, missing 2027 structural re-rating. PT $500. Maintain OW.
 timestamp: 2026-06-28T11:40:16.614339+08:00
