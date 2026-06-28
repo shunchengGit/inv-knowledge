@@ -95,6 +95,7 @@
 
 ## 待分类
 - [2026-04-30-002050.SZ-BofA Global Research-Zhejiang Sanhua (H) 1Q26 core beat, but valuation looks str...-121732476.undefined.pdf](待分类/2026-04-30-002050.SZ-BofA Global Research-Zhejiang Sanhua (H) 1Q26 core beat, but valuation looks str...-121732476.undefined.pdf)
+- [2026-04-30-002050.SZ-UBS Equities-First Read Zhejiang Sanhua Intelligent Controls _Q126 reven...-121714938.pdf](待分类/2026-04-30-002050.SZ-UBS Equities-First Read Zhejiang Sanhua Intelligent Controls _Q126 reven...-121714938.pdf)
 - [2026-06-15-6481.T-Deutsche Bank-Humanoid Robot Comparing Unitree, UBTECH, DEEP, Dobot and L...-122580688.pdf](待分类/2026-06-15-6481.T-Deutsche Bank-Humanoid Robot Comparing Unitree, UBTECH, DEEP, Dobot and L...-122580688.pdf)
 
 ## 微软
