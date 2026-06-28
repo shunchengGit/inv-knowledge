@@ -259,4 +259,5 @@
 - [BofA: Zhejiang Sanhua 1Q26 Core Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — note (pdf)
 - [UBS: Zhejiang Sanhua Intelligent Controls Q126 Revenue](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — note (pdf)
 - [伯恩斯坦：AI电力狂潮下燃气轮机周期与2000年的本质不同](entries/伯恩斯坦-AI电力狂潮下燃气轮机周期与2000年的本质不同.md) — Analysis (url)
+- [伯恩斯坦：AI电力狂潮下燃气轮机周期与2000年的本质不同](entries/伯恩斯坦-AI电力狂潮下燃气轮机周期与2000年的本质不同.md) — Analysis (url)
 

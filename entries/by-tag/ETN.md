@@ -1,7 +1,6 @@
-# 电气设备
+# ETN
 
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — note
 - [Deutsche Bank: ETN 1Q Wrap](entries/Deutsche-Bank-ETN-1Q-Wrap.md) — note
-- [Hubbell 30亿美元收购NSI Industries：强化电气化与数据中心布局](entries/HubbellNSI收购与电气化分析.md) — Analysis
 - [JPMorgan: ETN 1Q Wrap and Model Update](entries/JPMorgan-ETN-1Q-Wrap-and-Model-Update.md) — note
 - [Morgan Stanley: ETN Under-Appreciated Transformation](entries/Morgan-Stanley-ETN-Under-Appreciated-Transformation.md) — note
