@@ -1,6 +1,7 @@
 # morgan-stanley
 
 - [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Analysis
+- [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — Analysis
 - [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Analysis
 - [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Analysis
 - [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Analysis

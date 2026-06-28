@@ -39,6 +39,7 @@
 - [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — JPMorgan详细分析Meta Superintelligence Labs(MSL)首款模型Muse Spark，认为其标志Meta在AI前沿领域的突破。Muse Spark为原生多模态推理模型，支持工具调用、视觉思维链与多智能体编排。Meta规划可预测的扩展路径，更大更强的模型在开发中。维持Overweight评级，目标价$825 (Dec-26)
 - [Meta裁员10%与Neocloud选择权(Morgan Stanley)](entries/Meta-Headcount-MS-20260517.md) — Morgan Stanley分析Meta计划裁员10%(约8,000人)，关闭6,000个职位空缺，同时大幅提高capex。MS估算裁员可带来~$2bn/2H26和~$3.5bn/FY27的运营费用节省。维持Overweight评级，目标价$775。同时提出"Neocloud备份选择权"概念——若Meta向第三方出租过剩GPU容量，有望带来8%+的FY28 EPS上行空间。
 - [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Morgan Stanley总结Computex 2026展会关键趋势：AI PC、服务器与边缘计算
+- [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — Morgan Stanley 2026年6月24日发布中国人形机器人Investor Presentation，预测2050年全球保有量达10亿台、市场规模7.5万亿美元，2026年正式开启小规模商业化拐点，中国供应链优势显著
 - [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Morgan Stanley中国工业企业调研显示资本支出复苏范围扩大、力度增强
 - [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Morgan Stanley分析中国金融业高质量发展路径和人民币存款新规对银行的影响
 - [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Morgan Stanley分析中国金融业高质量发展路径、人民币存款新规的影响以及银行板块投资机会
@@ -103,4 +104,3 @@
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — 茅台2026年3月飞天出厂价提至Rmb1,269（+8.6%），1Q26收入+6.3%但毛利率-331bp；MS维持OW（PT Rmb1,790），BofA Buy（PT Rmb1,630），Jefferies Buy（PT Rmb2,100），共识聚焦2H26结构性增长
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
 - [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — 隆基绿能1Q26净亏损约17亿元(剔除减值)，BC组件出货占比从28%升至66%，目标6GWh BESS出货，UBS维持买入/TP 22.8元，JPM维持UW/TP 11.7元
-- [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — Morgan Stanley 2026年6月24日发布中国人形机器人Investor Presentation，预测2050年全球保有量达10亿台、市场规模7.5万亿美元，2026年正式开启小规模商业化拐点，中国供应链优势显著
