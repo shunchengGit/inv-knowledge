@@ -10,6 +10,7 @@
 ## Eaton-ETN
 - [2026-05-05-ROK.N-Deutsche Bank-Multi-Industry and Electrical Equipment Todays Wrap ETN a...-121846011.pdf](Eaton-ETN/2026-05-05-ROK.N-Deutsche Bank-Multi-Industry and Electrical Equipment Todays Wrap ETN a...-121846011.pdf)
 - [2026-05-06-ETN.N-JPMorgan-Eaton 1Q Wrap and Model Update-121859909.pdf](Eaton-ETN/2026-05-06-ETN.N-JPMorgan-Eaton 1Q Wrap and Model Update-121859909.pdf)
+- [2026-05-08-ETN.N-Morgan Stanley-Eaton Corporation PLC Under-Appreciated Transformation, PT ...-121921714.undefined.pdf](Eaton-ETN/2026-05-08-ETN.N-Morgan Stanley-Eaton Corporation PLC Under-Appreciated Transformation, PT ...-121921714.undefined.pdf)
 
 ## Hubbell
 - [2026-05-04-HUBb.N-Deutsche Bank-Hubbell  Our Initial Thoughts on the NSI Acquisition-121819010.pdf](Hubbell/2026-05-04-HUBb.N-Deutsche Bank-Hubbell  Our Initial Thoughts on the NSI Acquisition-121819010.pdf)
