@@ -32,3 +32,7 @@ Morgan Stanley发布人形机器人行业前沿报告，关注产业发展里程
 - 机构: morgan-stanley
 - 主题: humanoid-robot
 - 相关: tesla-optimus, figure-ai
+
+- [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — 同主题：MS人形机器人产业深度与前沿进展
+- [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — 同机构Morgan Stanley中国制造业系列
+- ["汇川技术综合投行分析：自动化订单强劲但NEV拖累1Q26"](entries/汇川技术多投行综合分析.md) — 同主题：中国工业自动化/机器人产业链

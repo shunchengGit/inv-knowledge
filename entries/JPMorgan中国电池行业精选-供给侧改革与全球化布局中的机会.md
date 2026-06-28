@@ -33,3 +33,7 @@ JPMorgan分析中国电池行业供需格局，认为供给侧改革将淘汰落
 - 机构: jpmorgan
 - 主题: battery-supply-reform
 - 相关: catl, byd, solid-state
+
+- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — 同机构JPMorgan中国制造/科技行业
+- [德银中国NEV周度新订单监控（2026年6月第3周）](entries/db-china-nev-weekly-orders-2026-06.md) — 同主题：中国新能源产业链需求数据
+- [BofA Greater China EV & Future Car — Structural leadership amid intensifying competition](entries/BofA-Greater-China-EV-Future-Car-20260618.md) — 同主题：新能源车与电池产业链

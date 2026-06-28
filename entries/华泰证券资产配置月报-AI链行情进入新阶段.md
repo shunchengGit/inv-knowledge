@@ -32,3 +32,7 @@ tags: [huatai-securities, asset-allocation, strategy, ai-chain, 2026-Q2]
 - 机构: huati-securities
 - 主题: asset-allocation-april-2026
 - 相关: ai-chain, a-share
+
+- [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — 同机构华泰证券AI/科技研究系列
+- [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — 同主题：中国AI产业链投资
+- [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — 同主题：AI产业链投资轮动

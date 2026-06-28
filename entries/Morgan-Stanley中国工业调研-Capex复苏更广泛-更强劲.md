@@ -32,3 +32,7 @@ Morgan Stanley团队在中国工业调研中发现资本支出复苏范围扩大
 - 机构: morgan-stanley
 - 主题: china-capex-recovery
 - 相关: automation, renewable-energy
+
+- [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — 同机构Morgan Stanley中国制造业/工业系列
+- [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — 同机构Morgan Stanley中国宏观经济
+- [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — 同主题：中国工业/装备制造业

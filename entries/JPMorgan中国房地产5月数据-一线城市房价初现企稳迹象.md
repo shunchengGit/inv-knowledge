@@ -33,3 +33,7 @@ tags: [jpmorgan, china-property, real-estate, nbs-data, 2026-Q2]
 - 机构: jpmorgan
 - 数据: nbs-may-2026
 - 相关: tier-1-cities, housing-price
+
+- [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — 同机构JPMorgan中国房地产系列
+- [JPMorgan中国地产周度数据监控：端午假期扰动致销售转弱，一线城市挂牌量持续下降支撑房价企稳](entries/jpm-china-property-weekly-data-2026-06.md) — 同主题：JPMorgan中国地产周度数据跟踪
+- [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — 同主题：中国地产股投资逻辑

@@ -32,3 +32,7 @@ JPMorgan分析中国外卖行业最新监管动态——软性披露新规。
 - 机构: jpmorgan
 - 主题: food-delivery-regulation
 - 相关: meituan, eleme
+
+- [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — 同机构JPMorgan中国互联网行业系列
+- [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — 同主题：中国互联网平台监管与业务
+- [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — 同行业：中国电商与本地生活平台

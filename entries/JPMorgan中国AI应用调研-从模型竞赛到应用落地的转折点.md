@@ -32,3 +32,7 @@ AI Agent(智能体)成为中国AI应用最热门方向之一。
 - 机构: jpmorgan
 - 主题: china-ai-application
 - 相关: ai-agent, enterprise-ai
+
+- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — 同机构JPMorgan中国AI产业链系列
+- [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — 同主题：中国互联网AI应用落地
+- [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — 同主题：中国AI应用与算力需求

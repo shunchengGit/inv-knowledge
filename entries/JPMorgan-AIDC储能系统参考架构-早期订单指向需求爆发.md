@@ -32,3 +32,7 @@ JPMorgan发布AI数据中心储能系统参考架构分析报告。
 - 机构: jpmorgan
 - 主题: aidc-energy-storage
 - 相关: data-center, liquid-cooling
+
+- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — 同主题：JPMorgan中国AI基础设施产业链
+- [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — 同主题：AI数据中心半导体需求
+- ["万国数据AI需求爆发：三年Capex 300-500亿元，订单创纪录"](entries/万国数据AI驱动数据中心分析.md) — 同主题：AIDC数据中心储能需求

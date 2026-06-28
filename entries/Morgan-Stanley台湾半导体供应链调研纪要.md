@@ -32,3 +32,7 @@ HBM4需求展望乐观，SK海力士在技术领先地位稳固。
 - 机构: morgan-stanley
 - 地区: taiwan
 - 相关: tsmc, cowos, hbm
+
+- [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — 同机构Morgan Stanley半导体/科技系列
+- [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — 同主题：台湾半导体与全球科技供应链
+- [BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧](entries/台积电BofA-产能与技术爬坡-缓解竞争担忧.md) — 同主题：台湾半导体制造竞争格局

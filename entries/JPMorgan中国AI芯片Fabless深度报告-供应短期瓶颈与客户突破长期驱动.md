@@ -33,3 +33,7 @@ CSP（云服务提供商）客户突破是中长期增长的关键驱动力。
 - 机构: jpmorgan
 - 主题: ai-chip-localization
 - 相关: iluvatar-corex, metax
+
+- [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — 同机构JPMorgan中国AI产业链系列
+- [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — 同主题：半导体行业与AI芯片需求
+- [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — 同主题：AI基础设施供应链

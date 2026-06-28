@@ -33,3 +33,7 @@ tags: [jpmorgan, semiconductor, wsts, industry-data, 2026-Q2]
 - 机构: jpmorgan
 - 数据: wsts-april-2026
 - 相关: memory, hbm, ai-chip
+
+- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — 同机构JPMorgan半导体/AI系列
+- [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — 同主题：AI驱动半导体需求
+- ["DB半导体季度终端市场监控：数据中心+84%YoY再加速，工业连续8季改善，汽车连续4季回暖"](entries/ADI-DB-US-Semi-季度终端市场监控.md) — 同主题：全球半导体终端市场数据

@@ -32,3 +32,7 @@ BofA基于5月App数据跟踪中国互联网竞争格局。
 - 机构: bofa
 - 数据: app-data-may-2026
 - 相关: pinduoduo, meituan, douyin
+
+- [BofA中国银行业周报6/19 — 5月宏观数据分化、美联储鹰派、贷款增速放缓成新常态](entries/BofA中国银行业周报6-19-5月宏观数据分化-美联储鹰派-贷款增速放缓成新常态.md) — 同机构BofA中国宏观跟踪系列
+- [BofA Greater China EV & Future Car — Structural leadership amid intensifying competition](entries/BofA-Greater-China-EV-Future-Car-20260618.md) — 同机构BofA Greater China行业覆盖
+- [Google AI Wars流量跟踪：Gemini与Claude高速增长，Google搜索份额稳定(BofA)](entries/Google-AI-Wars-Traffic-BofA-202605-06.md) — 同机构BofA流量数据研究方法论

@@ -32,3 +32,7 @@ AI应用货币化是2026年下半年的关键催化剂。
 - 机构: morgan-stanley
 - 主题: ai-rotation
 - 相关: tencent, meituan, pinduoduo
+
+- [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — 同机构Morgan Stanley科技行业系列
+- [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — 同主题：AI PC与服务器投资主题
+- [MSFT Windows AI PC新篇章：与NVIDIA合作发布RTX Spark平台 (Morgan Stanley 6/1)](entries/MSFT-Windows-AI-PC新篇章-与NVIDIA合作发布RTX-Spark平台-Morgan-Stanley-6-1.md) — 同主题：AI PC生态与硬件投资

@@ -32,3 +32,7 @@ JPMorgan全球房地产研究团队发布每日新闻和研究摘要。
 - 机构: jpmorgan
 - 主题: global-real-estate-daily
 - 相关: reits, developer-bonds
+
+- [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — 同机构JPMorgan中国房地产系列
+- [JPMorgan中国地产周度数据监控：端午假期扰动致销售转弱，一线城市挂牌量持续下降支撑房价企稳](entries/jpm-china-property-weekly-data-2026-06.md) — 同主题：JPMorgan中国地产数据跟踪
+- [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — 同主题：中国地产股投资逻辑

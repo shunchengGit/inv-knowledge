@@ -32,3 +32,7 @@ Morgan Stanley举办中国金融业投资者会议，讨论高质量发展政策
 - 机构: morgan-stanley
 - 主题: high-quality-development
 - 相关: bank-of-ningbo, cmb
+
+- [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — 同主题：MS中国银行业存款新规与高质量发展
+- [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — 同机构Morgan Stanley中国宏观经济系列
+- [BofA中国银行业周报6/19 — 5月宏观数据分化、美联储鹰派、贷款增速放缓成新常态](entries/BofA中国银行业周报6-19-5月宏观数据分化-美联储鹰派-贷款增速放缓成新常态.md) — 同主题：中国银行业宏观环境
