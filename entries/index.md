@@ -112,3 +112,4 @@
 - [BofA: Zhejiang Sanhua 1Q26 Core Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — BofA 2026-04-30. Zhejiang Sanhua (002050.SZ) 1Q26 core earnings beat expectations, but valuation looks stretched. Analysis of thermal management and automotive components.
 - [UBS: Zhejiang Sanhua Intelligent Controls Q126 Revenue](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — UBS 2026-04-30. Zhejiang Sanhua Intelligent Controls (002050.SZ) Q1 2026 revenue analysis. First read on thermal management business performance.
 - [伯恩斯坦：AI电力狂潮下燃气轮机周期与2000年的本质不同](entries/伯恩斯坦-AI电力狂潮下燃气轮机周期与2000年的本质不同.md) — 伯恩斯坦研报：本轮燃气轮机周期以棕地复苏为主非绿地新建，HDGT到2030年仍供不应求，真正的风险是结构性错配而非总量过剩
+- [伯恩斯坦：AI电力狂潮下燃气轮机周期与2000年的本质不同](entries/伯恩斯坦-AI电力狂潮下燃气轮机周期与2000年的本质不同.md) — 伯恩斯坦90页研报：本轮燃气轮机周期以棕地复苏为主非绿地新建，全球产能64GW→109GW（+60%），HDGT到2030年仍供不应求缺口23.6GW，IGT&Aero 2027年起过剩18.8GW。AI数据中心电力需求20-34GW/年，三大厂订单中数据中心占比20-30%。定价持续上涨（Turbine价格+50%），服务市场是现金牛（每GW≈4亿欧元全生命周期收入）。A股映射：东方电气、应流股份、图南股份、平高电气等。
