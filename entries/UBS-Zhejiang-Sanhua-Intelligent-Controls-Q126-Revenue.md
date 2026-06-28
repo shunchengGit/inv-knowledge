@@ -20,4 +20,4 @@ UBS 2026-04-30. Zhejiang Sanhua Intelligent Controls (002050.SZ) Q1 2026 revenue
 
 ## 关联
 
-（待补充）
+- [BofA-Zhejiang-Sanhua-1Q26-Core-Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — BofA三花智控研报 — 同标的不同券商

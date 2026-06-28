@@ -20,4 +20,5 @@ DB 2026-05-05. ETN 1Q: EA margin 25.6% (-440bps YoY) on capacity expansion + cos
 
 ## 关联
 
-（待补充）
+- [BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — BNP ETN研报 — 同公司不同券商
+- [JPMorgan-ETN-1Q-Wrap-and-Model-Update](entries/JPMorgan-ETN-1Q-Wrap-and-Model-Update.md) — JPMorgan ETN研报 — 同公司不同券商

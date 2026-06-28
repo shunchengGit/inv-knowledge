@@ -20,4 +20,5 @@ BNPP 2026-06-11. ETN Mobility/Dana RMT is clear positive: Mobility valued at $5.
 
 ## 关联
 
-（待补充）
+- [Deutsche-Bank-ETN-1Q-Wrap](entries/Deutsche-Bank-ETN-1Q-Wrap.md) — Deutsche Bank ETN研报 — 同公司不同券商
+- [JPMorgan-ETN-1Q-Wrap-and-Model-Update](entries/JPMorgan-ETN-1Q-Wrap-and-Model-Update.md) — JPMorgan ETN研报 — 同公司不同券商

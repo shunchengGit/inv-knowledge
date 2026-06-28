@@ -20,4 +20,4 @@ BofA 2026-04-30. Zhejiang Sanhua (002050.SZ) 1Q26 core earnings beat expectation
 
 ## 关联
 
-（待补充）
+- [UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — UBS三花智控研报 — 同标的不同券商

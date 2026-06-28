@@ -20,4 +20,5 @@ MS 2026-05-08. ETN portfolio transformation under-appreciated: Mobility spin-off
 
 ## 关联
 
-（待补充）
+- [BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — BNP ETN研报 — 同公司不同券商
+- [Deutsche-Bank-ETN-1Q-Wrap](entries/Deutsche-Bank-ETN-1Q-Wrap.md) — Deutsche Bank ETN研报 — 同公司不同券商

@@ -20,4 +20,5 @@ DB 2026-06-15. Humanoid robot industry comparison: Unitree, UBTECH, DEEP, Dobot 
 
 ## 关联
 
-（待补充）
+- [BofA-Zhejiang-Sanhua-1Q26-Core-Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — BofA三花智控 — 人形机器人产业链关联
+- [UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — UBS三花智控 — 人形机器人产业链关联
