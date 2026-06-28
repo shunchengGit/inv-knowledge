@@ -257,4 +257,5 @@
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — note (pdf)
 - [Deutsche Bank: Humanoid Robot Comparing Unitree, UBTECH, DEEP, Dobot and Others](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — note (pdf)
 - [BofA: Zhejiang Sanhua 1Q26 Core Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — note (pdf)
+- [UBS: Zhejiang Sanhua Intelligent Controls Q126 Revenue](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — note (pdf)
 
