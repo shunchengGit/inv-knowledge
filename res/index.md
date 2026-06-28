@@ -93,6 +93,9 @@
 - [2026-04-28-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. 1Q26 Operating Profit ...-121680836.undefined.pdf](工业富联/2026-04-28-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. 1Q26 Operating Profit ...-121680836.undefined.pdf)
 - [2026-05-20-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. AI Servers Continue to...-122143074.undefined.pdf](工业富联/2026-05-20-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. AI Servers Continue to...-122143074.undefined.pdf)
 
+## 待分类
+- [2026-06-15-6481.T-Deutsche Bank-Humanoid Robot Comparing Unitree, UBTECH, DEEP, Dobot and L...-122580688.pdf](待分类/2026-06-15-6481.T-Deutsche Bank-Humanoid Robot Comparing Unitree, UBTECH, DEEP, Dobot and L...-122580688.pdf)
+
 ## 微软
 - [2026-04-27-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft and OpenAI adjusting partnership (...-121649940.pdf](微软/2026-04-27-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft and OpenAI adjusting partnership (...-121649940.pdf)
 - [2026-04-27-MSFT.OQ-UBS Equities-Microsoft Corp. _Our Take on the Revised OpenAI Agreement_ (...-121661380.pdf](微软/2026-04-27-MSFT.OQ-UBS Equities-Microsoft Corp. _Our Take on the Revised OpenAI Agreement_ (...-121661380.pdf)
