@@ -253,6 +253,7 @@
 - [2026-06-10-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122499598.pdf](行业研究-金融/2026-06-10-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122499598.pdf)
 - [2026-06-10-UBS Equities-Greater China Banks Daily _China’s May trade data beat expec...-122499401.pdf](行业研究-金融/2026-06-10-UBS Equities-Greater China Banks Daily _China’s May trade data beat expec...-122499401.pdf)
 - [2026-06-19-BofA Global Research-Banks - China Weekly Wrap Mixed macro, hawkish Fed, and sl...-122644511.undefined.pdf](行业研究-金融/2026-06-19-BofA Global Research-Banks - China Weekly Wrap Mixed macro, hawkish Fed, and sl...-122644511.undefined.pdf)
+- [2026-06-26-BofA Global Research-Banks - China Weekly Wrap Stable LPR, Tighter Audits, and ...-122787653.undefined.pdf](行业研究-金融/2026-06-26-BofA Global Research-Banks - China Weekly Wrap Stable LPR, Tighter Audits, and ...-122787653.undefined.pdf)
 
 ## 谷歌
 - [2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf](谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf)
