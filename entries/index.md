@@ -9,6 +9,7 @@
 - [BofA Greater China EV & Future Car — Structural leadership amid intensifying competition](entries/BofA-Greater-China-EV-Future-Car-20260618.md) — BofA发布中国电动车和未来汽车行业深度报告，分析中国新能源车企在激烈竞争中的结构性领先优势
 - [BofA中国银行业周报6/19 — 5月宏观数据分化、美联储鹰派、贷款增速放缓成新常态](entries/BofA中国银行业周报6-19-5月宏观数据分化-美联储鹰派-贷款增速放缓成新常态.md) — BofA 6/19周报：5月FAI降4.1% YoY/零售降0.6%/工业产出升4.5%宏观数据分化；PBOC潘功胜称更慢但更高质量的贷款增长或成新常态；H股银行板块跌5.1%（P/B 0.54x，股息率5.4%）；A-H溢价平均16.3%
 - [BofA中国银行业周报6/26 — LPR按兵不动、地方审计趋严、A股两融破3万亿](entries/BofA中国银行业周报6-26-LPR按兵不动-地方审计趋严-A股两融破3万亿.md) — BofA 6/26周报：6月1年期/5年期LPR连续第13个月维持3.00%/3.50%；审计发现21个地区虚增财政收入、违规多征收约400亿元，LGFV“假退出/假化债”整治趋严；A股两融余额首次突破3万亿元，H股银行板块周跌4.5%至0.50x P/B。
+- [BofA全球存储科技周报：Meta订单、长鑫传言与周期见顶担忧](entries/BofA全球存储科技周报2026-07-02.md) — BofA 2026年7月2日周报：Meta长期存储订单依然强劲；Apple不大可能实质采用长鑫存储（CXMT）DRAM；韩国800万亿韩元新存储集群计划不代表周期见顶，2033年前无实质产出。DDR5现货升至$47创周期新高，韩半导体出口6月达$448亿同比暴增199%。
 - [BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧](entries/台积电BofA-产能与技术爬坡-缓解竞争担忧.md) — BofA（Haas Liu）于2026年5月15日发布的台积电台湾技术研讨会要点分析。3nm产能Q4'26达190k WPM（远超三星/Intel），N2缺陷密度领先3nm两季度，CoWoS良率98%+。评级买入，目标价NT$2,560。
 - [BofA：台积电先进节点需求强劲——2026-27资本支出展望上调](entries/台积电BofA-先进节点资本支出-Arizona盈利改善.md) — BofA（Haas Liu）于2026年5月17日发布。TSMC董事会批准US$31bn资本拨款，Arizona 1Q26运营大幅改善（营收NT$39bn，净利润NT$19bn），2027年capex或达US$75bn。评级买入，目标价NT$2,560。
 - [BofA：台积电股东大会更新——AI驱动需求与技术执行支撑营收/毛利率展望](entries/台积电BofA-股东大会AI需求与技术执行.md) — BofA（Haas Liu）于2026年6月4日发布的台积电年度股东大会要点分析。管理层对AI需求高度乐观（2030年前增长可见度），维持56%+长期GM指引。N2利润率将优于N3。Intel为前十大客户。评级买入，目标价NT$2,560。
@@ -61,6 +62,7 @@
 - [Nomura Sansera Engineering (SANSERA IN) — Diversification gains momentum (Buy)](entries/Nomura-Sansera-Engineering-Buy-Diversification-gains-momentum-20260521.md) — Nomura维持Sansera Engineering买入评级，目标价上调，认为公司业务多元化从汽车零部件向航空航天和工业领域拓展正获得动能
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
 - [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价40评级买入
+- [UBS大中华区银行业日报2026-07-03：股东高管增持潮、香港2025年AUM创历史新高](entries/UBS大中华区银行业日报2026-07-03.md) — UBS 2026年7月3日大中华区银行业日报：2026年以来A股多家银行迎来大股东与高管增持潮（邮储银行大股东增持5.26亿元，光大集团增持5166万元，成都国资增持9.57亿元成都银行）；香港2025年资产管理总额（AUM）同比增20%至创纪录的42.2万亿港元，其中净资金流入同比激增193%至2.1万亿港元；2026年上半年中国信用债净融资同比增11.7%至1.46万亿元，但LGFV城投债延续净偿还1002亿元，呈明显收缩分化态势。
 - [UBS快速解读：台积电4月营收NT$4,107亿——Q2开局符合预期](entries/台积电UBS-4月营收4107亿-符合Q2预期.md) — UBS（Sunny Lin）于2026年5月8日发布。4月营收NT$4,107亿（-1.1% MoM，+17.5% YoY），Q2追踪达UBSe的32.3%。预计2026年美元营收增长35%，受N3 AI加速器和N2爬坡驱动。维持买入，目标价NT$2,650。
 - [UBS快速解读：台积电5月营收NT$4,170亿——Q2稳步推进，目标价上调至NT$3,000](entries/台积电UBS-5月营收4170亿-Q2稳步推进-目标价上调至3000.md) — UBS于2026年6月10日发布。5月营收NT$4,170亿（+30.1% YoY），Q2追踪达UBSe的65%。2026年营收预测上调至+36%（美元计），目标价从NT$2,650大幅上调至NT$3,000（23x 2027E PE）。H2毛利率或从H1的66.8%降至65%。
 - [UBS：台积电US技术研讨会——A13/A12/N2U路线图与AI护城河](entries/台积电UBS-US技术研讨会-A13-A12-N2U路线图与AI护城河.md) — UBS于2026年4月23日发布的台积电北美技术研讨会深度分析。评级买入，目标价NT$2,650（21x 2027E PE）。A13/A12/N2U路线图、CoWoS扩展至14-reticle、CPO硅光子进展。2026E EPS NT$97.98，营收NT$5.21兆。

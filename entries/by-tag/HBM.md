@@ -1,4 +1,5 @@
 # HBM
 
+- [BofA全球存储科技周报：Meta订单、长鑫传言与周期见顶担忧](entries/BofA全球存储科技周报2026-07-02.md) — Analysis
 - [三星电子存储能见度延伸至2027年代工提前盈亏平衡](entries/三星电子存储能见度延伸至2027年代工提前盈亏平衡.md) — Analysis
 - [美光FQ3-26业绩预览](entries/美光FQ3-26业绩预览.md) — Analysis
