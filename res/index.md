@@ -212,6 +212,7 @@
 - [2026-06-10-JPMorgan-Asian Semis April WSTS data Strong YoY growth continues, be...-122503869.pdf](行业研究-半导体/2026-06-10-JPMorgan-Asian Semis April WSTS data Strong YoY growth continues, be...-122503869.pdf)
 - [2026-06-12-JPMorgan-Semiconductors April WSTS Growth Accelerates Again, Driven ...-122546555.pdf](行业研究-半导体/2026-06-12-JPMorgan-Semiconductors April WSTS Growth Accelerates Again, Driven ...-122546555.pdf)
 - [2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf](行业研究-半导体/2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf)
+- [2026-07-02-BofA Global Research-Global Memory Tech Weekly theme MetaCXMTKorea risks, Jap...-122909283.undefined.pdf](行业研究-半导体/2026-07-02-BofA Global Research-Global Memory Tech Weekly theme MetaCXMTKorea risks, Jap...-122909283.undefined.pdf)
 
 ## 行业研究-工业自动化
 - [2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf](行业研究-工业自动化/2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf)
@@ -254,6 +255,7 @@
 - [2026-06-10-UBS Equities-Greater China Banks Daily _China’s May trade data beat expec...-122499401.pdf](行业研究-金融/2026-06-10-UBS Equities-Greater China Banks Daily _China’s May trade data beat expec...-122499401.pdf)
 - [2026-06-19-BofA Global Research-Banks - China Weekly Wrap Mixed macro, hawkish Fed, and sl...-122644511.undefined.pdf](行业研究-金融/2026-06-19-BofA Global Research-Banks - China Weekly Wrap Mixed macro, hawkish Fed, and sl...-122644511.undefined.pdf)
 - [2026-06-26-BofA Global Research-Banks - China Weekly Wrap Stable LPR, Tighter Audits, and ...-122787653.undefined.pdf](行业研究-金融/2026-06-26-BofA Global Research-Banks - China Weekly Wrap Stable LPR, Tighter Audits, and ...-122787653.undefined.pdf)
+- [2026-07-03-BofA Global Research-Banks - China Weekly Wrap PBOC ‘cut’ signal, private inves...-122942005.undefined.pdf](行业研究-金融/2026-07-03-BofA Global Research-Banks - China Weekly Wrap PBOC ‘cut’ signal, private inves...-122942005.undefined.pdf)
 - [2026-07-03-UBS Equities-Greater China Banks Daily _Banks see wave of share purchases...-122914012.pdf](行业研究-金融/2026-07-03-UBS Equities-Greater China Banks Daily _Banks see wave of share purchases...-122914012.pdf)
 
 ## 谷歌
