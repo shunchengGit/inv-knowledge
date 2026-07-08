@@ -1,4 +1,3 @@
-# 2026-Q3
+# private-investment
 
 - [BofA中国银行业周报2026-07-03：央行“降息”信号、推动民间投资、券商受益科技股上涨](entries/BofA中国银行业周报2026-07-03.md) — Analysis
-- [UBS大中华区银行业日报2026-07-03：股东高管增持潮、香港2025年AUM创历史新高](entries/UBS大中华区银行业日报2026-07-03.md) — Analysis
