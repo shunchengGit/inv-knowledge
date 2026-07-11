@@ -226,6 +226,7 @@
 - [2026-06-16-JPMorgan-J.P. Morgan Global Real Estate Daily News and Research Summa...-122604344.pdf](行业研究-房地产/2026-06-16-JPMorgan-J.P. Morgan Global Real Estate Daily News and Research Summa...-122604344.pdf)
 - [2026-06-22-JPMorgan-China Property Why the recent share price weakness-122692937.pdf](行业研究-房地产/2026-06-22-JPMorgan-China Property Why the recent share price weakness-122692937.pdf)
 - [2026-06-23-JPMorgan-Property Data Monitor Mainland China weekly sales turn wors...-122723384.pdf](行业研究-房地产/2026-06-23-JPMorgan-Property Data Monitor Mainland China weekly sales turn wors...-122723384.pdf)
+- [2026-07-06-Morgan Stanley-China Property Weekly Database Tracker #27-122979426.undefined.pdf](行业研究-房地产/2026-07-06-Morgan Stanley-China Property Weekly Database Tracker #27-122979426.undefined.pdf)
 - [BofA-China-Property-Conference-Call-2026-06-22.pdf](行业研究-房地产/BofA-China-Property-Conference-Call-2026-06-22.pdf)
 
 ## 行业研究-新能源
