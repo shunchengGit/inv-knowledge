@@ -4,3 +4,4 @@
 - [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — Analysis
 - [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — Analysis
 - [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — Analysis
+- [摩根士丹利中国房地产周度监测：新房成交同比反弹，去化率显著改善](entries/ms-china-property-weekly-2026-07.md) — Analysis

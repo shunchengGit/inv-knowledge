@@ -9,3 +9,4 @@
 - [Morgan Stanley人形机器人前沿：即将登陆彭博终端与产业进展](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Analysis
 - [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Analysis
 - [Morgan Stanley台湾半导体供应链调研纪要](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Analysis
+- [摩根士丹利中国房地产周度监测：新房成交同比反弹，去化率显著改善](entries/ms-china-property-weekly-2026-07.md) — Analysis
