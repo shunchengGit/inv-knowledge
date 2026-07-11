@@ -218,6 +218,7 @@
 - [2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf](行业研究-工业自动化/2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf)
 - [2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf](行业研究-工业自动化/2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf)
 - [2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf](行业研究-工业自动化/2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf)
+- [2026-07-07-Morgan Stanley-Investor Presentation China Industrials Mid-year Outlook-122999616.undefined.pdf](行业研究-工业自动化/2026-07-07-Morgan Stanley-Investor Presentation China Industrials Mid-year Outlook-122999616.undefined.pdf)
 
 ## 行业研究-房地产
 - [2026-06-15-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122575218.pdf](行业研究-房地产/2026-06-15-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122575218.pdf)
@@ -230,6 +231,7 @@
 ## 行业研究-新能源
 - [2026-06-12-JPMorgan-China Battery Cherry picking amid supply-side reform and glo...-122557008.pdf](行业研究-新能源/2026-06-12-JPMorgan-China Battery Cherry picking amid supply-side reform and glo...-122557008.pdf)
 - [2026-06-23-Deutsche Bank-China NEV Weekly New Orders Monitor China NEV demand leadin...-122699146.pdf](行业研究-新能源/2026-06-23-Deutsche Bank-China NEV Weekly New Orders Monitor China NEV demand leadin...-122699146.pdf)
+- [2026-07-07-Deutsche Bank-China NEV Weekly New Orders Monitor China NEV demand leadin...-122999132.pdf](行业研究-新能源/2026-07-07-Deutsche Bank-China NEV Weekly New Orders Monitor China NEV demand leadin...-122999132.pdf)
 
 ## 行业研究-汽车
 - [2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf](行业研究-汽车/2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf)
