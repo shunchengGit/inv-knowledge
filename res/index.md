@@ -27,6 +27,9 @@
 - [2026-04-30-META.OQ-JPMorgan-Meta Platforms Inc Ad Strength Continues, Along wHeavy Infr...-121727634.pdf](Meta/2026-04-30-META.OQ-JPMorgan-Meta Platforms Inc Ad Strength Continues, Along wHeavy Infr...-121727634.pdf)
 - [2026-05-17-META.OQ-Morgan Stanley-Meta Platforms Inc Headcount Reductions and the Neocloud Ba...-122084608.undefined.pdf](Meta/2026-05-17-META.OQ-Morgan Stanley-Meta Platforms Inc Headcount Reductions and the Neocloud Ba...-122084608.undefined.pdf)
 
+## Momenta
+- [2026062900058_c.pdf](Momenta/2026062900058_c.pdf)
+
 ## Nova
 - [2026-06-10-NVMI.TA-Jefferies-NDR Takeaways Demand Rock Solid as Customer Base Broadens O...-122511599.pdf](Nova/2026-06-10-NVMI.TA-Jefferies-NDR Takeaways Demand Rock Solid as Customer Base Broadens O...-122511599.pdf)
 
