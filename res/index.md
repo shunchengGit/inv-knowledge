@@ -91,6 +91,9 @@
 ## 安克创新
 - [2026062300038_c.pdf](安克创新/2026062300038_c.pdf)
 
+## 宝盖新材
+- [2026062900044_c.pdf](宝盖新材/2026062900044_c.pdf)
+
 ## 工业富联
 - [2026-04-16-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. Grow with AI Infrastru...-121443582.undefined.pdf](工业富联/2026-04-16-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. Grow with AI Infrastru...-121443582.undefined.pdf)
 - [2026-04-28-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. 1Q26 Operating Profit ...-121680836.undefined.pdf](工业富联/2026-04-28-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. 1Q26 Operating Profit ...-121680836.undefined.pdf)
