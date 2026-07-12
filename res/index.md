@@ -151,6 +151,9 @@
 ## 澜起科技
 - [2026-04-28-688008.SS-UBS Equities-First Read Montage Technology - H _GM delivers a strong bea...-121656926.pdf](澜起科技/2026-04-28-688008.SS-UBS Equities-First Read Montage Technology - H _GM delivers a strong bea...-121656926.pdf)
 
+## 瑞为信息
+- [2026062900146_c.pdf](瑞为信息/2026062900146_c.pdf)
+
 ## 福耀玻璃
 - [2026-04-21-600660.SS-UBS Equities-First Read Fuyao Glass _Positive Q126 earnings growth again...-121530995.pdf](福耀玻璃/2026-04-21-600660.SS-UBS Equities-First Read Fuyao Glass _Positive Q126 earnings growth again...-121530995.pdf)
 - [2026-04-22-600660.SS-BNP Paribas-FUYAO GLASS - H  Operation and margin remain robust; reiter...-121560357.pdf](福耀玻璃/2026-04-22-600660.SS-BNP Paribas-FUYAO GLASS - H  Operation and margin remain robust; reiter...-121560357.pdf)
