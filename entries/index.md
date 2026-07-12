@@ -86,6 +86,7 @@
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — 宁波银行2026Q1营收/净利润+10.2%/+10.3%超预期，NIM环比+5bps至1.73%，手续费收入+81.7% YoY，2025年分红率从21.9%大幅提升至27.0%，股息率3.7%
 - [安克创新(Anker)赴港IPO招股书核心分析](entries/安克创新-00668-HK-IPO-招股书分析.md) — 安克创新H股最高发售价HK$99.32，集资净额~HK$45.23亿，基石占比49.9%，AH折价21-27%，2025经营现金流骤降至4.81亿为最大红旗信号
 - [工业富联AI服务器持续驱动增长：MS维持OW，1Q26营收增57%](entries/工业富联AI服务器分析.md) — 工业富联1Q26营收2510亿元(+57% YoY)，AI GPU机架出货+3.8x，AI ASIC服务器+3.2x，毛利率提升至7.9%，营业利润率6.2%超预期
+- [建银国际燃气轮机行业深度与东方电气、应流股份覆盖（2026年6月）](entries/ccbi-advanced-manufacturing-gas-turbines-upcycle-202606.md) — 建银国际发布77页高端制造燃气轮机行业报告，指出AI用电、能源转型及供应短缺驱动十年燃机上行周期，DC用电量2025-2030F以14-20% CAGR增长，新增设备TAM达920-1140亿美元。
 - [德银中国NEV周度新订单监控（2026年6月第3周）](entries/db-china-nev-weekly-orders-2026-06.md) — Deutsche Bank发布中国新能源车周度新订单监控周报（2026年6月23日），基于Thinkercar数据追踪比亚迪、吉利、HIMA、理想、蔚来、小鹏、零跑、小米、特斯拉等关键车企的周度新订单趋势，为NEV需求领先指标
 - [德银中国NEV周度新订单监控（2026年7月第1周）](entries/db-china-nev-weekly-orders-2026-07.md) — Deutsche Bank发布中国新能源车周度新订单监控（2026年7月7日），基于Thinkercar数据追踪比亚迪、吉利、HIMA（问界）、理想、蔚来、小鹏、零跑、小米及特斯拉等关键车企周度新订单趋势，反映7月首周高频需求领先指标
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — 恒瑞医药与BMS签订涵盖13个早期项目的全球战略合作，潜在总价值US$152亿（6亿首付款），为中国药企第二大license-out交易；JPM维持A股OW（PT Rmb70）/H股Neutral（PT HK$70）
@@ -122,3 +123,10 @@
 - [JPMorgan: ETN 1Q Wrap and Model Update](entries/JPMorgan-ETN-1Q-Wrap-and-Model-Update.md) — JPM 2026-05-06. ETN 1Q: Sales beat (+10% organic vs 6.5% est), EA margin miss (25.6% vs 27.2% est). Data center orders +240%, record EA backlog. DC to be 25-30% of 2026 sales, 35% in 2027. 2027 EPS raised 5% to $16.15. PT $445 (20% sector premium). Maintain OW.
 - [Morgan Stanley: ETN Under-Appreciated Transformation](entries/Morgan-Stanley-ETN-Under-Appreciated-Transformation.md) — MS 2026-05-08. ETN portfolio transformation under-appreciated: Mobility spin-off + Dana RMT ($5.1bn, 8.3x EV/EBITDA), Boyd acquisition. Data center to grow from 21% (2025) to 34% (2027). 2027 EPS $15.91 (P/E 25x). Market too focused on 2026 margin uncertainty, missing 2027 structural re-rating. PT $500. Maintain OW.
 - [UBS: Zhejiang Sanhua Intelligent Controls Q126 Revenue](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — UBS 2026-04-30. Zhejiang Sanhua Intelligent Controls (002050.SZ) Q1 2026 revenue analysis. First read on thermal management business performance.
+
+## Reference
+- [Momenta港股不同投票权控制上市招股书分析](entries/momenta-global-hk-ipo-prospectus-202606.md) — 智能驾驶独角兽Momenta（初速度）于2026年6月29日披露港股招股书，2025年营收增至24.13亿元，定点170款车型，累计装车超68万辆，在独立城市NOA智驾系统领域市占率达64.5%排名第一。
+- [厦门瑞为信息港股18C章上市招股书分析](entries/reconova-technologies-hk-ipo-prospectus-202606.md) — 视觉AI企业瑞为信息于2026年6月29日披露港股特专科技招股书，2025年在中国民航视觉智能产品市场排名第一，营收达4.43亿元，并于2026年4月推出VTFLA多模态大模型切入具身智能与机器人。
+- [山东宝盖新材料港股GEM上市招股书分析](entries/baogai-new-materials-gem-ipo-prospectus-202606.md) — 山东宝盖新材料于2026年6月29日披露港股GEM招股书，2025年按市场份额计于中国电缆沟盖板及复合材料电缆沟盖板行业排名第一，年营收1.44亿元，纯利2405万元，毛利率维持约38.2%。
+- [浙江东方科脉（DKE控股）港股上市招股书分析](entries/dke-holding-electronic-paper-ipo-prospectus-202606.md) — DKE控股于2026年6月29日披露港股上市招股书，以2025年收入计为全球第二大电子纸显示模组制造商（市占率20.8%）及全球最大商用电子纸显示器制造商（市占率24.9%）。
+- [深圳基本半导体港股18C章上市招股书分析](entries/basic-semiconductor-sic-ipo-prospectus-202606.md) — 基本半导体于2026年6月29日披露18C招股书，按2024年收入计在中国SiC功率模块市场排名第六，汽车装车量超14万辆，2025年营收达3.11亿元，采用一站式IDM垂直整合模式。
