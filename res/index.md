@@ -49,6 +49,9 @@
 ## 三星电子
 - [2026-04-30-005930.KS-BNP Paribas-SAMSUNG ELECTRONICS (+)  Memory visibility extends to 2027 ...-121734167.pdf](三星电子/2026-04-30-005930.KS-BNP Paribas-SAMSUNG ELECTRONICS (+)  Memory visibility extends to 2027 ...-121734167.pdf)
 
+## 东方电气
+- [2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf](东方电气/2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf)
+
 ## 中通快递
 - [2026-05-20-2057.HK-JPMorgan-ZTO Express (ZTO US2057 HK) 1Q26 beat, briefing points to s...-122143853.pdf](中通快递/2026-05-20-2057.HK-JPMorgan-ZTO Express (ZTO US2057 HK) 1Q26 beat, briefing points to s...-122143853.pdf)
 - [2026-05-20-2057.HK-Morgan Stanley-ZTO Express 1Q26 Results Call Sustained Positive Managemen...-122130478.undefined.pdf](中通快递/2026-05-20-2057.HK-Morgan Stanley-ZTO Express 1Q26 Results Call Sustained Positive Managemen...-122130478.undefined.pdf)
