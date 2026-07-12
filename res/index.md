@@ -90,6 +90,9 @@
 - [2026-04-22-9660.HK-Morgan Stanley-Horizon Robotics A Starry Debut - Integrated Smart Cockpit-...-121572319.pdf](地平线机器人/2026-04-22-9660.HK-Morgan Stanley-Horizon Robotics A Starry Debut - Integrated Smart Cockpit-...-121572319.pdf)
 - [2026-04-23-9660.HK-UBS Equities-First Read Horizon Robotics _2026 product launch transitio...-121575696.pdf](地平线机器人/2026-04-23-9660.HK-UBS Equities-First Read Horizon Robotics _2026 product launch transitio...-121575696.pdf)
 
+## 基本半导体
+- [2026062900050_c.pdf](基本半导体/2026062900050_c.pdf)
+
 ## 宁波银行
 - [2026-04-26-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd 1Q26 Revenue, PPOP and profit growt...-121638787.undefined.pdf](宁波银行/2026-04-26-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd 1Q26 Revenue, PPOP and profit growt...-121638787.undefined.pdf)
 - [2026-04-27-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q126 a clean beat; sizable divid...-121640444.pdf](宁波银行/2026-04-27-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q126 a clean beat; sizable divid...-121640444.pdf)
