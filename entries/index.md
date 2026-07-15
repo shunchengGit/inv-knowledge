@@ -47,6 +47,7 @@
 - [Morgan Stanley中国工业中报展望：资本支出强劲与人形机器人商业化起航](entries/ms-china-industrials-mid-year-outlook-2026-07.md) — 报告预计2026年中国自动化市场增长5%，人形机器人出货量达5万台（2030年增至44.6万台，市场规模从25年10亿美元增至30年150亿美元），挖掘机销量增长预测上调至21%。
 - [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Morgan Stanley中国工业企业调研显示资本支出复苏范围扩大、力度增强
 - [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Morgan Stanley分析中国金融业高质量发展路径和人民币存款新规对银行的影响
+- [Morgan Stanley中国金融体系去杠杆与正向循环研判](entries/morgan-stanley-china-financials-deleveraging-positive-loop-202607.md) — MS分析表明中国正走出强刺激去杠杆，通过抗内卷和优化信贷配置（取消普惠小微量化增速要求），驱动NIM在2026年企稳、2027年反弹，社融与GDP缺口收窄。
 - [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Morgan Stanley分析中国金融业高质量发展路径、人民币存款新规的影响以及银行板块投资机会
 - [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Morgan Stanley分析AI投资从硬件到软件的轮动趋势，评估互联网板块当前估值水平
 - [Morgan Stanley人形机器人前沿：即将登陆彭博终端与产业进展](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Morgan Stanley追踪人形机器人行业最新进展，关注机器人登录彭博终端等里程碑事件
@@ -114,6 +115,7 @@
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — 茅台2026年3月飞天出厂价提至Rmb1,269（+8.6%），1Q26收入+6.3%但毛利率-331bp；MS维持OW（PT Rmb1,790），BofA Buy（PT Rmb1,630），Jefferies Buy（PT Rmb2,100），共识聚焦2H26结构性增长
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
 - [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — 隆基绿能1Q26净亏损约17亿元(剔除减值)，BC组件出货占比从28%升至66%，目标6GWh BESS出货，UBS维持买入/TP 22.8元，JPM维持UW/TP 11.7元
+- [麦格理东方电气1Q26业绩快评与评级下调分析](entries/macquarie-dec-1q26-performance-downgrade.md) — 麦格理将东方电气下调至Underperform，因其1Q26扣非核心利润仅增11.5%，2025年订单覆盖率从2.19x降至1.78x，且十五五煤电定位转变削弱中线可见性。
 
 ## Note
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — BNPP 2026-06-11. ETN Mobility/Dana RMT is clear positive: Mobility valued at $5.1bn (8.3x EV/EBITDA, 5.9x with $250m synergies). ETN gets $1.1bn cash for deleveraging (net leverage 3.1x). Accelerates focus on high-growth Electrical + Aerospace. Data center to reach 34% of sales in 2027. ETN at ~24x 2027E PE is undervalued, expect re-rating. PT $490. Top Pick.
