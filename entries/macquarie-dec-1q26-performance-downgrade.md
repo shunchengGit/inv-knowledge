@@ -21,7 +21,7 @@ tags: [dec, performance-review, order-weakness, valuation-correction, 2026-Q1]
 
 ## 关联
 - [建银国际燃气轮机行业深度与东方电气、应流股份覆盖（2026年6月）](entries/ccbi-advanced-manufacturing-gas-turbines-upcycle-202606.md) —— 构成显著的牛熊观点分歧：建银国际（CCBI）强调了东方电气自主G50燃机在电力设备大周期的出口红利（“优于大市”），而麦格理则聚焦于其在手煤电大订单降温及海外低价竞争的风险（“差于大市”）。
-- [东方电气港股持仓情况](memories/PORTFOLIO.md) —— 东方电气（01072.HK）是用户于2026-07-13刚买入的试探性仓位（目前占比1.8%），本业绩警示条目与当前持仓深度穿透，具有高优先级的决策参考价值。
+- [东方电气港股持仓情况](entries/macquarie-dec-1q26-performance-downgrade.md) —— 东方电气（01072.HK）是用户于2026-07-13刚买入的试探性仓位（目前占比1.8%），本业绩警示条目与当前持仓深度穿透，具有高优先级的决策参考价值。
 
 ## 引用
 - [Macquarie - Dongfang Electric: One-off support masks order weakness](res/东方电气/2026-04-30-600875.SS-Macquarie Research-One‑off support masks order weakness-121717458.pdf)
