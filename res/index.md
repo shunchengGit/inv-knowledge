@@ -272,6 +272,7 @@
 - [20260418-华泰证券-科技行业：Agent加速有望驱动算力通胀持续.pdf](行业研究-计算机/20260418-华泰证券-科技行业：Agent加速有望驱动算力通胀持续.pdf)
 
 ## 行业研究-金融
+- [2026-06-07-Morgan Stanley-China Financials New Consultation Paper on RMB Deposit and ...-122462202.undefined.pdf](行业研究-金融/2026-06-07-Morgan Stanley-China Financials New Consultation Paper on RMB Deposit and ...-122462202.undefined.pdf)
 - [2026-06-09-Morgan Stanley-Investor Presentation China Financials High-quality develo...-122491082.undefined.pdf](行业研究-金融/2026-06-09-Morgan Stanley-Investor Presentation China Financials High-quality develo...-122491082.undefined.pdf)
 - [2026-06-10-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122499598.pdf](行业研究-金融/2026-06-10-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122499598.pdf)
 - [2026-06-10-UBS Equities-Greater China Banks Daily _China’s May trade data beat expec...-122499401.pdf](行业研究-金融/2026-06-10-UBS Equities-Greater China Banks Daily _China’s May trade data beat expec...-122499401.pdf)
