@@ -56,6 +56,7 @@
 - [2026-04-30-005930.KS-BNP Paribas-SAMSUNG ELECTRONICS (+)  Memory visibility extends to 2027 ...-121734167.pdf](三星电子/2026-04-30-005930.KS-BNP Paribas-SAMSUNG ELECTRONICS (+)  Memory visibility extends to 2027 ...-121734167.pdf)
 
 ## 东方电气
+- [2026-04-30-600875.SS-Macquarie Research-One‑off support masks order weakness-121717458.pdf](东方电气/2026-04-30-600875.SS-Macquarie Research-One‑off support masks order weakness-121717458.pdf)
 - [2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf](东方电气/2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf)
 
 ## 中通快递
