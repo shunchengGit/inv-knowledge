@@ -9,7 +9,9 @@
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Analysis
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — Analysis
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Analysis
+- [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
 - [申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化](entries/申万宏源腾讯深度之三-AI时代核心受益者-超级入口与生态壁垒的再进化.md) — Analysis
+- [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis
 - [福耀玻璃BNP 1Q26：运营和利润率保持稳健，重申Outperform](entries/福耀玻璃BNP-1Q26-运营和利润率保持稳健-重申Outperform.md) — Analysis
 - [福耀玻璃JPM 1Q26：管理层看好2Q26订单动能，ASP增长可持续](entries/福耀玻璃JPM-1Q26-管理层看好2Q26订单动能-ASP增长可持续.md) — Analysis
 - [福耀玻璃MS 1Q26电话会：ASP超指引，市占率持续提升](entries/福耀玻璃MS-1Q26电话会-ASP超指引-市占率持续提升.md) — Analysis

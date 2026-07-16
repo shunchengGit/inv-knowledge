@@ -132,3 +132,8 @@
 - [山东宝盖新材料港股GEM上市招股书分析](entries/baogai-new-materials-gem-ipo-prospectus-202606.md) — 山东宝盖新材料于2026年6月29日披露港股GEM招股书，2025年按市场份额计于中国电缆沟盖板及复合材料电缆沟盖板行业排名第一，年营收1.44亿元，纯利2405万元，毛利率维持约38.2%。
 - [浙江东方科脉（DKE控股）港股上市招股书分析](entries/dke-holding-electronic-paper-ipo-prospectus-202606.md) — DKE控股于2026年6月29日披露港股上市招股书，以2025年收入计为全球第二大电子纸显示模组制造商（市占率20.8%）及全球最大商用电子纸显示器制造商（市占率24.9%）。
 - [深圳基本半导体港股18C章上市招股书分析](entries/basic-semiconductor-sic-ipo-prospectus-202606.md) — 基本半导体于2026年6月29日披露18C招股书，按2024年收入计在中国SiC功率模块市场排名第六，汽车装车量超14万辆，2025年营收达3.11亿元，采用一站式IDM垂直整合模式。
+
+## Synthesis
+- [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — 微软4QFY26总营收预期增长16.8%，Azure维持39.6%的强劲增长；由于GPU供应偏紧及AI算力需求持续旺盛，Q4单季Capex飙升至410亿美元。Copilot已超越Azure成为NDR会期投资人核心议题，FQ4付费席位有望突破2500万，且定价策略加速向“席位+消费”混合模式转型。HSBC维持买入评级，将目标价由571美元微调至567美元。
+- [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — 福耀玻璃2Q26产能利用率环比+3-4%，ASP在去年高基数上同环比均有提升，毛利率由于高附加值产品占比增加而表现稳健；人民币升值带来的汇兑压力依然延续。UBS下调目标价至85.00元以反映乘用车销量弱于预期，MS维持目标价53.50港元。
+- [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — 腾讯2Q26预期营收增速+9%，Non-IFRS净利润+4%至660亿元。核心看点为Weixin AI Agent在6月开启Beta测试，有望开辟微信端领跑、半商城以及顶层流量分发的三层AI电商变现空间（2030年增量收入空间达690亿至4260亿元）。因AI资本支出大幅提升（预测2026年Capex升至1700亿元），多投行下调盈利预测，HSBC将目标价从720港元降至655港元。
