@@ -128,6 +128,7 @@
 - [2026-06-02-MSFT.OQ-BNP Paribas-SOFTWARE  The OpenAI ( Anthropic) Effect AI Infrastructur...-122356064_2.pdf](微软/2026-06-02-MSFT.OQ-BNP Paribas-SOFTWARE  The OpenAI ( Anthropic) Effect AI Infrastructur...-122356064_2.pdf)
 - [2026-06-09-MSFT.OQ-BNP Paribas-MICROSOFT (+)  10 questions ahead of New York NDR, and Spac...-122486295.pdf](微软/2026-06-09-MSFT.OQ-BNP Paribas-MICROSOFT (+)  10 questions ahead of New York NDR, and Spac...-122486295.pdf)
 - [2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685.pdf](微软/2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685.pdf)
+- [2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685_2.pdf](微软/2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685_2.pdf)
 - [2026-07-10-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy FCF may bottom out in 2027-123059420.pdf](微软/2026-07-10-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy FCF may bottom out in 2027-123059420.pdf)
 
 ## 恒瑞医药
