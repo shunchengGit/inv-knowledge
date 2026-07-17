@@ -227,6 +227,7 @@
 - [2026-06-09-Morgan Stanley-Internet Where Are We Trading Now As AI Hardware vs AI Sof...-122496280.undefined.pdf](行业研究-互联网/2026-06-09-Morgan Stanley-Internet Where Are We Trading Now As AI Hardware vs AI Sof...-122496280.undefined.pdf)
 - [2026-06-16-Morgan Stanley-Internet Where Are We Trading Now AI Hardware vs Software ...-122607614.undefined.pdf](行业研究-互联网/2026-06-16-Morgan Stanley-Internet Where Are We Trading Now AI Hardware vs Software ...-122607614.undefined.pdf)
 - [2026-06-18-JPMorgan-China Food Delivery Not Just a Soft Draft Disclosure Rules ...-122636767.pdf](行业研究-互联网/2026-06-18-JPMorgan-China Food Delivery Not Just a Soft Draft Disclosure Rules ...-122636767.pdf)
+- [2026-06-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – May 2026-122811657.pdf](行业研究-互联网/2026-06-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – May 2026-122811657.pdf)
 
 ## 行业研究-传媒
 - [20260417-国信证券-传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会.pdf](行业研究-传媒/20260417-国信证券-传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会.pdf)
