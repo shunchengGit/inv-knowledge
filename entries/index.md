@@ -117,6 +117,9 @@
 - [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — 隆基绿能1Q26净亏损约17亿元(剔除减值)，BC组件出货占比从28%升至66%，目标6GWh BESS出货，UBS维持买入/TP 22.8元，JPM维持UW/TP 11.7元
 - [麦格理东方电气1Q26业绩快评与评级下调分析](entries/macquarie-dec-1q26-performance-downgrade.md) — 麦格理将东方电气下调至Underperform，因其1Q26扣非核心利润仅增11.5%，2025年订单覆盖率从2.19x降至1.78x，且十五五煤电定位转变削弱中线可见性。
 
+## Article
+- [野村证券中国互联网2026年5月月度流量与App跟踪报告](entries/野村证券中国互联网2026年5月月度流量与App跟踪报告.md) — 野村证券2026年5月中国App流量跟踪显示，整体MAS同比微增1.2%至12.8亿，拼多多DAU同比增8%领跑电商，小红书MTS出现2020年追踪以来首次同比下滑（-1%），腾讯微信保持19.0%时长份额。
+
 ## Note
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — BNPP 2026-06-11. ETN Mobility/Dana RMT is clear positive: Mobility valued at $5.1bn (8.3x EV/EBITDA, 5.9x with $250m synergies). ETN gets $1.1bn cash for deleveraging (net leverage 3.1x). Accelerates focus on high-growth Electrical + Aerospace. Data center to reach 34% of sales in 2027. ETN at ~24x 2027E PE is undervalued, expect re-rating. PT $490. Top Pick.
 - [BofA: Zhejiang Sanhua 1Q26 Core Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — BofA 2026-04-30. Zhejiang Sanhua (002050.SZ) 1Q26 core earnings beat expectations, but valuation looks stretched. Analysis of thermal management and automotive components.

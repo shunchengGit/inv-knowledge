@@ -6,3 +6,4 @@
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — Synthesis
 - [腾讯控股JPM 1Q26：转向更积极，双P&L披露化解AI稀释担忧](entries/腾讯控股JPM-1Q26-转向更积极-双P-L披露化解AI稀释担忧.md) — Analysis
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — Analysis
+- [野村证券中国互联网2026年5月月度流量与App跟踪报告](entries/野村证券中国互联网2026年5月月度流量与App跟踪报告.md) — Article
