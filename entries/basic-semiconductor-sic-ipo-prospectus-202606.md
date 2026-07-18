@@ -22,5 +22,4 @@ tags: [basic-semiconductor, silicon-carbide, power-semiconductor, idm-model, 18c
 
 ## 关联
 - [招股书](entries/by-tag/招股书.md) —— 本文为港股IPO 18C章特专科技招股书。
-- [基本半导体](entries/by-tag/基本半导体.md) —— 深圳基本半导体公司主条目。
 - [建银国际燃气轮机行业深度与东方电气、应流股份覆盖](entries/ccbi-advanced-manufacturing-gas-turbines-upcycle-202606.md) —— 同属于电力电子、光伏逆变与新能源装车供应链，可结合逆变器及高功率半导体需求进行系统性交叉比对。
