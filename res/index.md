@@ -86,6 +86,7 @@
 - [2026-05-17-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Strong advanced node...-122084481.undefined.pdf](台积电/2026-05-17-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Strong advanced node...-122084481.undefined.pdf)
 - [2026-06-04-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. AGM update solid AI...-122413976.undefined.pdf](台积电/2026-06-04-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. AGM update solid AI...-122413976.undefined.pdf)
 - [2026-06-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _May sale...-122508216.pdf](台积电/2026-06-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _May sale...-122508216.pdf)
+- [2026-07-16-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _Raising capex and US exp...-123208279.pdf](台积电/2026-07-16-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _Raising capex and US exp...-123208279.pdf)
 
 ## 地平线机器人
 - [2026-04-22-9660.HK-Morgan Stanley-Horizon Robotics A Starry Debut - Integrated Smart Cockpit-...-121572319.pdf](地平线机器人/2026-04-22-9660.HK-Morgan Stanley-Horizon Robotics A Starry Debut - Integrated Smart Cockpit-...-121572319.pdf)
