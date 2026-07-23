@@ -87,6 +87,7 @@
 - [2026-06-04-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. AGM update solid AI...-122413976.undefined.pdf](台积电/2026-06-04-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. AGM update solid AI...-122413976.undefined.pdf)
 - [2026-06-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _May sale...-122508216.pdf](台积电/2026-06-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _May sale...-122508216.pdf)
 - [2026-07-16-2330.TW-BNP Paribas-TSMC  Higher capex to drive faster growth while SPEMemory ...-123207769.pdf](台积电/2026-07-16-2330.TW-BNP Paribas-TSMC  Higher capex to drive faster growth while SPEMemory ...-123207769.pdf)
+- [2026-07-16-2330.TW-JPMorgan-TSMC Rising confidence in AI demand, matched by increasing c...-123213157.pdf](台积电/2026-07-16-2330.TW-JPMorgan-TSMC Rising confidence in AI demand, matched by increasing c...-123213157.pdf)
 - [2026-07-16-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _Raising capex and US exp...-123208279.pdf](台积电/2026-07-16-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _Raising capex and US exp...-123208279.pdf)
 
 ## 地平线机器人
