@@ -1,6 +1,6 @@
 ---
 type: Analysis
-title: JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M
+title: "JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M"
 description: JPMorgan维持Overweight，TP从KRW 1,800,000大幅上调至3,000,000。LTA谈判进入关键拐点，将推动存储器从P/B向P/E估值框架迁移（8x FY26-27E EPS）。上调FY26-28E EPS 9-20%。
 timestamp: 2026-06-24T21:32:00+08:00
 resource: res/SK海力士/2026-05-17-000660.KS-JPMorgan-SK hynix LTA paves path for new valuation framework raising...-122079078.pdf

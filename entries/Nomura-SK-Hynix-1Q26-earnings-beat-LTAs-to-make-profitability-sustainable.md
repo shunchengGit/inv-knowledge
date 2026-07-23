@@ -1,6 +1,6 @@
 ---
 type: Analysis
-title: Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable
+title: "Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable"
 description: Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
 timestamp: 2026-06-24T21:32:00+08:00
 resource: res/SK海力士/2026-04-23-000660.KS-Nomura-SK Hynix (000660 KS) (Buy) - 1Q26 earnings beat; LTAs to mak...-121599850.pdf
