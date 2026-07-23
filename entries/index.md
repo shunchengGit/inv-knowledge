@@ -43,6 +43,7 @@
 - [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — JPMorgan详细分析Meta Superintelligence Labs(MSL)首款模型Muse Spark，认为其标志Meta在AI前沿领域的突破。Muse Spark为原生多模态推理模型，支持工具调用、视觉思维链与多智能体编排。Meta规划可预测的扩展路径，更大更强的模型在开发中。维持Overweight评级，目标价$825 (Dec-26)
 - [Meta裁员10%与Neocloud选择权(Morgan Stanley)](entries/Meta-Headcount-MS-20260517.md) — Morgan Stanley分析Meta计划裁员10%(约8,000人)，关闭6,000个职位空缺，同时大幅提高capex。MS估算裁员可带来~$2bn/2H26和~$3.5bn/FY27的运营费用节省。维持Overweight评级，目标价$775。同时提出"Neocloud备份选择权"概念——若Meta向第三方出租过剩GPU容量，有望带来8%+的FY28 EPS上行空间。
 - [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Morgan Stanley总结Computex 2026展会关键趋势：AI PC、服务器与边缘计算
+- [Morgan Stanley WAIC 2026 洞察：具身智能与工业 AI 变革，探索具身与数据瓶颈](entries/Morgan-Stanley-WAIC-2026-洞察-具身智能与工业-AI-变革.md) — 2026年世界人工智能大会（WAIC）显示，中国具身智能与工业AI应用加速步入部署期，AI Agent赋能工业设备升级与数据基础设施建设成为核心逻辑。
 - [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — Morgan Stanley 2026年6月24日发布中国人形机器人Investor Presentation，预测2050年全球保有量达10亿台、市场规模7.5万亿美元，2026年正式开启小规模商业化拐点，中国供应链优势显著
 - [Morgan Stanley中国工业中报展望：资本支出强劲与人形机器人商业化起航](entries/ms-china-industrials-mid-year-outlook-2026-07.md) — 报告预计2026年中国自动化市场增长5%，人形机器人出货量达5万台（2030年增至44.6万台，市场规模从25年10亿美元增至30年150亿美元），挖掘机销量增长预测上调至21%。
 - [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Morgan Stanley中国工业企业调研显示资本支出复苏范围扩大、力度增强
@@ -137,6 +138,7 @@
 - [深圳基本半导体港股18C章上市招股书分析](entries/basic-semiconductor-sic-ipo-prospectus-202606.md) — 基本半导体于2026年6月29日披露18C招股书，按2024年收入计在中国SiC功率模块市场排名第六，汽车装车量超14万辆，2025年营收达3.11亿元，采用一站式IDM垂直整合模式。
 
 ## Synthesis
+- [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — 台积电上调2026年资本支出指引至600亿-640亿美元，并上调全年美元营收增速指引至40%以上，Datacenter AI需求可见度延伸至2029-2030年。
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — 微软4QFY26总营收预期增长16.8%，Azure维持39.6%的强劲增长；由于GPU供应偏紧及AI算力需求持续旺盛，Q4单季Capex飙升至410亿美元。Copilot已超越Azure成为NDR会期投资人核心议题，FQ4付费席位有望突破2500万，且定价策略加速向“席位+消费”混合模式转型。HSBC维持买入评级，将目标价由571美元微调至567美元。
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — 福耀玻璃2Q26产能利用率环比+3-4%，ASP在去年高基数上同环比均有提升，毛利率由于高附加值产品占比增加而表现稳健；人民币升值带来的汇兑压力依然延续。UBS下调目标价至85.00元以反映乘用车销量弱于预期，MS维持目标价53.50港元。
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — 腾讯2Q26预期营收增速+9%，Non-IFRS净利润+4%至660亿元。核心看点为Weixin AI Agent在6月开启Beta测试，有望开辟微信端领跑、半商城以及顶层流量分发的三层AI电商变现空间（2030年增量收入空间达690亿至4260亿元）。因AI资本支出大幅提升（预测2026年Capex升至1700亿元），多投行下调盈利预测，HSBC将目标价从720港元降至655港元。
