@@ -251,6 +251,7 @@
 - [2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf](行业研究-工业自动化/2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf)
 - [2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf](行业研究-工业自动化/2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf)
 - [2026-07-07-Morgan Stanley-Investor Presentation China Industrials Mid-year Outlook-122999616.undefined.pdf](行业研究-工业自动化/2026-07-07-Morgan Stanley-Investor Presentation China Industrials Mid-year Outlook-122999616.undefined.pdf)
+- [2026-07-20-Morgan Stanley-China Industrials WAIC 2026 Takeaways More Physical AI-123269354.pdf](行业研究-工业自动化/2026-07-20-Morgan Stanley-China Industrials WAIC 2026 Takeaways More Physical AI-123269354.pdf)
 
 ## 行业研究-房地产
 - [2026-06-15-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122575218.pdf](行业研究-房地产/2026-06-15-HSBC Global Investme-Daily dose of HK  mainland China Real Estate Research Focus...-122575218.pdf)
