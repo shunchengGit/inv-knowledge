@@ -45,7 +45,6 @@
 - [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Morgan Stanley总结Computex 2026展会关键趋势：AI PC、服务器与边缘计算
 - [Morgan Stanley WAIC 2026 洞察：具身智能与工业 AI 变革，探索具身与数据瓶颈](entries/Morgan-Stanley-WAIC-2026-洞察-具身智能与工业-AI-变革.md) — 2026年世界人工智能大会（WAIC）显示，中国具身智能与工业AI应用加速步入部署期，AI Agent赋能工业设备升级与数据基础设施建设成为核心逻辑。
 - [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — Morgan Stanley 2026年6月24日发布中国人形机器人Investor Presentation，预测2050年全球保有量达10亿台、市场规模7.5万亿美元，2026年正式开启小规模商业化拐点，中国供应链优势显著
-- [Morgan Stanley中国工业中报展望：资本支出强劲与人形机器人商业化起航](entries/ms-china-industrials-mid-year-outlook-2026-07.md) — 报告预计2026年中国自动化市场增长5%，人形机器人出货量达5万台（2030年增至44.6万台，市场规模从25年10亿美元增至30年150亿美元），挖掘机销量增长预测上调至21%。
 - [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Morgan Stanley中国工业企业调研显示资本支出复苏范围扩大、力度增强
 - [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Morgan Stanley分析中国金融业高质量发展路径和人民币存款新规对银行的影响
 - [Morgan Stanley中国金融体系去杠杆与正向循环研判](entries/morgan-stanley-china-financials-deleveraging-positive-loop-202607.md) — MS分析表明中国正走出强刺激去杠杆，通过抗内卷和优化信贷配置（取消普惠小微量化增速要求），驱动NIM在2026年企稳、2027年反弹，社融与GDP缺口收窄。
@@ -119,6 +118,7 @@
 - [麦格理东方电气1Q26业绩快评与评级下调分析](entries/macquarie-dec-1q26-performance-downgrade.md) — 麦格理将东方电气下调至Underperform，因其1Q26扣非核心利润仅增11.5%，2025年订单覆盖率从2.19x降至1.78x，且十五五煤电定位转变削弱中线可见性。
 
 ## Article
+- [德意志银行亚太工业外资持仓追踪：2Q26恒立与双环逆势流入](entries/deutsche-bank-apac-industrials-foreign-shareholding-2q26.md) — 德意志银行2026年7月外资持仓追踪显示，2Q26陆股通八大工控与自动化标的外资平均持仓环比回升0.8%至7.5%，恒立液压与双环传动流入居前。
 - [野村证券中国互联网2026年5月月度流量与App跟踪报告](entries/野村证券中国互联网2026年5月月度流量与App跟踪报告.md) — 野村证券2026年5月中国App流量跟踪显示，整体MAS同比微增1.2%至12.8亿，拼多多DAU同比增8%领跑电商，小红书MTS出现2020年追踪以来首次同比下滑（-1%），腾讯微信保持19.0%时长份额。
 
 ## Note
@@ -134,8 +134,11 @@
 - [Momenta港股不同投票权控制上市招股书分析](entries/momenta-global-hk-ipo-prospectus-202606.md) — 智能驾驶独角兽Momenta（初速度）于2026年6月29日披露港股招股书，2025年营收增至24.13亿元，定点170款车型，累计装车超68万辆，在独立城市NOA智驾系统领域市占率达64.5%排名第一。
 - [厦门瑞为信息港股18C章上市招股书分析](entries/reconova-technologies-hk-ipo-prospectus-202606.md) — 视觉AI企业瑞为信息于2026年6月29日披露港股特专科技招股书，2025年在中国民航视觉智能产品市场排名第一，营收达4.43亿元，并于2026年4月推出VTFLA多模态大模型切入具身智能与机器人。
 - [山东宝盖新材料港股GEM上市招股书分析](entries/baogai-new-materials-gem-ipo-prospectus-202606.md) — 山东宝盖新材料于2026年6月29日披露港股GEM招股书，2025年按市场份额计于中国电缆沟盖板及复合材料电缆沟盖板行业排名第一，年营收1.44亿元，纯利2405万元，毛利率维持约38.2%。
+- [摩根士丹利中国工业中报展望：资本支出强劲与机器人商业化起航](entries/ms-china-industrials-mid-year-outlook-2026-07.md) — 摩根士丹利2026年7月报告详细梳理了中国工业板块的投资主线，预测2026年自动化市场增长5%，人形机器人将进入商业化量产阶段并推升核心部件出货。
 - [浙江东方科脉（DKE控股）港股上市招股书分析](entries/dke-holding-electronic-paper-ipo-prospectus-202606.md) — DKE控股于2026年6月29日披露港股上市招股书，以2025年收入计为全球第二大电子纸显示模组制造商（市占率20.8%）及全球最大商用电子纸显示器制造商（市占率24.9%）。
 - [深圳基本半导体港股18C章上市招股书分析](entries/basic-semiconductor-sic-ipo-prospectus-202606.md) — 基本半导体于2026年6月29日披露18C招股书，按2024年收入计在中国SiC功率模块市场排名第六，汽车装车量超14万辆，2025年营收达3.11亿元，采用一站式IDM垂直整合模式。
+- [瑞银全球汽车行业巡礼：中国EV与AD供应链的核心发现与机器人机遇](entries/ubs-china-ev-ad-flagship-tour-takeaways-2026-07.md) — 瑞银2026年7月报告显示，中国新能源车市场竞争格局向新车型密集发布转型，内存芯片成本面临较大上涨压力，机器人减速器与物理AI成为核心硬科技期权。
+- [麦格理中国自动化与工业研究：EU路演反馈与AIDC机遇](entries/macquarie-china-automation-industrials-2026-07.md) — 麦格理2026年7月报告显示，欧洲投资者对中国工业股兴趣回升。AI数据中心（AIDC）是核心主题，潍柴动力是最受青睐的标的。
 
 ## Synthesis
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — 台积电上调2026年资本支出指引至600亿-640亿美元，并上调全年美元营收增速指引至40%以上，Datacenter AI需求可见度延伸至2029-2030年。
