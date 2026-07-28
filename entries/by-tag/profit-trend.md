@@ -13,6 +13,8 @@
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — Analysis
 - [双环传动002472.SZ价值成长QARP深度分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — Analysis
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — Synthesis
+- [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — Analysis
+- [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — Analysis
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
