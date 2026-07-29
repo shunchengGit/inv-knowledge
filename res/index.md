@@ -55,6 +55,9 @@
 ## 三星电子
 - [2026-04-30-005930.KS-BNP Paribas-SAMSUNG ELECTRONICS (+)  Memory visibility extends to 2027 ...-121734167.pdf](三星电子/2026-04-30-005930.KS-BNP Paribas-SAMSUNG ELECTRONICS (+)  Memory visibility extends to 2027 ...-121734167.pdf)
 
+## 三花智控
+- [2026-07-16-Deutsche-Bank-APAC-Industrials-Foreign-shareholding-quarterly-watch-2Q26.pdf](三花智控/2026-07-16-Deutsche-Bank-APAC-Industrials-Foreign-shareholding-quarterly-watch-2Q26.pdf)
+
 ## 东方电气
 - [2026-04-30-600875.SS-Macquarie Research-One‑off support masks order weakness-121717458.pdf](东方电气/2026-04-30-600875.SS-Macquarie Research-One‑off support masks order weakness-121717458.pdf)
 - [2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf](东方电气/2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf)
@@ -134,6 +137,7 @@
 - [2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685.pdf](微软/2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685.pdf)
 - [2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685_2.pdf](微软/2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685_2.pdf)
 - [2026-07-10-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy FCF may bottom out in 2027-123059420.pdf](微软/2026-07-10-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy FCF may bottom out in 2027-123059420.pdf)
+- [2026-07-16-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 preview  Revenue growth acceleration...-123193438.pdf](微软/2026-07-16-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 preview  Revenue growth acceleration...-123193438.pdf)
 
 ## 恒瑞医药
 - [2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf](恒瑞医药/2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf)
@@ -178,6 +182,7 @@
 
 ## 策略研究
 - [2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf](策略研究/2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf)
+- [2026-06-26-BofA-AI-Infrastructure-China-Powering-AI.pdf](策略研究/2026-06-26-BofA-AI-Infrastructure-China-Powering-AI.pdf)
 - [2026-07-06-BofA Global Research-China Investment Compass - Quarterly 3Q26 navigating a K-s...-122984836.undefined.pdf](策略研究/2026-07-06-BofA Global Research-China Investment Compass - Quarterly 3Q26 navigating a K-s...-122984836.undefined.pdf)
 - [20260429-华泰证券-资产配置月报：AI链行情进入新阶段.pdf](策略研究/20260429-华泰证券-资产配置月报：AI链行情进入新阶段.pdf)
 
@@ -250,6 +255,8 @@
 - [2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf](行业研究-工业自动化/2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf)
 - [2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf](行业研究-工业自动化/2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf)
 - [2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf](行业研究-工业自动化/2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf)
+- [2026-07-06-Morgan-Stanley-China-Industrials-Mid-year-Outlook.pdf](行业研究-工业自动化/2026-07-06-Morgan-Stanley-China-Industrials-Mid-year-Outlook.pdf)
+- [2026-07-07-Macquarie-Research-China-automation-industrials.pdf](行业研究-工业自动化/2026-07-07-Macquarie-Research-China-automation-industrials.pdf)
 - [2026-07-07-Morgan Stanley-Investor Presentation China Industrials Mid-year Outlook-122999616.undefined.pdf](行业研究-工业自动化/2026-07-07-Morgan Stanley-Investor Presentation China Industrials Mid-year Outlook-122999616.undefined.pdf)
 - [2026-07-20-Morgan Stanley-China Industrials WAIC 2026 Takeaways More Physical AI-123269354.pdf](行业研究-工业自动化/2026-07-20-Morgan Stanley-China Industrials WAIC 2026 Takeaways More Physical AI-123269354.pdf)
 
@@ -269,6 +276,7 @@
 
 ## 行业研究-汽车
 - [2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf](行业研究-汽车/2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf)
+- [2026-07-06-UBS-Equities-Pole-Position-European-US-Autos-Daily.pdf](行业研究-汽车/2026-07-06-UBS-Equities-Pole-Position-European-US-Autos-Daily.pdf)
 - [BofA-Greater-China-EV-Future-Car-2026-06-18.pdf](行业研究-汽车/BofA-Greater-China-EV-Future-Car-2026-06-18.pdf)
 
 ## 行业研究-科技硬件
