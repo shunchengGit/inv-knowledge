@@ -21,6 +21,7 @@
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
+- [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis
 - [福耀玻璃BofA 1Q26：EBIT超预期10%，ASP增长11%驱动](entries/福耀玻璃BofA-1Q26-EBIT超预期10-ASP增长11-驱动.md) — Analysis
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis

@@ -21,6 +21,7 @@
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持](entries/毛戈平JPM-增长可见性高-管理层承诺不减持.md) — Analysis
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
+- [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis
 - [福耀玻璃BNP 1Q26：运营和利润率保持稳健，重申Outperform](entries/福耀玻璃BNP-1Q26-运营和利润率保持稳健-重申Outperform.md) — Analysis
 - [福耀玻璃BofA 1Q26：EBIT超预期10%，ASP增长11%驱动](entries/福耀玻璃BofA-1Q26-EBIT超预期10-ASP增长11-驱动.md) — Analysis

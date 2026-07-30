@@ -17,6 +17,7 @@
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化](entries/申万宏源腾讯深度之三-AI时代核心受益者-超级入口与生态壁垒的再进化.md) — Analysis
+- [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis
 - [福耀玻璃BNP 1Q26：运营和利润率保持稳健，重申Outperform](entries/福耀玻璃BNP-1Q26-运营和利润率保持稳健-重申Outperform.md) — Analysis
 - [福耀玻璃JPM 1Q26：管理层看好2Q26订单动能，ASP增长可持续](entries/福耀玻璃JPM-1Q26-管理层看好2Q26订单动能-ASP增长可持续.md) — Analysis
