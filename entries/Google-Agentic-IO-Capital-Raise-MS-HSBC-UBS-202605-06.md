@@ -3,9 +3,22 @@ type: Analysis
 title: Google I/O 2026发布Gemini Spark个人AI代理，随后宣布$300亿资本募资
 description: Morgan Stanley总结Google I/O 2026大会——发布Gemini Spark个人AI代理(整合搜索/Gmail/Calendar/3P应用)，Gemini 3.5 Flash/Pro新模型(API定价较竞品低70%)。随即HSBC报告Google宣布$300亿公开募资(含$150亿强制可转债)，用于AI基础设施和员工税务。UBS拆解Cloud backlog结构，指出TPU芯片销售和AI实验室大单后2026/27年Cloud收入将上调~24%/~34%。
 timestamp: 2026-06-08
-resource: res/谷歌/2026-05-20-GOOGL.OQ-Morgan Stanley-Alphabet Inc. Sparking the Agentic Torch-122129431.undefined.pdf, res/谷歌/2026-06-02-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Google announces USD80bn capital ra...-122363824.pdf, res/谷歌/2026-06-03-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _Stacking the Backlog from the AI La...-122376793.pdf
+resource:
+- res/谷歌/2026-05-20-GOOGL.OQ-Morgan Stanley-Alphabet Inc. Sparking the Agentic Torch-122129431.undefined.pdf
+- res/谷歌/2026-06-02-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Google announces USD80bn capital ra...-122363824.pdf
+- res/谷歌/2026-06-03-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _Stacking the Backlog from the AI La...-122376793.pdf
 source_type: pdf
-tags: [Google, Morgan-Stanley, HSBC, UBS, IO-2026, Gemini-Spark, AgenticAI, capital-raise, Cloud-backlog, 2026-Q2]
+tags:
+- Google
+- Morgan-Stanley
+- HSBC
+- UBS
+- IO-2026
+- Gemini-Spark
+- AgenticAI
+- capital-raise
+- Cloud-backlog
+- 2026-Q2
 ---
 
 # Google I/O 2026发布Gemini Spark与$300亿资本募资

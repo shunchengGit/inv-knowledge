@@ -2,10 +2,15 @@
 type: Analysis
 title: 台积电JPMorgan-2026年Q2业绩与AI算力需求能见度
 description: 小摩评台积电2026年Q2业绩与中长期展望，上调目标价至NT$3,200。指出数据中心AI需求能见度已延伸至2029-30年，预计台积电2027/28年资本支出将突破800亿美元。
-timestamp: 2026-07-16T20:00:00+08:00
-resource: res/台积电/2026-07-16-2330.TW-JPMorgan-TSMC Rising confidence in AI demand_ matched by increasing c...-123213157.pdf
+timestamp: 2026-07-16 20:00:00+08:00
+resource: res/台积电/2026-07-16-2330.TW-JPMorgan-TSMC Rising confidence in AI demand, matched by increasing c...-123213157.pdf
 source_type: pdf
-tags: [tsmc, valuation, capex, competitive-advantage, 2026-Q3]
+tags:
+- tsmc
+- valuation
+- capex
+- competitive-advantage
+- 2026-Q3
 ---
 
 # 台积电JPMorgan-2026年Q2业绩与AI算力需求能见度

@@ -2,10 +2,16 @@
 type: Analysis
 title: MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)
 description: 微软FQ3'26（2026年4月）财报综合速览：营收28.86亿(+18.3%)，EPS .27(+19.9%)，Azure CCY增长39%超预期，Capex指引900亿大幅上修，Copilot席位达2000万
-timestamp: 2026-06-24T00:40:29.290266+08:00
-resource: res/微软/2026-04-30-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ3'26 Postview Azure and M365 offsetting F...-121735810.pdf
+timestamp: 2026-06-24 00:40:29.290266+08:00
+resource: res/微软/2026-04-30-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ3’26 Postview Azure and M365 offsetting F...-121735810.pdf
 source_type: pdf
-tags: [microsoft, profit-trend, competitive-advantage, 2026-Q1, azure, copilot]
+tags:
+- microsoft
+- profit-trend
+- competitive-advantage
+- 2026-Q1
+- azure
+- copilot
 ---
 
 # MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞

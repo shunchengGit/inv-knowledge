@@ -2,10 +2,13 @@
 type: Analysis
 title: 毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持
 description: 毛戈平2026年1Q销售+>20% YoY（线下SSSG >12%），管理层维持全年+30%收入指引和稳定利润率；JPM OW（PT HKD130），TP 31x 2027E PE
-timestamp: 2026-06-24T10:00:00+08:00
-resource: res/毛戈平/2026-05-25-1318.HK-JPMorgan-Mao Geping - H Global China Summit...-122217493.pdf
+timestamp: 2026-06-24 10:00:00+08:00
+resource: res/毛戈平/2026-05-25-1318.HK-JPMorgan-Mao Geping - H Global China Summit 2026 takeaways Solid gro...-122217493.pdf
 source_type: pdf
-tags: [mao-geping, profit-trend, 2026]
+tags:
+- mao-geping
+- profit-trend
+- 2026
 ---
 
 # 毛戈平JPM Global China Summit纪要：2026增长可见性高

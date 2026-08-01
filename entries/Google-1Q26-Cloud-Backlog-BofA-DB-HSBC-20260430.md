@@ -3,9 +3,21 @@ type: Analysis
 title: Google 1Q26云业务超预期爆发，Cloud backlog达$4,620亿(BofA/DB/HSBC)
 description: Google 1Q26营收$94.7bn(+22% y/y)超预期，核心惊喜来自Cloud收入$20bn(+63% y/y)和Cloud backlog暴增90%至$4,620亿。Search增长加速至19% y/y。BofA维持Buy(PT $430)，HSBC维持Buy(PT $435)，DB强调TPU外部销售成为新的可盈利业务。但EPS因$369亿股权投资公允价值收益失真。
 timestamp: 2026-04-30
-resource: res/谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf, res/谷歌/2026-04-30-GOOGL.OQ-Deutsche Bank-Alphabet TPUs Driving Cloud Growth-121728039.pdf, res/谷歌/2026-04-30-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Cloud beats expectations, as does F...-121713593.pdf
+resource:
+- res/谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf
+- res/谷歌/2026-04-30-GOOGL.OQ-Deutsche Bank-Alphabet TPUs Driving Cloud Growth-121728039.pdf
+- res/谷歌/2026-04-30-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Cloud beats expectations, as does F...-121713593.pdf
 source_type: pdf
-tags: [Google, BofA, Deutsche-Bank, HSBC, 1Q26, Cloud, AI, TPU, 2026-Q2]
+tags:
+- Google
+- BofA
+- Deutsche-Bank
+- HSBC
+- 1Q26
+- Cloud
+- AI
+- TPU
+- 2026-Q2
 ---
 
 # Google 1Q26云业务超预期爆发，Cloud backlog达$4,620亿

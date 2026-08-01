@@ -20,8 +20,8 @@ tags: [ubs, china-ev, autonomous-driving, shuanghuan-driveline, 2026-07]
 - 物理 AI 与人形机器人硬件重构了高端制造的投资赔率，瑞银在巡礼标的中明确给与双环传动（Shuanghuan）、禾赛科技（Hesai）等“买入（Buy）”评级，看好其减速器及激光雷达的机器人第二增长曲线。
 
 ## 关联
--  — 瑞银路演共识交叉印证了双环传动的电驱齿轮和机器人精密减速器在机器人/物理 AI 浪潮下的底层核心资产溢价。
--  — 瑞银关于国内汽车市场淡季 Q2 以及高附加值零部件出口的判断，对福耀玻璃的汽车玻璃 ASP 结构升级有重要参考意义。
+- [双环传动QARP分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — 电驱齿轮和机器人精密减速器受益于物理AI浪潮，交叉验证第二增长曲线。
+- [福耀玻璃2Q26前瞻与全球市占率](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — 汽车市场与高附加值零部件出口判断可用于验证玻璃ASP升级。
 
 ## 引用
 - [UBS Equities - Pole Position (UBS European & US Autos Daily, 6 July 2026)](res/行业研究-汽车/2026-07-06-UBS-Equities-Pole-Position-European-US-Autos-Daily.pdf)

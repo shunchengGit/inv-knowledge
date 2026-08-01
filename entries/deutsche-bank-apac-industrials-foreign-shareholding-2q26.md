@@ -21,8 +21,8 @@ tags: [deutsche-bank, stock-connect, shuanghuan-driveline, hengli-hydraulic, san
 - 三花智控外资持股目前为 2.6%（-0.1ppt QoQ），流出势头大幅放缓。
 
 ## 关联
--  — 双环传动 2Q26 外资持股比例大幅回升至 11.6%，构成了对其估值底部支撑和资金结构改善的财务验证。
--  — 恒立液压外资持股连续三个季度上涨，回升至 12.8%，印证了市场对其高端丝杠和工程机械出海逻辑的认可。
+- [双环传动QARP分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — 2Q26外资持股回升至11.6%，补充资金结构与估值支撑。
+- [恒立液压QARP分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — 外资持股连续三个季度回升，交叉验证丝杠与出海逻辑。
 
 ## 引用
 - [Deutsche Bank - APAC Industrials: Foreign shareholding quarterly watch – 2Q26](res/三花智控/2026-07-16-Deutsche-Bank-APAC-Industrials-Foreign-shareholding-quarterly-watch-2Q26.pdf)

@@ -2,10 +2,14 @@
 type: Analysis
 title: 摩根士丹利中国房地产周度监测：新房成交同比反弹，去化率显著改善
 description: 7月首周（截至7月5日）50城新房周成交同比增22%（前值-11%），YTD同比-11%；10城二手成交同比增4%（前值-1%），YTD同比+5%；总去化率回升至68%（前值53%），一线去化率达90%。中原六城二手降价比例微增至16.7%，一线中介指数升至54.7。
-timestamp: 2026-07-06T14:21:00+08:00
-resource: res/行业研究-房地产/2026-07-06-Morgan Stanley-China Property Weekly Database Tracker #27-122979426.undefined.pdf
+timestamp: 2026-07-06 14:21:00+08:00
+resource: 'res/行业研究-房地产/2026-07-06-Morgan Stanley-China Property Weekly Database Tracker #27-122979426.undefined.pdf'
 source_type: pdf
-tags: [morgan-stanley, china-property, weekly-tracker, 2026-Q3]
+tags:
+- morgan-stanley
+- china-property
+- weekly-tracker
+- 2026-Q3
 ---
 
 # 摩根士丹利中国房地产周度监测：新房成交同比反弹，去化率显著改善

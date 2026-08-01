@@ -3,9 +3,17 @@ type: Analysis
 title: Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)
 description: JPMorgan详细分析Meta Superintelligence Labs(MSL)首款模型Muse Spark，认为其标志Meta在AI前沿领域的突破。Muse Spark为原生多模态推理模型，支持工具调用、视觉思维链与多智能体编排。Meta规划可预测的扩展路径，更大更强的模型在开发中。维持Overweight评级，目标价$825 (Dec-26)
 timestamp: 2026-04-08
-resource: res/Meta/2026-04-08-META.OQ-JPMorgan-Meta Platforms Inc Muse Spark(s) Meta's AI Model Launches; R...-121236731.pdf
+resource: res/Meta/2026-04-08-META.OQ-JPMorgan-Meta Platforms Inc Muse Spark(s) Meta’s AI Model Launches; R...-121236731.pdf
 source_type: pdf
-tags: [Meta, JPMorgan, AI, Muse-Spark, LLM, Overweight, capex, 2026-Q2]
+tags:
+- Meta
+- JPMorgan
+- AI
+- Muse-Spark
+- LLM
+- Overweight
+- capex
+- 2026-Q2
 ---
 
 # Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)

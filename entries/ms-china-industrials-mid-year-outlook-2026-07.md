@@ -23,8 +23,8 @@ tags: [morgan-stanley, china-industrials, humanoid-robotics, shuanghuan-drivelin
 - 报告将挖掘机 2026 年销量增速由 +15% 上调至 +21%，重卡销量上调至 127 万辆（+11% YoY），主要由置换周期与天然气（LNG）重卡低成本替代（渗透率达 28%）驱动。
 
 ## 关联
--  — 摩根士丹利给予双环 50 元目标价及“超配 (OW)”评级，为评估双环传动的动态 PEG、历史 PE 水平与机器人业务拆分提供了核心量化锚点。
--  — 大行将恒力列入人形机器人丝杠和先进精密制造超配名单，与我们针对恒力液压“好公司但静态 PE 50x 过贵”的估值纪律防守形成了逻辑比对。
+- [双环传动QARP分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — 50元目标价与超配评级为动态PEG和机器人业务拆分提供量化锚点。
+- [恒立液压QARP分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — 丝杠与先进制造逻辑需结合静态PE约50倍的估值纪律交叉判断。
 
 ## 引用
 - [Morgan Stanley - China Industrials Mid-year Outlook: Selective Stock Picks (06 July 2026)](res/行业研究-工业自动化/2026-07-06-Morgan-Stanley-China-Industrials-Mid-year-Outlook.pdf)

@@ -3,9 +3,20 @@ type: Analysis
 title: Meta 1Q26业绩超预期但资本开支大幅上调，多空观点激烈交锋
 description: Meta 1Q26营收$56.3bn(+29% y/y)超预期，但大幅上调2026年资本开支指引$100亿至$1,250-1,450亿，并预告2027年capex将增长42%至$2,020亿，导致FCF转负。BofA维持Buy(目标$835)，DB强调广告ROI改善，JPMorgan下调至Neutral(目标$725)。核心分歧在于AI巨额投资回报可见度。
 timestamp: 2026-04-30
-resource: res/Meta/2026-04-30-META.OQ-BofA Global Research-Meta Platforms Inc Building assets for an AI future; Buy-121719218.undefined.pdf, res/Meta/2026-04-30-META.OQ-Deutsche Bank-Meta Top-line Momentum...But at a Cost-121728483.pdf, res/Meta/2026-04-30-META.OQ-JPMorgan-Meta Platforms Inc Ad Strength Continues, Along wHeavy Infr...-121727634.pdf
+resource:
+- res/Meta/2026-04-30-META.OQ-BofA Global Research-Meta Platforms Inc Building assets for an AI future; Buy-121719218.undefined.pdf
+- res/Meta/2026-04-30-META.OQ-Deutsche Bank-Meta Top-line Momentum…But at a Cost-121728483.pdf
+- res/Meta/2026-04-30-META.OQ-JPMorgan-Meta Platforms Inc Ad Strength Continues, Along wHeavy Infr...-121727634.pdf
 source_type: pdf
-tags: [Meta, BofA, Deutsche-Bank, JPMorgan, 1Q26, capex, AI, 2026-Q2]
+tags:
+- Meta
+- BofA
+- Deutsche-Bank
+- JPMorgan
+- 1Q26
+- capex
+- AI
+- 2026-Q2
 ---
 
 # Meta 1Q26业绩超预期但资本开支大幅上调，多空观点激烈交锋

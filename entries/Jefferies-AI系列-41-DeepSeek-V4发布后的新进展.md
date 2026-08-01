@@ -2,10 +2,15 @@
 type: Analysis
 title: Jefferies AI系列#41：DeepSeek V4发布后的新进展
 description: Jefferies追踪DeepSeek V4发布后的行业影响，分析开源模型对AI竞争格局的冲击
-timestamp: 2026-06-24T00:59:11.118302+08:00
-resource: res/行业研究-AI/2026-05-10-Jefferies-AI Series #41 New Developments of DeepSeek Post V4-121942676.pdf
+timestamp: 2026-06-24 00:59:11.118302+08:00
+resource: 'res/行业研究-AI/2026-05-10-Jefferies-AI Series #41 New Developments of DeepSeek Post V4-121942676.pdf'
 source_type: pdf
-tags: [jefferies, ai-industry, deepseek, open-source, 2026-Q2]
+tags:
+- jefferies
+- ai-industry
+- deepseek
+- open-source
+- 2026-Q2
 ---
 
 # Jefferies AI系列#41：DeepSeek V4发布后的新进展

@@ -2,10 +2,24 @@
 type: Analysis
 title: Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高，后端供应成新瓶颈
 description: Broadcom FY26Q2 AI收入$56bn估测，FY27"远高于$100bn"，Multi-GW客户承诺去风险FY27/28但营收预期miss致股价回调；后端供应限制v9 TPU路线图，20GW SPV与Apollo/Blackstone合作落地
-timestamp: 2026-06-11T00:00:00+08:00
-resource: res/博通/2026-06-04-AVGO.OQ-Morgan Stanley-Broadcom Inc. Expectations miss amid very strong demand-122403915.undefined.pdf, res/博通/2026-06-04-AVGO.OQ-JPMorgan-Broadcom Inc AI Momentum Accelerates on Strong Bookings; Mul...-122408104.pdf, res/博通/2026-06-11-AVGO.OQ-UBS Equities-Broadcom Inc. _Responding To Investor Inbounds Post Earnings...-122546422.pdf
+timestamp: 2026-06-11 00:00:00+08:00
+resource:
+- res/博通/2026-06-04-AVGO.OQ-Morgan Stanley-Broadcom Inc. Expectations miss amid very strong demand-122403915.undefined.pdf
+- res/博通/2026-06-04-AVGO.OQ-JPMorgan-Broadcom Inc AI Momentum Accelerates on Strong Bookings; Mul...-122408104.pdf
+- res/博通/2026-06-11-AVGO.OQ-UBS Equities-Broadcom Inc. _Responding To Investor Inbounds Post Earnings...-122546422.pdf
 source_type: pdf
-tags: [Broadcom, AVGO, AI, ASIC, TPU, JPMorgan, MorganStanley, UBS, FY26Q2, 数据中心, 半导体]
+tags:
+- Broadcom
+- AVGO
+- AI
+- ASIC
+- TPU
+- JPMorgan
+- MorganStanley
+- UBS
+- FY26Q2
+- 数据中心
+- 半导体
 ---
 
 # Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高
