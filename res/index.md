@@ -180,6 +180,7 @@
 - [2026-07-02-600660.SS-UBS Equities-快评 福耀玻璃-A _2Q26业绩前瞻：毛利率或表现稳健，汇兑压力延续_ (买入) 闵-122904193.pdf](福耀玻璃/2026-07-02-600660.SS-UBS Equities-快评 福耀玻璃-A _2Q26业绩前瞻：毛利率或表现稳健，汇兑压力延续_ (买入) 闵-122904193.pdf)
 - [2026-07-02-UBS-Fuyao-Glass-2Q26-Preview.pdf](福耀玻璃/2026-07-02-UBS-Fuyao-Glass-2Q26-Preview.pdf)
 - [2026-07-07-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 2Q26 Preview Weak Revenue but R...-123000974.undefined.pdf](福耀玻璃/2026-07-07-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 2Q26 Preview Weak Revenue but R...-123000974.undefined.pdf)
+- [2026-07-22-600660.SS-HSBC Global Investme-Fuyao Glass Industry (3606 HK600660 CH) BuyBuy Weak auto ...-123311840.pdf](福耀玻璃/2026-07-22-600660.SS-HSBC Global Investme-Fuyao Glass Industry (3606 HK600660 CH) BuyBuy Weak auto ...-123311840.pdf)
 - [2026-07-22-HSBC-Fuyao-Glass-Holdings.pdf](福耀玻璃/2026-07-22-HSBC-Fuyao-Glass-Holdings.pdf)
 
 ## 策略研究
