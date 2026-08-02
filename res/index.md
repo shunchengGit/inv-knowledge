@@ -138,6 +138,7 @@
 - [2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685_2.pdf](微软/2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685_2.pdf)
 - [2026-07-10-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy FCF may bottom out in 2027-123059420.pdf](微软/2026-07-10-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy FCF may bottom out in 2027-123059420.pdf)
 - [2026-07-16-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 preview  Revenue growth acceleration...-123193438.pdf](微软/2026-07-16-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 preview  Revenue growth acceleration...-123193438.pdf)
+- [2026-07-26-MSFT.OQ-UBS Equities-Microsoft Corp. _Update on Azure, Capex and M365_ (Buy) Keir...-123405553.pdf](微软/2026-07-26-MSFT.OQ-UBS Equities-Microsoft Corp. _Update on Azure, Capex and M365_ (Buy) Keir...-123405553.pdf)
 
 ## 恒瑞医药
 - [2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf](恒瑞医药/2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf)
