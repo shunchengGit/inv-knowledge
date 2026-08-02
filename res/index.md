@@ -178,7 +178,9 @@
 - [2026-04-22-600660.SS-JPMorgan-Fuyao Glass Management sees positive order momentum in 2Q26;...-121576213.pdf](福耀玻璃/2026-04-22-600660.SS-JPMorgan-Fuyao Glass Management sees positive order momentum in 2Q26;...-121576213.pdf)
 - [2026-04-22-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 1Q26 Earnings Call Takeaways – S...-121554520.undefined.pdf](福耀玻璃/2026-04-22-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 1Q26 Earnings Call Takeaways – S...-121554520.undefined.pdf)
 - [2026-07-02-600660.SS-UBS Equities-快评 福耀玻璃-A _2Q26业绩前瞻：毛利率或表现稳健，汇兑压力延续_ (买入) 闵-122904193.pdf](福耀玻璃/2026-07-02-600660.SS-UBS Equities-快评 福耀玻璃-A _2Q26业绩前瞻：毛利率或表现稳健，汇兑压力延续_ (买入) 闵-122904193.pdf)
+- [2026-07-02-UBS-Fuyao-Glass-2Q26-Preview.pdf](福耀玻璃/2026-07-02-UBS-Fuyao-Glass-2Q26-Preview.pdf)
 - [2026-07-07-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 2Q26 Preview Weak Revenue but R...-123000974.undefined.pdf](福耀玻璃/2026-07-07-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 2Q26 Preview Weak Revenue but R...-123000974.undefined.pdf)
+- [2026-07-22-HSBC-Fuyao-Glass-Holdings.pdf](福耀玻璃/2026-07-22-HSBC-Fuyao-Glass-Holdings.pdf)
 
 ## 策略研究
 - [2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf](策略研究/2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf)
