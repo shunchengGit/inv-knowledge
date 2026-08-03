@@ -258,6 +258,9 @@
 - [2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf](行业研究-半导体/2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf)
 - [2026-07-02-BofA Global Research-Global Memory Tech Weekly theme MetaCXMTKorea risks, Jap...-122909283.undefined.pdf](行业研究-半导体/2026-07-02-BofA Global Research-Global Memory Tech Weekly theme MetaCXMTKorea risks, Jap...-122909283.undefined.pdf)
 
+## 行业研究-地产
+- [2026-07-31-Morgan Stanley-China Property Primary Home Sales Remained Weak and Diverge...-123519690.pdf](行业研究-地产/2026-07-31-Morgan Stanley-China Property Primary Home Sales Remained Weak and Diverge...-123519690.pdf)
+
 ## 行业研究-工业
 - [2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf](行业研究-工业/2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf)
 
