@@ -62,7 +62,10 @@
 - [MSFT Windows AI PC新篇章：与NVIDIA合作发布RTX Spark平台 (Morgan Stanley 6/1)](entries/MSFT-Windows-AI-PC新篇章-与NVIDIA合作发布RTX-Spark平台-Morgan-Stanley-6-1.md) — Morgan Stanley 6月1日报告：微软与NVIDIA联合发布RTX Spark——为个人AI Agent设计的Windows AI计算平台，搭载Grace CPU+Blackwell RTX+128GB统一内存，可本地运行120B参数大模型；Surface Laptop Ultra成为首款NVIDIA架构旗舰PC
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — BNP Paribas 5月26日更新报告：微软处于关键拐点，Copilot用户反馈显著改善（Agent Mode/Copilot Cowork获好评），Azure 40%+增长可持续至FQ3'27
 - [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — HSBC 5月26日报告：Anthropic年化营收从0亿飙升至00亿，Azure可能到2030年从Anthropic获得30亿/年增量营收，维持Buy目标价71
+- [MS中国地产7月跟踪：百强房企销售同比降11%，国企与民企分化加剧](entries/MS中国地产7月跟踪-百强房企销售同比降11-国企民企分化加剧.md) — 摩根士丹利7月跟踪显示百强房企销售同比下降11%，央国企（华润/中海外/建发）保持正增长，看好具自救阿尔法能力的优质国企标的。
 - [MS中国美妆618预售排名：珀莱雅第一，巨子生物快速崛起](entries/MS中国美妆618预售排名.md) — Morgan Stanley发布2026年618预售排名，珀莱雅蝉联第一，巨子生物可复美/可丽金快速增长，国际品牌表现分化，国货美妆持续抢占市场份额
+- [MS中国金融跟踪：工业信用去风险趋势延续，工业需求增速显著快于供给](entries/MS中国金融跟踪-工业信用去风险趋势延续-需求增速快于供给.md) — 摩根士丹利6月中国金融跟踪显示，名义工业生产（需求）同比+7.2%快于固定资产投资（供给）-1.2%，连续9个月去产能，支撑制造业利润同比大增20.1%。
+- [MS亚洲宏观与工业：亚洲迎来20年来最强工业资本开支超级周期](entries/MS亚洲宏观与工业-亚洲迎来20年来最强工业资本开支超级周期.md) — 摩根士丹利看好受AI算力需求、能源安全与地缘政治驱动的亚洲工业资本开支超级周期，电力能源仍为核心瓶颈，重点看好中国AI解决方案商与AI制造产业链。
 - [Nomura Sansera Engineering (SANSERA IN) — Diversification gains momentum (Buy)](entries/Nomura-Sansera-Engineering-Buy-Diversification-gains-momentum-20260521.md) — Nomura维持Sansera Engineering买入评级，目标价上调，认为公司业务多元化从汽车零部件向航空航天和工业领域拓展正获得动能
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
 - [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价40评级买入

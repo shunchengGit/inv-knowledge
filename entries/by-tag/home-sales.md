@@ -1,4 +1,3 @@
-# real-estate
+# home-sales
 
-- [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — Analysis
 - [MS中国地产7月跟踪：百强房企销售同比降11%，国企与民企分化加剧](entries/MS中国地产7月跟踪-百强房企销售同比降11-国企民企分化加剧.md) — Analysis
