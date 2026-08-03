@@ -310,6 +310,7 @@
 - [2026-07-03-BofA Global Research-Banks - China Weekly Wrap PBOC ‘cut’ signal, private inves...-122942005.undefined.pdf](行业研究-金融/2026-07-03-BofA Global Research-Banks - China Weekly Wrap PBOC ‘cut’ signal, private inves...-122942005.undefined.pdf)
 - [2026-07-03-UBS Equities-Greater China Banks Daily _Banks see wave of share purchases...-122914012.pdf](行业研究-金融/2026-07-03-UBS Equities-Greater China Banks Daily _Banks see wave of share purchases...-122914012.pdf)
 - [2026-07-10-Morgan Stanley-Investor Presentation China Financials Further de-leveragi...-123078904.undefined.pdf](行业研究-金融/2026-07-10-Morgan Stanley-Investor Presentation China Financials Further de-leveragi...-123078904.undefined.pdf)
+- [2026-07-30-Morgan Stanley-China Financials Tracking industrial risks Demand growth c...-123491835.pdf](行业研究-金融/2026-07-30-Morgan Stanley-China Financials Tracking industrial risks Demand growth c...-123491835.pdf)
 
 ## 谷歌
 - [2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf](谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf)
