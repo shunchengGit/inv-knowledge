@@ -258,6 +258,9 @@
 - [2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf](行业研究-半导体/2026-06-15-Morgan Stanley-Semiconductors Takeaways from public company meetings on ou...-122580650.undefined.pdf)
 - [2026-07-02-BofA Global Research-Global Memory Tech Weekly theme MetaCXMTKorea risks, Jap...-122909283.undefined.pdf](行业研究-半导体/2026-07-02-BofA Global Research-Global Memory Tech Weekly theme MetaCXMTKorea risks, Jap...-122909283.undefined.pdf)
 
+## 行业研究-工业
+- [2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf](行业研究-工业/2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf)
+
 ## 行业研究-工业自动化
 - [2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf](行业研究-工业自动化/2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf)
 - [2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf](行业研究-工业自动化/2026-06-08-Morgan Stanley-China Industrials Trip Takeaways Stronger, Broader Capex B...-122462764.undefined.pdf)
