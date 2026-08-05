@@ -149,6 +149,9 @@
 
 ## Reference
 - [Momenta港股不同投票权控制上市招股书分析](entries/momenta-global-hk-ipo-prospectus-202606.md) — 智能驾驶独角兽Momenta（初速度）于2026年6月29日披露港股招股书，2025年营收增至24.13亿元，定点170款车型，累计装车超68万辆，在独立城市NOA智驾系统领域市占率达64.5%排名第一。
+- [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — 汇丰银行（HSBC）认为市场因2Q26短暂低于预期而过度抛售SK海力士，认为Agentic AI正引发比肩1990-95年的存储超级周期，HBM4溢价与SO-CAMM2普及将推动3Q26营业利润大增至79万亿韩元，重申Buy。
+- [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Macquarie指出SK海力士2Q26营业利润60.5万亿韩元（+61% QoQ），因NAND提价及DRAM均价增长；股价自高点腰斩，当前扣除净现金后2027E PE仅1倍（全表PE 2.5x），重申Outperform。
+- [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Morgan Stanley指出SK海力士2Q26营业利润60.5万亿韩元（OP率76%），因HBM3e组合过渡短期未能达最高共识；但下半年HBM4加速放量与多长单（LTA）锁定将显著提升盈利与FCF，维持Overweight。
 - [厦门瑞为信息港股18C章上市招股书分析](entries/reconova-technologies-hk-ipo-prospectus-202606.md) — 视觉AI企业瑞为信息于2026年6月29日披露港股特专科技招股书，2025年在中国民航视觉智能产品市场排名第一，营收达4.43亿元，并于2026年4月推出VTFLA多模态大模型切入具身智能与机器人。
 - [山东宝盖新材料港股GEM上市招股书分析](entries/baogai-new-materials-gem-ipo-prospectus-202606.md) — 山东宝盖新材料于2026年6月29日披露港股GEM招股书，2025年按市场份额计于中国电缆沟盖板及复合材料电缆沟盖板行业排名第一，年营收1.44亿元，纯利2405万元，毛利率维持约38.2%。
 - [摩根士丹利中国工业中报展望：资本支出强劲与机器人商业化起航](entries/ms-china-industrials-mid-year-outlook-2026-07.md) — 摩根士丹利2026年7月报告详细梳理了中国工业板块的投资主线，预测2026年自动化市场增长5%，人形机器人将进入商业化量产阶段并推升核心部件出货。

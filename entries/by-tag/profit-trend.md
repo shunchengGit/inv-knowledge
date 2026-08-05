@@ -8,6 +8,9 @@
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Analysis
 - [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Analysis
+- [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — Reference
+- [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Reference
+- [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Reference
 - [东方电气01072.HK价值成长QARP深度分析](entries/dongfang-electric-qarp-analysis-2026-07.md) — Analysis
 - [中通快递1Q26超预期+反内卷持续——JPM/MS/UBS一致看多，阿里减持为情绪扰动](entries/中通快递1Q26超预期-反内卷持续-阿里减持为情绪扰动.md) — Analysis
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — Analysis
