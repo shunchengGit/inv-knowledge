@@ -46,6 +46,7 @@
 - [2026-05-11-000660.KS-HSBC Global Investme-SK Hynix (000660 KP) Buy Another surprise in DRAM prices-121974472.pdf](SK海力士/2026-05-11-000660.KS-HSBC Global Investme-SK Hynix (000660 KP) Buy Another surprise in DRAM prices-121974472.pdf)
 - [2026-05-14-000660.KS-Macquarie Research-Giddy profit growth at a low PE multiple-122028438.pdf](SK海力士/2026-05-14-000660.KS-Macquarie Research-Giddy profit growth at a low PE multiple-122028438.pdf)
 - [2026-05-17-000660.KS-JPMorgan-SK hynix LTA paves path for new valuation framework raising...-122079078.pdf](SK海力士/2026-05-17-000660.KS-JPMorgan-SK hynix LTA paves path for new valuation framework raising...-122079078.pdf)
+- [doc_3176339150d7_2026-07-29-000660.KS-Morgan Stanley-SK hynix 2Q26 – Slight Miss before Stronger Back Half-123455566.pdf](SK海力士/doc_3176339150d7_2026-07-29-000660.KS-Morgan Stanley-SK hynix 2Q26 – Slight Miss before Stronger Back Half-123455566.pdf)
 - [doc_96e2b7f7b0f5_2026-07-29-000660.KS-Macquarie Research-Oversold at 1x ex-cash PE-123468415.pdf](SK海力士/doc_96e2b7f7b0f5_2026-07-29-000660.KS-Macquarie Research-Oversold at 1x ex-cash PE-123468415.pdf)
 
 ## 万国数据
