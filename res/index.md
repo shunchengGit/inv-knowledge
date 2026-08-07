@@ -39,6 +39,9 @@
 ## Nova
 - [2026-06-10-NVMI.TA-Jefferies-NDR Takeaways Demand Rock Solid as Customer Base Broadens O...-122511599.pdf](Nova/2026-06-10-NVMI.TA-Jefferies-NDR Takeaways Demand Rock Solid as Customer Base Broadens O...-122511599.pdf)
 
+## Reddit
+- [2026-07-31-RDDT.N-JPMorgan-Reddit Advertising Trajectory Remains Strong, But Traffic an...-123507569.pdf](Reddit/2026-07-31-RDDT.N-JPMorgan-Reddit Advertising Trajectory Remains Strong, But Traffic an...-123507569.pdf)
+
 ## SK海力士
 - [2026-04-23-000660.KS-BNP Paribas-SK HYNIX (+)  Enhanced AI memory leadership; less concern o...-121592694.pdf](SK海力士/2026-04-23-000660.KS-BNP Paribas-SK HYNIX (+)  Enhanced AI memory leadership; less concern o...-121592694.pdf)
 - [2026-04-23-000660.KS-BNP Paribas-SK HYNIX (+)  Enhanced AI memory leadership; less concern o...-121592694_2.pdf](SK海力士/2026-04-23-000660.KS-BNP Paribas-SK HYNIX (+)  Enhanced AI memory leadership; less concern o...-121592694_2.pdf)
