@@ -16,6 +16,9 @@
 - [2026-05-08-ETN.N-Morgan Stanley-Eaton Corporation PLC Under-Appreciated Transformation, PT ...-121921714.undefined.pdf](Eaton-ETN/2026-05-08-ETN.N-Morgan Stanley-Eaton Corporation PLC Under-Appreciated Transformation, PT ...-121921714.undefined.pdf)
 - [2026-06-11-ETN.N-BNP Paribas-EATON (+)  Mobility Group to combine with Dana in Reverse M...-122544705.pdf](Eaton-ETN/2026-06-11-ETN.N-BNP Paribas-EATON (+)  Mobility Group to combine with Dana in Reverse M...-122544705.pdf)
 
+## EssilorLuxottica
+- [2026-07-29-ESLX.PA-Jefferies-More Than Meets the Eye-123470323.pdf](EssilorLuxottica/2026-07-29-ESLX.PA-Jefferies-More Than Meets the Eye-123470323.pdf)
+
 ## Hubbell
 - [2026-05-04-HUBb.N-Deutsche Bank-Hubbell  Our Initial Thoughts on the NSI Acquisition-121819010.pdf](Hubbell/2026-05-04-HUBb.N-Deutsche Bank-Hubbell  Our Initial Thoughts on the NSI Acquisition-121819010.pdf)
 - [2026-05-04-HUBb.N-Morgan Stanley-Hubbell Inc. NSI Acquisition Brings Accretion at Attractive...-121816448.undefined.pdf](Hubbell/2026-05-04-HUBb.N-Morgan Stanley-Hubbell Inc. NSI Acquisition Brings Accretion at Attractive...-121816448.undefined.pdf)
