@@ -18,6 +18,7 @@
 - [Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高，后端供应成新瓶颈](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Broadcom FY26Q2 AI收入$56bn估测，FY27"远高于$100bn"，Multi-GW客户承诺去风险FY27/28但营收预期miss致股价回调；后端供应限制v9 TPU路线图，20GW SPV与Apollo/Blackstone合作落地
 - [Broadcom/JPMorgan：TPU v9 2nm ASIC按计划CY28量产——无延迟，锁定后续4代TPU](entries/AVGO-JPM-TPUv9-2nm-ASIC-CY28.md) — JPMorgan Harlan Sur确认Broadcom TPU v9 2nm ASIC按计划CY28量产（无延迟），Google五年协议锁定v8-v11四代TPU及逐年递增收入，目标价$580
 - [DB半导体季度终端市场监控：数据中心+84%YoY再加速，工业连续8季改善，汽车连续4季回暖](entries/ADI-DB-US-Semi-季度终端市场监控.md) — Deutsche Bank 1Q26美国半导体终端市场监测：数据中心收入$102.5b/+84%YoY连续3季加速，工业+25%YoY连续8季改善，汽车+11%YoY连续4季回暖
+- [EssilorLuxottica 2Q26韧性与AI眼镜增长期权分析](entries/essilorluxottica-jefferies-ai-glasses-q2-2026.md) — EssilorLuxottica 2Q26有机增速8.7%，AI眼镜贡献约3个百分点且销量近翻倍；Jefferies预计2026年售出约1000万副并维持€250目标价，判断短期增速降温不改平台化重估逻辑。
 - [Google 1Q26云业务超预期爆发，Cloud backlog达$4,620亿(BofA/DB/HSBC)](entries/Google-1Q26-Cloud-Backlog-BofA-DB-HSBC-20260430.md) — Google 1Q26营收$94.7bn(+22% y/y)超预期，核心惊喜来自Cloud收入$20bn(+63% y/y)和Cloud backlog暴增90%至$4,620亿。Search增长加速至19% y/y。BofA维持Buy(PT $430)，HSBC维持Buy(PT $435)，DB强调TPU外部销售成为新的可盈利业务。但EPS因$369亿股权投资公允价值收益失真。
 - [Google AI Wars流量跟踪：Gemini与Claude高速增长，Google搜索份额稳定(BofA)](entries/Google-AI-Wars-Traffic-BofA-202605-06.md) — BofA持续跟踪AI产品流量趋势。截至2026年5月，Gemini全球日活达1.1亿(月+10%/+321% y/y)，Claude DAU 1,700万(月+22%/+1,349% y/y)，ChatGPT DAU 4.38亿(月+2%/+68% y/y)，Meta AI DAU 1,000万。Google搜索份额稳定在90%。Gemini和Claude增长最快，但ChatGPT仍占绝对规模优势。
 - [Google I/O 2026发布Gemini Spark个人AI代理，随后宣布$300亿资本募资](entries/Google-Agentic-IO-Capital-Raise-MS-HSBC-UBS-202605-06.md) — Morgan Stanley总结Google I/O 2026大会——发布Gemini Spark个人AI代理(整合搜索/Gmail/Calendar/3P应用)，Gemini 3.5 Flash/Pro新模型(API定价较竞品低70%)。随即HSBC报告Google宣布$300亿公开募资(含$150亿强制可转债)，用于AI基础设施和员工税务。UBS拆解Cloud backlog结构，指出TPU芯片销售和AI实验室大单后2026/27年Cloud收入将上调~24%/~34%。
@@ -51,6 +52,7 @@
 - [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Morgan Stanley分析中国金融业高质量发展路径、人民币存款新规的影响以及银行板块投资机会
 - [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Morgan Stanley分析AI投资从硬件到软件的轮动趋势，评估互联网板块当前估值水平
 - [Morgan Stanley人形机器人前沿：即将登陆彭博终端与产业进展](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Morgan Stanley追踪人形机器人行业最新进展，关注机器人登录彭博终端等里程碑事件
+- [Morgan Stanley全球云资本开支追踪：2027年共识升至1.2万亿美元仍偏保守](entries/morgan-stanley-global-cloud-capex-tracker-2026-08.md) — 2027年全球云资本开支共识已上调至约1.2万亿美元、同比增长29%，但Morgan Stanley估算达1.4万亿美元、较共识高17%；供给约束与云收入加速意味着资本开支仍有上修空间。
 - [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Morgan Stanley总结Computex 2026展会关键趋势，AI PC生态成熟、服务器需求强劲、边缘计算崛起
 - [Morgan Stanley台湾半导体供应链调研纪要](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Morgan Stanley在台湾与半导体公司会面后的关键发现，涵盖CoWoS产能、HBM需求和先进制程展望
 - [MSFT AI基础设施深度系列：OpenAI与Anthropic效应——Token优化周期来临 (BNP Paribas 6/2)](entries/MSFT-AI基础设施深度系列-OpenAI与Anthropic效应-Token优化周期来临-BNP-Paribas-6-2.md) — BNP Paribas 6月2日深度报告：OpenAI+Anthropic合计ARR已达$800亿（2025年底$300亿），agentic AI推动token消耗爆发式增长，但企业token成本反弹正引发首次有意义的token优化周期，AI基础设施ROIC有望达20-30%
@@ -69,6 +71,7 @@
 - [Nomura Sansera Engineering (SANSERA IN) — Diversification gains momentum (Buy)](entries/Nomura-Sansera-Engineering-Buy-Diversification-gains-momentum-20260521.md) — Nomura维持Sansera Engineering买入评级，目标价上调，认为公司业务多元化从汽车零部件向航空航天和工业领域拓展正获得动能
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
 - [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价40评级买入
+- [Reddit 2Q26广告高增长与Google搜索流量风险再平衡](entries/reddit-jpm-q2-2026-advertising-search-traffic.md) — Reddit 2Q26收入8.05亿美元同比增长61%，广告收入增长64%、活跃广告主增长70%以上，但美国DAUq环比减少30万；JPMorgan认为商业化强劲尚不足以抵消Google搜索流量不确定性，维持Neutral并设2027年底目标价185美元。
 - [UBS大中华区银行业日报2026-07-03：股东高管增持潮、香港2025年AUM创历史新高](entries/UBS大中华区银行业日报2026-07-03.md) — UBS 2026年7月3日大中华区银行业日报：2026年以来A股多家银行迎来大股东与高管增持潮（邮储银行大股东增持5.26亿元，光大集团增持5166万元，成都国资增持9.57亿元成都银行）；香港2025年资产管理总额（AUM）同比增20%至创纪录的42.2万亿港元，其中净资金流入同比激增193%至2.1万亿港元；2026年上半年中国信用债净融资同比增11.7%至1.46万亿元，但LGFV城投债延续净偿还1002亿元，呈明显收缩分化态势。
 - [UBS快速解读：台积电4月营收NT$4,107亿——Q2开局符合预期](entries/台积电UBS-4月营收4107亿-符合Q2预期.md) — UBS（Sunny Lin）于2026年5月8日发布。4月营收NT$4,107亿（-1.1% MoM，+17.5% YoY），Q2追踪达UBSe的32.3%。预计2026年美元营收增长35%，受N3 AI加速器和N2爬坡驱动。维持买入，目标价NT$2,650。
 - [UBS快速解读：台积电5月营收NT$4,170亿——Q2稳步推进，目标价上调至NT$3,000](entries/台积电UBS-5月营收4170亿-Q2稳步推进-目标价上调至3000.md) — UBS于2026年6月10日发布。5月营收NT$4,170亿（+30.1% YoY），Q2追踪达UBSe的65%。2026年营收预测上调至+36%（美元计），目标价从NT$2,650大幅上调至NT$3,000（23x 2027E PE）。H2毛利率或从H1的66.8%降至65%。

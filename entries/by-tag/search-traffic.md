@@ -1,3 +1,3 @@
-# google
+# search-traffic
 
 - [Reddit 2Q26广告高增长与Google搜索流量风险再平衡](entries/reddit-jpm-q2-2026-advertising-search-traffic.md) — Analysis
