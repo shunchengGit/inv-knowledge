@@ -3,7 +3,7 @@ type: Analysis
 title: Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化
 description: Jefferies预计阿里云与百度AI云基础设施收入分别增长45%和55%，中国模型周Token用量达28万亿且约为美国模型6.4倍，结论是低价高效模型将驱动需求但CSP估值需由利润率与ROIC验证。
 timestamp: 2026-08-03T00:00:00+08:00
-resource: res/行业研究-互联网/doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf
+resource: "res/行业研究-互联网/doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf"
 source_type: pdf
 tags: [china-cloud, alibaba, baidu, tencent, kingsoft-cloud, profit-trend, token-economics, cost-efficiency, 2026-08]
 ---
