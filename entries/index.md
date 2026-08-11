@@ -7,6 +7,7 @@
 - [BNP Paribas：台积电推出A13并更新技术路线图——重申Outperform](entries/台积电BNP-技术路线图-A13更新-重申Outperform.md) — BNP Paribas（Alex Chang）于2026年4月24日发布。A13（2029 HVM，面积节省6%）、A12（Super Power Rail背面供电）、N2U（2028 HVM，速度+3-4%/功耗-8-10%）、CoWoS扩展至14-reticle。评级Outperform，目标价TWD2,520/USD478。
 - [BofA 5月App数据跟踪：中国电商与在线媒体格局分析](entries/BofA-5月App数据跟踪-中国电商与在线媒体格局分析.md) — BofA基于5月App下载量和活跃度数据分析中国互联网电商、本地生活和在线媒体竞争格局变化
 - [BofA Greater China EV & Future Car — Structural leadership amid intensifying competition](entries/BofA-Greater-China-EV-Future-Car-20260618.md) — BofA发布中国电动车和未来汽车行业深度报告，分析中国新能源车企在激烈竞争中的结构性领先优势
+- [BofA中国AI观察：DeepSeek V4 Flash以低价后训练强化重塑模型竞争](entries/bofa-deepseek-v4-flash-china-ai-watch-20260803.md) — DeepSeek V4 Flash以每百万输入输出Token仅0.14和0.28美元实现全球领先编程与Agent性能，BofA判断其利空智谱与MiniMax、对腾讯中性并加剧阿里Qwen竞争。
 - [BofA中国银行业周报2026-07-03：央行“降息”信号、推动民间投资、券商受益科技股上涨](entries/BofA中国银行业周报2026-07-03.md) — BofA 2026年7月3日周报：央行开展首笔3000亿元超额逆回购操作（利率1.25%）被视为实质性“降息”信号；1-5月工业企业利润增长18.8%（电子利润大增103.9%）；H股银行板块周跌1.9%（P/B 0.49x，股息率5.9%），A股银行板块周跌1.8%（P/B 0.60x）。
 - [BofA中国银行业周报6/19 — 5月宏观数据分化、美联储鹰派、贷款增速放缓成新常态](entries/BofA中国银行业周报6-19-5月宏观数据分化-美联储鹰派-贷款增速放缓成新常态.md) — BofA 6/19周报：5月FAI降4.1% YoY/零售降0.6%/工业产出升4.5%宏观数据分化；PBOC潘功胜称更慢但更高质量的贷款增长或成新常态；H股银行板块跌5.1%（P/B 0.54x，股息率5.4%）；A-H溢价平均16.3%
 - [BofA中国银行业周报6/26 — LPR按兵不动、地方审计趋严、A股两融破3万亿](entries/BofA中国银行业周报6-26-LPR按兵不动-地方审计趋严-A股两融破3万亿.md) — BofA 6/26周报：6月1年期/5年期LPR连续第13个月维持3.00%/3.50%；审计发现21个地区虚增财政收入、违规多征收约400亿元，LGFV“假退出/假化债”整治趋严；A股两融余额首次突破3万亿元，H股银行板块周跌4.5%至0.50x P/B。
@@ -25,6 +26,7 @@
 - [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — HSBC维持Buy评级，TP从KRW 1,800,000上调至2,900,000。DRAM服务器和移动端价格均超预期，2Q26 OP预测上调14%至KRW 65tn。通用服务器需求爆发（AI:非AI比例从4-8:1趋近1:1），CSP Capex大幅增长。
 - [Hubbell 30亿美元收购NSI Industries：强化电气化与数据中心布局](entries/HubbellNSI收购与电气化分析.md) — Hubbell以30亿美元现金(15.5x 2026E EBITDA)收购NSI Industries，NSI预计2026收入5.7亿美元/EBITDA 1.93亿美元(34%利润率)，DB维持Hold/TP 520美元，MS维持Equal-weight/TP 565美元，UBS维持Neutral/TP 515美元
 - [Jefferies AI系列#41：DeepSeek V4发布后的新进展](entries/Jefferies-AI系列-41-DeepSeek-V4发布后的新进展.md) — Jefferies追踪DeepSeek V4发布后的行业影响，分析开源模型对AI竞争格局的冲击
+- [Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化](entries/jefferies-china-csp-ai-earnings-focus-20260803.md) — Jefferies预计阿里云与百度AI云基础设施收入分别增长45%和55%，中国模型周Token用量达28万亿且约为美国模型6.4倍，结论是低价高效模型将驱动需求但CSP估值需由利润率与ROIC验证。
 - [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — JPMorgan全球中国峰会2026互联网行业核心要点：AI应用落地、电商竞争格局和监管环境展望
 - [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — JPMorgan分析AI数据中心储能系统(ESS)的参考架构设计和早期订单趋势
 - [JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调](entries/JPMorgan-Greater-China-Data-Watch-6-22-中国宏观走弱-南亚塑胶与力积电评级上调.md) — JPMorgan 6/22 Taiwan FTM周报：中国5月经济活动全面走弱，下调Q2 GDP预测；南亚塑胶目标价NT$200（AI级CCL占比加速）；力积电升级至OW目标价NT$100（存储代工涨价+HBM封装机会）

@@ -1,4 +1,3 @@
-# competitive-landscape
+# technology-moat
 
 - [BofA中国AI观察：DeepSeek V4 Flash以低价后训练强化重塑模型竞争](entries/bofa-deepseek-v4-flash-china-ai-watch-20260803.md) — Analysis
-- [MS中国美妆618预售排名：珀莱雅第一，巨子生物快速崛起](entries/MS中国美妆618预售排名.md) — Analysis
