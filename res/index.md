@@ -253,6 +253,7 @@
 - [2026-06-18-JPMorgan-China Food Delivery Not Just a Soft Draft Disclosure Rules ...-122636767.pdf](行业研究-互联网/2026-06-18-JPMorgan-China Food Delivery Not Just a Soft Draft Disclosure Rules ...-122636767.pdf)
 - [2026-06-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – May 2026-122811657.pdf](行业研究-互联网/2026-06-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – May 2026-122811657.pdf)
 - [2026-07-13-0700.HK-Nomura-China Internet  New Media - Takeaways from a short drama pl...-123128877.pdf](行业研究-互联网/2026-07-13-0700.HK-Nomura-China Internet  New Media - Takeaways from a short drama pl...-123128877.pdf)
+- [doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf](行业研究-互联网/doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf)
 
 ## 行业研究-传媒
 - [20260417-国信证券-传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会.pdf](行业研究-传媒/20260417-国信证券-传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会.pdf)
