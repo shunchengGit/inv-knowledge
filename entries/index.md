@@ -142,6 +142,7 @@
 ## Article
 - [德意志银行亚太工业外资持仓追踪：2Q26恒立与双环逆势流入](entries/deutsche-bank-apac-industrials-foreign-shareholding-2q26.md) — 德意志银行2026年7月外资持仓追踪显示，2Q26陆股通八大工控与自动化标的外资平均持仓环比回升0.8%至7.5%，恒立液压与双环传动流入居前。
 - [野村证券中国互联网2026年5月月度流量与App跟踪报告](entries/野村证券中国互联网2026年5月月度流量与App跟踪报告.md) — 野村证券2026年5月中国App流量跟踪显示，整体MAS同比微增1.2%至12.8亿，拼多多DAU同比增8%领跑电商，小红书MTS出现2020年追踪以来首次同比下滑（-1%），腾讯微信保持19.0%时长份额。
+- [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — 野村证券2026年6月App跟踪显示，中国智能手机月活用户同比增1.2%至12.8亿、总时长增8.6%；豆包DAU达1.67亿且同比增3.3倍，字节系Top-50时长份额升至40.1%，跨境电商Temu全球MAU则转为同比下降2%。
 
 ## Note
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — BNPP 2026-06-11. ETN Mobility/Dana RMT is clear positive: Mobility valued at $5.1bn (8.3x EV/EBITDA, 5.9x with $250m synergies). ETN gets $1.1bn cash for deleveraging (net leverage 3.1x). Accelerates focus on high-growth Electrical + Aerospace. Data center to reach 34% of sales in 2027. ETN at ~24x 2027E PE is undervalued, expect re-rating. PT $490. Top Pick.
