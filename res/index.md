@@ -303,6 +303,7 @@
 - [2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf](行业研究-汽车/2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf)
 - [2026-07-06-UBS-Equities-Pole-Position-European-US-Autos-Daily.pdf](行业研究-汽车/2026-07-06-UBS-Equities-Pole-Position-European-US-Autos-Daily.pdf)
 - [BofA-Greater-China-EV-Future-Car-2026-06-18.pdf](行业研究-汽车/BofA-Greater-China-EV-Future-Car-2026-06-18.pdf)
+- [doc_16b4b4458e4d_2026-08-03-BofA Global Research-Greater China Auto, EV and EV battery (H) 2Q261H26 preview...-123591446.pdf](行业研究-汽车/doc_16b4b4458e4d_2026-08-03-BofA Global Research-Greater China Auto, EV and EV battery (H) 2Q261H26 preview...-123591446.pdf)
 
 ## 行业研究-科技硬件
 - [2026-05-26-Morgan Stanley-IT Hardware What Lenovos Results Mean for US Enterprise Ha...-122233036.undefined.pdf](行业研究-科技硬件/2026-05-26-Morgan Stanley-IT Hardware What Lenovos Results Mean for US Enterprise Ha...-122233036.undefined.pdf)
