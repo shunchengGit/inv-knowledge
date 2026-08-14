@@ -333,6 +333,7 @@
 - [2026-07-03-UBS Equities-Greater China Banks Daily _Banks see wave of share purchases...-122914012.pdf](行业研究-金融/2026-07-03-UBS Equities-Greater China Banks Daily _Banks see wave of share purchases...-122914012.pdf)
 - [2026-07-10-Morgan Stanley-Investor Presentation China Financials Further de-leveragi...-123078904.undefined.pdf](行业研究-金融/2026-07-10-Morgan Stanley-Investor Presentation China Financials Further de-leveragi...-123078904.undefined.pdf)
 - [2026-07-30-Morgan Stanley-China Financials Tracking industrial risks Demand growth c...-123491835.pdf](行业研究-金融/2026-07-30-Morgan Stanley-China Financials Tracking industrial risks Demand growth c...-123491835.pdf)
+- [doc_92b69b724f5a_2026-08-07-UBS Equities-First Read Greater China Banks _Marketing feedback interes...-123701855.pdf](行业研究-金融/doc_92b69b724f5a_2026-08-07-UBS Equities-First Read Greater China Banks _Marketing feedback interes...-123701855.pdf)
 - [doc_f095d1372225_2026-07-26-Morgan Stanley-China Financials Catalyst Preview Whats Ahead-123405594.pdf](行业研究-金融/doc_f095d1372225_2026-07-26-Morgan Stanley-China Financials Catalyst Preview Whats Ahead-123405594.pdf)
 
 ## 谷歌
