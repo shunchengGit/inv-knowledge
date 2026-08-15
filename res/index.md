@@ -352,6 +352,7 @@
 - [2026-06-03-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _Stacking the Backlog from the AI La...-122376793.pdf](谷歌/2026-06-03-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _Stacking the Backlog from the AI La...-122376793.pdf)
 - [2026-06-08-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Claude and Gemini ramping, Meta AI small ...-122466633.undefined.pdf](谷歌/2026-06-08-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Claude and Gemini ramping, Meta AI small ...-122466633.undefined.pdf)
 - [2026-06-08-GOOGL.OQ-UBS Equities-UBS Fast Take Alphabet Inc. - Class A _WWDC 2026 Apple sh...-122477332.pdf](谷歌/2026-06-08-GOOGL.OQ-UBS Equities-UBS Fast Take Alphabet Inc. - Class A _WWDC 2026 Apple sh...-122477332.pdf)
+- [2026-07-23-GOOGL.OQ-Deutsche Bank-Alphabet Focus on _I_ Creates a Buying Opportunity-123349155.pdf](谷歌/2026-07-23-GOOGL.OQ-Deutsche Bank-Alphabet Focus on _I_ Creates a Buying Opportunity-123349155.pdf)
 
 ## 贵州茅台
 - [2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf](贵州茅台/2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf)
