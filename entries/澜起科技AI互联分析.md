@@ -8,7 +8,7 @@ resource: res/澜起科技/
 source_type: pdf
 tags:
 - montage-technology
-- 半导体
+- semiconductor
 - memory-interface
 - ai-interconnect
 - ubs

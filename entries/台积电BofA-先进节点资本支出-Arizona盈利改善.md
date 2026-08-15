@@ -9,12 +9,12 @@ source_type: pdf
 tags:
 - tsmc
 - capex
-- advanced-node
-- Arizona
+- advanced-packaging
+- arizona-fab
 - profitability
 - overseas-expansion
 - 2026-Q2
-- 2027-outlook
+- earnings-outlook
 ---
 
 # BofA：台积电先进节点需求管道强劲——2026-27资本支出展望上调

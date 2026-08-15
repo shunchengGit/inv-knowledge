@@ -22,8 +22,8 @@ tags:
 - morgan-stanley
 - ubs
 - 2026-Q2
-- 数据中心
-- 半导体
+- data-center
+- semiconductor
 ---
 
 # Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高

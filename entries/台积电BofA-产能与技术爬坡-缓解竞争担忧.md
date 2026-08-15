@@ -9,10 +9,10 @@ source_type: pdf
 tags:
 - tsmc
 - capacity
-- 3nm
+- 3nm-process
 - 2nm
 - N2
-- A16
+- a16-process
 - CoWoS
 - yield
 - 2026-Q2

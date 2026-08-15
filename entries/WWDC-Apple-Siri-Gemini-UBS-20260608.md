@@ -9,9 +9,9 @@ source_type: pdf
 tags:
 - google
 - ubs
-- WWDC
+- wwdc
 - apple
-- Siri
+- siri
 - Gemini
 - ai
 - 2026-Q2

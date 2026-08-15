@@ -17,7 +17,7 @@ tags:
 - 1Q26
 - ai
 - Cloud
-- CMR
+- cmr
 - e-commerce
 - 2026-Q2
 ---

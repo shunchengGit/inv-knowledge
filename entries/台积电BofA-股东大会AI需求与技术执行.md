@@ -8,12 +8,11 @@ resource: res/台积电/2026-06-04-2330.TW-BofA Global Research-Taiwan Semicondu
 source_type: pdf
 tags:
 - tsmc
-- AGM
-- shareholder-meeting
-- AI-demand
+- agm
+- ai-demand
 - gross-margin
 - N2
-- competition
+- competitive-advantage
 - intel
 - 2026-Q2
 ---

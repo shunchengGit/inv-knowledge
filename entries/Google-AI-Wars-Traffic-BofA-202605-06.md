@@ -13,7 +13,7 @@ source_type: pdf
 tags:
 - google
 - bofa
-- AI-Wars
+- ai-competition
 - Gemini
 - claude
 - chatgpt

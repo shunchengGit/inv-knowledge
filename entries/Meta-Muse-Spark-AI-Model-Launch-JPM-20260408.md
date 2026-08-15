@@ -12,7 +12,7 @@ tags:
 - Meta
 - jpmorgan
 - ai
-- Muse-Spark
+- muse-spark
 - llm
 - Overweight
 - capex

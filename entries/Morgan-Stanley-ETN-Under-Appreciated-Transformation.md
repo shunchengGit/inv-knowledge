@@ -13,7 +13,7 @@ tags:
 - ETN
 - Eaton
 - 电气设备
-- 数据中心
+- data-center
 - 美股
 - 研报
 - morgan-stanley

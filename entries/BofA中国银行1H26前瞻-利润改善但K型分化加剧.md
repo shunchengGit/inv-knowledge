@@ -8,7 +8,7 @@ resource: res/行业研究-金融/doc_8148a6e8ca65_2026-07-27-BofA Global Resear
 source_type: pdf
 tags:
 - china-banking
-- 2026-1h-preview
+- earnings-preview
 - profit-trend
 - net-interest-margin
 - valuation

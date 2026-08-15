@@ -11,7 +11,7 @@ tags:
 - vanguard-semi
 - 代工
 - interposer
-- VSMC
+- vsmc
 - earnings-analysis
 - 2026-Q2
 ---

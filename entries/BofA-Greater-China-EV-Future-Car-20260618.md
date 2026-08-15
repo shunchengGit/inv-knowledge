@@ -10,8 +10,7 @@ tags:
 - bofa
 - china-ev
 - electric-vehicle
-- future-car
-- auto
+- automotive
 - 2026-Q2
 ---
 

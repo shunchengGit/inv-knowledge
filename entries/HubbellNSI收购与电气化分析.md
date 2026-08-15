@@ -9,8 +9,8 @@ source_type: pdf
 tags:
 - hubbell
 - 电气设备
-- NSI收购
-- 数据中心
+- m&a
+- data-center
 - electrification
 - deutsche-bank
 - morgan-stanley

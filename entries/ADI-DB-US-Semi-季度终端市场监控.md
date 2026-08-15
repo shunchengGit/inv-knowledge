@@ -7,13 +7,13 @@ resource: res/行业研究-半导体/2026-06-09-ADI.OQ-Deutsche Bank-US Semicond
   End-Market Monitor-122498833.pdf
 source_type: pdf
 tags:
-- 半导体
-- 终端市场
-- 数据中心
+- semiconductor
+- end-market
+- data-center
 - industrial
 - automotive
 - telecom-infrastructure
-- 消费电子
+- consumer-electronics
 - wireless
 - deutsche-bank
 - industry-cycle
@@ -38,4 +38,5 @@ Deutsche Bank发布1Q26美国半导体季度终端市场监控（22页），覆�
 - **受益标的**：DC→NVDA/AVGO/AMD/INTC/MRVL，工业→ADI/TXN/QCOM，汽车→IFX/NXPI/TXN
 
 ## 关联
-- **WSTS半导体出货数据** — By-tag
+- [JPMorgan半导体行业4月WSTS数据：增长再加速，AI与存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — 宏观WSTS出货数据与德银微观终端市场监测相互印证，数据中心与AI芯片同为最大增长引擎。
+- [博通AVGO FY26Q2多投行综合研报分析](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — 德银终端市场监控指出AVGO在数据中心及网络基础设施端市占率持续提升。

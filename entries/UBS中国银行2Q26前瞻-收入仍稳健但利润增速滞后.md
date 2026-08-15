@@ -8,7 +8,7 @@ resource: res/行业研究-金融/doc_bbf9afeb9b2b_2026-07-27-UBS Equities-First
 source_type: pdf
 tags:
 - china-banking
-- 2026-q2-preview
+- earnings-preview
 - profit-trend
 - net-interest-margin
 - credit-risk

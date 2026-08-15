@@ -17,11 +17,11 @@ tags:
 - morgan-stanley
 - hsbc
 - ubs
-- IO-2026
-- Gemini-Spark
+- io-2026
+- gemini-spark
 - agentic-ai
 - capital-raise
-- Cloud-backlog
+- cloud-backlog
 - 2026-Q2
 ---
 
