@@ -21,10 +21,12 @@
 - [台积电BofA-2026年Q2业绩与供需景气度评估](entries/台积电BofA-2Q26业绩与供需景气度评估.md) — Analysis
 - [台积电JPMorgan-2026年Q2业绩与AI算力需求能见度](entries/台积电JPMorgan-2Q26业绩与AI算力需求能见度.md) — Analysis
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — Analysis
+- [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — Analysis
 - [微软4Q/FY26财报前瞻：Azure增长强劲，Capex预期上修，M365商业云加速（UBS 7/26）](entries/msft-4qfy26-azure-capex-m365-ubs-update.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
+- [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis

@@ -10,5 +10,6 @@
 - [德意志银行亚太工业外资持仓追踪：2Q26恒立与双环逆势流入](entries/deutsche-bank-apac-industrials-foreign-shareholding-2q26.md) — Article
 - [德银中国NEV周度新订单监控（2026年6月第3周）](entries/db-china-nev-weekly-orders-2026-06.md) — Analysis
 - [德银中国NEV周度新订单监控（2026年7月第1周）](entries/db-china-nev-weekly-orders-2026-07.md) — Analysis
+- [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [拼多多：电商监管再起与业务稳健发展周期(Deutsche Bank/华泰证券)](entries/PDD-Ecommerce-Regulation-Huatai-DB-202603-04.md) — Analysis
 - [汇川技术综合投行分析：自动化订单强劲但NEV拖累1Q26](entries/汇川技术多投行综合分析.md) — Analysis
