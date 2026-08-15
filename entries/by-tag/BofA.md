@@ -11,3 +11,4 @@
 - [Google AI Wars流量跟踪：Gemini与Claude高速增长，Google搜索份额稳定(BofA)](entries/Google-AI-Wars-Traffic-BofA-202605-06.md) — Analysis
 - [Meta 1Q26业绩超预期但资本开支大幅上调，多空观点激烈交锋](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Analysis
 - [美银美林中国AI基础设施：电力出海与大国重器期权（金盘、东方电气、应流）](entries/bofas-ai-infrastructure-china-power-AIDC-2026-06.md) — Reference
+- [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis

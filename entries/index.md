@@ -118,6 +118,7 @@
 - [德银中国NEV周度新订单监控（2026年6月第3周）](entries/db-china-nev-weekly-orders-2026-06.md) — Deutsche Bank发布中国新能源车周度新订单监控周报（2026年6月23日），基于Thinkercar数据追踪比亚迪、吉利、HIMA、理想、蔚来、小鹏、零跑、小米、特斯拉等关键车企的周度新订单趋势，为NEV需求领先指标
 - [德银中国NEV周度新订单监控（2026年7月第1周）](entries/db-china-nev-weekly-orders-2026-07.md) — Deutsche Bank发布中国新能源车周度新订单监控（2026年7月7日），基于Thinkercar数据追踪比亚迪、吉利、HIMA（问界）、理想、蔚来、小鹏、零跑、小米及特斯拉等关键车企周度新订单趋势，反映7月首周高频需求领先指标
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — 腾讯2Q26实现营收2048亿元（+11% YoY），Non-IFRS净利684亿元（+9% YoY）；单季Capex同比大增176%至593亿元加速AI基建；混元Hy3、WorkBuddy与微信小微全面落地，德银维持买入评级与目标价760港元。
+- [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — 谷歌2Q26营收1200亿美元（+24% YoY），Google Cloud营收248亿美元（+82% YoY，利润率升至35.6%），积压订单达5140亿美元；德银指出市场过度聚焦Capex上调（I）而忽视高ROI（R），维持买入评级与目标价430美元。
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — 恒瑞医药与BMS签订涵盖13个早期项目的全球战略合作，潜在总价值US$152亿（6亿首付款），为中国药企第二大license-out交易；JPM维持A股OW（PT Rmb70）/H股Neutral（PT HK$70）
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — 恒立液压是高精密液压泵阀与丝杠龙头，ROE稳定，但当前估值过贵（2025静态PE 50.8x，动态PE 39.5x），安全边际不足。
 - [拼多多：电商监管再起与业务稳健发展周期(Deutsche Bank/华泰证券)](entries/PDD-Ecommerce-Regulation-Huatai-DB-202603-04.md) — 两份报告从不同角度分析拼多多。DB(2026-04-23)聚焦SAMR对主要电商平台罚款RMB36亿，标志从价格战转向"合规战"，有利于头部平台。华泰证券(2026-03-26)上调评级至买入(目标价$133)，认为拼多多电商业务有望进入稳健发展周期——平台模式较少受国补基数影响、竞争边际缓和、"新拼姆"自营模式提升海外确定性。
@@ -137,6 +138,7 @@
 - [福耀玻璃UBS 1Q26快评：毛利率超预期，剔除汇兑利润+10% YoY](entries/福耀玻璃UBS-1Q26快评-毛利率超预期-剔除汇兑利润-10-YoY.md) — 福耀玻璃2026Q1营收104.13亿(+5.1% YoY)，毛利率37.4%(+2ppt YoY)超预期，ASP同比+11%，剔除汇兑损益后税前利润+10% YoY，纯碱降价约18%贡献显著
 - [福耀玻璃：汽车大盘弱势充分计价，下半年基本面将底部修复（HSBC 7/22）](entries/fuyao-glass-2q26-hsbc-analysis.md) — HSBC认为福耀玻璃A/H股年内回调15%/17%已充分计价国内乘用车销量下滑；下半年国内订单与欧美海外份额（北美37%/欧洲27%）将驱动盈利修复；下调2026/27E EPS 16%/13%至3.67/4.48元，维持A/H双买入评级，目标价83.30元/87.40港元。
 - [美光FQ3-26业绩预览](entries/美光FQ3-26业绩预览.md) — UBS美光FQ3:26预览：定价持续走强，LTA锁定30%行业DDR量，Agentic AI重塑存储需求，目标价,625评级买入
+- [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — 谷歌2Q26净营收1036亿美元超预期，Google Cloud同比大增82%且利润率升至35.6%；尽管FY26 Capex指引上调至1950-2050亿美元压制盘后情绪，美银强调5140亿积压订单与2倍获客增速奠定高回报，重申买入与目标价430美元。
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — 老铺黄金2025收入273亿（+221% YoY），但3-4月北京高基数门店SSSG -20~30%；UBS/JPM维持积极（PT HKD930/1296），Macquarie给予Underperform（PT HKD453），核心分歧在于消费力能否承接持续涨价
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — 腾讯2026Q1营收1965亿(+9%)，Non-IFRS净利679亿(+11%)，游戏/广告/金融科技全面增长，Hy3 AI模型发布并成为OpenRouter最受欢迎模型，WorkBuddy成中国最广用AI智能体
 - [腾讯控股2Q26前瞻：AI加大投入拖累短期利润率，核心业务韧性良好（野村 7/13）](entries/tencent-2q26-nomura-preview.md) — 野村预测腾讯2Q26F营收2030亿元（+10% YoY），Non-IFRS净利润670亿元（+6% YoY），因AI投入加大OPM微降0.4pp至37.1%；维持买入评级及目标价727.00港元（对应2027F PE 20x）。
@@ -183,3 +185,4 @@
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — 微软4QFY26总营收预期增长16.8%，Azure维持39.6%的强劲增长；由于GPU供应偏紧及AI算力需求持续旺盛，Q4单季Capex飙升至410亿美元。Copilot已超越Azure成为NDR会期投资人核心议题，FQ4付费席位有望突破2500万，且定价策略加速向“席位+消费”混合模式转型。HSBC维持买入评级，将目标价由571美元微调至567美元。
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — 福耀玻璃2Q26产能利用率环比+3-4%，ASP在去年高基数上同环比均有提升，毛利率由于高附加值产品占比增加而表现稳健；人民币升值带来的汇兑压力依然延续。UBS下调目标价至85.00元以反映乘用车销量弱于预期，MS维持目标价53.50港元。
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — 腾讯2Q26预期营收增速+9%，Non-IFRS净利润+4%至660亿元。核心看点为Weixin AI Agent在6月开启Beta测试，有望开辟微信端领跑、半商城以及顶层流量分发的三层AI电商变现空间（2030年增量收入空间达690亿至4260亿元）。因AI资本支出大幅提升（预测2026年Capex升至1700亿元），多投行下调盈利预测，HSBC将目标价从720港元降至655港元。
+- [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — 谷歌2Q26营收1200亿美元，Google Cloud暴增82%至248亿且OPM达35.6%，Backlog飙升至5140亿美元；德银、美银、大摩、汇丰力挺多引擎变现与高ROIC并予买入评级（目标价$400-$430），瑞银因Capex指引上调至2050亿与FCF承压维持中性（目标价$379）。
