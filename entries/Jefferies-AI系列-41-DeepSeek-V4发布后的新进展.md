@@ -3,7 +3,8 @@ type: Analysis
 title: Jefferies AI系列#41：DeepSeek V4发布后的新进展
 description: Jefferies追踪DeepSeek V4发布后的行业影响，分析开源模型对AI竞争格局的冲击
 timestamp: 2026-06-24 00:59:11.118302+08:00
-resource: 'res/行业研究-AI/2026-05-10-Jefferies-AI Series #41 New Developments of DeepSeek Post V4-121942676.pdf'
+resource: 'res/行业研究-AI/2026-05-10-Jefferies-AI Series #41 New Developments of DeepSeek
+  Post V4-121942676.pdf'
 source_type: pdf
 tags:
 - jefferies
@@ -24,6 +25,7 @@ DeepSeek V4发布后引发AI行业广泛关注，其性能接近闭源顶级模�
 对中国AI芯片产业而言，更高效的模型架构降低了对算力的绝对依赖。
 
 ## 关键要点
+
 
 - DeepSeek V4性能接近GPT-4o/Claude 3.5水平，但训练成本显著更低
 - 开源模型生态繁荣将降低AI应用开发门槛

@@ -1,11 +1,19 @@
 ---
 type: Analysis
-title: 'Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M'
-description: Macquarie维持Outperform，TP上调61%至KRW 2,900,000（6x 2027E PE）。存储器短缺将持续恶化，HBM 2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。
-timestamp: 2026-06-24T21:32:00+08:00
-resource: res/SK海力士/2026-05-14-000660.KS-Macquarie Research-Giddy profit growth at a low PE multiple-122028438.pdf
+title: 'Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to
+  KRW 2.9M'
+description: Macquarie维持Outperform，TP上调61%至KRW 2,900,000（6x 2027E PE）。存储器短缺将持续恶化，HBM
+  2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。
+timestamp: 2026-06-24 21:32:00+08:00
+resource: res/SK海力士/2026-05-14-000660.KS-Macquarie Research-Giddy profit growth at
+  a low PE multiple-122028438.pdf
 source_type: pdf
-tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
+tags:
+- sk-hynix
+- profit-trend
+- valuation
+- competitive-advantage
+- 2026-Q1
 ---
 
 # Macquarie: SK Hynix — Giddy Profit Growth at a Low PE Multiple
@@ -17,6 +25,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 Macquarie维持SK海力士Outperform，上调目标价61%至KRW 2,900,000（6x 2027E PE）。核心逻辑：存储器短缺将持续恶化至2027年后，HBM 2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。当前估值仅3x ex-cash 2027E PE，严重低估。
 
 ## 关键要点
+
 - 存储器短缺将持续恶化：DRAM位供给增长受限（1d/0a nm die增长放缓+HBM trade ratio恶化）
 - HBM 2027年价格有望大涨>50%，供给持续紧张
 - Macquarie 认为主要 AI 芯片公司将不得不接受 2027 年 HBM 的大幅价格上调（>50%）

@@ -1,11 +1,18 @@
 ---
 type: Analysis
-title: BofA Greater China EV & Future Car — Structural leadership amid intensifying competition
+title: BofA Greater China EV & Future Car — Structural leadership amid intensifying
+  competition
 description: BofA发布中国电动车和未来汽车行业深度报告，分析中国新能源车企在激烈竞争中的结构性领先优势
-timestamp: 2026-06-18T10:00:00+08:00
+timestamp: 2026-06-18 10:00:00+08:00
 resource: res/行业研究-汽车/BofA-Greater-China-EV-Future-Car-2026-06-18.pdf
 source_type: pdf
-tags: [bofa, china-ev, electric-vehicle, future-car, auto, 2026-Q2]
+tags:
+- bofa
+- china-ev
+- electric-vehicle
+- future-car
+- auto
+- 2026-Q2
 ---
 
 # BofA Greater China EV & Future Car — Structural leadership amid intensifying competition
@@ -17,6 +24,7 @@ tags: [bofa, china-ev, electric-vehicle, future-car, auto, 2026-Q2]
 BofA发布大中华区电动车与未来汽车行业深度报告。报告指出中国新能源车企在激烈竞争中仍保持结构性领先优势，核心体现在成本控制、电池供应链垂直整合和智能驾驶技术迭代速度三个方面。虽然行业面临价格战加剧、产能过剩和海外关税壁垒的短期挑战，但头部企业凭借规模效应和技术护城河正在扩大领先优势。报告重点覆盖比亚迪、小鹏汽车和蔚来，并分析了智能驾驶（城市NOA）、固态电池和一体化压铸等关键技术趋势对行业竞争格局的潜在影响。BofA认为2026-2028年是中国电动车行业洗牌的关键窗口期。
 
 ## 关键要点
+
 
 - 中国新能源车企在三电成本和智能驾驶技术方面保持全球领先
 - 价格战短期承压，但头部企业凭借规模效应毛利率表现优于行业

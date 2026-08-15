@@ -2,10 +2,16 @@
 type: Analysis
 title: JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发
 description: JPMorgan分析AI数据中心储能系统(ESS)的参考架构设计和早期订单趋势
-timestamp: 2026-06-24T01:01:23.364451+08:00
-resource: res/行业研究-AI/2026-06-02-JPMorgan-AIDC ESS Reference Architectures and Early Orders Point to E...-122368714.pdf
+timestamp: 2026-06-24 01:01:23.364451+08:00
+resource: res/行业研究-AI/2026-06-02-JPMorgan-AIDC ESS Reference Architectures and Early
+  Orders Point to E...-122368714.pdf
 source_type: pdf
-tags: [jpmorgan, ai-industry, data-center, energy-storage, 2026-Q2]
+tags:
+- jpmorgan
+- ai-industry
+- data-center
+- energy-storage
+- 2026-Q2
 ---
 
 # JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发
@@ -19,6 +25,7 @@ JPMorgan发布AI数据中心储能系统参考架构分析报告。
 液冷散热和高效电源管理成为AI数据中心标配。
 
 ## 关键要点
+
 
 - AI数据中心储能系统市场预计2026年同比增长80%+
 - 锂电池储能方案在AI数据中心应用中的渗透率快速提升

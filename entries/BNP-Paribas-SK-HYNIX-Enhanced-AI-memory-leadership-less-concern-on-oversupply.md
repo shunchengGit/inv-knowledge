@@ -1,11 +1,18 @@
 ---
 type: Analysis
 title: 'BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply'
-description: BNP Paribas维持Outperform，1Q26 DRAM ASP中60%+/NAND ASP中70%+大幅增长。HBM4E预期>50%份额，容量扩张有纪律性（龙仁Cluster灵活分期）。TP上调26%至KRW 2,000,000，基于3x 2027E BVPS。
-timestamp: 2026-06-24T21:32:00+08:00
-resource: res/SK海力士/2026-04-23-000660.KS-BNP Paribas-SK HYNIX (+)  Enhanced AI memory leadership; less concern o...-121592694.pdf
+description: BNP Paribas维持Outperform，1Q26 DRAM ASP中60%+/NAND ASP中70%+大幅增长。HBM4E预期>50%份额，容量扩张有纪律性（龙仁Cluster灵活分期）。TP上调26%至KRW
+  2,000,000，基于3x 2027E BVPS。
+timestamp: 2026-06-24 21:32:00+08:00
+resource: res/SK海力士/2026-04-23-000660.KS-BNP Paribas-SK HYNIX (+)  Enhanced AI memory
+  leadership; less concern o...-121592694.pdf
 source_type: pdf
-tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
+tags:
+- sk-hynix
+- profit-trend
+- valuation
+- competitive-advantage
+- 2026-Q1
 ---
 
 # BNP Paribas: SK HYNIX — Enhanced AI Memory Leadership; Less Concern on Oversupply
@@ -17,6 +24,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 BNP Paribas维持SK海力士Outperform，上调目标价26%至KRW 2,000,000。1Q26营收创历史新高KRW 52.6tn（+60% q-q/+198% y-y），OP KRW 37.6tn（OPM ~72%）。DRAM ASP中60%+/NAND ASP中70%+大幅增长，HBM4E预期>50%份额（TSMC base-die合作+1cnm技术优势）。产能扩张有纪律（龙仁Cluster灵活分期），净现金KRW 35tn。主要风险：Capex激增和通用服务器需求疲弱。
 
 ## 关键要点
+
 - 1Q26营收创历史新高KRW 52.6tn（+60% q-q/+198% y-y），OP KRW 37.6tn（OPM ~72%）
 - DRAM ASP中60%+增长，NAND ASP中70%+增长
 - HBM4E预期>50%份额：与TSMC base-die合作 + SK海力士1cnm DRAM技术

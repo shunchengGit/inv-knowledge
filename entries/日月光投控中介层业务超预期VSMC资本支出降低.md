@@ -2,10 +2,18 @@
 type: Analysis
 title: 日月光投控中介层业务超预期VSMC资本支出降低
 description: Nomura世界先进研报：中介层业务好于预期、VSMC资本支出从8亿降至7亿加速盈亏平衡，上调至买入目标价TWD178
-timestamp: 2026-06-24T00:56:01.575621+08:00
-resource: res/日月光投控/2026-05-05-5347.TWO-Nomura-Vanguard (5347 TT) (Buy) - Interposer is a better business t...-121841392.pdf
+timestamp: 2026-06-24 00:56:01.575621+08:00
+resource: res/日月光投控/2026-05-05-5347.TWO-Nomura-Vanguard (5347 TT) (Buy) - Interposer
+  is a better business t...-121841392.pdf
 source_type: pdf
-tags: [日月光投控, 世界先进, VIS, 5347, 代工, 中介层, VSMC, analysis-dimension:财报分析, time:2026Q2]
+tags:
+- ase-technology
+- vanguard-semi
+- 代工
+- interposer
+- VSMC
+- earnings-analysis
+- 2026-Q2
 ---
 
 # 日月光投控（世界先进）：中介层业务好于预期，VSMC资本支出降低加速盈亏平衡
@@ -19,6 +27,7 @@ Nomura于2026年5月5日发布世界先进（Vanguard，5347 TT）研报，评�
 世界先进（VIS）作为世界先进半导体代工厂，专注于8英寸晶圆制造（显示驱动IC和电源管理）。2Q26E展望积极：晶圆出货+11-13% QoQ，ASP +2-4% QoQ，UTR从1Q26的~80%恢复至85-90%。VSMC（12英寸合资厂）关键更新：资本支出从$78亿降至$67亿（工具由客户提供），产能目标从55kwpm降至44kwpm（中介层生产需要更多空间）。VSMC将新增中介层/本地硅互连（LSI）产能，承接台积电外包的65nm硅中介层生产。管理层预期VSMC折旧2029-30年达峰，但成本降低有望解锁更快盈亏平衡。
 
 ## 关键要点
+
 - **评级上调至买入**：从Neutral上调，目标价TWD178（30x 2027F P/E）
 - **2Q26E强劲指引**：晶圆出货+11-13% QoQ，ASP +2-4% QoQ，毛利率31-33%
 - **VSMC资本支出降低**：从$78亿降至$67亿，产能目标从55kwpm降至44kwpm

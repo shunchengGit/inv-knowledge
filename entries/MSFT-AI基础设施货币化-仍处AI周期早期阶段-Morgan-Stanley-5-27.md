@@ -2,10 +2,18 @@
 type: Analysis
 title: MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)
 description: Morgan Stanley从每MW营收角度分析微软AI基础设施扩张：DC容量从FY24的5GW扩至FY28的20GW，营收/MW持续下降暗示营收预估可能滞后，目标价50
-timestamp: 2026-06-24T00:40:52.231979+08:00
-resource: res/微软/2026-05-27-MSFT.OQ-Morgan Stanley-Microsoft Infrastructure Monetization – Still Early Days in...-122260783.undefined.pdf
+timestamp: 2026-06-24 00:40:52.231979+08:00
+resource: res/微软/2026-05-27-MSFT.OQ-Morgan Stanley-Microsoft Infrastructure Monetization
+  – Still Early Days in...-122260783.undefined.pdf
 source_type: pdf
-tags: [microsoft, competitive-advantage, valuation, 2026, infrastructure, datacenter, ai]
+tags:
+- microsoft
+- competitive-advantage
+- valuation
+- '2026'
+- infrastructure
+- data-center
+- ai
 ---
 
 # MSFT AI基础设施货币化：仍处AI周期早期阶段，营收预估可能滞后

@@ -2,10 +2,15 @@
 type: Analysis
 title: JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察
 description: JPMorgan全球中国峰会2026互联网行业核心要点：AI应用落地、电商竞争格局和监管环境展望
-timestamp: 2026-06-24T00:58:42.474074+08:00
-resource: res/行业研究-互联网/2026-05-27-JPMorgan-China Internet JPM 2026 Global China Summit Key Takeaways-122259534.pdf
+timestamp: 2026-06-24 00:58:42.474074+08:00
+resource: res/行业研究-互联网/2026-05-27-JPMorgan-China Internet JPM 2026 Global China Summit
+  Key Takeaways-122259534.pdf
 source_type: pdf
-tags: [jpmorgan, china-internet, global-china-summit, 2026-Q2]
+tags:
+- jpmorgan
+- china-internet
+- global-china-summit
+- 2026-Q2
 ---
 
 # JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察
@@ -19,6 +24,7 @@ JPMorgan于2026年5月举办全球中国峰会，汇聚中国互联网行业核�
 行业普遍看好AI对搜索、电商、内容平台的改造机会，2026年有望成为AI应用规模化元年。
 
 ## 关键要点
+
 
 - AI应用将是2026-2027年中国互联网行业核心增长驱动力
 - 多个平台型企业加速AI功能集成，从搜索到电商到内容推荐全面AI化

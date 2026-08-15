@@ -1,21 +1,24 @@
 ---
 type: Analysis
 title: Google 1Q26云业务超预期爆发，Cloud backlog达$4,620亿(BofA/DB/HSBC)
-description: Google 1Q26营收$94.7bn(+22% y/y)超预期，核心惊喜来自Cloud收入$20bn(+63% y/y)和Cloud backlog暴增90%至$4,620亿。Search增长加速至19% y/y。BofA维持Buy(PT $430)，HSBC维持Buy(PT $435)，DB强调TPU外部销售成为新的可盈利业务。但EPS因$369亿股权投资公允价值收益失真。
+description: Google 1Q26营收$94.7bn(+22% y/y)超预期，核心惊喜来自Cloud收入$20bn(+63% y/y)和Cloud
+  backlog暴增90%至$4,620亿。Search增长加速至19% y/y。BofA维持Buy(PT $430)，HSBC维持Buy(PT $435)，DB强调TPU外部销售成为新的可盈利业务。但EPS因$369亿股权投资公允价值收益失真。
 timestamp: 2026-04-30
 resource:
-- res/谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf
+- res/谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth
+  and margins, and big back...-121718678.undefined.pdf
 - res/谷歌/2026-04-30-GOOGL.OQ-Deutsche Bank-Alphabet TPUs Driving Cloud Growth-121728039.pdf
-- res/谷歌/2026-04-30-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Cloud beats expectations, as does F...-121713593.pdf
+- res/谷歌/2026-04-30-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Cloud beats
+  expectations, as does F...-121713593.pdf
 source_type: pdf
 tags:
-- Google
-- BofA
-- Deutsche-Bank
-- HSBC
+- google
+- bofa
+- deutsche-bank
+- hsbc
 - 1Q26
 - Cloud
-- AI
+- ai
 - TPU
 - 2026-Q2
 ---
@@ -29,6 +32,7 @@ tags:
 Alphabet 1Q26业绩全面超预期：总收入$109.9bn(+22% y/y)，超市场$107.0bn；EBIT $39.7bn(+30% y/y)，超市场$36.4bn(+9.2%)。**最大亮点是Google Cloud**：收入$20bn(+63% y/y)，超预期8.8%，Cloud营业利润率32.9%(超预期27.4%)。Cloud backlog暴增90% q/q至$4,620亿($4,620亿，其中50%预计在未来24个月内确认)。Search收入$60.4bn(+19% y/y，超市场16%)。但EPS $5.11因$369亿未实现股权投资公允值收益(BofA: Anthropic/SpaceX)而失真，剔除后EPS ~$2.76基本符合预期。
 
 ## 关键要点
+
 
 ### Cloud业务大爆发
 - **Cloud收入**: $20.0bn，同比+63%，大幅超预期

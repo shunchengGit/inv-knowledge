@@ -2,10 +2,15 @@
 type: Reference
 title: 摩根士丹利中国工业中报展望：资本支出强劲与机器人商业化起航
 description: 摩根士丹利2026年7月报告详细梳理了中国工业板块的投资主线，预测2026年自动化市场增长5%，人形机器人将进入商业化量产阶段并推升核心部件出货。
-timestamp: 2026-07-06T09:00:00+08:00
+timestamp: 2026-07-06 09:00:00+08:00
 resource: res/行业研究-工业自动化/2026-07-06-Morgan-Stanley-China-Industrials-Mid-year-Outlook.pdf
 source_type: pdf
-tags: [morgan-stanley, china-industrials, humanoid-robotics, shuanghuan-driveline, 2026-07]
+tags:
+- morgan-stanley
+- china-industrials
+- humanoid-robot
+- shuanghuan-driveline
+- 2026-07
 ---
 
 # 摩根士丹利中国工业中报展望：资本支出强劲与机器人商业化起航
@@ -14,6 +19,7 @@ tags: [morgan-stanley, china-industrials, humanoid-robotics, shuanghuan-drivelin
 摩根士丹利在2026年7月发布的《中国工业中报展望》（China Industrials Mid-year Outlook）中，系统性评估了中国工业、工控、工程机械以及先进制造板块的投资机遇。报告预测，受制造业出海和资本支出（Capex）复苏的提振，2026年中国工业自动化市场将同比增长5%（较1Q26的1%显著修复）。人形机器人商业化将在2026年迎来“元年”，MS预测全球人形机器人出货量在2026年将达到5万台，至2030年规模将达到44.6万台（出货量CAGR达106%）。工程机械方面，受益于折旧置换周期，将2026年挖掘机销量预测上调至 +21%。双环传动、恒力液压、绿的谐波被列为人形机器人硬件供应链核心首选池。
 
 ## 关键要点
+
 - 中国先进制造 Capex 呈现“更强韧、更广泛”的复苏，自动化及工业机器人市场由 1Q26 的 1% 极速回升，预计 2026 全年同比增长 5%，工业机器人出货量增长 18% 达到 110 亿美元市场空间。
 - 人形机器人核心软硬件进入实质性规模出货：2026 年预计出货 5 万台，2030 年增长至 44.6 万台，对应 150 亿美元硬件市场。
 - 投资首选组合（Overweight）及人形零部件链主要标的：

@@ -2,10 +2,16 @@
 type: Analysis
 title: 台积电UBS-2026年Q2业绩及后市毛利率展望
 description: 瑞银评台积电2026年Q2业绩及先进制程定价趋势，重申Buy评级并上调目标价至NT$3,650。瑞银指出2026年资本支出指引上调至600亿-640亿美元对确保全球供给份额至关重要。
-timestamp: 2026-07-16T20:00:00+08:00
-resource: res/台积电/2026-07-16-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _Raising capex and US exp...-123208279.pdf
+timestamp: 2026-07-16 20:00:00+08:00
+resource: res/台积电/2026-07-16-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing
+  _Raising capex and US exp...-123208279.pdf
 source_type: pdf
-tags: [tsmc, valuation, capex, profit-trend, 2026-Q3]
+tags:
+- tsmc
+- valuation
+- capex
+- profit-trend
+- 2026-Q3
 ---
 
 # 台积电UBS-2026年Q2业绩及后市毛利率展望
@@ -14,6 +20,7 @@ tags: [tsmc, valuation, capex, profit-trend, 2026-Q3]
 瑞银对台积电2Q26业绩表现发表快评，上调2026-28年EPS预测9%/7%/9%，重申Buy评级并将目标价由NT$3,400上调至NT$3,650（基于21x 2027-28E PE）。瑞银指出，台积电2026年资本支出指引提升至600亿-640亿美元（瑞银预测2026E实际支出为630亿，2027/28E为800/950亿），此战略行动有利于加速前沿N3/N2制程产能扩张，以确保全球领先地位。瑞银预计2027年逻辑制程提价5%-10%可平抑海外建厂折旧上升。
 
 ## 关键要点
+
 - **逻辑制程提价消化折旧风险**：瑞银预测台积电将在2027年初对先进制程产品调价5%-10%，成熟制程调价约5%。这将使2H26和2027E的毛利率保持在67.1%和67.5%的强韧水平，冲抵2nm初期量产陡峭爬坡所带来的3-4%稀释及海外投资折旧。
 - **2026年美元营收增速指引调高**：得益于云端AI投资持续强劲，台积电将2026年美元营收增速指引从30%+调高至40%+以上，瑞银预测2026/27/28年营收将分别增长41%/40%/31%。
 - **高端先进制程提早锁定设备**：上调2026年资本支出中包含拉前N3/N2设备交付以及应对设备成本通胀，这将为确保2026-28年核心 hyperscaler 供给充足提供巨大保障。

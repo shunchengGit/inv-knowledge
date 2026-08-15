@@ -1,11 +1,18 @@
 ---
 type: Analysis
 title: 腾讯控股2Q26前瞻：AI加大投入拖累短期利润率，核心业务韧性良好（野村 7/13）
-description: 野村预测腾讯2Q26F营收2030亿元（+10% YoY），Non-IFRS净利润670亿元（+6% YoY），因AI投入加大OPM微降0.4pp至37.1%；维持买入评级及目标价727.00港元（对应2027F PE 20x）。
-timestamp: 2026-07-13T00:00:00+08:00
-resource: res/腾讯控股/2026-07-13-0700.HK-Nomura-Tencent Holdings (700 HK) (Buy) - 2Q26F margin likely under...-123124523.pdf
+description: 野村预测腾讯2Q26F营收2030亿元（+10% YoY），Non-IFRS净利润670亿元（+6% YoY），因AI投入加大OPM微降0.4pp至37.1%；维持买入评级及目标价727.00港元（对应2027F
+  PE 20x）。
+timestamp: 2026-07-13 00:00:00+08:00
+resource: res/腾讯控股/2026-07-13-0700.HK-Nomura-Tencent Holdings (700 HK) (Buy) - 2Q26F
+  margin likely under...-123124523.pdf
 source_type: pdf
-tags: [tencent, profit-trend, valuation, ai-investment, 2026-Q2]
+tags:
+- tencent
+- profit-trend
+- valuation
+- ai-investment
+- 2026-Q2
 ---
 
 # 腾讯控股2Q26前瞻：AI加大投入拖累短期利润率，核心业务韧性良好（野村 7/13）
@@ -14,6 +21,7 @@ tags: [tencent, profit-trend, valuation, ai-investment, 2026-Q2]
 野村证券（Nomura）发布腾讯控股（0700.HK）2Q26F业绩前瞻报告。野村预计腾讯2Q26F营业收入同比增长10%至2030亿元（符合彭博一致预期）；Non-IFRS净利润同比增长6%至670亿元（比一致预期690亿元低3%）。因AI模型研发与算力基础设施投入加大，预计Non-IFRS营业利润率（OPM）同比下降0.4pp至37.1%。各板块中，游戏（+10%）与视频号广告（+18%）表现亮眼，腾讯云带动企业服务收入加速至+22%。混元3.0正式版表现优异，WorkBuddy桌面Agent用户数领先，AI战略落地成效显现。维持“买入”评级及SOTP目标价727.00港元。
 
 ## 关键要点
+
 - **业绩与利润率**：预测2Q26F营收2030亿元（+10% YoY），Non-IFRS净利润670亿元（+6% YoY）；受AI算力与研发投入影响，Non-IFRS OPM回落至37.1%（同比-0.4pp）。
 - **细分业务动能**：
   - **网络游戏**：营收预计653亿元（+10% YoY），本土游戏在爆款带动下+11% YoY，海外+8% YoY。

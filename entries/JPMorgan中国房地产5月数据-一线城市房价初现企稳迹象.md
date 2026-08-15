@@ -2,10 +2,16 @@
 type: Analysis
 title: JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象
 description: JPMorgan分析5月国家统计局房地产数据，一线城市房价环比止跌，但全国市场恢复仍需政策支持
-timestamp: 2026-06-24T00:59:53.639425+08:00
-resource: res/行业研究-房地产/2026-06-16-JPMorgan-China Property NBS May 2026 data - tier-1 cities’ home price...-122608274.pdf
+timestamp: 2026-06-24 00:59:53.639425+08:00
+resource: res/行业研究-房地产/2026-06-16-JPMorgan-China Property NBS May 2026 data - tier-1
+  cities’ home price...-122608274.pdf
 source_type: pdf
-tags: [jpmorgan, china-property, real-estate, nbs-data, 2026-Q2]
+tags:
+- jpmorgan
+- china-property
+- real-estate
+- nbs-data
+- 2026-Q2
 ---
 
 # JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象
@@ -19,6 +25,7 @@ tags: [jpmorgan, china-property, real-estate, nbs-data, 2026-Q2]
 开发商资金面边际改善，但销售回款仍是主要矛盾。
 
 ## 关键要点
+
 
 - 一线城市新房价格环比持平/微涨，为2025年初以来首次正增长
 - 全国新房销售面积同比下降约8%，降幅较4月收窄

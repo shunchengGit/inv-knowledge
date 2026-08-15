@@ -1,11 +1,20 @@
 ---
 type: Analysis
 title: Meta裁员10%与Neocloud选择权(Morgan Stanley)
-description: Morgan Stanley分析Meta计划裁员10%(约8,000人)，关闭6,000个职位空缺，同时大幅提高capex。MS估算裁员可带来~$2bn/2H26和~$3.5bn/FY27的运营费用节省。维持Overweight评级，目标价$775。同时提出"Neocloud备份选择权"概念——若Meta向第三方出租过剩GPU容量，有望带来8%+的FY28 EPS上行空间。
+description: Morgan Stanley分析Meta计划裁员10%(约8,000人)，关闭6,000个职位空缺，同时大幅提高capex。MS估算裁员可带来~$2bn/2H26和~$3.5bn/FY27的运营费用节省。维持Overweight评级，目标价$775。同时提出"Neocloud备份选择权"概念——若Meta向第三方出租过剩GPU容量，有望带来8%+的FY28
+  EPS上行空间。
 timestamp: 2026-05-17
-resource: res/Meta/2026-05-17-META.OQ-Morgan Stanley-Meta Platforms Inc Headcount Reductions and the Neocloud Ba...-122084608.undefined.pdf
+resource: res/Meta/2026-05-17-META.OQ-Morgan Stanley-Meta Platforms Inc Headcount
+  Reductions and the Neocloud Ba...-122084608.undefined.pdf
 source_type: pdf
-tags: [Meta, Morgan-Stanley, headcount, capex, Neocloud, Overweight, 2026-Q2]
+tags:
+- Meta
+- morgan-stanley
+- headcount
+- capex
+- neocloud
+- Overweight
+- 2026-Q2
 ---
 
 # Meta裁员10%与Neocloud选择权(Morgan Stanley)
@@ -17,6 +26,7 @@ tags: [Meta, Morgan-Stanley, headcount, capex, Neocloud, Overweight, 2026-Q2]
 Morgan Stanley更新Meta模型，纳入10%裁员(约8,000人)、放缓招聘以及更高capex的预期。2027年EPS基本不变~$34，$775目标价仍有25%上行空间。同时提出"Neocloud备份选择权"——Meta若向第三方出租过剩GPU容量，可带来FY28 EPS 8%+的上行空间。
 
 ## 关键要点
+
 
 ### 裁员10%的影响
 - **一次性费用**: ~$8亿(基于此前Year of Efficiency裁员经验，~$10万/人)

@@ -2,10 +2,16 @@
 type: Synthesis
 title: 腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程
 description: 腾讯2Q26预期营收增速+9%，Non-IFRS净利润+4%至660亿元。核心看点为Weixin AI Agent在6月开启Beta测试，有望开辟微信端领跑、半商城以及顶层流量分发的三层AI电商变现空间（2030年增量收入空间达690亿至4260亿元）。因AI资本支出大幅提升（预测2026年Capex升至1700亿元），多投行下调盈利预测，HSBC将目标价从720港元降至655港元。
-timestamp: 2026-07-10T00:00:00+08:00
-resource: res/腾讯控股/2026-07-10-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy Progress and investment in AI...-123078913.pdf
+timestamp: 2026-07-10 00:00:00+08:00
+resource: res/腾讯控股/2026-07-10-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK)
+  Buy Progress and investment in AI...-123078913.pdf
 source_type: pdf
-tags: [tencent, profit-trend, valuation, capital-flow, 2026-Q2]
+tags:
+- tencent
+- profit-trend
+- valuation
+- capital-flow
+- 2026-Q2
 ---
 
 # 腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程
@@ -14,6 +20,7 @@ tags: [tencent, profit-trend, valuation, capital-flow, 2026-Q2]
 腾讯2Q26经营表现整体稳定，各板块稳健推进。预计2Q营收同比+9%，Non-IFRS净利润达660亿元（+4% YoY）。游戏业务方面，本土市场在《王者荣耀》、《和平精英》及新品《宝可梦大集结》支撑下预计增长10%，海外市场受Supercell及库洛游戏并表高基数影响增速放缓至8%。广告受视频号与广告技术升级支撑预计增长18%。最受关注的AI进程上，Weixin AI Agent已于2026年6月初启动Beta公测，由HY3模型驱动。为支撑AI基础设施建设，腾讯Capex预计大幅提升至1700亿元。因AI Capex及折旧费用上调，HSBC将腾讯目标价从720港元下调至655港元，JPMorgan维持690港元目标价，强调14x FY26e PE估值具有高安全边际。
 
 ## 关键要点
+
 - **营收与盈利预测**：预计2Q26营收同比+9%，调整后营业利润达740亿元（+7% YoY）。业务结构向高毛利转变，GPM预计提升至57.9%。
 - **微信 AI Agent 商业化**：Weixin Agent 6月Beta测试将微信AI从单纯的概念期权转化为落地里程碑。JPMorgan将此评估为“三层增量价值空间”：1) 更好的流量索取线索；2) 基于更广商户生态的半市场形态；3) 顶层流量分发电商平台。估算至2030年，该AI代理将贡献Rmb690亿至Rmb4260亿的增量营收。
 - **Capex与研发费用激增**：为支持大规模AI推理和算力网络建设，腾讯Capex预计显著提升（HSBC预测2026年Capex升至1700亿，远高于2025年的870亿），这会导致折旧和摊销上升。

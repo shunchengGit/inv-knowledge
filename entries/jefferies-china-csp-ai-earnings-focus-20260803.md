@@ -2,10 +2,20 @@
 type: Analysis
 title: Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化
 description: Jefferies预计阿里云与百度AI云基础设施收入分别增长45%和55%，中国模型周Token用量达28万亿且约为美国模型6.4倍，结论是低价高效模型将驱动需求但CSP估值需由利润率与ROIC验证。
-timestamp: 2026-08-03T00:00:00+08:00
-resource: "res/行业研究-互联网/doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf"
+timestamp: 2026-08-03 00:00:00+08:00
+resource: 'res/行业研究-互联网/doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China
+  CSP Focus Areas in Earnings.pdf'
 source_type: pdf
-tags: [china-cloud, alibaba, baidu, tencent, kingsoft-cloud, profit-trend, token-economics, cost-efficiency, 2026-08]
+tags:
+- china-cloud
+- alibaba
+- baidu
+- tencent
+- kingsoft-cloud
+- profit-trend
+- token-economics
+- cost-efficiency
+- 2026-08
 ---
 # Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化
 
@@ -13,6 +23,7 @@ tags: [china-cloud, alibaba, baidu, tencent, kingsoft-cloud, profit-trend, token
 Jefferies认为中国云服务商下一轮业绩的核心不只是收入增速，而是AI收入占比提升能否同步带来利润率、自由现金流与ROIC改善。阿里云和百度AI云基础设施预计分别增长45%和55%，金山云在供给约束缓解后预计增长28%，腾讯则以WorkBuddy、微信AI测试和Hy4进展验证应用侧牵引。中国模型凭借MoE、注意力机制与算力利用率优化，将API成本压至美国模型的一小部分，并在OpenRouter取得显著Token份额，但Token支出指数下行说明模型降价可能使调用量增长快于收入。
 
 ## 关键要点
+
 - 阿里云Jun-Q收入预计同比增长45%，Sep-Q还将加速；AI收入占外部收入约30%，Jefferies预计一年内升至50%。
 - 阿里云Jun-Q ARR预计达15亿美元，管理层年末目标更新可能指向45亿美元；AI收入占比上升预计推动Jun-Q利润率环比改善。
 - 百度AI云基础设施收入预计同比增长55%，若计入AI应用则增长46%；2H26模型投入加码将使百度核心2026年Non-GAAP经营利润同比下降。

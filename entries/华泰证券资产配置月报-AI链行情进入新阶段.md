@@ -2,10 +2,15 @@
 type: Analysis
 title: 华泰证券资产配置月报：AI链行情进入新阶段
 description: 华泰证券4月资产配置报告认为AI链行情正从第一阶段（算力硬件）向第二阶段（应用与生态）切换
-timestamp: 2026-06-24T01:00:11.945539+08:00
+timestamp: 2026-06-24 01:00:11.945539+08:00
 resource: res/策略研究/20260429-华泰证券-资产配置月报：AI链行情进入新阶段.pdf
 source_type: pdf
-tags: [huatai-securities, asset-allocation, strategy, ai-chain, 2026-Q2]
+tags:
+- huatai-securities
+- asset-allocation
+- strategy
+- ai-chain
+- 2026-Q2
 ---
 
 # 华泰证券资产配置月报：AI链行情进入新阶段
@@ -19,6 +24,7 @@ tags: [huatai-securities, asset-allocation, strategy, ai-chain, 2026-Q2]
 第二阶段AI应用和生态建设将成为投资主线。
 
 ## 关键要点
+
 
 - AI行情从算力硬件扩散到应用和平台的趋势确认
 - 建议超配AI应用、云计算和智能驾驶方向

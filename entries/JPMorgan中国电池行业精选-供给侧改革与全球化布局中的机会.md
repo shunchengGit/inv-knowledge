@@ -2,10 +2,16 @@
 type: Analysis
 title: JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会
 description: JPMorgan在中国电池行业报告中建议精选个股，关注供给侧改革受益标的和全球化布局领先的企业
-timestamp: 2026-06-24T00:59:58.533832+08:00
-resource: res/行业研究-新能源/2026-06-12-JPMorgan-China Battery Cherry picking amid supply-side reform and glo...-122557008.pdf
+timestamp: 2026-06-24 00:59:58.533832+08:00
+resource: res/行业研究-新能源/2026-06-12-JPMorgan-China Battery Cherry picking amid supply-side
+  reform and glo...-122557008.pdf
 source_type: pdf
-tags: [jpmorgan, new-energy, battery, china-battery, 2026-Q2]
+tags:
+- jpmorgan
+- new-energy
+- battery
+- china-battery
+- 2026-Q2
 ---
 
 # JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会
@@ -19,6 +25,7 @@ JPMorgan分析中国电池行业供需格局，认为供给侧改革将淘汰落
 储能电池需求增速超过动力电池，成为新的增长极。
 
 ## 关键要点
+
 
 - 中国动力电池产能利用率约60%，行业出清仍在进行中
 - 宁德时代和比亚迪的全球市场份额进一步提升，合计超50%

@@ -2,10 +2,16 @@
 type: Analysis
 title: 德银中国NEV周度新订单监控（2026年7月第1周）
 description: Deutsche Bank发布中国新能源车周度新订单监控（2026年7月7日），基于Thinkercar数据追踪比亚迪、吉利、HIMA（问界）、理想、蔚来、小鹏、零跑、小米及特斯拉等关键车企周度新订单趋势，反映7月首周高频需求领先指标
-timestamp: 2026-07-07T00:00:00+08:00
-resource: res/行业研究-新能源/2026-07-07-Deutsche Bank-China NEV Weekly New Orders Monitor China NEV demand leadin...-122999132.pdf
+timestamp: 2026-07-07 00:00:00+08:00
+resource: res/行业研究-新能源/2026-07-07-Deutsche Bank-China NEV Weekly New Orders Monitor
+  China NEV demand leadin...-122999132.pdf
 source_type: pdf
-tags: [deutsche-bank, china-nev, new-orders, weekly-monitor, 2026-Q3]
+tags:
+- deutsche-bank
+- china-ev
+- new-orders
+- weekly-monitor
+- 2026-Q3
 ---
 
 # 德银中国NEV周度新订单监控（2026年7月第1周）
@@ -17,6 +23,7 @@ tags: [deutsche-bank, china-nev, new-orders, weekly-monitor, 2026-Q3]
 Deutsche Bank于2026年7月7日发布中国新能源车（NEV）周度新订单监控报告（Chartbook格式）。该报告作为NEV需求的重要领先指标，基于Thinkercar的监测数据，重点追踪了2026年7月第一周中国主要新能源汽车制造商（包括比亚迪、吉利、HIMA/华为鸿蒙智行、理想汽车、蔚来汽车、小鹏汽车、零跑汽车、小米汽车、特斯拉等）的周度订单流入与趋势变化。该周度报告旨在提供高频的终端需求跟踪，由于其为图表汇编形式，并未在正文中披露具体的订单数字，但可通过折线趋势图直观反映7月首周各大车企的订单起伏表现。
 
 ## 关键要点
+
 
 - **监测对象**：重点跟踪9家头部新能源车企/品牌（Li, NIO, XPeng, Leap, Xiaomi, Tesla, BYD, Geely, HIMA/问界）的最新周度新订单趋势。
 - **高频领先指标**：将周度新订单量（new order flow）定位为终端市场需求的领先指标，提供比月度交付数据更早的行业景气度反馈。

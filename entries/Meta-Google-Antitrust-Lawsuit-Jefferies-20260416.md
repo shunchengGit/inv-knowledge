@@ -3,9 +3,16 @@ type: Analysis
 title: MetaxGoogle反垄断诉讼专家电话会(Jefferies)
 description: Jefferies邀请反垄断专家Glenn Manishin(曾参与AT&T和微软反垄断案)解读Meta/Google近期反垄断诉讼进展，分析可能的判决结果及对科技巨头的行业影响。
 timestamp: 2026-04-16
-resource: res/Meta/2026-04-16-META.OQ-Jefferies-Invite Expert Call on METAGOOGL Lawsuit OutcomesImplicati...-121421379.pdf
+resource: res/Meta/2026-04-16-META.OQ-Jefferies-Invite Expert Call on METAGOOGL Lawsuit
+  OutcomesImplicati...-121421379.pdf
 source_type: pdf
-tags: [Meta, Google, Jefferies, antitrust, regulation, 2026-Q2]
+tags:
+- Meta
+- google
+- jefferies
+- antitrust
+- regulation
+- 2026-Q2
 ---
 
 # Meta/Google反垄断诉讼专家电话会
@@ -17,6 +24,7 @@ tags: [Meta, Google, Jefferies, antitrust, regulation, 2026-Q2]
 Jefferies邀请反垄断和科技监管专家Glenn Manishin(ParadigmShift Law管理合伙人，曾作为记录律师参与US v. AT&T和US v. Microsoft两起50年来最重要的反垄断案)举办公开电话会，讨论Meta和Google近期法院案件的可能结果和行业影响。
 
 ## 关键要点
+
 
 - 专家Glenn Manishin拥有30+年行业经验，专长涵盖反垄断、电信、技术政策、复杂诉讼
 - 曾任职美国司法部反垄断部门审判律师、多家律所合伙人

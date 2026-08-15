@@ -2,10 +2,16 @@
 type: Analysis
 title: Morgan Stanley全球云资本开支追踪：2027年共识升至1.2万亿美元仍偏保守
 description: 2027年全球云资本开支共识已上调至约1.2万亿美元、同比增长29%，但Morgan Stanley估算达1.4万亿美元、较共识高17%；供给约束与云收入加速意味着资本开支仍有上修空间。
-timestamp: 2026-08-03T11:55:00+00:00
-resource: res/行业研究-科技硬件/2026-08-03-Morgan Stanley-US Technology Global Cloud Capex Tracker Spending Accelera...-123578596.pdf
+timestamp: 2026-08-03 11:55:00+00:00
+resource: res/行业研究-科技硬件/2026-08-03-Morgan Stanley-US Technology Global Cloud Capex
+  Tracker Spending Accelera...-123578596.pdf
 source_type: pdf
-tags: [cloud-capex, ai-infrastructure, hyperscalers, capital-spending, 2026-08]
+tags:
+- cloud-capex
+- ai-infrastructure
+- hyperscalers
+- capital-spending
+- 2026-08
 ---
 
 # Morgan Stanley全球云资本开支追踪：2027年共识升至1.2万亿美元仍偏保守
@@ -14,6 +20,7 @@ tags: [cloud-capex, ai-infrastructure, hyperscalers, capital-spending, 2026-08]
 Morgan Stanley认为，四大美国超大规模云厂商在2026年二季度业绩季集体释放更强的资本开支信号，推动2027年全球云资本开支共识由同比增长14%跃升至29%，对应约1.2万亿美元。尽管投入强度已接近历史高位，但AI及传统云需求仍高于可用算力，Azure、GCP与AWS收入又在供给受限下同步加速，说明新增容量可被快速消化。MS自下而上估算2027年现金资本开支约1.4万亿美元、较共识高17%，因此判断当前预测仍偏保守，云基础设施供应链的订单与盈利能见度有望继续延长。
 
 ## 关键要点
+
 - 2027年全球云资本开支共识约1.2万亿美元、同比+29%，较业绩季前预测高约1700亿美元；MS估算约1.4万亿美元，比共识高17%。
 - 2026至2027年合计云资本开支预测已由年初约1.3万亿美元升至2.1万亿美元，增加约8000亿美元；两年支出相当于同期收入的33%，约为2014至2023年平均投入强度的4倍。
 - 四大厂商2026年投入分别为：Alphabet 1950至2050亿美元、Amazon约2200亿美元、Meta 1300至1450亿美元、Microsoft底层投入约1900亿美元；微软因租赁会计重分类报告值约1750亿美元。

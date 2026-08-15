@@ -2,10 +2,15 @@
 type: Analysis
 title: 双环传动002472.SZ价值成长QARP深度分析
 description: 双环传动是新能源齿轮与机器人RV减速器龙头，2026Q1受车企价格战降速明显（扣非-4.04%），动态PEG达1.76偏高。
-timestamp: 2026-07-21T00:00:00+08:00
+timestamp: 2026-07-21 00:00:00+08:00
 resource: manual
 source_type: note
-tags: [shuanghuan-driveline, valuation, profit-trend, competitive-advantage, 2026-07]
+tags:
+- shuanghuan-driveline
+- valuation
+- profit-trend
+- competitive-advantage
+- 2026-07
 ---
 
 # 双环传动002472.SZ价值成长QARP深度分析
@@ -14,6 +19,7 @@ tags: [shuanghuan-driveline, valuation, profit-trend, competitive-advantage, 202
 双环传动是全球高精度齿轮及机器人RV减速器（环动科技）龙头，新能源汽车齿轮国内市占率超60%。2025年实现营收91.12亿元，归母净利润12.62亿元（+23.2%）。但2026Q1显示降速压力：营业收入20.95亿元（+1.49%），扣非净利润2.58亿元（-4.04%），主要由于新能源整车厂价格战向上游传导压价。当前静态PE为23.8x，2026E动态PE约21-22x，动态PEG达1.76（估值未透支但缺乏安全边际），五档结论为合理。建议在28.0-30.0元理想区间低吸。
 
 ## 关键要点
+
 - 新能源电驱高精度齿轮壁垒极高，双环实现规模效应和工艺领先，2026Q1毛利率仍维持27.55%的高水平。
 - 机器人RV减速器子公司环动科技已启动分拆上市，国内RV减速器市占率第一（~30%），是人形机器人链的核心受益期权。
 - 2026年业绩由高速增长期进入个位数/低双位数稳态调整期，一致预期2026E利润增长降至10-15%。

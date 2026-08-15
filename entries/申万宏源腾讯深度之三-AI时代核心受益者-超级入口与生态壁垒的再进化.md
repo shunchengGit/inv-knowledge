@@ -2,10 +2,14 @@
 type: Analysis
 title: 申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化
 description: 申万宏源深度研报看好腾讯作为AI时代核心受益者，微信14亿+用户的超级入口在Agent时代具天然优势，SOTP目标价765港元(+40%)，预计25-27年收入7556/8488/9299亿
-timestamp: 2026-06-24T00:39:20.484608+08:00
+timestamp: 2026-06-24 00:39:20.484608+08:00
 resource: res/腾讯控股/20260313-申万宏源-腾讯控股-0700.HK-AI时代核心受益者，超级入口与生态壁垒的再进化（腾讯控股深度之三）.pdf
 source_type: pdf
-tags: [tencent, competitive-advantage, business-model, 2026]
+tags:
+- tencent
+- competitive-advantage
+- business-model
+- '2026'
 ---
 
 ---
@@ -24,6 +28,7 @@ tags: [tencent, competitive-advantage, business-model, 2026]
 申万宏源2026年3月发布腾讯深度研报（系列之三），重点探讨腾讯AI业务进展和后续潜力。核心观点：微信14亿+用户的超级入口（社交关系链+支付+小程序生态）在AI Agent时代具天然优势；WorkBuddy等Agent产品热度领跑验证了基于高频IM入口的场景穿透力；腾讯资本开支/经营现金流比例在头部科技公司中较低，具备长跑潜力；3D模型领域布局全球领先。SOTP估值目标价765港元（+40%上行空间），维持买入。
 
 ## 关键要点
+
 - 微信超14亿用户的超级入口（社交+支付+小程序）为AI Agent构筑极高护城河
 - WorkBuddy等OpenClaw类产品热度领跑，验证高频IM入口在Agent层的裂变能力
 - 腾讯资本开支/经营现金流比例在全球头部科技公司中处于低位，AI投入有持续现金流支持

@@ -1,11 +1,17 @@
 ---
 type: Analysis
-title: "Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable"
+title: 'Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable'
 description: Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
-timestamp: 2026-06-24T21:32:00+08:00
-resource: res/SK海力士/2026-04-23-000660.KS-Nomura-SK Hynix (000660 KS) (Buy) - 1Q26 earnings beat; LTAs to mak...-121599850.pdf
+timestamp: 2026-06-24 21:32:00+08:00
+resource: res/SK海力士/2026-04-23-000660.KS-Nomura-SK Hynix (000660 KS) (Buy) - 1Q26
+  earnings beat; LTAs to mak...-121599850.pdf
 source_type: pdf
-tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
+tags:
+- sk-hynix
+- profit-trend
+- valuation
+- competitive-advantage
+- 2026-Q1
 ---
 
 # Nomura: SK Hynix 1Q26 Earnings Beat; LTAs to Make Profitability Sustainable
@@ -17,6 +23,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 Nomura维持SK海力士Buy评级，上调目标价至KRW 2,340,000（+82%隐含涨幅）。1Q26营收/OP均超市场预期，DRAM/NAND ASP环比大幅提升。Nomura上调2026F/27F OP分别9%/4%。核心焦点在于LTA（长期协议）谈判推进，若落地将推动存储器行业从周期性转向结构性高盈利。KRW升值是主要下行风险，但公司FCF回报率17%/33%提供安全垫。
 
 ## 关键要点
+
 - 1Q26营收/OP均超预期，DRAM ASP环比大幅提升，NAND价格动能同样强劲
 - 2026F/27F OP预测分别上调9%/4%，反映优于预期的盈利前景
 - LTA谈判推进中，若落地将成为行业范式转变——从周期波动转向结构性高盈利

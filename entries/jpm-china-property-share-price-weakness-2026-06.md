@@ -1,11 +1,22 @@
 ---
 type: Analysis
 title: JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑
-description: JPM 6/23分析：中国地产股4个交易日跑输恒指9%，CRL/COLI单周跌11%；一线城市房价连续4个月环比正增长（NBS二手+0.3%/中原+0.3% MoM），9城冰山指数二手成交+15% YoY；维持SOE开发商择低买入建议
-timestamp: 2026-06-23T00:00:00+08:00
-resource: res/行业研究-房地产/2026-06-22-JPMorgan-China Property Why the recent share price weakness-122692937.pdf
+description: JPM 6/23分析：中国地产股4个交易日跑输恒指9%，CRL/COLI单周跌11%；一线城市房价连续4个月环比正增长（NBS二手+0.3%/中原+0.3%
+  MoM），9城冰山指数二手成交+15% YoY；维持SOE开发商择低买入建议
+timestamp: 2026-06-23 00:00:00+08:00
+resource: res/行业研究-房地产/2026-06-22-JPMorgan-China Property Why the recent share price
+  weakness-122692937.pdf
 source_type: pdf
-tags: [JPMorgan, 华润置地, 中国海外发展, 金茂, china-property, price-correction, tier-1-stabilization, 2026-Q2, 港股]
+tags:
+- jpmorgan
+- cr-land
+- china-overseas-land
+- china-jinmao
+- china-property
+- price-correction
+- tier-1-stabilization
+- 2026-Q2
+- 港股
 ---
 
 # JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑
@@ -17,6 +28,7 @@ tags: [JPMorgan, 华润置地, 中国海外发展, 金茂, china-property, price
 过去4个交易日，中国地产板块跑输恒生指数9%。JPMorgan认为下跌主因有四：（1）消费数据走弱引发的负面传导效应；（2）板块高Beta特性在市场整体抛售中放大跌幅；（3）高频数据虽保持平稳但未显著改善，缺乏短期催化剂；（4）部分投资者过度关注环比二手销售季节性回落。然而一线城市房价已连续4个月环比正增长（5月NBS一手+0.2%、二手+0.3% MoM；中原二手+0.3% MoM），二手挂牌量从3月峰值下降2.5%。即便是此前最抗跌的央企CRL（华润置地）和COLI（中国海外发展），近2个交易日也分别急跌11%，年初至今涨幅缩至CRL +15%、COLI +7%，但仍大幅跑赢恒指（-7%）。JPM建议在下跌中择机买入销售增长突出、一线城市敞口高的SOE开发商（COLI、CRL、Jinmao），同时警告非SOE（万科、融创）难以受益于K型复苏。
 
 ## 关键要点
+
 
 - **板块跌幅**：4个交易日跑输HSI 9%；CRL/COLI近2天各急跌11%（HSI同期-2%），主因获利了结而非基本面恶化
 - **冷暖指数高频数据（6/21）**：9城实时二手成交+15% YoY（调整端午假期后），维持前月10-20% YoY区间，未现拐点

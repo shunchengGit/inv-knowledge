@@ -2,10 +2,16 @@
 type: Analysis
 title: JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点
 description: JPMorgan在中国AI应用巡回调研中发现，AI正从模型开发阶段转向行业应用加速落地
-timestamp: 2026-06-24T00:59:15.793763+08:00
-resource: res/行业研究-AI/2026-05-22-JPMorgan-China Artificial Intelligence China AI Application Tour Take...-122171752.pdf
+timestamp: 2026-06-24 00:59:15.793763+08:00
+resource: res/行业研究-AI/2026-05-22-JPMorgan-China Artificial Intelligence China AI Application
+  Tour Take...-122171752.pdf
 source_type: pdf
-tags: [jpmorgan, china-ai, ai-application, enterprise-ai, 2026-Q2]
+tags:
+- jpmorgan
+- china-ai
+- ai-application
+- enterprise-ai
+- 2026-Q2
 ---
 
 # JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点
@@ -19,6 +25,7 @@ JPMorgan调研中国AI应用生态，认为2026年是AI应用规模化元年。
 AI Agent(智能体)成为中国AI应用最热门方向之一。
 
 ## 关键要点
+
 
 - 中国AI应用市场2026年有望实现3-5倍增长
 - 金融行业AI渗透率最高，智能客服、风控、投研是主要场景

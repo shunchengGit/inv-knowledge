@@ -1,20 +1,23 @@
 ---
 type: Analysis
 title: Google AI Wars流量跟踪：Gemini与Claude高速增长，Google搜索份额稳定(BofA)
-description: BofA持续跟踪AI产品流量趋势。截至2026年5月，Gemini全球日活达1.1亿(月+10%/+321% y/y)，Claude DAU 1,700万(月+22%/+1,349% y/y)，ChatGPT DAU 4.38亿(月+2%/+68% y/y)，Meta AI DAU 1,000万。Google搜索份额稳定在90%。Gemini和Claude增长最快，但ChatGPT仍占绝对规模优势。
+description: BofA持续跟踪AI产品流量趋势。截至2026年5月，Gemini全球日活达1.1亿(月+10%/+321% y/y)，Claude DAU
+  1,700万(月+22%/+1,349% y/y)，ChatGPT DAU 4.38亿(月+2%/+68% y/y)，Meta AI DAU 1,000万。Google搜索份额稳定在90%。Gemini和Claude增长最快，但ChatGPT仍占绝对规模优势。
 timestamp: 2026-06-08
 resource:
-- res/谷歌/2026-05-05-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Claude  Gemini momentum continues, with ...-121834011.undefined.pdf
-- res/谷歌/2026-06-08-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Claude and Gemini ramping, Meta AI small ...-122466633.undefined.pdf
+- res/谷歌/2026-05-05-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Claude  Gemini
+  momentum continues, with ...-121834011.undefined.pdf
+- res/谷歌/2026-06-08-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Claude and Gemini
+  ramping, Meta AI small ...-122466633.undefined.pdf
 source_type: pdf
 tags:
-- Google
-- BofA
+- google
+- bofa
 - AI-Wars
 - Gemini
-- Claude
-- ChatGPT
-- Meta-AI
+- claude
+- chatgpt
+- meta-ai
 - traffic-data
 - 2026-Q2
 ---
@@ -28,6 +31,7 @@ tags:
 BofA发布2026年4月和5月AI产品流量跟踪，覆盖Google、ChatGPT、Gemini、Claude、Meta AI、Perplexity等主要AI产品。在5月全球移动DAU方面：ChatGPT 4.38亿(+68% y/y)、Gemini 1.1亿(+321% y/y, 月净增1,000万)、Claude 1,700万(+1,349% y/y)、Meta AI 1,000万(+1,321% y/y)。Google全球搜索份额稳定在~90%。
 
 ## 关键要点
+
 - Gemini全球DAU 1.1亿（+321% y/y），月净增1,000万，增速最快
 - Claude DAU 1,700万（+1,349% y/y），环比+22%，增速第二
 - ChatGPT DAU 4.38亿（+68% y/y），绝对值仍占绝对优势

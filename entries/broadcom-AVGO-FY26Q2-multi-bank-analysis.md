@@ -1,23 +1,27 @@
 ---
 type: Analysis
 title: Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高，后端供应成新瓶颈
-description: Broadcom FY26Q2 AI收入$56bn估测，FY27"远高于$100bn"，Multi-GW客户承诺去风险FY27/28但营收预期miss致股价回调；后端供应限制v9 TPU路线图，20GW SPV与Apollo/Blackstone合作落地
+description: Broadcom FY26Q2 AI收入$56bn估测，FY27"远高于$100bn"，Multi-GW客户承诺去风险FY27/28但营收预期miss致股价回调；后端供应限制v9
+  TPU路线图，20GW SPV与Apollo/Blackstone合作落地
 timestamp: 2026-06-11 00:00:00+08:00
 resource:
-- res/博通/2026-06-04-AVGO.OQ-Morgan Stanley-Broadcom Inc. Expectations miss amid very strong demand-122403915.undefined.pdf
-- res/博通/2026-06-04-AVGO.OQ-JPMorgan-Broadcom Inc AI Momentum Accelerates on Strong Bookings; Mul...-122408104.pdf
-- res/博通/2026-06-11-AVGO.OQ-UBS Equities-Broadcom Inc. _Responding To Investor Inbounds Post Earnings...-122546422.pdf
+- res/博通/2026-06-04-AVGO.OQ-Morgan Stanley-Broadcom Inc. Expectations miss amid very
+  strong demand-122403915.undefined.pdf
+- res/博通/2026-06-04-AVGO.OQ-JPMorgan-Broadcom Inc AI Momentum Accelerates on Strong
+  Bookings; Mul...-122408104.pdf
+- res/博通/2026-06-11-AVGO.OQ-UBS Equities-Broadcom Inc. _Responding To Investor Inbounds
+  Post Earnings...-122546422.pdf
 source_type: pdf
 tags:
 - Broadcom
 - AVGO
-- AI
+- ai
 - ASIC
 - TPU
-- JPMorgan
-- MorganStanley
-- UBS
-- FY26Q2
+- jpmorgan
+- morgan-stanley
+- ubs
+- 2026-Q2
 - 数据中心
 - 半导体
 ---
@@ -32,21 +36,15 @@ Broadcom FY26Q2业绩后三份投行报告一致确认AI需求处于历史性爆
 
 ## 关键要点
 
-1. **AI收入爆发式增长(MS)**：AI收入4月环比+30%、7月环比+40%，同比增速达+200%；FY26全年AI收入估测$56bn，FY27指引"远高于$100bn"，预示翻倍空间
 
-2. **预期过高致股价回调(MS)**：Strong results但expectations too high，指引miss引发回调，核心矛盾是市场已将$100bn+完全定价，实际增速虽快但未超预期上限
-
-3. **目标价上调(JPM)**：JPM将目标价从$500上调至$580，维持OW评级，强调Multi-GW客户承诺（客户总支出承诺达数十GW级别）为FY27/28提供极高可见度
-
-4. **传统半导体加速(JPM)**：网络芯片和宽带芯片需求同步回暖，非AI业务触底反弹信号明确；Software业务（VMware整合）收入增速稳定
-
-5. **后端供应瓶颈(UBS)**：OSAT（外包封装测试）产能不足限制v9代Google TPU（2nm ASIC）出货节奏，Broadcom正积极投资后端供应链产能扩张
-
-6. **20GW SPV创新模式(UBS)**：Broadcom宣布与Apollo/Blackstone合作组建20GW特殊目的载体（SPV），定向服务OpenAI和Anthropic，将AI基础设施资本开支与资产负债表解耦
-
-7. **v9 TPU路线图的不确定性(UBS)**：2nm node的v9 TPU因后端产能瓶颈和DTCO复杂性推进节奏可能慢于预期，但对Broadcom单芯片价值量有望提升
-
-8. **盈利质量与估值(All)**：三家一致认为AI业务毛利率高于传统半导体，但规模效应的capex投入强度也更高；当前估值已反映部分AI增长预期，需EPS持续上修支撑
+- **AI收入爆发式增长(MS)**：AI收入4月环比+30%、7月环比+40%，同比增速达+200%；FY26全年AI收入估测$56bn，FY27指引"远高于$100bn"，预示翻倍空间
+- **预期过高致股价回调(MS)**：Strong results但expectations too high，指引miss引发回调，核心矛盾是市场已将$100bn+完全定价，实际增速虽快但未超预期上限
+- **目标价上调(JPM)**：JPM将目标价从$500上调至$580，维持OW评级，强调Multi-GW客户承诺（客户总支出承诺达数十GW级别）为FY27/28提供极高可见度
+- **传统半导体加速(JPM)**：网络芯片和宽带芯片需求同步回暖，非AI业务触底反弹信号明确；Software业务（VMware整合）收入增速稳定
+- **后端供应瓶颈(UBS)**：OSAT（外包封装测试）产能不足限制v9代Google TPU（2nm ASIC）出货节奏，Broadcom正积极投资后端供应链产能扩张
+- **20GW SPV创新模式(UBS)**：Broadcom宣布与Apollo/Blackstone合作组建20GW特殊目的载体（SPV），定向服务OpenAI和Anthropic，将AI基础设施资本开支与资产负债表解耦
+- **v9 TPU路线图的不确定性(UBS)**：2nm node的v9 TPU因后端产能瓶颈和DTCO复杂性推进节奏可能慢于预期，但对Broadcom单芯片价值量有望提升
+- **盈利质量与估值(All)**：三家一致认为AI业务毛利率高于传统半导体，但规模效应的capex投入强度也更高；当前估值已反映部分AI增长预期，需EPS持续上修支撑
 
 ## 关联
 

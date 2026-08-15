@@ -1,14 +1,16 @@
 ---
 type: Analysis
 title: 毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持
-description: 毛戈平2026年1Q销售+>20% YoY（线下SSSG >12%），管理层维持全年+30%收入指引和稳定利润率；JPM OW（PT HKD130），TP 31x 2027E PE
+description: 毛戈平2026年1Q销售+>20% YoY（线下SSSG >12%），管理层维持全年+30%收入指引和稳定利润率；JPM OW（PT HKD130），TP
+  31x 2027E PE
 timestamp: 2026-06-24 10:00:00+08:00
-resource: res/毛戈平/2026-05-25-1318.HK-JPMorgan-Mao Geping - H Global China Summit 2026 takeaways Solid gro...-122217493.pdf
+resource: res/毛戈平/2026-05-25-1318.HK-JPMorgan-Mao Geping - H Global China Summit 2026
+  takeaways Solid gro...-122217493.pdf
 source_type: pdf
 tags:
 - mao-geping
 - profit-trend
-- 2026
+- '2026'
 ---
 
 # 毛戈平JPM Global China Summit纪要：2026增长可见性高
@@ -17,6 +19,7 @@ tags:
 JPMorgan在Global China Summit上与毛戈平管理层会面。2026年1Q销售同比+>20%（线下SSSG >12%，好于全年指引），4月延续良好趋势。管理层维持2026全年+30%收入增长指引和稳定利润率。核心看点：1）承诺未来6个月内不减持，缓解配售后的市场担忧；2）维持>30%分红率并准备回购；3）618预售自5月1日提前启动，占全年线上约40%。JPM给予Overweight（目标价HKD130，31x 2027E PE），认为毛戈平是中国体验式消费的稀缺标的，在高端美妆市场份额仅2%，有翻倍空间。中期目标600个专柜（vs 2025年底445个），每年净增约30个。
 
 ## 关键要点
+
 - 1Q26销售+>20%，线下SSSG +>12%（好于全年+30%收入指引隐含的SSSG假设）；4月延续良好
 - 管理层明确承诺6个月内不减持，积极准备回购，>30%分红率维护股东回报
 - 618预售自5月1日提前启动，预计占据全年线上约40%份额——提前卡位是关键策略

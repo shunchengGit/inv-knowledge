@@ -3,9 +3,18 @@ type: Analysis
 title: WWDC 2026：Apple新Siri由Gemini驱动(UBS)
 description: UBS快评WWDC 2026——Apple展示全新Siri，底层基础模型由Gemini提供支持。对聊天应用(Meta AI、ChatGPT、Gemini)方向性负面，iOS生态推出更具竞争力的Siri。Google可能通过广告收入分成或Cloud收入获得长期补偿。
 timestamp: 2026-06-08
-resource: res/谷歌/2026-06-08-GOOGL.OQ-UBS Equities-UBS Fast Take Alphabet Inc. - Class A _WWDC 2026 Apple sh...-122477332.pdf
+resource: res/谷歌/2026-06-08-GOOGL.OQ-UBS Equities-UBS Fast Take Alphabet Inc. - Class
+  A _WWDC 2026 Apple sh...-122477332.pdf
 source_type: pdf
-tags: [Google, UBS, WWDC, Apple, Siri, Gemini, AI, 2026-Q2]
+tags:
+- google
+- ubs
+- WWDC
+- apple
+- Siri
+- Gemini
+- ai
+- 2026-Q2
 ---
 
 # WWDC 2026：Apple新Siri由Gemini驱动
@@ -17,6 +26,7 @@ tags: [Google, UBS, WWDC, Apple, Siri, Gemini, AI, 2026-Q2]
 Apple在WWDC 2026发布全新Siri，底层基础模型由Gemini提供支持。UBS认为这对独立的AI聊天应用(Meta AI、ChatGPT、Gemini app)方向性负面——iOS生态推出更具竞争力的原生AI助手将减少第三方AI应用的吸引力。但Google可能通过与Apple的广告收入分成或Cloud收入获得长期补偿。
 
 ## 关键要点
+
 - Apple新Siri基础模型由Gemini提供支持，对独立AI聊天应用方向性负面
 - Google可能通过广告收入分成或Cloud收入获得长期补偿
 - UBS维持Neutral评级，目标价$410

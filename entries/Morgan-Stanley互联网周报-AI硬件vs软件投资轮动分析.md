@@ -2,10 +2,16 @@
 type: Analysis
 title: Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析
 description: Morgan Stanley分析AI投资从硬件到软件的轮动趋势，评估互联网板块当前估值水平
-timestamp: 2026-06-24T00:58:47.529291+08:00
-resource: res/行业研究-互联网/2026-06-16-Morgan Stanley-Internet Where Are We Trading Now AI Hardware vs Software ...-122607614.undefined.pdf
+timestamp: 2026-06-24 00:58:47.529291+08:00
+resource: res/行业研究-互联网/2026-06-16-Morgan Stanley-Internet Where Are We Trading Now
+  AI Hardware vs Software ...-122607614.undefined.pdf
 source_type: pdf
-tags: [morgan-stanley, internet, ai-hardware, ai-software, 2026-Q2]
+tags:
+- morgan-stanley
+- internet
+- ai-hardware
+- ai-software
+- 2026-Q2
 ---
 
 # Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析
@@ -19,6 +25,7 @@ Morgan Stanley跟踪互联网板块AI投资主题的轮动信号，认为市场�
 AI应用货币化是2026年下半年的关键催化剂。
 
 ## 关键要点
+
 
 - AI投资正从基础设施/硬件层向应用/软件层轮动
 - 中国互联网板块估值折价明显，具备上行空间

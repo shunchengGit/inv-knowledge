@@ -2,10 +2,15 @@
 type: Analysis
 title: Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规
 description: Morgan Stanley分析中国金融业高质量发展路径、人民币存款新规的影响以及银行板块投资机会
-timestamp: 2026-06-24T00:59:39.936096+08:00
-resource: res/行业研究-金融/2026-06-09-Morgan Stanley-Investor Presentation China Financials High-quality develo...-122491082.undefined.pdf
+timestamp: 2026-06-24 00:59:39.936096+08:00
+resource: res/行业研究-金融/2026-06-09-Morgan Stanley-Investor Presentation China Financials
+  High-quality develo...-122491082.undefined.pdf
 source_type: pdf
-tags: [morgan-stanley, china-financials, banking, 2026-Q2]
+tags:
+- morgan-stanley
+- china-financials
+- banking
+- 2026-Q2
 ---
 
 # Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规
@@ -19,6 +24,7 @@ Morgan Stanley举办中国金融业投资者会议，讨论高质量发展政策
 大型银行在低利率环境下展现出更强的资产定价能力。
 
 ## 关键要点
+
 
 - 存款利率市场化改革将降低银行负债成本，改善净息差
 - 大型银行2026年股息率仍具吸引力，高分红策略持续

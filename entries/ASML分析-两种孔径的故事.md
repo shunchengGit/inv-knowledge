@@ -2,10 +2,15 @@
 type: Analysis
 title: ASML分析：两种孔径的故事
 description: BNP Paribas ASML研报：评级Outperform目标价€1,550，2026-30E EPS €33.74-€69.85，EV/EBITDA从30.9x降至13.8x
-timestamp: 2026-06-24T00:54:18.625347+08:00
+timestamp: 2026-06-24 00:54:18.625347+08:00
 resource: res/ASML/2026-05-11-ASML.AS-BNP Paribas-ASML  A Tale of Two Apertures-121950555.pdf
 source_type: pdf
-tags: [ASML, EUV光刻, 半导体设备, analysis-dimension:估值分析, time:2026Q2]
+tags:
+- ASML
+- EUV光刻
+- 半导体设备
+- valuation
+- 2026-Q2
 ---
 
 # ASML 分析：两种孔径的故事——High-NA与Low-NA的博弈
@@ -19,6 +24,7 @@ BNP Paribas于2026年5月11日发布ASML研究报告，题为"两种孔径的故
 BNP Paribas认为ASML作为全球最大的光刻机供应商（市占率超80%），在半导体制造中扮演关键角色。2025年ASML营收区域分布为：中国29%、台湾26%、韩国25%、美国13%、日本4%。公司业务75%来自系统销售，25%来自服务/现场选项。BNPP给出2026-30E EPS预测为€33.74/€49.30/€55.32/€64.40/€69.85，远期P/E从39.1x（2026E）降至18.9x（2030E）。
 
 ## 关键要点
+
 - **评级Outperform**，目标价€1,550（ADR $1,850），较当前股价有17%上行空间
 - **营收强劲增长**：2026E营收€399亿，2027E €497亿，2028E €578亿
 - **毛利率持续扩张**：预计从2025年的约35%提升至2028年约44%

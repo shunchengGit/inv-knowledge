@@ -1,18 +1,21 @@
 ---
 type: Analysis
 title: 阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)
-description: JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
+description: JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All
+  Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
 timestamp: 2026-04-08
 resource:
-- res/阿里巴巴/2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview Change the...-121227574.pdf
-- res/阿里巴巴/2026-04-08-9988.HK-UBS Equities-First Read Alibaba Group _4QFY26 preview; higher AI investm...-121225497.pdf
+- res/阿里巴巴/2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview
+  Change the...-121227574.pdf
+- res/阿里巴巴/2026-04-08-9988.HK-UBS Equities-First Read Alibaba Group _4QFY26 preview;
+  higher AI investm...-121225497.pdf
 source_type: pdf
 tags:
-- 阿里巴巴
-- JPMorgan
-- UBS
+- alibaba
+- jpmorgan
+- ubs
 - 1Q26
-- AI
+- ai
 - Cloud
 - CMR
 - e-commerce
@@ -31,6 +34,7 @@ tags:
 - **UBS**: 收入约RMB2,370亿，同比基本持平。CMR受商家补贴影响仅+1%(剔除补贴为6-7%)。快消品亏损收窄至RMB150亿(市场RMB180亿)。Cloud +40% y/y，利润率稳定在9%。
 
 ## 关键要点
+
 
 ### 电商(CMR与GMV)
 - **JPMorgan**: CMR约+1%，显著低于市场预期中高单。核心原因为宏观压力及竞争

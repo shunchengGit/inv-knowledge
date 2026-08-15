@@ -2,10 +2,19 @@
 type: Analysis
 title: UBS小米昆仑架构新车供应链拆解：八家潜在零部件受益者
 description: UBS预计小米SKYNOMAD N90和N70潜在供应商包括华阳、福耀、耐世特、银轮、禾赛、三花、双环和敏实，单车配套价值约800至2000元以上；新车型有望修复汽车零部件板块预期。
-timestamp: 2026-07-30T00:00:00+08:00
-resource: res/行业研究-汽车/doc_0d3dec90baa7_2026-07-30-UBS Equities-China Auto Supply Chain _Breaking up the whole into parts w...-123482072.pdf
+timestamp: 2026-07-30 00:00:00+08:00
+resource: res/行业研究-汽车/doc_0d3dec90baa7_2026-07-30-UBS Equities-China Auto Supply Chain
+  _Breaking up the whole into parts w...-123482072.pdf
 source_type: pdf
-tags: [xiaomi, auto-supply-chain, auto-parts, content-per-vehicle, lidar, thermal-management, shuanghuan, 2026-07]
+tags:
+- xiaomi
+- auto-supply-chain
+- auto-parts
+- content-per-vehicle
+- lidar
+- thermal-management
+- shuanghuan
+- 2026-07
 ---
 
 # UBS小米昆仑架构新车供应链拆解：八家潜在零部件受益者
@@ -14,6 +23,7 @@ tags: [xiaomi, auto-supply-chain, auto-parts, content-per-vehicle, lidar, therma
 UBS围绕小米昆仑架构及第二车系SKYNOMAD N90、N70，拆解潜在零部件供应商及单车价值量。该车定位为智能、可重构、大空间增程SUV，潜在受益者覆盖座舱显示、汽车玻璃、转向、热管理、激光雷达、齿轮和外饰件。UBS认为市场当前过度关注中国乘用车复苏疲弱、竞争加剧、原材料压力和二季度业绩风险，可能低估供应商国内外客户拓展、订单增长及业务多元化带来的盈利上行。
 
 ## 关键要点
+
 - 华阳集团可能供应仪表显示屏、二排娱乐屏及运动机构，预计单车价值量超过2000元。
 - 福耀可能供应汽车玻璃，预计单车价值量约2000元。
 - 耐世特可能供应齿条式电动助力转向系统REPS，预计单车价值量约2000元。

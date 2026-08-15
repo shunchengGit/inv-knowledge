@@ -2,10 +2,16 @@
 type: Analysis
 title: 台积电BofA-2026年Q2业绩与供需景气度评估
 description: 美银美林评台积电2026年Q2业绩及后市展望，强调良性竞争格局与行业供不应求将支撑台积电维持强势地位，2026年资本支出上调至600亿-640亿美元。
-timestamp: 2026-07-16T20:00:00+08:00
-resource: res/台积电/2026-07-16-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Benign competitive l...-123212595.pdf
+timestamp: 2026-07-16 20:00:00+08:00
+resource: res/台积电/2026-07-16-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing
+  Co. Benign competitive l...-123212595.pdf
 source_type: pdf
-tags: [tsmc, valuation, capex, competitive-advantage, 2026-Q3]
+tags:
+- tsmc
+- valuation
+- capex
+- competitive-advantage
+- 2026-Q3
 ---
 
 # 台积电BofA-2026年Q2业绩与供需景气度评估
@@ -14,6 +20,7 @@ tags: [tsmc, valuation, capex, competitive-advantage, 2026-Q3]
 美银评台积电2026年Q2业绩，指出极佳的竞争格局和前沿制程持续供不应求是其长期增长的基石。美银预计台积电美元营收在2026年同比增速将超40%，4Q26受Apple和AMD陡峭的2nm订单以及GPU/ASIC的3nm更新需求拉动，环比将增超11%。为支持AI算力扩张，台积电将2026年资本支出上调至600亿-640亿美元。美银重申买入评级，维持NT$3,100目标价，认为目前17x 2027E PE仍极具性价比。
 
 ## 关键要点
+
 - **极其良性的竞争格局**：即使英特尔和三星提供部分替代方案以填补市场先进封测及制程的供需缺口，台积电依然保有超90%的先进制程市场份额和绝对定价权。
 - **2nm与3nm需求强劲**：随着大模型迭代和AI加速器升级，美银预计台积电3nm及以下制程前沿产能从2025-28年将以47% CAGR的增速增长。
 - **三季度及下半年毛利率指引**：3Q26毛利率指引中值为66%±1%，虽受2nm初期爬坡及海外厂折旧的压制，但其在产能利用率和议价上的优势对冲了折旧风险。

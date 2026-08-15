@@ -2,10 +2,18 @@
 type: Analysis
 title: MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)
 description: UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，Capex从810亿上调至340亿，以及从席位向用量定价模式的加速转型
-timestamp: 2026-06-24T00:40:34.993550+08:00
-resource: res/微软/2026-04-30-MSFT.OQ-UBS Equities-Microsoft Corp. _Capex Ramps, Azure Accelerates and Pricing ...-121724357.pdf
+timestamp: 2026-06-24 00:40:34.993550+08:00
+resource: res/微软/2026-04-30-MSFT.OQ-UBS Equities-Microsoft Corp. _Capex Ramps, Azure
+  Accelerates and Pricing ...-121724357.pdf
 source_type: pdf
-tags: [microsoft, profit-trend, valuation, competitive-advantage, 2026-Q1, capex, azure]
+tags:
+- microsoft
+- profit-trend
+- valuation
+- competitive-advantage
+- 2026-Q1
+- capex
+- azure
 ---
 
 # MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型
@@ -14,6 +22,7 @@ tags: [microsoft, profit-trend, valuation, competitive-advantage, 2026-Q1, capex
 UBS在微软FQ3'26财报后深度分析：Azure CCY增长39%超预期，AI贡献$240亿年化营收（超预期$30亿），但Capex指引$1900亿大幅上修引发FCF担忧。M365 CoPilot席位2000万+、GitHub Copilot营收$30亿+均加速。维持Buy，目标价$510。
 
 ## 关键要点
+
 - FQ3 Azure CCY 39%符合预期，但FQ4指引39-40%（高于市场预期的37-38%）是积极惊喜
 - 更重要：管理层罕见指引"温和加速"发生在H2 CY26，UBS据此将Azure增速预估上调至42.0%/42.5%（Sep/Dec'26）
 - 微软FQ3新增1.0GW GPU容量（连续两季），过去6个月新增2GW vs FY25全年新增2GW

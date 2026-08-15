@@ -2,10 +2,21 @@
 type: Analysis
 title: 中际旭创多重增长驱动-AI光网络升级
 description: Nomura中际旭创深度：1.6T出货量上调至26mn/60mn单位，3.2T/NPO/CPO延伸AI周期，目标价¥1,015评级买入
-timestamp: 2026-06-24T00:55:49.824505+08:00
-resource: res/中际旭创/2026-04-16-300308.SZ-Nomura-Zhongji InnoLight (300308 CH) (Buy) - Multiple growth driver...-121441677.pdf
+timestamp: 2026-06-24 00:55:49.824505+08:00
+resource: res/中际旭创/2026-04-16-300308.SZ-Nomura-Zhongji InnoLight (300308 CH) (Buy)
+  - Multiple growth driver...-121441677.pdf
 source_type: pdf
-tags: [中际旭创, 300308, 光模块, 1.6T, SiPh, NPO, CPO, AI, analysis-dimension:行业展望, time:2026Q2]
+tags:
+- 中际旭创
+- '300308'
+- 光模块
+- 1.6T
+- SiPh
+- NPO
+- cpo
+- ai
+- industry-outlook
+- 2026-Q2
 ---
 
 # 中际旭创：多重增长驱动——AI光网络1.6T/3.2T/NPO/CPO延伸AI上行周期
@@ -19,6 +30,7 @@ Nomura于2026年4月16日发布中际旭创深度报告，认为1.6T/3.2T收发�
 Nomura认为中际旭创将受益于多年期长期增长：2028年起的3.2T收发器升级以及NPO（近场封装光学）和CPO（共封装光学）的业务扩展。1.6T/SiPh产品出货推动毛利率持续改善。公司作为全球高端光收发器龙头（Light Counting数据），在AI基础设施投资和网络技术升级中获得强劲增长动力。模型显示FY26/27/28F营收¥1,221亿/¥2,045亿/¥2,717亿，净利润¥324亿/¥565亿/¥754亿，显著高于WIND共识。
 
 ## 关键要点
+
 - **1.6T出货量大幅上调**：FY26F 26mn单位，FY27F 60mn单位（此前34mn）
 - **800G出货量下调**：FY26F 34mn单位，FY27F 50mn单位（此前43mn/58mn）
 - **市场份额领先**：100G+市场30-35%，1.6T市场>45%

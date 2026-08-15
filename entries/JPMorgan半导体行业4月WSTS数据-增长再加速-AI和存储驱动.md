@@ -2,10 +2,16 @@
 type: Analysis
 title: JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动
 description: JPMorgan分析4月WSTS半导体销售数据，同比增速再创新高，AI芯片和存储是主要驱动力
-timestamp: 2026-06-24T00:59:06.341041+08:00
-resource: res/行业研究-半导体/2026-06-12-JPMorgan-Semiconductors April WSTS Growth Accelerates Again, Driven ...-122546555.pdf
+timestamp: 2026-06-24 00:59:06.341041+08:00
+resource: res/行业研究-半导体/2026-06-12-JPMorgan-Semiconductors April WSTS Growth Accelerates
+  Again, Driven ...-122546555.pdf
 source_type: pdf
-tags: [jpmorgan, semiconductor, wsts, industry-data, 2026-Q2]
+tags:
+- jpmorgan
+- semiconductor
+- wsts
+- industry-data
+- 2026-Q2
 ---
 
 # JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动
@@ -19,6 +25,7 @@ tags: [jpmorgan, semiconductor, wsts, industry-data, 2026-Q2]
 非存储芯片领域，逻辑芯片和模拟芯片增速温和复苏。
 
 ## 关键要点
+
 
 - 4月全球半导体销售额同比增长超20%，环比持续改善
 - 存储芯片增长最为强劲，DRAM/NAND价格上行趋势延续

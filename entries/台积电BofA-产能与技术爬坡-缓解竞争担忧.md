@@ -2,10 +2,20 @@
 type: Analysis
 title: BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧
 description: BofA（Haas Liu）于2026年5月15日发布的台积电台湾技术研讨会要点分析。3nm产能Q4'26达190k WPM（远超三星/Intel），N2缺陷密度领先3nm两季度，CoWoS良率98%+。评级买入，目标价NT$2,560。
-timestamp: 2026-06-24T10:00:00+08:00
-resource: res/台积电/2026-05-15-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Strong capacity and ...-122056887.undefined.pdf
+timestamp: 2026-06-24 10:00:00+08:00
+resource: res/台积电/2026-05-15-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing
+  Co. Strong capacity and ...-122056887.undefined.pdf
 source_type: pdf
-tags: [tsmc, capacity, 3nm, 2nm, N2, A16, CoWoS, yield, 2026-Q2]
+tags:
+- tsmc
+- capacity
+- 3nm
+- 2nm
+- N2
+- A16
+- CoWoS
+- yield
+- 2026-Q2
 ---
 
 # BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧
@@ -14,6 +24,7 @@ tags: [tsmc, capacity, 3nm, 2nm, N2, A16, CoWoS, yield, 2026-Q2]
 BofA（分析师Haas Liu）在台积电台湾技术研讨会后发布报告，强调5nm和3nm的大规模产能（3nm 4Q26达190k WPM、2027年达230k WPM，远高于三星SF3或Intel 18A的20-25k WPM）限制了客户流失风险。N2作为首个纳米片节点，缺陷密度已达目标水平，比3nm同阶段领先2个季度。CoWoS良率已达98%+（5.5x reticle）。维持买入评级，目标价NT$2,560（20x 2027E PE），当前股价NT$2,270。
 
 ## 关键要点
+
 - 5nm/3nm产能优势：台积电目标2022-2027年5nm和3nm产能CAGR达25%，设备共通性和AI驱动的生产力提升使产能高效转换
 - 3nm产能规模：预计4Q26达190k WPM，2027年达230k WPM；对比三星SF3或Intel 18A仅20-25k WPM且良率低
 - N2首次采用纳米片：缺陷密度已达目标水平，比3nm同阶段领先2个季度；N2家族2026-2028产能CAGR达70%

@@ -2,10 +2,15 @@
 type: Analysis
 title: 腾讯控股UBS 1Q26：符合预期，低估值的期权价值
 description: UBS认为腾讯2026Q1业绩符合预期，核心业务盈利能力稳健(+17% ex-AI)，当前约13x Forward PE处于历史低位，AI期权价值未充分定价，目标价516港元
-timestamp: 2026-06-24T00:38:11.708552+08:00
-resource: res/腾讯控股/2026-05-14-0700.HK-UBS Equities-First Read Tencent Holdings _1Q26 inline; undervalue option...-122029104.pdf
+timestamp: 2026-06-24 00:38:11.708552+08:00
+resource: res/腾讯控股/2026-05-14-0700.HK-UBS Equities-First Read Tencent Holdings _1Q26
+  inline; undervalue option...-122029104.pdf
 source_type: pdf
-tags: [tencent, valuation, profit-trend, 2026-Q1]
+tags:
+- tencent
+- valuation
+- profit-trend
+- 2026-Q1
 ---
 
 ---
@@ -24,6 +29,7 @@ tags: [tencent, valuation, profit-trend, 2026-Q1]
 UBS对腾讯2026Q1给出"符合预期"评价。非IFRS经营利润756亿（+9% YoY/环比+10%），略高于UBS预期750亿。分业务看，广告+20% YoY超预期，金融科技+9%符合预期，游戏国内+6%/国际+13%略低于预期。UBS认为当前核心业务估值约13x Forward PE处于历史低位，AI带来的增量价值未充分反映在股价中。维持Buy评级，目标价516港元（基于SOTP估值）。
 
 ## 关键要点
+
 - Non-IFRS OP 756亿（+9% YoY/+10% QoQ），略超UBS预期750亿
 - 广告382亿（+20% YoY）为最大超预期亮点，视频号广告持续放量
 - 国内游戏454亿（+6% YoY）符合预期，王者荣耀/和平精英流水创新高

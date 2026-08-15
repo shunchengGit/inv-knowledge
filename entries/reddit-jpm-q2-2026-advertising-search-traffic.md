@@ -2,10 +2,17 @@
 type: Analysis
 title: Reddit 2Q26广告高增长与Google搜索流量风险再平衡
 description: Reddit 2Q26收入8.05亿美元同比增长61%，广告收入增长64%、活跃广告主增长70%以上，但美国DAUq环比减少30万；JPMorgan认为商业化强劲尚不足以抵消Google搜索流量不确定性，维持Neutral并设2027年底目标价185美元。
-timestamp: 2026-07-31T00:00:00+08:00
-resource: "res/Reddit/2026-07-31-RDDT.N-JPMorgan-Reddit Advertising Trajectory Remains Strong, But Traffic an...-123507569.pdf"
+timestamp: 2026-07-31 00:00:00+08:00
+resource: res/Reddit/2026-07-31-RDDT.N-JPMorgan-Reddit Advertising Trajectory Remains
+  Strong, But Traffic an...-123507569.pdf
 source_type: pdf
-tags: [reddit, digital-advertising, search-traffic, google, profit-trend, 2026-q2]
+tags:
+- reddit
+- digital-advertising
+- search-traffic
+- google
+- profit-trend
+- 2026-Q2
 ---
 
 # Reddit 2Q26广告高增长与Google搜索流量风险再平衡
@@ -14,6 +21,7 @@ tags: [reddit, digital-advertising, search-traffic, google, profit-trend, 2026-q
 Reddit 2Q26收入8.05亿美元，同比增长61%，连续第八个季度实现60%以上增长；广告收入增长64%，活跃广告主增长70%以上，证明中下层漏斗产品与SMB扩张正在提高变现效率。与此同时，DAUq虽同比增长18%至1.30亿，但美国DAUq环比减少30万，Google搜索生态及机器翻译内容排名变化重新暴露获客入口依赖。JPMorgan将2026年收入与调整后EBITDA预测分别上调至35.21亿和15.91亿美元，但因搜索流量可见度有限，维持Neutral，并以约12倍2028E调整后EBITDA给出2027年底185美元目标价。
 
 ## 关键要点
+
 - 2Q26收入8.05亿美元（+61% YoY），高于管理层7.15亿至7.25亿美元指引；调整后EBITDA为3.43亿美元，利润率42.6%，同比增长106%。
 - 广告收入同比增长64%，活跃广告主增长70%以上；动态商品广告与App安装收入均同比翻倍，中型市场与SMB收入也同比翻倍。
 - Max广告主数量环比增长60%，Max收入环比增长150%，显示自动化投放与SMB onboarding 正成为广告增长的新引擎。

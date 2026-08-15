@@ -1,11 +1,19 @@
 ---
 type: Analysis
-title: "JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M"
-description: JPMorgan维持Overweight，TP从KRW 1,800,000大幅上调至3,000,000。LTA谈判进入关键拐点，将推动存储器从P/B向P/E估值框架迁移（8x FY26-27E EPS）。上调FY26-28E EPS 9-20%。
-timestamp: 2026-06-24T21:32:00+08:00
-resource: res/SK海力士/2026-05-17-000660.KS-JPMorgan-SK hynix LTA paves path for new valuation framework raising...-122079078.pdf
+title: 'JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT
+  to W3M'
+description: JPMorgan维持Overweight，TP从KRW 1,800,000大幅上调至3,000,000。LTA谈判进入关键拐点，将推动存储器从P/B向P/E估值框架迁移（8x
+  FY26-27E EPS）。上调FY26-28E EPS 9-20%。
+timestamp: 2026-06-24 21:32:00+08:00
+resource: res/SK海力士/2026-05-17-000660.KS-JPMorgan-SK hynix LTA paves path for new
+  valuation framework raising...-122079078.pdf
 source_type: pdf
-tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
+tags:
+- sk-hynix
+- profit-trend
+- valuation
+- competitive-advantage
+- 2026-Q1
 ---
 
 # JPMorgan: SK hynix LTA Paves Path for New Valuation Framework
@@ -17,6 +25,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 JPMorgan维持SK海力士Overweight，目标价从KRW 1,800,000大幅上调至KRW 3,000,000（全市场最高之一）。核心催化：LTA谈判进入关键拐点，将推动存储器行业从P/B迁移至P/E估值框架（基于8x FY26-27E EPS）。大幅上调FY26-28E EPS 9-20%，股东回报计划KRW 240tn。
 
 ## 关键要点
+
 - LTA 将推动存储器业务模式从"周期性"转向"结构性/长期性"
 - 存储器供需失衡短期内难以缓解，存储器厂商和 CSP 达成 LTA 的概率很高
 - LTA 将提升存储器盈利质量，成为估值重估的核心驱动因素

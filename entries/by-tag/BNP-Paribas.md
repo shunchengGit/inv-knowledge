@@ -1,3 +1,3 @@
-# BNP-Paribas
+# bnp-paribas
 
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — Note

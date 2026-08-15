@@ -2,10 +2,17 @@
 type: Analysis
 title: JPMorgan中国地产周度数据监控：端午假期扰动致销售转弱，一线城市挂牌量持续下降支撑房价企稳
 description: 6月第三周受端午假期影响，冰山指数10城二手成交同比微降0.05%（扣除假期效应+15%），一线城市二手挂牌量环比-0.5%较3月峰值累计降2.6%，60城一手网签同比-23%但同期基数偏低不可比
-timestamp: 2026-06-24T00:00:00+08:00
-resource: res/行业研究-房地产/2026-06-23-JPMorgan-Property Data Monitor Mainland China weekly sales turn wors...-122723384.pdf
+timestamp: 2026-06-24 00:00:00+08:00
+resource: res/行业研究-房地产/2026-06-23-JPMorgan-Property Data Monitor Mainland China weekly
+  sales turn wors...-122723384.pdf
 source_type: pdf
-tags: [jpmorgan, china-property, weekly-data, secondary-sales, listing-volume, 2026-Q2]
+tags:
+- jpmorgan
+- china-property
+- weekly-data
+- secondary-sales
+- listing-volume
+- 2026-Q2
 ---
 
 # JPMorgan中国地产周度数据监控：端午假期扰动致销售转弱，一线城市挂牌量持续下降支撑房价企稳
@@ -17,6 +24,7 @@ tags: [jpmorgan, china-property, weekly-data, secondary-sales, listing-volume, 2
 JPMorgan 6月24日发布中国地产周度数据监控报告。本周受端午节三天假期影响，多项销售数据出现表面同比下滑，但扣除假期效应后实际动能仍然稳健。冰山指数10城实时二手成交同比微降0.05%（前值+13%），但与去年同期端午周相比实际+15%。更值得关注的是，一线城市二手挂牌量持续回落（环比-0.5%，较3月峰值累计-2.6%），上海单周再降1.1%，这是支撑二手房价持续企稳的关键边际变化。60城一手网签同比-23%同样受假期低基数干扰，12城二手网签中断了连续9周的同比正增长。香港方面房价再涨0.6% W/W，年初至今+10.4%已触及全年目标。
 
 ## 关键要点
+
 
 - 冰山10城二手周成交25055套，同比-0.05%（前值+13%），一线城市同比-3%（前值+14%）；扣除端午假期效应后10城/一线实际同比+15%/+10%
 - 一线城市二手挂牌量环比-0.5% W/W，较3月峰值累计下降2.6%；上海挂牌量再降1.1%（前值-0.6%），为连续多周下降

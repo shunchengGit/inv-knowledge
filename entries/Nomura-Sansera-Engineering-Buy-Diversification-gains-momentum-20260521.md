@@ -3,7 +3,8 @@ type: Analysis
 title: Nomura Sansera Engineering (SANSERA IN) — Diversification gains momentum (Buy)
 description: Nomura维持Sansera Engineering买入评级，目标价上调，认为公司业务多元化从汽车零部件向航空航天和工业领域拓展正获得动能
 timestamp: 2026-05-21 12:00:00+08:00
-resource: res/行业研究-汽车/2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf
+resource: res/行业研究-汽车/2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy)
+  - Diversification gai...-122164812.pdf
 source_type: pdf
 tags:
 - nomura
@@ -24,6 +25,7 @@ tags:
 Nomura发布Sansera Engineering研究报告，维持买入(Buy)评级并上调目标价。Sansera Engineering是印度领先的精密工程零部件制造商，传统业务聚焦汽车动力总成和传动系统零部件。报告核心观点是公司业务多元化战略正获得显著动能——从汽车零部件向航空航天和工业工程领域拓展成效显著。航空航天业务凭借印度本土航空制造需求增长和全球供应链重组机遇快速扩张；工业工程业务受益于印度基础设施投资周期。公司预计FY26-28E营收和EPS CAGR分别达到18%和22%，估值具有吸引力。
 
 ## 关键要点
+
 
 - 评级Buy，目标价上调（基于FY28E PE估值框架）
 - 航空航天业务成为第二大增长引擎，订单积压快速增长

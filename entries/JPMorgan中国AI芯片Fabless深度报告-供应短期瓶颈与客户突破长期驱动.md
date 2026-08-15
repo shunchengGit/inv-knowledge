@@ -2,10 +2,16 @@
 type: Analysis
 title: JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动
 description: JPMorgan首次覆盖中国AI芯片Fabless板块，预计40%单位CAGR至2030年，聚焦本土AI芯片国产替代
-timestamp: 2026-06-24T00:58:56.952724+08:00
-resource: res/行业研究-半导体/2026-04-07-JPMorgan-China AI Chip Fabless  Supply a short-term bottleneck, and C...-121196421.pdf
+timestamp: 2026-06-24 00:58:56.952724+08:00
+resource: res/行业研究-半导体/2026-04-07-JPMorgan-China AI Chip Fabless  Supply a short-term
+  bottleneck, and C...-121196421.pdf
 source_type: pdf
-tags: [jpmorgan, china-semiconductor, ai-chip, fabless, 2026-Q2]
+tags:
+- jpmorgan
+- china-semiconductor
+- ai-chip
+- fabless
+- 2026-Q2
 ---
 
 # JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动
@@ -19,6 +25,7 @@ JPMorgan预计中国本土AI芯片需求将以约40%的5年CAGR增长至2030年�
 CSP（云服务提供商）客户突破是中长期增长的关键驱动力。
 
 ## 关键要点
+
 
 - 预计中国本土AI芯片2026-2030年40%单位CAGR
 - 供应是最大瓶颈：先进制程代工受限，多数二线fabless需依赖库存维持6-12个月

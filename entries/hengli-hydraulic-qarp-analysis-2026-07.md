@@ -2,10 +2,15 @@
 type: Analysis
 title: 恒立液压601100.SH价值成长QARP深度分析
 description: 恒立液压是高精密液压泵阀与丝杠龙头，ROE稳定，但当前估值过贵（2025静态PE 50.8x，动态PE 39.5x），安全边际不足。
-timestamp: 2026-07-20T00:00:00+08:00
+timestamp: 2026-07-20 00:00:00+08:00
 resource: manual
 source_type: note
-tags: [hengli-hydraulic, valuation, profit-trend, competitive-advantage, 2026-07]
+tags:
+- hengli-hydraulic
+- valuation
+- profit-trend
+- competitive-advantage
+- 2026-07
 ---
 
 # 恒立液压601100.SH价值成长QARP深度分析
@@ -14,6 +19,7 @@ tags: [hengli-hydraulic, valuation, profit-trend, competitive-advantage, 2026-07
 恒立液压是高端精密制造和液压油缸龙头，具有极强的制造壁垒。2025年实现营收109.41亿元，归母净利润27.34亿元（+9.0%），加权ROE为16.63%（近3年均值17.4%）。高端液压泵阀在传统挖机和出海市场高增长，同时线性驱动（丝杠）切入人形机器人线性关节供应链，享有溢价。但当前估值极高：静态PE 50.8x，动态Forward PE 39.5x，PEG达1.4，5年价格分位89.4%显著透支，五档结论为合理偏高/高估，维持空仓等待，理想建仓位为75.0-80.0元（对应2026E PE 28-30x）。
 
 ## 关键要点
+
 - 精密液压主业毛利率常年维持在41%以上，低杠杆（资产负债率20.4%），资产质量极优。
 - 线性驱动项目行星滚柱丝杠和滚珠丝杠产能释放，为人形机器人及高精度机床关键进口替代环节。
 - 摩根士丹利（Morgan Stanley 2026-07）维持“超配”并给予目标价117.50元，但按悲观折价后已无溢价空间。

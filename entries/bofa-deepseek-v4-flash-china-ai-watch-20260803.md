@@ -2,10 +2,17 @@
 type: Analysis
 title: BofA中国AI观察：DeepSeek V4 Flash以低价后训练强化重塑模型竞争
 description: DeepSeek V4 Flash以每百万输入输出Token仅0.14和0.28美元实现全球领先编程与Agent性能，BofA判断其利空智谱与MiniMax、对腾讯中性并加剧阿里Qwen竞争。
-timestamp: 2026-08-03T00:00:00+08:00
-resource: res/行业研究-互联网/doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf
+timestamp: 2026-08-03 00:00:00+08:00
+resource: res/行业研究-互联网/doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet -
+  China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf
 source_type: pdf
-tags: [deepseek, china-internet, model-economics, competitive-landscape, technology-moat, 2026-Q3]
+tags:
+- deepseek
+- china-internet
+- model-economics
+- competitive-landscape
+- technology-moat
+- 2026-Q3
 ---
 
 # BofA中国AI观察：DeepSeek V4 Flash以低价后训练强化重塑模型竞争
@@ -14,6 +21,7 @@ tags: [deepseek, china-internet, model-economics, competitive-landscape, technol
 DeepSeek于2026年7月31日正式发布V4 Flash，在架构和参数量均与4月预览版相同的情况下，仅依靠后训练便显著提升Agent能力，说明模型竞争正从单纯参数扩张转向训练后优化与工具链整合。其每百万输入与输出Token定价分别仅0.14美元和0.28美元，却已跻身全球领先的编程及Agent模型，进一步抬高中国模型厂商“高能力、低价格”的竞争门槛。BofA认为阿里Qwen面临更强基准竞争但仍受益于算力需求增长，腾讯因分发与生态优势受影响中性，而尚未推出下一代旗舰的智谱和MiniMax承受增量压力。
 
 ## 关键要点
+
 - V4 Flash于2026年7月31日正式上线，沿用2026年4月预览版的架构与参数量，能力提升全部来自后训练而非参数扩张。
 - 尽管模型规模更小，V4 Flash的Agent基准已显著超过此前V4 Pro Preview，并进入全球顶尖编程与Agent模型行列。
 - API价格维持预览版水平：每百万输入Token 0.14美元、输出Token 0.28美元，显著低于中西方主流前沿模型。

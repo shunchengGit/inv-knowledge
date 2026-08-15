@@ -1,11 +1,19 @@
 ---
 type: Analysis
 title: MSFT NYC NDR反馈：Copilot成核心议题，FQ4席位或远超2500万 (BNP Paribas 6/11)
-description: BNP Paribas 6月11日微软纽约NDR反馈：Copilot超越Azure成为投资者最关注话题，FQ4 Copilot席位有望远超2500万+指引，定价模式正从纯席位向席位+消费混合模式演进，Azure GPU定价倾向优化效率而非全面提价
-timestamp: 2026-06-26T12:00:00+08:00
-resource: res/微软/2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback - Copilot Takes C...-122518685.pdf
+description: BNP Paribas 6月11日微软纽约NDR反馈：Copilot超越Azure成为投资者最关注话题，FQ4 Copilot席位有望远超2500万+指引，定价模式正从纯席位向席位+消费混合模式演进，Azure
+  GPU定价倾向优化效率而非全面提价
+timestamp: 2026-06-26 12:00:00+08:00
+resource: res/微软/2026-06-11-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft NYC NDR feedback
+  - Copilot Takes C...-122518685.pdf
 source_type: pdf
-tags: [microsoft, copilot, azure, pricing-model, capex, 2026-Q2]
+tags:
+- microsoft
+- copilot
+- azure
+- pricing-model
+- capex
+- 2026-Q2
 ---
 
 # MSFT NYC NDR反馈：Copilot成核心议题，FQ4席位或远超2500万
@@ -14,6 +22,7 @@ tags: [microsoft, copilot, azure, pricing-model, capex, 2026-Q2]
 BNP Paribas于6月10日在纽约为微软投资者关系团队举办投资者会议。Copilot超越Azure成为讨论核心，投资者聚焦于近期采用加速的驱动因素以及Copilot是否正进入新的货币化阶段。微软强调当前Copilot产品能力远超6-12个月前，NHS England 50万席位等大单表明客户正从小规模试点转向全组织推广。结合FQ4客户续约季节性利好、使用量上升和更成熟的GTM动作，BNPP认为FQ4 Copilot席位可能远超2500万+指引。微软反复提及定价模式正从纯席位向"席位+消费"混合模式演进（类似GitHub Copilot转型），以应对agentic工作负载更高的计算强度。
 
 ## 关键要点
+
 - **Copilot超越Azure成NDR核心话题**：投资者关注近期采用加速的驱动因素，微软归因于产品能力显著提升（vs 6-12月前）、更有效的客户触达以及大客户从小规模试点向全组织推广的转变
 - **FQ4 Copilot席位有望远超2500万+**：NHS England 50万席位等大单验证规模化趋势，叠加FQ4客户续约季节性利好、使用量上升和更成熟的GTM动作
 - **定价模式向"席位+消费"混合转型**：微软反复引用GitHub Copilot从纯席位到席位+消费的演进，暗示M365 Copilot也将跟进，以更好对齐agentic工作负载的高计算强度

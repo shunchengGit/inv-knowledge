@@ -1,6 +1,11 @@
 # morgan-stanley
 
+- [Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高，后端供应成新瓶颈](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Analysis
+- [Google I/O 2026发布Gemini Spark个人AI代理，随后宣布$300亿资本募资](entries/Google-Agentic-IO-Capital-Raise-MS-HSBC-UBS-202605-06.md) — Analysis
+- [Hubbell 30亿美元收购NSI Industries：强化电气化与数据中心布局](entries/HubbellNSI收购与电气化分析.md) — Analysis
+- [Meta裁员10%与Neocloud选择权(Morgan Stanley)](entries/Meta-Headcount-MS-20260517.md) — Analysis
 - [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Analysis
+- [Morgan Stanley: ETN Under-Appreciated Transformation](entries/Morgan-Stanley-ETN-Under-Appreciated-Transformation.md) — Note
 - [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — Analysis
 - [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Analysis
 - [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Analysis
@@ -12,5 +17,8 @@
 - [MS中国地产7月跟踪：百强房企销售同比降11%，国企与民企分化加剧](entries/MS中国地产7月跟踪-百强房企销售同比降11-国企民企分化加剧.md) — Analysis
 - [MS中国金融跟踪：工业信用去风险趋势延续，工业需求增速显著快于供给](entries/MS中国金融跟踪-工业信用去风险趋势延续-需求增速快于供给.md) — Analysis
 - [MS亚洲宏观与工业：亚洲迎来20年来最强工业资本开支超级周期](entries/MS亚洲宏观与工业-亚洲迎来20年来最强工业资本开支超级周期.md) — Analysis
+- [地平线机器人发布Starry舱驾融合芯片，3Q26 SOP](entries/地平线机器人舱驾融合分析.md) — Analysis
+- [工业富联AI服务器持续驱动增长：MS维持OW，1Q26营收增57%](entries/工业富联AI服务器分析.md) — Analysis
 - [摩根士丹利中国工业中报展望：资本支出强劲与机器人商业化起航](entries/ms-china-industrials-mid-year-outlook-2026-07.md) — Reference
 - [摩根士丹利中国房地产周度监测：新房成交同比反弹，去化率显著改善](entries/ms-china-property-weekly-2026-07.md) — Analysis
+- [汇川技术综合投行分析：自动化订单强劲但NEV拖累1Q26](entries/汇川技术多投行综合分析.md) — Analysis

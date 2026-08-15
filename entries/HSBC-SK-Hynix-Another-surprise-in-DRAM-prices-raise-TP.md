@@ -1,11 +1,18 @@
 ---
 type: Analysis
 title: 'HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M'
-description: HSBC维持Buy评级，TP从KRW 1,800,000上调至2,900,000。DRAM服务器和移动端价格均超预期，2Q26 OP预测上调14%至KRW 65tn。通用服务器需求爆发（AI:非AI比例从4-8:1趋近1:1），CSP Capex大幅增长。
-timestamp: 2026-06-24T21:32:00+08:00
-resource: res/SK海力士/2026-05-11-000660.KS-HSBC Global Investme-SK Hynix (000660 KP) Buy Another surprise in DRAM prices-121974472.pdf
+description: HSBC维持Buy评级，TP从KRW 1,800,000上调至2,900,000。DRAM服务器和移动端价格均超预期，2Q26 OP预测上调14%至KRW
+  65tn。通用服务器需求爆发（AI:非AI比例从4-8:1趋近1:1），CSP Capex大幅增长。
+timestamp: 2026-06-24 21:32:00+08:00
+resource: res/SK海力士/2026-05-11-000660.KS-HSBC Global Investme-SK Hynix (000660 KP)
+  Buy Another surprise in DRAM prices-121974472.pdf
 source_type: pdf
-tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
+tags:
+- sk-hynix
+- profit-trend
+- valuation
+- competitive-advantage
+- 2026-Q1
 ---
 
 # HSBC: SK Hynix — Another Surprise in DRAM Prices
@@ -17,6 +24,7 @@ tags: [sk-hynix, profit-trend, valuation, competitive-advantage, 2026-Q1]
 HSBC维持SK海力士Buy，目标价从KRW 1,800,000大幅上调至KRW 2,900,000（+54%）。核心催化剂：通用服务器DRAM需求爆发，AI服务器与通用服务器的比例从4-8:1快速趋于1:1。2Q26 OP上调14%至KRW 65tn，2026全年OP上调13%至KRW 265tn。HBM3e价格回升、SO-CAMM2增长提供额外ASP支撑。CSP 2026年Capex预期USD 640bn（+70% YoY）。
 
 ## 关键要点
+
 - 2Q26 OP预计KRW 65tn（+73% q-q/+606% y-y），较此前预测高14%
 - 2Q26营收预计KRW 80tn（+52% q-q/+260% y-y）
 - 2026全年OP上调13%至KRW 265tn（+460% y-y），营收上调至KRW 329tn（+238% y-y）

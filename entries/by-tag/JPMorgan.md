@@ -1,8 +1,11 @@
 # jpmorgan
 
+- [Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高，后端供应成新瓶颈](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Analysis
+- [Broadcom/JPMorgan：TPU v9 2nm ASIC按计划CY28量产——无延迟，锁定后续4代TPU](entries/AVGO-JPM-TPUv9-2nm-ASIC-CY28.md) — Analysis
 - [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — Analysis
 - [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — Analysis
 - [JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调](entries/JPMorgan-Greater-China-Data-Watch-6-22-中国宏观走弱-南亚塑胶与力积电评级上调.md) — Analysis
+- [JPMorgan: ETN 1Q Wrap and Model Update](entries/JPMorgan-ETN-1Q-Wrap-and-Model-Update.md) — Note
 - [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — Analysis
 - [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — Analysis
 - [JPMorgan中国地产周度数据监控：端午假期扰动致销售转弱，一线城市挂牌量持续下降支撑房价企稳](entries/jpm-china-property-weekly-data-2026-06.md) — Analysis
@@ -11,3 +14,10 @@
 - [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — Analysis
 - [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — Analysis
 - [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — Analysis
+- [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — Analysis
+- [Meta 1Q26业绩超预期但资本开支大幅上调，多空观点激烈交锋](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Analysis
+- [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — Analysis
+- [万国数据AI需求爆发：三年Capex 300-500亿元，订单创纪录](entries/万国数据AI驱动数据中心分析.md) — Analysis
+- [汇川技术综合投行分析：自动化订单强劲但NEV拖累1Q26](entries/汇川技术多投行综合分析.md) — Analysis
+- [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — Analysis
+- [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — Analysis
