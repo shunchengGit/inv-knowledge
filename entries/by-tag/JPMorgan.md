@@ -18,6 +18,7 @@
 - [Meta 1Q26业绩超预期但资本开支大幅上调，多空观点激烈交锋](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Analysis
 - [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — Analysis
 - [万国数据AI需求爆发：三年Capex 300-500亿元，订单创纪录](entries/万国数据AI驱动数据中心分析.md) — Analysis
+- [小摩中国房地产异动点评：无实质利好下的5%脉冲反弹，存量博弈短命反弹与国企Alpha策略](entries/jpm-china-property-curious-share-price-rally-2026-08.md) — Analysis
 - [汇川技术综合投行分析：自动化订单强劲但NEV拖累1Q26](entries/汇川技术多投行综合分析.md) — Analysis
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — Analysis
 - [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — Analysis
