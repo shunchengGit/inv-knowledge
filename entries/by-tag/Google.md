@@ -7,3 +7,4 @@
 - [MetaxGoogle反垄断诉讼专家电话会(Jefferies)](entries/Meta-Google-Antitrust-Lawsuit-Jefferies-20260416.md) — Analysis
 - [Reddit 2Q26广告高增长与Google搜索流量风险再平衡](entries/reddit-jpm-q2-2026-advertising-search-traffic.md) — Analysis
 - [WWDC 2026：Apple新Siri由Gemini驱动(UBS)](entries/WWDC-Apple-Siri-Gemini-UBS-20260608.md) — Analysis
+- [大摩北美互联网估值周报：AI动能积聚下的估值折价，SBC现金化对EV/EBITDA真实倍数重估](entries/ms-north-america-internet-valuation-update-2026-08.md) — Analysis

@@ -19,6 +19,7 @@
 - [MS亚洲宏观与工业：亚洲迎来20年来最强工业资本开支超级周期](entries/MS亚洲宏观与工业-亚洲迎来20年来最强工业资本开支超级周期.md) — Analysis
 - [地平线机器人发布Starry舱驾融合芯片，3Q26 SOP](entries/地平线机器人舱驾融合分析.md) — Analysis
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis
+- [大摩北美互联网估值周报：AI动能积聚下的估值折价，SBC现金化对EV/EBITDA真实倍数重估](entries/ms-north-america-internet-valuation-update-2026-08.md) — Analysis
 - [工业富联AI服务器持续驱动增长：MS维持OW，1Q26营收增57%](entries/工业富联AI服务器分析.md) — Analysis
 - [摩根士丹利中国工业中报展望：资本支出强劲与机器人商业化起航](entries/ms-china-industrials-mid-year-outlook-2026-07.md) — Reference
 - [摩根士丹利中国房地产周度监测：新房成交同比反弹，去化率显著改善](entries/ms-china-property-weekly-2026-07.md) — Analysis
