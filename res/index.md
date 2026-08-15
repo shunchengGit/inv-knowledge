@@ -294,6 +294,7 @@
 - [2026-06-22-JPMorgan-China Property Why the recent share price weakness-122692937.pdf](行业研究-房地产/2026-06-22-JPMorgan-China Property Why the recent share price weakness-122692937.pdf)
 - [2026-06-23-JPMorgan-Property Data Monitor Mainland China weekly sales turn wors...-122723384.pdf](行业研究-房地产/2026-06-23-JPMorgan-Property Data Monitor Mainland China weekly sales turn wors...-122723384.pdf)
 - [2026-07-06-Morgan Stanley-China Property Weekly Database Tracker #27-122979426.undefined.pdf](行业研究-房地产/2026-07-06-Morgan Stanley-China Property Weekly Database Tracker #27-122979426.undefined.pdf)
+- [2026-08-12-JPMorgan-China Property A curious share price rally-123796926.pdf](行业研究-房地产/2026-08-12-JPMorgan-China Property A curious share price rally-123796926.pdf)
 - [BofA-China-Property-Conference-Call-2026-06-22.pdf](行业研究-房地产/BofA-China-Property-Conference-Call-2026-06-22.pdf)
 
 ## 行业研究-新能源
