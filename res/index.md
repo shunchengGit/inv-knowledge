@@ -254,6 +254,7 @@
 - [2026-06-18-JPMorgan-China Food Delivery Not Just a Soft Draft Disclosure Rules ...-122636767.pdf](行业研究-互联网/2026-06-18-JPMorgan-China Food Delivery Not Just a Soft Draft Disclosure Rules ...-122636767.pdf)
 - [2026-06-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – May 2026-122811657.pdf](行业研究-互联网/2026-06-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – May 2026-122811657.pdf)
 - [2026-07-13-0700.HK-Nomura-China Internet  New Media - Takeaways from a short drama pl...-123128877.pdf](行业研究-互联网/2026-07-13-0700.HK-Nomura-China Internet  New Media - Takeaways from a short drama pl...-123128877.pdf)
+- [2026-08-11-Morgan Stanley-Internet Where Are We Trading Now AI Momentum Building-123785181.pdf](行业研究-互联网/2026-08-11-Morgan Stanley-Internet Where Are We Trading Now AI Momentum Building-123785181.pdf)
 - [2026-08-12-Morgan Stanley-Internet How Could Open-Weight Models Impact GenAI ROIC-123797326.pdf](行业研究-互联网/2026-08-12-Morgan Stanley-Internet How Could Open-Weight Models Impact GenAI ROIC-123797326.pdf)
 - [doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf](行业研究-互联网/doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf)
 - [doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf](行业研究-互联网/doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf)
