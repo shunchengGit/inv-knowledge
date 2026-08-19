@@ -231,6 +231,7 @@
 - [2026-07-13-0700.HK-Nomura-Tencent Holdings (700 HK) (Buy) - 2Q26F margin likely under...-123124523.pdf](腾讯控股/2026-07-13-0700.HK-Nomura-Tencent Holdings (700 HK) (Buy) - 2Q26F margin likely under...-123124523.pdf)
 - [2026-08-12-0700.HK-Deutsche Bank-Tencent Clearer AI strategy  accelerated execution-123796968.pdf](腾讯控股/2026-08-12-0700.HK-Deutsche Bank-Tencent Clearer AI strategy  accelerated execution-123796968.pdf)
 - [2026-08-13-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy Better AI outlook-123797024.pdf](腾讯控股/2026-08-13-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy Better AI outlook-123797024.pdf)
+- [2026-08-13-0700.HK-UBS Equities-First Read Tencent Holdings _2Q26 inline; Patience needed t...-123797061.pdf](腾讯控股/2026-08-13-0700.HK-UBS Equities-First Read Tencent Holdings _2Q26 inline; Patience needed t...-123797061.pdf)
 - [20260313-申万宏源-腾讯控股-0700.HK-AI时代核心受益者，超级入口与生态壁垒的再进化（腾讯控股深度之三）.pdf](腾讯控股/20260313-申万宏源-腾讯控股-0700.HK-AI时代核心受益者，超级入口与生态壁垒的再进化（腾讯控股深度之三）.pdf)
 - [20260410-华泰证券-腾讯控股-0700.HK-AI布局和云业务迎来拐点.pdf](腾讯控股/20260410-华泰证券-腾讯控股-0700.HK-AI布局和云业务迎来拐点.pdf)
 
