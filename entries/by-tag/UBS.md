@@ -9,5 +9,6 @@
 - [地平线机器人发布Starry舱驾融合芯片，3Q26 SOP](entries/地平线机器人舱驾融合分析.md) — Analysis
 - [澜起科技1Q26业绩超预期：毛利率强劲改善，AI互联需求旺盛](entries/澜起科技AI互联分析.md) — Analysis
 - [瑞银全球汽车行业巡礼：中国EV与AD供应链的核心发现与机器人机遇](entries/ubs-china-ev-ad-flagship-tour-takeaways-2026-07.md) — Reference
+- [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — Analysis
 - [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — Analysis

@@ -31,7 +31,9 @@
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — Analysis
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
+- [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
+- [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
 - [福耀玻璃2026H1深度复盘：经营小幅超预期，汇兑与H2增速要求构成约束](entries/fuyao-glass-2026-h1-results-expectation-valuation-analysis.md) — Synthesis
 - [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis
