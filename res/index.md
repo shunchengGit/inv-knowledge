@@ -114,6 +114,7 @@
 - [2026-04-26-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd 1Q26 Revenue, PPOP and profit growt...-121638787.undefined.pdf](宁波银行/2026-04-26-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd 1Q26 Revenue, PPOP and profit growt...-121638787.undefined.pdf)
 - [2026-04-27-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q126 a clean beat; sizable divid...-121640444.pdf](宁波银行/2026-04-27-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q126 a clean beat; sizable divid...-121640444.pdf)
 - [2026-07-25-002142.SZ-Zhongtai Securities-宁波银行-宁波银行系列报告之一丨客群篇： 如何理解“大银行做不好，小银行做不了”-07252026-123408680.pdf](宁波银行/2026-07-25-002142.SZ-Zhongtai Securities-宁波银行-宁波银行系列报告之一丨客群篇： 如何理解“大银行做不好，小银行做不了”-07252026-123408680.pdf)
+- [nbcb_2026H1.pdf](宁波银行/nbcb_2026H1.pdf)
 
 ## 安克创新
 - [2026062300038_c.pdf](安克创新/2026062300038_c.pdf)
