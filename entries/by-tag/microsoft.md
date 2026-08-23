@@ -17,3 +17,4 @@
 - [微软FQ4 2026双引擎AI变现与云资本回报率验证](entries/MSFT-FQ4-26-HSBC-双引擎AI变现与回报率.md) — Analysis
 - [微软FQ4’26财报后分析：Azure超预期与资本开支上限逐步清晰](entries/微软FQ4-26财报后分析-Azure超预期与资本开支上限-BNP-Paribas.md) — Analysis
 - [微软FQ4’26财报后分析：Azure预测上修与利润率韧性构成制胜公式](entries/微软FQ4-26财报后分析-Azure上修与利润率韧性-UBS.md) — Analysis
+- [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
