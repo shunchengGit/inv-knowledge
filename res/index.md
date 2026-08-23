@@ -152,6 +152,7 @@
 - [2026-07-26-MSFT.OQ-UBS Equities-Microsoft Corp. _Update on Azure, Capex and M365_ (Buy) Keir...-123405553.pdf](微软/2026-07-26-MSFT.OQ-UBS Equities-Microsoft Corp. _Update on Azure, Capex and M365_ (Buy) Keir...-123405553.pdf)
 - [2026-07-29-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 First Take Finally finding the growt...-123473953.pdf](微软/2026-07-29-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 First Take Finally finding the growt...-123473953.pdf)
 - [2026-07-30-MSFT.OQ-UBS Equities-Microsoft Corp. _Winning Formula – Azure Estimates Up, Capex...-123488392.pdf](微软/2026-07-30-MSFT.OQ-UBS Equities-Microsoft Corp. _Winning Formula – Azure Estimates Up, Capex...-123488392.pdf)
+- [2026-07-31-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 Postview Full stack AI strategy succ...-123502738.pdf](微软/2026-07-31-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 Postview Full stack AI strategy succ...-123502738.pdf)
 
 ## 恒瑞医药
 - [2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf](恒瑞医药/2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf)
