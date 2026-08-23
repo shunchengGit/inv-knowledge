@@ -332,6 +332,7 @@
 ## 行业研究-汽车
 - [2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf](行业研究-汽车/2026-05-21-SASE.NS-Nomura-Sansera Engineering (SANSERA IN) (Buy) - Diversification gai...-122164812.pdf)
 - [2026-07-06-UBS-Equities-Pole-Position-European-US-Autos-Daily.pdf](行业研究-汽车/2026-07-06-UBS-Equities-Pole-Position-European-US-Autos-Daily.pdf)
+- [2026-08-20-1810.HK-Deutsche Bank-China Autos  Auto Technology From Made in China to Made in...-123959227.pdf](行业研究-汽车/2026-08-20-1810.HK-Deutsche Bank-China Autos  Auto Technology From Made in China to Made in...-123959227.pdf)
 - [BofA-Greater-China-EV-Future-Car-2026-06-18.pdf](行业研究-汽车/BofA-Greater-China-EV-Future-Car-2026-06-18.pdf)
 - [doc_0d3dec90baa7_2026-07-30-UBS Equities-China Auto Supply Chain _Breaking up the whole into parts w...-123482072.pdf](行业研究-汽车/doc_0d3dec90baa7_2026-07-30-UBS Equities-China Auto Supply Chain _Breaking up the whole into parts w...-123482072.pdf)
 - [doc_16b4b4458e4d_2026-08-03-BofA Global Research-Greater China Auto, EV and EV battery (H) 2Q261H26 preview...-123591446.pdf](行业研究-汽车/doc_16b4b4458e4d_2026-08-03-BofA Global Research-Greater China Auto, EV and EV battery (H) 2Q261H26 preview...-123591446.pdf)
