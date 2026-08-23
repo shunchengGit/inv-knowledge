@@ -43,6 +43,7 @@
 - [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — JPMorgan全球房地产研究团队每日新闻和研究摘要，涵盖中国地产行业动态
 - [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — JPMorgan分析4月WSTS半导体销售数据，同比增速再创新高，AI芯片和存储是主要驱动力
 - [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — JPM 6/23分析：中国地产股4个交易日跑输恒指9%，CRL/COLI单周跌11%；一线城市房价连续4个月环比正增长（NBS二手+0.3%/中原+0.3% MoM），9城冰山指数二手成交+15% YoY；维持SOE开发商择低买入建议
+- [JPM亚洲电力设备：全球二季度订单验证长周期景气](entries/JPM亚洲电力设备-全球二季度订单验证长周期景气.md) — 全球主要电气设备企业超过75%上调收入或利润指引，订单与积压普遍向好；JPM预计美国输配电投资本十年维持双位数增长，2030年后全球燃机供给约95GW仍低于110-120GW年需求。
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Macquarie维持Outperform，TP上调61%至KRW 2,900,000（6x 2027E PE）。存储器短缺将持续恶化，HBM 2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。
 - [Meta 1Q26业绩超预期但资本开支大幅上调，多空观点激烈交锋](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Meta 1Q26营收$56.3bn(+29% y/y)超预期，但大幅上调2026年资本开支指引$100亿至$1,250-1,450亿，并预告2027年capex将增长42%至$2,020亿，导致FCF转负。BofA维持Buy(目标$835)，DB强调广告ROI改善，JPMorgan下调至Neutral(目标$725)。核心分歧在于AI巨额投资回报可见度。
 - [MetaxGoogle反垄断诉讼专家电话会(Jefferies)](entries/Meta-Google-Antitrust-Lawsuit-Jefferies-20260416.md) — Jefferies邀请反垄断专家Glenn Manishin(曾参与AT&T和微软反垄断案)解读Meta/Google近期反垄断诉讼进展，分析可能的判决结果及对科技巨头的行业影响。
@@ -109,6 +110,7 @@
 - [地平线机器人发布Starry舱驾融合芯片，3Q26 SOP](entries/地平线机器人舱驾融合分析.md) — 地平线机器人发布5nm Starry 6P(650 TOPS)舱驾融合SoC，3Q26 SOP首发奇瑞iCar，成本较传统方案省5000元/车，MS维持OW/TP 10港元，UBS维持买入/TP 13.2港元
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — 大摩测算在开源模型带动Token价格降至$1.75/M背景下，1GW GB300集群通过2000-3500 token/s吞吐量提升及核心云基础设施Attach，云厂商仍可实现23-39% ROIC，算力稀缺与低服务成本构成核心护城河。
 - [大摩北美互联网估值周报：AI动能积聚下的估值折价，SBC现金化对EV/EBITDA真实倍数重估](entries/ms-north-america-internet-valuation-update-2026-08.md) — 大摩北美互联网监测显示板块上涨5%，大厂估值（AMZN 20x、GOOGL 17x、META 19x '26 EPS）较历史均值折价20-34%；将股权激励（SBC）视作现金支出测算后，数字媒体与电商EV/EBITDA平均提升30-36%，维持行业吸引力评级。
+- [大摩科技硬件月报：应用商店转弱但云资本开支再上修](entries/大摩科技硬件月报-应用商店转弱但云资本开支再上修.md) — 2026年8月App Store净收入月内同比下降0.6%、四年来首次转负，7月笔记本ODM产量同比下降24%；但大摩将2027年云资本开支增速上修9个百分点至38%，微软预测增加75亿美元。
 - [太空探索技术公司扩产揭示二〇二七年图形处理器短缺与新云机会](entries/太空探索技术公司扩产揭示二〇二七年图形处理器短缺与新云机会.md) — 八家云与算力提供商二〇二七年或需英伟达支持逾22吉瓦新增容量，而市场收入预期仅隐含约19吉瓦交付，缺口约17%；供给紧张可维持每吉瓦300亿至500亿美元收入和不足一年回收期，但微软也面临图形处理器配额被挤占的风险。
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — 宁波银行2026Q1营收+10.2% YoY，净利润+10.3% YoY，NIM环比回升5bps至1.73%，贷款+15.7% YoY持续市占率提升，资产质量稳定(NPL 0.76%)，MS目标价45元对应0.87x 2026E P/B
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — 宁波银行2026Q1营收/净利润+10.2%/+10.3%超预期，NIM环比+5bps至1.73%，手续费收入+81.7% YoY，2025年分红率从21.9%大幅提升至27.0%，股息率3.7%
@@ -124,6 +126,7 @@
 - [微软FQ4’26财报后分析：Azure预测上修与利润率韧性构成制胜公式](entries/微软FQ4-26财报后分析-Azure上修与利润率韧性-UBS.md) — 微软FQ4’26营收900亿美元、Azure固定汇率增长43%，FQ1’27指引45%；UBS将FY27每股收益由19.26美元上调至19.68美元、目标价由480美元升至525美元，并认为1900亿美元同口径CY26资本开支未再上调与FY27利润率降幅小于100基点共同确认AI变现质量。
 - [德银中国NEV周度新订单监控（2026年6月第3周）](entries/db-china-nev-weekly-orders-2026-06.md) — Deutsche Bank发布中国新能源车周度新订单监控周报（2026年6月23日），基于Thinkercar数据追踪比亚迪、吉利、HIMA、理想、蔚来、小鹏、零跑、小米、特斯拉等关键车企的周度新订单趋势，为NEV需求领先指标
 - [德银中国NEV周度新订单监控（2026年7月第1周）](entries/db-china-nev-weekly-orders-2026-07.md) — Deutsche Bank发布中国新能源车周度新订单监控（2026年7月7日），基于Thinkercar数据追踪比亚迪、吉利、HIMA（问界）、理想、蔚来、小鹏、零跑、小米及特斯拉等关键车企周度新订单趋势，反映7月首周高频需求领先指标
+- [德银中国汽车欧洲本地化：福耀现有产能构成先发优势](entries/德银中国汽车欧洲本地化-福耀现有产能构成先发优势.md) — 中国车企欧洲份额由2020年1月的0.2%升至2026年6月的9.8%，德银预计2030年前后本地化成熟后长期份额可达接近20%；福耀凭德国、匈牙利和斯洛伐克加工设施及汽车玻璃暂未纳入IAA强制原产地门槛而成为首选供应商。
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — 腾讯2Q26实现营收2048亿元（+11% YoY），Non-IFRS净利684亿元（+9% YoY）；单季Capex同比大增176%至593亿元加速AI基建；混元Hy3、WorkBuddy与微信小微全面落地，德银维持买入评级与目标价760港元。
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — 谷歌2Q26营收1200亿美元（+24% YoY），Google Cloud营收248亿美元（+82% YoY，利润率升至35.6%），积压订单达5140亿美元；德银指出市场过度聚焦Capex上调（I）而忽视高ROI（R），维持买入评级与目标价430美元。
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — 恒瑞医药与BMS签订涵盖13个早期项目的全球战略合作，潜在总价值US$152亿（6亿首付款），为中国药企第二大license-out交易；JPM维持A股OW（PT Rmb70）/H股Neutral（PT HK$70）

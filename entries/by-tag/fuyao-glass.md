@@ -1,6 +1,7 @@
 # fuyao-glass
 
 - [BofA大中华汽车零部件2026年7月复盘：业绩预期消化、人形机器人情绪转弱](entries/BofA大中华汽车零部件2026年7月复盘-业绩预期消化人形机器人情绪转弱.md) — Analysis
+- [德银中国汽车欧洲本地化：福耀现有产能构成先发优势](entries/德银中国汽车欧洲本地化-福耀现有产能构成先发优势.md) — Analysis
 - [福耀玻璃2026H1深度复盘：经营小幅超预期，汇兑与H2增速要求构成约束](entries/fuyao-glass-2026-h1-results-expectation-valuation-analysis.md) — Synthesis
 - [福耀玻璃2026年半年报：Q2毛利率40.17%，汇兑掩盖经营韧性](entries/fuyao-glass-2026-h1-official-results.md) — Reference
 - [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
