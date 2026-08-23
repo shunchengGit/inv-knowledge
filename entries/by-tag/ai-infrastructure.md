@@ -5,3 +5,4 @@
 - [MSFT NDR前瞻10问：Copilot进展、GPU定价权与AI基础设施融资 (BNP Paribas 6/9)](entries/MSFT-NDR前瞻10问-Copilot进展-GPU定价权与AI基础设施融资-BNP-Paribas-6-9.md) — Analysis
 - [MS亚洲宏观与工业：亚洲迎来20年来最强工业资本开支超级周期](entries/MS亚洲宏观与工业-亚洲迎来20年来最强工业资本开支超级周期.md) — Analysis
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis
+- [太空探索技术公司扩产揭示二〇二七年图形处理器短缺与新云机会](entries/太空探索技术公司扩产揭示二〇二七年图形处理器短缺与新云机会.md) — Analysis

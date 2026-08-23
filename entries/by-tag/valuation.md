@@ -15,6 +15,7 @@
 - [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Reference
 - [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Reference
 - [东方电气01072.HK价值成长QARP深度分析](entries/dongfang-electric-qarp-analysis-2026-07.md) — Analysis
+- [云计算经济性基准显示微软云兼具回报韧性与估值吸引力](entries/云计算经济性基准显示微软云兼具回报韧性与估值吸引力.md) — Analysis
 - [双环传动002472.SZ价值成长QARP深度分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — Analysis
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — Synthesis
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — Analysis

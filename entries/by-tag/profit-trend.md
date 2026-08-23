@@ -30,6 +30,10 @@
 - [宁波银行2026年半年报：营收利润双位数增长，中收增长54%](entries/宁波银行2026年半年报-营收利润双位数增长-中收增长54.md) — Reference
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
+- [微软FQ4 2026全栈AI变现提速与资本纪律重建](entries/MSFT-FQ4-26-BNP-全栈AI变现与资本纪律.md) — Analysis
+- [微软FQ4 2026双引擎AI变现与云资本回报率验证](entries/MSFT-FQ4-26-HSBC-双引擎AI变现与回报率.md) — Analysis
+- [微软FQ4’26财报后分析：Azure超预期与资本开支上限逐步清晰](entries/微软FQ4-26财报后分析-Azure超预期与资本开支上限-BNP-Paribas.md) — Analysis
+- [微软FQ4’26财报后分析：Azure预测上修与利润率韧性构成制胜公式](entries/微软FQ4-26财报后分析-Azure上修与利润率韧性-UBS.md) — Analysis
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持](entries/毛戈平JPM-增长可见性高-管理层承诺不减持.md) — Analysis
