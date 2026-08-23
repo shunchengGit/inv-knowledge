@@ -337,6 +337,9 @@
 - [doc_16b4b4458e4d_2026-08-03-BofA Global Research-Greater China Auto, EV and EV battery (H) 2Q261H26 preview...-123591446.pdf](行业研究-汽车/doc_16b4b4458e4d_2026-08-03-BofA Global Research-Greater China Auto, EV and EV battery (H) 2Q261H26 preview...-123591446.pdf)
 - [doc_82096f359922_2026-08-05-BofA Global Research-Greater China Auto Parts (H) July wrap 2Q26 results expect...-123641581.pdf](行业研究-汽车/doc_82096f359922_2026-08-05-BofA Global Research-Greater China Auto Parts (H) July wrap 2Q26 results expect...-123641581.pdf)
 
+## 行业研究-电力设备
+- [2026-08-19-JPMorgan-Asia Power Equipment Key Learnings from Global Electrical Co...-123950557.pdf](行业研究-电力设备/2026-08-19-JPMorgan-Asia Power Equipment Key Learnings from Global Electrical Co...-123950557.pdf)
+
 ## 行业研究-科技硬件
 - [2026-05-26-Morgan Stanley-IT Hardware What Lenovos Results Mean for US Enterprise Ha...-122233036.undefined.pdf](行业研究-科技硬件/2026-05-26-Morgan Stanley-IT Hardware What Lenovos Results Mean for US Enterprise Ha...-122233036.undefined.pdf)
 - [2026-05-27-Morgan Stanley-Investor Presentation Greater China Technology Hardware Ho...-122271307.undefined.pdf](行业研究-科技硬件/2026-05-27-Morgan Stanley-Investor Presentation Greater China Technology Hardware Ho...-122271307.undefined.pdf)
