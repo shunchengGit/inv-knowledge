@@ -67,6 +67,9 @@
 ## 三花智控
 - [2026-07-16-Deutsche-Bank-APAC-Industrials-Foreign-shareholding-quarterly-watch-2Q26.pdf](三花智控/2026-07-16-Deutsche-Bank-APAC-Industrials-Foreign-shareholding-quarterly-watch-2Q26.pdf)
 
+## 世界先进
+- [2026-08-04-5347.TWO-Nomura-Vanguard (5347 TT) (Buy) - Higher pricing to bolster 2027F p...-123609609.pdf](世界先进/2026-08-04-5347.TWO-Nomura-Vanguard (5347 TT) (Buy) - Higher pricing to bolster 2027F p...-123609609.pdf)
+
 ## 东方电气
 - [2026-04-30-600875.SS-Macquarie Research-One‑off support masks order weakness-121717458.pdf](东方电气/2026-04-30-600875.SS-Macquarie Research-One‑off support masks order weakness-121717458.pdf)
 - [2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf](东方电气/2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf)
