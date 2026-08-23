@@ -40,6 +40,8 @@
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis
 - [福耀玻璃2Q26前瞻：毛利率表现稳健，汇兑影响表观业绩（UBS 7/2）](entries/fuyao-glass-2q26-ubs-preview.md) — Analysis
 - [福耀玻璃BofA 1Q26：EBIT超预期10%，ASP增长11%驱动](entries/福耀玻璃BofA-1Q26-EBIT超预期10-ASP增长11-驱动.md) — Analysis
+- [福耀玻璃JPMorgan 2Q26业绩快评：销量承压但毛利率创新高](entries/福耀玻璃JPMorgan-2Q26业绩快评-销量承压但毛利率创新高.md) — Analysis
+- [福耀玻璃JPMorgan 2Q26会后更新：最差已过但催化剂仍不足](entries/福耀玻璃JPMorgan-2Q26会后更新-最差已过但催化剂仍不足.md) — Analysis
 - [福耀玻璃：汽车大盘弱势充分计价，下半年基本面将底部修复（HSBC 7/22）](entries/fuyao-glass-2q26-hsbc-analysis.md) — Analysis
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis
