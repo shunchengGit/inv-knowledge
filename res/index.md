@@ -108,6 +108,9 @@
 - [2026-08-10-2330.TW-JPMorgan-TSMC July sales on track; 3Q26 to reach mid-high-end of the ...-123739165.pdf](台积电/2026-08-10-2330.TW-JPMorgan-TSMC July sales on track; 3Q26 to reach mid-high-end of the ...-123739165.pdf)
 - [2026-08-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _July sal...-123733389.pdf](台积电/2026-08-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _July sal...-123733389.pdf)
 - [2026-08-18-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Capital appropriatio...-123903884.pdf](台积电/2026-08-18-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Capital appropriatio...-123903884.pdf)
+- [tsmc-2026-q2-earnings-release.pdf](台积电/tsmc-2026-q2-earnings-release.pdf)
+- [tsmc-2026-q2-official-6k.pdf](台积电/tsmc-2026-q2-official-6k.pdf)
+- [tsmc-2026-q2-presentation.pdf](台积电/tsmc-2026-q2-presentation.pdf)
 
 ## 地平线机器人
 - [2026-04-22-9660.HK-Morgan Stanley-Horizon Robotics A Starry Debut - Integrated Smart Cockpit-...-121572319.pdf](地平线机器人/2026-04-22-9660.HK-Morgan Stanley-Horizon Robotics A Starry Debut - Integrated Smart Cockpit-...-121572319.pdf)
