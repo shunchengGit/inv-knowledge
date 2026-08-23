@@ -201,6 +201,7 @@
 - [2026-07-22-600660.SS-HSBC Global Investme-Fuyao Glass Industry (3606 HK600660 CH) BuyBuy Weak auto ...-123311840.pdf](福耀玻璃/2026-07-22-600660.SS-HSBC Global Investme-Fuyao Glass Industry (3606 HK600660 CH) BuyBuy Weak auto ...-123311840.pdf)
 - [2026-07-22-HSBC-Fuyao-Glass-Holdings.pdf](福耀玻璃/2026-07-22-HSBC-Fuyao-Glass-Holdings.pdf)
 - [2026-08-18-600660.SS-JPMorgan-Fuyao Glass - H 2Q26 in-line; GPM a record high despite slug...-123917725.pdf](福耀玻璃/2026-08-18-600660.SS-JPMorgan-Fuyao Glass - H 2Q26 in-line; GPM a record high despite slug...-123917725.pdf)
+- [2026-08-18-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 2Q26 Core Earnings in Line, GPM ...-123913062.pdf](福耀玻璃/2026-08-18-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 2Q26 Core Earnings in Line, GPM ...-123913062.pdf)
 - [Fuyao-Glass-2026-H1-summary.pdf](福耀玻璃/Fuyao-Glass-2026-H1-summary.pdf)
 - [Fuyao-Glass-2026-H1.pdf](福耀玻璃/Fuyao-Glass-2026-H1.pdf)
 
