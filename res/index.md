@@ -155,6 +155,7 @@
 - [2026-07-31-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 Postview Full stack AI strategy succ...-123502738.pdf](微软/2026-07-31-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ4’26 Postview Full stack AI strategy succ...-123502738.pdf)
 - [2026-07-31-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy Two-pronged AI monetization is deli...-123507565.pdf](微软/2026-07-31-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy Two-pronged AI monetization is deli...-123507565.pdf)
 - [2026-08-05-MSFT.OQ-BNP Paribas-SOFTWARE  Neoclouds SpaceX read-across. Compute (and GPU) ...-123634801.pdf](微软/2026-08-05-MSFT.OQ-BNP Paribas-SOFTWARE  Neoclouds SpaceX read-across. Compute (and GPU) ...-123634801.pdf)
+- [2026-08-06-MSFT.OQ-HSBC Global Investme-Cloudnomics Benchmarking analysis reveals risk and valuation...-123655744.pdf](微软/2026-08-06-MSFT.OQ-HSBC Global Investme-Cloudnomics Benchmarking analysis reveals risk and valuation...-123655744.pdf)
 
 ## 恒瑞医药
 - [2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf](恒瑞医药/2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf)
