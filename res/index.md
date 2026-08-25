@@ -136,6 +136,9 @@
 - [2026-04-28-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. 1Q26 Operating Profit ...-121680836.undefined.pdf](工业富联/2026-04-28-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. 1Q26 Operating Profit ...-121680836.undefined.pdf)
 - [2026-05-20-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. AI Servers Continue to...-122143074.undefined.pdf](工业富联/2026-05-20-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. AI Servers Continue to...-122143074.undefined.pdf)
 
+## 希音
+- [2026-08-24-SHEIN-希音国际-港股招股书.pdf](希音/2026-08-24-SHEIN-希音国际-港股招股书.pdf)
+
 ## 待分类
 - [2026-04-30-002050.SZ-BofA Global Research-Zhejiang Sanhua (H) 1Q26 core beat, but valuation looks str...-121732476.undefined.pdf](待分类/2026-04-30-002050.SZ-BofA Global Research-Zhejiang Sanhua (H) 1Q26 core beat, but valuation looks str...-121732476.undefined.pdf)
 - [2026-04-30-002050.SZ-UBS Equities-First Read Zhejiang Sanhua Intelligent Controls _Q126 reven...-121714938.pdf](待分类/2026-04-30-002050.SZ-UBS Equities-First Read Zhejiang Sanhua Intelligent Controls _Q126 reven...-121714938.pdf)
