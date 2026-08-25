@@ -1,4 +1,3 @@
-# cross-border-ecommerce
+# shein
 
 - [希音国际2026年港股招股书：418亿美元收入与关税压力下的全球时尚平台](entries/希音国际2026年港股招股书-全球线上时尚平台与关税压力.md) — Reference
-- [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — Article
