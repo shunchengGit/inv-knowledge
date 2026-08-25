@@ -180,6 +180,9 @@
 ## 日月光投控
 - [2026-05-05-5347.TWO-Nomura-Vanguard (5347 TT) (Buy) - Interposer is a better business t...-121841392.pdf](日月光投控/2026-05-05-5347.TWO-Nomura-Vanguard (5347 TT) (Buy) - Interposer is a better business t...-121841392.pdf)
 
+## 梅卡曼德机器人
+- [2026-08-梅卡曼德机器人-港股招股书.pdf](梅卡曼德机器人/2026-08-梅卡曼德机器人-港股招股书.pdf)
+
 ## 毛戈平
 - [2026-05-25-1318.HK-JPMorgan-Mao Geping - H Global China Summit 2026 takeaways Solid gro...-122217493.pdf](毛戈平/2026-05-25-1318.HK-JPMorgan-Mao Geping - H Global China Summit 2026 takeaways Solid gro...-122217493.pdf)
 
