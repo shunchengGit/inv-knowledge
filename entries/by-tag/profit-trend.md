@@ -20,6 +20,7 @@
 - [UBS中国银行2Q26前瞻：收入仍稳健但利润增速滞后](entries/UBS中国银行2Q26前瞻-收入仍稳健但利润增速滞后.md) — Analysis
 - [UBS大中华银行路演反馈：投资兴趣回升与高股息防御配置](entries/UBS大中华银行路演反馈-投资兴趣回升与高股息防御配置.md) — Analysis
 - [东方电气01072.HK价值成长QARP深度分析](entries/dongfang-electric-qarp-analysis-2026-07.md) — Analysis
+- [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — Reference
 - [中通快递1Q26超预期+反内卷持续——JPM/MS/UBS一致看多，阿里减持为情绪扰动](entries/中通快递1Q26超预期-反内卷持续-阿里减持为情绪扰动.md) — Analysis
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — Analysis
 - [双环传动002472.SZ价值成长QARP深度分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — Analysis
