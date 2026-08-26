@@ -73,6 +73,7 @@
 ## 东方电气
 - [2026-04-30-600875.SS-Macquarie Research-One‑off support masks order weakness-121717458.pdf](东方电气/2026-04-30-600875.SS-Macquarie Research-One‑off support masks order weakness-121717458.pdf)
 - [2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf](东方电气/2026-06-26-600875.SS-CCB International Se-Advanced Manufacturing Gas turbines — the crown jewel of ad...-122779602.pdf)
+- [东方电气-2026年半年度报告.pdf](东方电气/东方电气-2026年半年度报告.pdf)
 
 ## 中通快递
 - [2026-05-20-2057.HK-JPMorgan-ZTO Express (ZTO US2057 HK) 1Q26 beat, briefing points to s...-122143853.pdf](中通快递/2026-05-20-2057.HK-JPMorgan-ZTO Express (ZTO US2057 HK) 1Q26 beat, briefing points to s...-122143853.pdf)
