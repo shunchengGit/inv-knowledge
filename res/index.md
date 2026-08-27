@@ -400,6 +400,7 @@
 - [2026-07-23-GOOGL.OQ-Morgan Stanley-Alphabet Inc. 4 Learnings and 2 Catalysts-123336615.pdf](谷歌/2026-07-23-GOOGL.OQ-Morgan Stanley-Alphabet Inc. 4 Learnings and 2 Catalysts-123336615.pdf)
 - [2026-07-23-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _Revenue Growth Was Already Dialed I...-123336853.pdf](谷歌/2026-07-23-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _Revenue Growth Was Already Dialed I...-123336853.pdf)
 - [2026-08-11-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Seasonally soft July; Healthy Google DAU ...-123760428.pdf](谷歌/2026-08-11-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Seasonally soft July; Healthy Google DAU ...-123760428.pdf)
+- [2026-08-24-GOOGL.OQ-Morgan Stanley-Alphabet Inc. $200bn of 1P TPU Revenue on the Way and 3 Cat...-124027131.pdf](谷歌/2026-08-24-GOOGL.OQ-Morgan Stanley-Alphabet Inc. $200bn of 1P TPU Revenue on the Way and 3 Cat...-124027131.pdf)
 
 ## 贵州茅台
 - [2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf](贵州茅台/2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf)
