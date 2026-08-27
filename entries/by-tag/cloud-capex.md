@@ -1,6 +1,7 @@
 # cloud-capex
 
 - [Morgan Stanley全球云资本开支追踪：2027年共识升至1.2万亿美元仍偏保守](entries/morgan-stanley-global-cloud-capex-tracker-2026-08.md) — Analysis
+- [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis
 - [大摩科技硬件月报：应用商店转弱但云资本开支再上修](entries/大摩科技硬件月报-应用商店转弱但云资本开支再上修.md) — Analysis
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — Analysis

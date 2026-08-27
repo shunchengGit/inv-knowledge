@@ -7,7 +7,9 @@
 - [MetaxGoogle反垄断诉讼专家电话会(Jefferies)](entries/Meta-Google-Antitrust-Lawsuit-Jefferies-20260416.md) — Analysis
 - [Reddit 2Q26广告高增长与Google搜索流量风险再平衡](entries/reddit-jpm-q2-2026-advertising-search-traffic.md) — Analysis
 - [WWDC 2026：Apple新Siri由Gemini驱动(UBS)](entries/WWDC-Apple-Siri-Gemini-UBS-20260608.md) — Analysis
+- [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
 - [大摩北美互联网估值周报：AI动能积聚下的估值折价，SBC现金化对EV/EBITDA真实倍数重估](entries/ms-north-america-internet-valuation-update-2026-08.md) — Analysis
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — Analysis
+- [美银Google AI Wars七月跟踪：搜索份额升至91.3%，AI流量环比季节性放缓](entries/google-ai-wars-july-traffic-bofa-2026-08.md) — Analysis
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — Synthesis
