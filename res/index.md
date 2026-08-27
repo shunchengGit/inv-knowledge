@@ -379,6 +379,7 @@
 - [2026-08-18-UBS Equities-China Banks _China bank pulse monthly – weak July RMB loans ...-123900410.pdf](行业研究-金融/2026-08-18-UBS Equities-China Banks _China bank pulse monthly – weak July RMB loans ...-123900410.pdf)
 - [doc_8148a6e8ca65_2026-07-27-BofA Global Research-Banks - China (HA) 1H26 preview expect continued improvem...-123407564.pdf](行业研究-金融/doc_8148a6e8ca65_2026-07-27-BofA Global Research-Banks - China (HA) 1H26 preview expect continued improvem...-123407564.pdf)
 - [doc_92b69b724f5a_2026-08-07-UBS Equities-First Read Greater China Banks _Marketing feedback interes...-123701855.pdf](行业研究-金融/doc_92b69b724f5a_2026-08-07-UBS Equities-First Read Greater China Banks _Marketing feedback interes...-123701855.pdf)
+- [doc_992f9d782ed9_2026-08-20-UBS Equities-Greater China Banks Daily _BONB  BOJS Q226 result; Loan-fac...-123954534.pdf](行业研究-金融/doc_992f9d782ed9_2026-08-20-UBS Equities-Greater China Banks Daily _BONB  BOJS Q226 result; Loan-fac...-123954534.pdf)
 - [doc_bbf9afeb9b2b_2026-07-27-UBS Equities-First Read China Banks _Q226 preview will good revenue gro...-123415940.pdf](行业研究-金融/doc_bbf9afeb9b2b_2026-07-27-UBS Equities-First Read China Banks _Q226 preview will good revenue gro...-123415940.pdf)
 - [doc_f095d1372225_2026-07-26-Morgan Stanley-China Financials Catalyst Preview Whats Ahead-123405594.pdf](行业研究-金融/doc_f095d1372225_2026-07-26-Morgan Stanley-China Financials Catalyst Preview Whats Ahead-123405594.pdf)
 
