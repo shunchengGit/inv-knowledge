@@ -389,6 +389,9 @@
 - [doc_bbf9afeb9b2b_2026-07-27-UBS Equities-First Read China Banks _Q226 preview will good revenue gro...-123415940.pdf](行业研究-金融/doc_bbf9afeb9b2b_2026-07-27-UBS Equities-First Read China Banks _Q226 preview will good revenue gro...-123415940.pdf)
 - [doc_f095d1372225_2026-07-26-Morgan Stanley-China Financials Catalyst Preview Whats Ahead-123405594.pdf](行业研究-金融/doc_f095d1372225_2026-07-26-Morgan Stanley-China Financials Catalyst Preview Whats Ahead-123405594.pdf)
 
+## 行业研究-银行
+- [2026-08-21-BofA Global Research-Banks - China Weekly Wrap Macro slows, LPR holds, property...-123981624.pdf](行业研究-银行/2026-08-21-BofA Global Research-Banks - China Weekly Wrap Macro slows, LPR holds, property...-123981624.pdf)
+
 ## 谷歌
 - [2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf](谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf)
 - [2026-04-30-GOOGL.OQ-Deutsche Bank-Alphabet TPUs Driving Cloud Growth-121728039.pdf](谷歌/2026-04-30-GOOGL.OQ-Deutsche Bank-Alphabet TPUs Driving Cloud Growth-121728039.pdf)
