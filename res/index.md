@@ -394,6 +394,7 @@
 
 ## 行业研究-银行
 - [2026-08-21-BofA Global Research-Banks - China Weekly Wrap Macro slows, LPR holds, property...-123981624.pdf](行业研究-银行/2026-08-21-BofA Global Research-Banks - China Weekly Wrap Macro slows, LPR holds, property...-123981624.pdf)
+- [2026-08-24-UBS Equities-Greater China Banks Daily _China to roll out additional fisc...-124014319.pdf](行业研究-银行/2026-08-24-UBS Equities-Greater China Banks Daily _China to roll out additional fisc...-124014319.pdf)
 
 ## 谷歌
 - [2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf](谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf)
