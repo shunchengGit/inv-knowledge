@@ -351,6 +351,9 @@
 ## 行业研究-电力设备
 - [2026-08-19-JPMorgan-Asia Power Equipment Key Learnings from Global Electrical Co...-123950557.pdf](行业研究-电力设备/2026-08-19-JPMorgan-Asia Power Equipment Key Learnings from Global Electrical Co...-123950557.pdf)
 
+## 行业研究-科技
+- [2026-08-25-JPMorgan-Asia Tech Tour Key takeaways-124030130.pdf](行业研究-科技/2026-08-25-JPMorgan-Asia Tech Tour Key takeaways-124030130.pdf)
+
 ## 行业研究-科技硬件
 - [2026-05-26-Morgan Stanley-IT Hardware What Lenovos Results Mean for US Enterprise Ha...-122233036.undefined.pdf](行业研究-科技硬件/2026-05-26-Morgan Stanley-IT Hardware What Lenovos Results Mean for US Enterprise Ha...-122233036.undefined.pdf)
 - [2026-05-27-Morgan Stanley-Investor Presentation Greater China Technology Hardware Ho...-122271307.undefined.pdf](行业研究-科技硬件/2026-05-27-Morgan Stanley-Investor Presentation Greater China Technology Hardware Ho...-122271307.undefined.pdf)
