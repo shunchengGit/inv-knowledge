@@ -335,6 +335,7 @@
 - [2026-07-06-Morgan Stanley-China Property Weekly Database Tracker #27-122979426.undefined.pdf](行业研究-房地产/2026-07-06-Morgan Stanley-China Property Weekly Database Tracker #27-122979426.undefined.pdf)
 - [2026-08-12-JPMorgan-China Property A curious share price rally-123796926.pdf](行业研究-房地产/2026-08-12-JPMorgan-China Property A curious share price rally-123796926.pdf)
 - [2026-08-22-JPMorgan-Mainland ChinaHong Kong Property Talk of the Week Top 3 In...-123986515.pdf](行业研究-房地产/2026-08-22-JPMorgan-Mainland ChinaHong Kong Property Talk of the Week Top 3 In...-123986515.pdf)
+- [2026-08-23-BofA Global Research-China Property Tier 1 cities continued outperforming but li...-124013696.pdf](行业研究-房地产/2026-08-23-BofA Global Research-China Property Tier 1 cities continued outperforming but li...-124013696.pdf)
 - [BofA-China-Property-Conference-Call-2026-06-22.pdf](行业研究-房地产/BofA-China-Property-Conference-Call-2026-06-22.pdf)
 
 ## 行业研究-新能源
