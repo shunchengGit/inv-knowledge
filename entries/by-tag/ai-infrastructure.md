@@ -1,5 +1,6 @@
 # ai-infrastructure
 
+- [JPMorgan亚洲科技巡访：AI需求扩散与半导体瓶颈向设备和材料迁移](entries/jpmorgan-asia-tech-tour-2026-semiconductor-supply-chain.md) — Analysis
 - [JPM亚洲电力设备：全球二季度订单验证长周期景气](entries/JPM亚洲电力设备-全球二季度订单验证长周期景气.md) — Analysis
 - [Morgan Stanley全球云资本开支追踪：2027年共识升至1.2万亿美元仍偏保守](entries/morgan-stanley-global-cloud-capex-tracker-2026-08.md) — Analysis
 - [MSFT AI基础设施深度系列：OpenAI与Anthropic效应——Token优化周期来临 (BNP Paribas 6/2)](entries/MSFT-AI基础设施深度系列-OpenAI与Anthropic效应-Token优化周期来临-BNP-Paribas-6-2.md) — Analysis

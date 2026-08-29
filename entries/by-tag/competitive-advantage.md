@@ -11,6 +11,7 @@
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Analysis
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — Analysis
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Analysis
+- [UBS中国在线娱乐2026年7月月报：腾讯网易游戏韧性延续，短视频继续挤压长视频](entries/ubs-china-online-entertainment-monthly-2026-07.md) — Analysis
 - [东方电气01072.HK价值成长QARP深度分析](entries/dongfang-electric-qarp-analysis-2026-07.md) — Analysis
 - [双环传动002472.SZ价值成长QARP深度分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — Analysis
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — Synthesis

@@ -35,6 +35,7 @@
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — Analysis
+- [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
 - [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
