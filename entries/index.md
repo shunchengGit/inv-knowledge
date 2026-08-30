@@ -229,3 +229,4 @@
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — 福耀玻璃2Q26产能利用率环比+3-4%，ASP在去年高基数上同环比均有提升，毛利率由于高附加值产品占比增加而表现稳健；人民币升值带来的汇兑压力依然延续。UBS下调目标价至85.00元以反映乘用车销量弱于预期，MS维持目标价53.50港元。
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — 腾讯2Q26预期营收增速+9%，Non-IFRS净利润+4%至660亿元。核心看点为Weixin AI Agent在6月开启Beta测试，有望开辟微信端领跑、半商城以及顶层流量分发的三层AI电商变现空间（2030年增量收入空间达690亿至4260亿元）。因AI资本支出大幅提升（预测2026年Capex升至1700亿元），多投行下调盈利预测，HSBC将目标价从720港元降至655港元。
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — 谷歌2Q26营收1200亿美元，Google Cloud暴增82%至248亿且OPM达35.6%，Backlog飙升至5140亿美元；德银、美银、大摩、汇丰力挺多引擎变现与高ROIC并予买入评级（目标价$400-$430），瑞银因Capex指引上调至2050亿与FCF承压维持中性（目标价$379）。
+- [腾讯发布并开源Hy4 preview：770B MoE与1M上下文进入国产开源第一梯队](entries/腾讯发布并开源Hy4-preview-770B-MoE与1M上下文进入国产开源第一梯队.md) — 腾讯2026年8月28日发布并开源Hy4 preview：770B总参数、49B激活参数、1M上下文，内部203项工程任务均分2.99/4，并同步接入WorkBuddy、CodeBuddy及腾讯云API。
