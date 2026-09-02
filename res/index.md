@@ -109,6 +109,7 @@
 - [2026-08-10-2330.TW-JPMorgan-TSMC July sales on track; 3Q26 to reach mid-high-end of the ...-123739165.pdf](台积电/2026-08-10-2330.TW-JPMorgan-TSMC July sales on track; 3Q26 to reach mid-high-end of the ...-123739165.pdf)
 - [2026-08-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _July sal...-123733389.pdf](台积电/2026-08-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _July sal...-123733389.pdf)
 - [2026-08-18-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Capital appropriatio...-123903884.pdf](台积电/2026-08-18-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Capital appropriatio...-123903884.pdf)
+- [2026-08-28-JPMorgan-Foundries 2Q26 Wrap Leading-edge tightness expected to pers...-124089443.pdf](台积电/2026-08-28-JPMorgan-Foundries 2Q26 Wrap Leading-edge tightness expected to pers...-124089443.pdf)
 - [tsmc-2026-q2-earnings-release.pdf](台积电/tsmc-2026-q2-earnings-release.pdf)
 - [tsmc-2026-q2-official-6k.pdf](台积电/tsmc-2026-q2-official-6k.pdf)
 - [tsmc-2026-q2-presentation.pdf](台积电/tsmc-2026-q2-presentation.pdf)
