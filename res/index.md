@@ -234,6 +234,7 @@
 - [2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf](策略研究/2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf)
 - [2026-06-26-BofA-AI-Infrastructure-China-Powering-AI.pdf](策略研究/2026-06-26-BofA-AI-Infrastructure-China-Powering-AI.pdf)
 - [2026-07-06-BofA Global Research-China Investment Compass - Quarterly 3Q26 navigating a K-s...-122984836.undefined.pdf](策略研究/2026-07-06-BofA Global Research-China Investment Compass - Quarterly 3Q26 navigating a K-s...-122984836.undefined.pdf)
+- [2026-08-29-JPMorgan-China Property  Banks Phasing out the pre-sales system - go...-124092715.pdf](策略研究/2026-08-29-JPMorgan-China Property  Banks Phasing out the pre-sales system - go...-124092715.pdf)
 - [20260429-华泰证券-资产配置月报：AI链行情进入新阶段.pdf](策略研究/20260429-华泰证券-资产配置月报：AI链行情进入新阶段.pdf)
 
 ## 美光
