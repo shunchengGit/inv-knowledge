@@ -7,6 +7,7 @@
 - [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — Analysis
 - [Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化](entries/jefferies-china-csp-ai-earnings-focus-20260803.md) — Analysis
 - [JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M](entries/JPMorgan-SK-hynix-LTA-paves-path-for-new-valuation-framework-raising-PT-to-W3M.md) — Analysis
+- [JPMorgan晶圆代工2Q26总结-先进制程供需紧张延续至2028-成熟制程定价转暖](entries/台积电JPMorgan-晶圆代工2Q26总结-先进制程紧张延续至2028.md) — Analysis
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Analysis
 - [Morgan Stanley中国金融催化剂前瞻：2Q26与3Q26盈利改善及政策扰动消退](entries/MS中国金融催化剂前瞻-2Q26与3Q26盈利改善及政策扰动消退.md) — Analysis
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — Analysis
