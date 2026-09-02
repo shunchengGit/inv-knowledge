@@ -196,6 +196,9 @@
 - [2026-05-03-300124.SZ-Morgan Stanley-Shenzhen Inovance Technology Risk Reward Update-121803345.pdf](汇川技术/2026-05-03-300124.SZ-Morgan Stanley-Shenzhen Inovance Technology Risk Reward Update-121803345.pdf)
 - [20260429-华泰证券-汇川技术-300124-新兴业务有望构筑新增长极.pdf](汇川技术/20260429-华泰证券-汇川技术-300124-新兴业务有望构筑新增长极.pdf)
 
+## 江波龙
+- [江波龙_PHIP_2026-08-23.pdf](江波龙/江波龙_PHIP_2026-08-23.pdf)
+
 ## 泡泡玛特
 - [2026-03-29中国银河_泡泡玛特（09992）：家电行业月度动态跟踪：泡泡玛特入局小家电，大疆新推全景无人机.pdf](泡泡玛特/2026-03-29中国银河_泡泡玛特（09992）：家电行业月度动态跟踪：泡泡玛特入局小家电，大疆新推全景无人机.pdf)
 - [2026-04-14-9992.HK-Deutsche Bank-Pop Mart Mar-26 Performance Intense Product Launches  Hom...-121378873.pdf](泡泡玛特/2026-04-14-9992.HK-Deutsche Bank-Pop Mart Mar-26 Performance Intense Product Launches  Hom...-121378873.pdf)
