@@ -23,6 +23,7 @@
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
+- [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article
 - [申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化](entries/申万宏源腾讯深度之三-AI时代核心受益者-超级入口与生态壁垒的再进化.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis

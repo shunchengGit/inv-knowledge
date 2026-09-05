@@ -6,6 +6,7 @@
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
+- [汇丰腾讯HY4预览版点评：7700亿参数升级与商业化成本检验](entries/tencent-hsbc-hy4-preview-20260831.md) — Article
 - [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
 - [申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化](entries/申万宏源腾讯深度之三-AI时代核心受益者-超级入口与生态壁垒的再进化.md) — Analysis
 - [腾讯发布并开源Hy4 preview：770B MoE与1M上下文进入国产开源第一梯队](entries/腾讯发布并开源Hy4-preview-770B-MoE与1M上下文进入国产开源第一梯队.md) — Reference

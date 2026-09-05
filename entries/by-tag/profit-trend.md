@@ -44,7 +44,9 @@
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — Analysis
+- [摩根大通中国AI基础设施生态：算力需求高增长与先进代工、HBM双重瓶颈](entries/jpm-china-ai-infra-growth-foundry-hbm-constraints-20260902.md) — Article
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis
+- [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article
 - [毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持](entries/毛戈平JPM-增长可见性高-管理层承诺不减持.md) — Analysis
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
