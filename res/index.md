@@ -283,6 +283,9 @@
 - [2026-06-02-JPMorgan-AIDC ESS Reference Architectures and Early Orders Point to E...-122368714.pdf](行业研究-AI/2026-06-02-JPMorgan-AIDC ESS Reference Architectures and Early Orders Point to E...-122368714.pdf)
 - [2026-08-23-HSBC Global Investme-US Technology AI Reality Check - Key takeaways from expert c...-124014168.pdf](行业研究-AI/2026-08-23-HSBC Global Investme-US Technology AI Reality Check - Key takeaways from expert c...-124014168.pdf)
 
+## 行业研究-AI基础设施
+- [2026-09-02-JPMorgan-China AI Infra Ecosystem  Unprecedented growth; lingering co...-124188125.pdf](行业研究-AI基础设施/2026-09-02-JPMorgan-China AI Infra Ecosystem  Unprecedented growth; lingering co...-124188125.pdf)
+
 ## 行业研究-互联网
 - [2026-04-20-JPMorgan-China Internet What the Market May Be Missing on SAMR’s Ghos...-121484311.pdf](行业研究-互联网/2026-04-20-JPMorgan-China Internet What the Market May Be Missing on SAMR’s Ghos...-121484311.pdf)
 - [2026-04-23-JPMorgan-China Internet Post 4Q25 Re-evaluating the Sector; Tencent ...-121601321.pdf](行业研究-互联网/2026-04-23-JPMorgan-China Internet Post 4Q25 Re-evaluating the Sector; Tencent ...-121601321.pdf)
