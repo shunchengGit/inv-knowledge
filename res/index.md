@@ -379,6 +379,7 @@
 - [2026-06-07-Morgan Stanley-Global Technology Computex 2026 Takeaways-122462326.undefined.pdf](行业研究-科技硬件/2026-06-07-Morgan Stanley-Global Technology Computex 2026 Takeaways-122462326.undefined.pdf)
 - [2026-08-03-Morgan Stanley-US Technology Global Cloud Capex Tracker Spending Accelera...-123578596.pdf](行业研究-科技硬件/2026-08-03-Morgan Stanley-US Technology Global Cloud Capex Tracker Spending Accelera...-123578596.pdf)
 - [2026-08-20-Morgan Stanley-IT Hardware Monthly Data Tracker C3Q App Store Weakness; M...-123955081.pdf](行业研究-科技硬件/2026-08-20-Morgan Stanley-IT Hardware Monthly Data Tracker C3Q App Store Weakness; M...-123955081.pdf)
+- [2026-09-02-Morgan Stanley-Greater China Technology Hardware SEMICON Taiwan 2026 Takea...-124187218.pdf](行业研究-科技硬件/2026-09-02-Morgan Stanley-Greater China Technology Hardware SEMICON Taiwan 2026 Takea...-124187218.pdf)
 
 ## 行业研究-美妆
 - [2026-05-29-Morgan Stanley-China Beauty 6.18 Pre-sale Rankings Proya No.1, Giant Biog...-122285043.undefined.pdf](行业研究-美妆/2026-05-29-Morgan Stanley-China Beauty 6.18 Pre-sale Rankings Proya No.1, Giant Biog...-122285043.undefined.pdf)
