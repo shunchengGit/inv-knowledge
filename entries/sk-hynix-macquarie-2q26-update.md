@@ -1,5 +1,5 @@
 ---
-type: Reference
+type: Analysis
 title: SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌
 description: Macquarie指出SK海力士2Q26营业利润60.5万亿韩元（+61% QoQ），因NAND提价及DRAM均价增长；股价自高点腰斩，当前扣除净现金后2027E
   PE仅1倍（全表PE 2.5x），重申Outperform。

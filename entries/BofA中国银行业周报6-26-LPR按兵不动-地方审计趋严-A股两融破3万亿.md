@@ -45,7 +45,7 @@ BofA Securities（韩文清、Winnie Wu、Emma Xu）于2026年6月26日发布新
 ## 关联
 - [BofA中国银行业周报6/19 — 5月宏观数据分化、美联储鹰派、贷款增速放缓成新常态](entries/BofA中国银行业周报6-19-5月宏观数据分化-美联储鹰派-贷款增速放缓成新常态.md) — 同一周报系列的上一期，可对比“贷款增速放缓”叙事如何演化为“LPR稳定+审计趋严+杠杆抬升”。
 - [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — 提供中期结构框架，与本周报中的监管与负债端收紧线索形成互补。
-- [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — 同样聚焦银行负债成本与高质量发展，可作为BofA周度交易视角的中期补充。
+- [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — 同样聚焦银行负债成本与高质量发展，可作为BofA周度交易视角的中期补充。
 
 ## 引用
 - [BofA Global Research - Banks - China Weekly Wrap: Stable LPR, Tighter Audits, and record A-share margin financing](res/行业研究-金融/2026-06-26-BofA Global Research-Banks - China Weekly Wrap Stable LPR, Tighter Audits, and ...-122787653.undefined.pdf)

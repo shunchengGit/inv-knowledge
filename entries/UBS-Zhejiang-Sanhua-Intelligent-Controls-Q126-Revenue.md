@@ -1,32 +1,40 @@
 ---
-type: Note
-title: 'UBS: Zhejiang Sanhua Intelligent Controls Q126 Revenue'
-description: UBS 2026-04-30. Zhejiang Sanhua Intelligent Controls (002050.SZ) Q1 2026
-  revenue analysis. First read on thermal management business performance.
+type: Analysis
+title: 三花智控UBS：1Q26扣非利润增长15.5%，制冷承压而液冷逐步兑现
+description: 三花1Q26收入77.7亿元同比+1.4%、净利9.3亿元+2.7%、扣非9.9亿元+15.5%，毛利率27.8%；UBS维持A股Buy与65元目标价，关注铝价与机器人、液冷兑现。
 timestamp: 2026-06-28 11:48:47.309767+08:00
 resource: res/待分类/2026-04-30-002050.SZ-UBS Equities-First Read Zhejiang Sanhua Intelligent
   Controls _Q126 reven...-121714938.pdf
 source_type: pdf
 tags:
 - sanhua
-- '1064'
-- 热管理
-- 汽车零部件
-- A股
-- 研报
-- ubs
+- profit-trend
+- valuation
+- risk-factor
+- 2026-Q1
+report_date: '2026-04-30'
 ---
 
-## 关键要点
-
-
-- **核心发现**: UBS 2026-04-30. Zhejiang Sanhua Intelligent Controls (002050.SZ) Q1 2026 revenue analysis. First read on thermal management business performance.
-- **来源**: 待分类
+# 三花智控UBS：1Q26扣非利润增长15.5%，制冷承压而液冷逐步兑现
 
 ## 摘要
+UBS于2026年4月30日对三花智控A股002050.SZ发布业绩快评，认为收入增长放缓但盈利能力扎实。1Q26收入77.7亿元，列报净利润9.3亿元，扣非净利润9.9亿元，分别同比增长1.4%、2.7%、15.5%。毛利率上升说明降本与产品结构优化见效，但空调需求偏弱、汽车客户销量及铝价仍是约束。UBS维持Buy和65元人民币目标价，把机器人与液冷视为逐步成熟的新增长来源，而非本季度主要利润贡献。
 
-UBS 2026-04-30. Zhejiang Sanhua Intelligent Controls (002050.SZ) Q1 2026 revenue analysis. First read on thermal management business performance.
+## 关键要点
+- 1Q26毛利率27.8%，同比增加1个百分点；UBS归因于2025年下半年以来运营管理效率与产品结构改善。
+- 空调相关业务收入同比下降6%，汽车零部件增长15%；UBS指出空调下游疲软和比亚迪销量下降拖慢整体收入。
+- 净利润9.3亿元、扣非9.9亿元，增速分别2.7%与15.5%，不能把扣非增速直接称为归母增长。
+- 管理层预计液冷及储能收入2026年同比增长50%以上；机器人业务覆盖旋转、线性执行器，并拓展总成业务，报告未给出单独量化盈利承诺。
+- UBS维持2026—28年盈利预测大体不变，2026E EPS 1.12元；65元目标价采用DCF，WACC为7.6%。
+- 报告估值基准为2026-04-29 A股44.82元，2026E PE 40.1倍；与BofA的H股估值、目标价不可不经币种和股类转换直接比较。
+
+## 使用边界
+未来机器人与液冷盈利仍取决于下游成熟、量产与交付；订单确认慢、铜铝价格上升及车企降价压力为原文列示的下行风险。这是2026年4月研报记录，不是当前买入建议。
 
 ## 关联
+- [三花BofA核心经营与估值警示](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — 同日研报对照，明确A股65元与H股30港元的不同市场口径。
+- [UBS小米新车供应链](entries/UBS小米昆仑架构新车供应链拆解-八家潜在零部件受益者.md) — 跟踪汽车热管理业务潜在新车型机会。
+- [MS中国人形机器人演示](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — 远期行业规模仅用于背景，对照三花实际执行器交付进程。
 
-- [BofA-Zhejiang-Sanhua-1Q26-Core-Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — BofA三花智控研报 — 同标的不同券商
+## 引用与校验
+UBS《Q126 revenue growth slowed, profitability solid》，2026-04-30，第1—2页。原PDF路径保留于frontmatter；2026-09-05按源文替换英文占位摘要并补齐币种、风险及关联。

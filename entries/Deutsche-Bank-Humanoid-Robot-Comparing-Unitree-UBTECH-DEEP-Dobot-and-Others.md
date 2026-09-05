@@ -1,36 +1,40 @@
 ---
-type: Note
-title: 'Deutsche Bank: Humanoid Robot Comparing Unitree, UBTECH, DEEP, Dobot and Others'
-description: 'DB 2026-06-15. Humanoid robot industry comparison: Unitree, UBTECH,
-  DEEP, Dobot and others. Detailed competitive analysis of Chinese humanoid robot
-  players.'
+type: Analysis
+title: 德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压
+description: 德银2026-06-15比较宇树、优必选、云深处、越疆、乐聚：宇树2025毛利率60%、经常性净利率35%，但1H26指引经常性净利下降14%；2050年1万亿美元为德银市场预测，机会与费用风险并存。
 timestamp: 2026-06-28 11:48:37.900091+08:00
 resource: res/待分类/2026-06-15-6481.T-Deutsche Bank-Humanoid Robot Comparing Unitree,
   UBTECH, DEEP, Dobot and L...-122580688.pdf
 source_type: pdf
 tags:
 - humanoid-robot
-- unitree
-- ubtech
-- deep-robotics
-- dobot
-- 美股
-- 港股
-- 研报
-- deutsche-bank
+- competitive-advantage
+- profit-trend
+- risk-factor
+- 2026-Q2
+report_date: '2026-06-15'
 ---
 
-## 关键要点
-
-
-- **核心发现**: DB 2026-06-15. Humanoid robot industry comparison: Unitree, UBTECH, DEEP, Dobot and others. Detailed competitive analysis of Chinese humanoid robot players.
-- **来源**: 待分类
+# 德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压
 
 ## 摘要
+德银2026年6月15日的53页报告以招股材料比较宇树、优必选、云深处、越疆及乐聚，并有限引用智元公开信息。宇树2025年人形与四足机器人收入领先、毛利率60%、经常性净利率35%，体现自研制造与费用控制优势。但宇树预计1H26收入增速降至41%、经常性净利润下降14%，模型研发和销售投入侵蚀利润。德银判断产业机会与风险并存，远期市场规模不能替代短期订单和盈利质量验证。
 
-DB 2026-06-15. Humanoid robot industry comparison: Unitree, UBTECH, DEEP, Dobot and others. Detailed competitive analysis of Chinese humanoid robot players.
+## 关键要点
+- **历史收入**：宇树2025年人形机器人收入超过8.6亿元人民币、四足约7亿元；云深处四足收入约3亿元，口径是不同产品线而非简单合并排名。
+- **历史利润率**：宇树2025年毛利率约60%、经常性净利率35%；自研零部件、相对较低模型研发及销售费用共同解释，不能只归因于高售价。
+- **公司展望**：宇树1H26收入指引同比+41%，低于1Q26的+69%及2025年的+333%；经常性净利指引-14%、净利率约24%，均为报告所引展望。
+- **同行差异**：越疆、乐聚、优必选2022—25年均有净亏损，毛利改善不能直接视为商业模式已盈利。
+- **国际化**：宇树海外收入占比44%，优必选和云深处约20%，显示海外接受度，但未证明所有厂商拥有同等全球渠道。
+- **长期预测**：2050年全球市场1万亿美元是DBe估计；智元2027年收入100亿元是公司目标，不能当作已签订单或全行业共识。
+
+## 使用边界
+宇树历史利润和1H26指引来自德银引用的公司披露，本条不是独立审计结果。模型训练、数据采集费用和竞争加剧是主要风险；本轮只核查PDF第1—3页执行摘要，未对全部公司明细模型逐表验证。
 
 ## 关联
+- [三花BofA核心经营与估值警示](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — 从整机自制率与费用压力推演执行器供应商价值，不能假设整机收入全部外购。
+- [三花UBS机器人与液冷展望](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — 对照供应商新业务兑现与客户量产节奏。
+- [MS中国人形机器人远期演示](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — 保留不同机构远期市场范围与估计差异，先核查定义再比较规模。
 
-- [BofA-Zhejiang-Sanhua-1Q26-Core-Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — BofA三花智控 — 人形机器人产业链关联
-- [UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — UBS三花智控 — 人形机器人产业链关联
+## 引用与校验
+Deutsche Bank《Humanoid Robot: Comparing Unitree, UBTECH, DEEP, Dobot and Leju: Opportunities and risks coexist》，2026-06-15，PDF第1—3页（正文页码2为执行摘要）。原PDF保留，2026-09-05替换英文占位条目。

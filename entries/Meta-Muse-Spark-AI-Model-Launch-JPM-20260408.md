@@ -9,7 +9,7 @@ resource: res/Meta/2026-04-08-META.OQ-JPMorgan-Meta Platforms Inc Muse Spark(s) 
   AI Model Launches; R...-121236731.pdf
 source_type: pdf
 tags:
-- Meta
+- meta
 - jpmorgan
 - ai
 - muse-spark
@@ -49,6 +49,7 @@ tags:
 | FY Adj EPS | $33.93 | $36.16 | $40.36 |
 
 ## 关联
+- [Meta裁员10%与Neocloud选择权(Morgan Stanley)](entries/Meta-Headcount-MS-20260517.md) — 跟踪模型发布后的成本控制与基础设施回报选择权。
 
 - 公司: Meta Platforms (META)
 - 行业: Internet - Large Cap

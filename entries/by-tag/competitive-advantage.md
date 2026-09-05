@@ -8,7 +8,7 @@
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Analysis
 - [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — Analysis
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — Analysis
-- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Analysis
+- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Synthesis
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — Analysis
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Analysis
 - [UBS中国在线娱乐2026年7月月报：腾讯网易游戏韧性延续，短视频继续挤压长视频](entries/ubs-china-online-entertainment-monthly-2026-07.md) — Analysis
@@ -20,6 +20,7 @@
 - [台积电JPMorgan-2026年Q2业绩与AI算力需求能见度](entries/台积电JPMorgan-2Q26业绩与AI算力需求能见度.md) — Analysis
 - [宁波银行深度：如何理解“大银行做不好，小银行做不了”的客群经营能力（中泰证券 7/25）](entries/ningbo-bank-client-strategy-zhongtai-analysis.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
+- [德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — Analysis
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis

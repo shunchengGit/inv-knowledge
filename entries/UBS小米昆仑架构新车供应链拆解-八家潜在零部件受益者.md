@@ -13,7 +13,7 @@ tags:
 - content-per-vehicle
 - lidar
 - thermal-management
-- shuanghuan
+- shuanghuan-driveline
 - 2026-07
 ---
 

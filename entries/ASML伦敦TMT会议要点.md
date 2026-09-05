@@ -7,7 +7,7 @@ resource: res/ASML/2026-05-21-ASML.AS-JPMorgan-ASML Takeaways from London TMT Co
   2026-122159112.pdf
 source_type: pdf
 tags:
-- ASML
+- asml
 - EUV光刻
 - DRAM
 - High-NA

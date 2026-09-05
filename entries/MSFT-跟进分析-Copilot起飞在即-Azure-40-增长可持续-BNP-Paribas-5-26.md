@@ -19,7 +19,7 @@ tags:
 # MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续
 
 ## 摘要
-BNP Paribas在微软FQ3'26后持续跟进，看好Copilot从"尝鲜→部署"的拐点。M365 Copilot席位Q4指引2500万+，Azure 40%+增长可持续至H2 CY26。GitHub Copilot营收$30亿+。AI贡献$350亿+年化营收。维持买入，目标价$530。
+BNP Paribas在微软FQ3'26后持续跟进，看好Copilot从"尝鲜→部署"的拐点。M365 Copilot席位Q4指引2500万+，Azure 40%+增长可持续至H2 CY26。本报告重点是Copilot使用反馈、Fairwater产能和Azure增长，未提供可核实的GitHub Copilot 30亿美元或AI 350亿美元收入值。维持Outperform，目标价555美元。
 
 ## 关键要点
 
@@ -31,7 +31,7 @@ BNP Paribas在微软FQ3'26后持续跟进，看好Copilot从"尝鲜→部署"的
 
 ## Azure 40%+增长可持续性
 - GPU租赁价格持续攀升（H100自年初+15%），支撑旧硬件续约合同定价
-- Fairwater Wisconsin已于4月16日上线（500MW+），Fairwater Atlanta接近满负荷
+- Fairwater Wisconsin已于4月16日宣布上线，BNP据此推测约500MW容量已投入运营；Atlanta卫星图显示建筑和设备接近就绪，BNP判断可能在FQ4充分爬坡，不等同于已满负荷
 - 新一代系统（GB300、Vera Rubin）每GW营收显著高于前代（Crusoe预估Vera Rubin每GW$150亿）
 - BNPP预估Azure CCY增长40%+可持续至FQ3'27，高于共识预期
 - 1P容量分配虽持续但新增产能规模足以支撑外部客户需求
@@ -40,7 +40,7 @@ BNP Paribas在微软FQ3'26后持续跟进，看好Copilot从"尝鲜→部署"的
 - AGI条款移除：增加微软对合作关系的可见度
 - OpenAI成功融资$1220亿，使其有能力履行$2500亿+Azure承诺
 - OpenAI近期法庭胜诉，可能打开短期内IPO的大门
-- 微软约24%的OpenAI股权（post-money）价值将随IPO兑现
+- BNP分部估值另计微软OpenAI股权价值；潜在IPO并不等于该价值已经兑现
 
 ## 估值与目标价
 - 股价：$418.6（5/22收盘）
@@ -55,4 +55,9 @@ BNP Paribas在微软FQ3'26后持续跟进，看好Copilot从"尝鲜→部署"的
 - PC/Windows周期下行压力持续
 
 ## 关联
+- [微软AI基础设施货币化研究](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — 对照资本投入与收入兑现框架。
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 共享标签: copilot, competitive-advantage, microsoft; 同标的: copilot, microsoft; 共同关键词(29): ba, ar, 起飞, zu
+
+
+## 引用
+- [原始PDF（金额与观点核验）](res/微软/2026-05-26-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Delivering on multiple fronts as Copilot lif...-122232911.pdf)

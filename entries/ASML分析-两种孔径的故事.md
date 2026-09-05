@@ -6,7 +6,7 @@ timestamp: 2026-06-24 00:54:18.625347+08:00
 resource: res/ASML/2026-05-11-ASML.AS-BNP Paribas-ASML  A Tale of Two Apertures-121950555.pdf
 source_type: pdf
 tags:
-- ASML
+- asml
 - EUV光刻
 - 半导体设备
 - valuation

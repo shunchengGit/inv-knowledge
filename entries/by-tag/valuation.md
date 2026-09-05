@@ -4,18 +4,23 @@
 - [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — Analysis
 - [BofA中国银行1H26前瞻：利润改善但K型分化加剧](entries/BofA中国银行1H26前瞻-利润改善但K型分化加剧.md) — Analysis
 - [BofA中国银行业周报2026-08-21：宏观放缓但息差企稳，H股银行跑赢大市](entries/BofA中国银行业周报2026-08-21-宏观放缓与息差企稳.md) — Analysis
+- [Broadcom FY26Q2多投行研报汇总：业绩小幅超预期，AI高预期与后端瓶颈并存](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Synthesis
 - [EssilorLuxottica 2Q26韧性与AI眼镜增长期权分析](entries/essilorluxottica-jefferies-ai-glasses-q2-2026.md) — Analysis
 - [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — Analysis
 - [JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M](entries/JPMorgan-SK-hynix-LTA-paves-path-for-new-valuation-framework-raising-PT-to-W3M.md) — Analysis
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Analysis
+- [Meta 1Q26业绩超预期但资本开支上调：三家投行对AI回报与FCF存在分歧](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Synthesis
 - [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — Analysis
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — Analysis
-- [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis
+- [MSFT：Anthropic合作有望成为Azure 430亿美元年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Analysis
-- [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — Reference
-- [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Reference
-- [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Reference
+- [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — Analysis
+- [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Analysis
+- [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Analysis
 - [UBS宁波银行2Q26快评：营收与净利润超预期，维持买入评级](entries/ubs-bank-of-ningbo-2q26-results-beat.md) — Analysis
+- [三花智控H股BofA：核心经营超预期，但约27倍PE难匹配10%增长](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — Analysis
+- [三花智控UBS：1Q26扣非利润增长15.5%，制冷承压而液冷逐步兑现](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — Analysis
+- [世界先进VIS：中介层业务改善与VSMC资本支出下调，野村升级买入](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Analysis
 - [东方电气01072.HK价值成长QARP深度分析](entries/dongfang-electric-qarp-analysis-2026-07.md) — Analysis
 - [云计算经济性基准显示微软云兼具回报韧性与估值吸引力](entries/云计算经济性基准显示微软云兼具回报韧性与估值吸引力.md) — Analysis
 - [双环传动002472.SZ价值成长QARP深度分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — Analysis

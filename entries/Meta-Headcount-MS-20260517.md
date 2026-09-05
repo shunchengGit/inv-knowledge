@@ -8,7 +8,7 @@ resource: res/Meta/2026-05-17-META.OQ-Morgan Stanley-Meta Platforms Inc Headcoun
   Reductions and the Neocloud Ba...-122084608.undefined.pdf
 source_type: pdf
 tags:
-- Meta
+- meta
 - morgan-stanley
 - headcount
 - capex

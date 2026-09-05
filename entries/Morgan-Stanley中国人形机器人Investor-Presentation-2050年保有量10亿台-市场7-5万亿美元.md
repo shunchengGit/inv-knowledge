@@ -1,7 +1,7 @@
 ---
 type: Analysis
-title: Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元
-description: Morgan Stanley 2026年6月24日发布中国人形机器人Investor Presentation，预测2050年全球保有量达10亿台、市场规模7.5万亿美元，2026年正式开启小规模商业化拐点，中国供应链优势显著
+title: Morgan Stanley中国人形机器人演示：2050年10亿台保有量与7.5万亿美元市场预测
+description: MS预测2050年全球人形机器人保有量10亿台、市场7.5万亿美元；2026年被判断为小规模商业化拐点，工业7×24小时替代2–3班人力是潜力而非已验证回报。
 timestamp: 2026-06-28 10:55:32.543743+08:00
 resource: res/行业研究-工业自动化/2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf
 source_type: pdf
@@ -12,33 +12,20 @@ tags:
 - 2026-Q2
 ---
 
----
-type: Analysis
-title: Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元
-description: Morgan Stanley 2026年6月24日发布中国人形机器人Investor Presentation，预测2050年全球保有量达10亿台、市场规模7.5万亿美元，2026年正式开启小规模商业化拐点，中国供应链优势显著
-timestamp: 2026-06-28T10:00:00+08:00
-resource: res/行业研究-工业自动化/2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf
-source_type: pdf
-tags: [morgan-stanley, industrial-automation, humanoid-robot, 2026-Q2]
----
-
-# Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元
-
-**来源**: 行业研究-工业自动化 | **机构**: Morgan Stanley Asia Pacific | **分析师**: 衷晟、王金琳、蔡诺铭 | **日期**: 2026-06-24
+# Morgan Stanley中国人形机器人演示：2050年10亿台保有量与7.5万亿美元市场预测
 
 ## 摘要
 
-Morgan Stanley于2026年6月24日发布中国人形机器人Investor Presentation（33页），系统阐述人形机器人作为"具身智能中最大的机会"的投资逻辑。核心预测：到2050年全球人形机器人保有量达10亿台、市场规模7.5万亿美元。报告判断2026年将正式开启小规模商业化落地拐点，中国凭借完整供应链和制造成本优势有望在全球竞争中占据主导地位。报告分三大模块：市场潜力（全球及中国TAM、商业化阶段）、人形机器人构成（大脑/数据/本体三层架构）、中美对比（产业生态、供应链优势与商业化节奏差异）。
+33页投资者演示把人形机器人视作具身智能最大机会，MS预计2050年全球市场可达7.5万亿美元、保有量10亿台。上述数字是长期券商模型预测，不能当作当前订单或已实现市场规模。报告判断2026年开启小规模商业化，但工业应用仍以抓取放置为主，效率、精度、稳定性和投资回报尚待验证。
 
 ## 关键要点
 
-
-- **市场规模预测**：2050年全球保有量10亿台、市场规模7.5万亿美元，覆盖工业/商业/家庭三大场景
-- **商业化拐点**：2026年正式开启小规模商业化落地，当前仍处于早期阶段
-- **中国优势**：完整供应链体系+制造成本优势，有望延续"中国制造"在全球制造业中的主导地位
-- **三层架构**：大脑（AI/算法）、数据（训练/仿真）、本体（硬件/执行器）三大模块构成人形机器人技术栈
-- **中美对比**：产业生态、供应链优势与商业化节奏存在显著差异，中国在硬件供应链和规模化制造方面更具优势
-- **相关报告系列**：Humanoids: The Tide is Rising / Humanoids and Robots – The Next Chapter in China's Dominance / Humanoid Horizons: Humanoids Coming to Your Bloomberg Screen / China Humanoids Survey
+- 长期TAM（第1、4页，MS预测）：2050年全球保有量10亿台、市场约7.5万亿美元。第4页注明销量口径是对外销售，不含原型机、内部研发及自用部分；保有量与销售量不能混同。
+- 场景划分（第5–7页）：工业、商业、家庭分别对应不同成熟度；不能把娱乐租赁出货直接当作工厂生产力替代。
+- 工业优先逻辑（第6页）：复用人类工具与产线、结构化环境、劳动力缺口及危险岗位促成率先采用；7×24小时运行、替代2–3班人力是价值主张，不是实测全生命周期利用率。
+- 商业化约束（第6页）：需达到熟练工速度与精度，单台成本高且回报期未验证；停机可靠性和既有设备集成仍是障碍，当前泛化能力有限。
+- 商业娱乐需求（第7页）：报告称娱乐表演贡献2025年相当比例出货，租赁是重要变现方式，但未给确定占比；MS预期重心将逐步转向真实商业应用。
+- 技术与比较框架（第2页）：按大脑、数据、本体拆解，并比较中美生态、供应链与落地节奏。本次未用目录推导未经核验的中国全球主导份额。中文报告提示翻译若有差异以英文原版为准。
 
 ## 关联
 
@@ -47,4 +34,4 @@ Morgan Stanley于2026年6月24日发布中国人形机器人Investor Presentatio
 
 ## 引用
 
-- Morgan Stanley, "Investor Presentation: China Humanoids," 24 June 2026. Analysts: Sheng Zhong, Jinlin Wang, Carlos Chai.
+- [2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf](res/行业研究-工业自动化/2026-06-24-Morgan Stanley-Investor Presentation 中国人形机器人-122746796.undefined.pdf) — PDF第1–7页；数据、预期与判断均按报告时点，非最新事实。

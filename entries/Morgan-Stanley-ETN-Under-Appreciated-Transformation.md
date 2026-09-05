@@ -10,8 +10,7 @@ resource: res/Eaton-ETN/2026-05-08-ETN.N-Morgan Stanley-Eaton Corporation PLC Un
   Transformation, PT ...-121921714.undefined.pdf
 source_type: pdf
 tags:
-- ETN
-- Eaton
+- eaton
 - 电气设备
 - data-center
 - 美股

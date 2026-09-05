@@ -1,7 +1,6 @@
 # data-center
 
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — Note
-- [Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高，后端供应成新瓶颈](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Analysis
 - [DB半导体季度终端市场监控：数据中心+84%YoY再加速，工业连续8季改善，汽车连续4季回暖](entries/ADI-DB-US-Semi-季度终端市场监控.md) — Analysis
 - [Deutsche Bank: ETN 1Q Wrap](entries/Deutsche-Bank-ETN-1Q-Wrap.md) — Note
 - [Hubbell 30亿美元收购NSI Industries：强化电气化与数据中心布局](entries/HubbellNSI收购与电气化分析.md) — Analysis

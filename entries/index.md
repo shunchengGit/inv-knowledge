@@ -6,8 +6,8 @@
 - [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — BNP Paribas维持Outperform，1Q26 DRAM ASP中60%+/NAND ASP中70%+大幅增长。HBM4E预期>50%份额，容量扩张有纪律性（龙仁Cluster灵活分期）。TP上调26%至KRW 2,000,000，基于3x 2027E BVPS。
 - [BNP Paribas：台积电推出A13并更新技术路线图——重申Outperform](entries/台积电BNP-技术路线图-A13更新-重申Outperform.md) — BNP Paribas（Alex Chang）于2026年4月24日发布。A13（2029 HVM，面积节省6%）、A12（Super Power Rail背面供电）、N2U（2028 HVM，速度+3-4%/功耗-8-10%）、CoWoS扩展至14-reticle。评级Outperform，目标价TWD2,520/USD478。
 - [BofA 5月App数据跟踪：中国电商与在线媒体格局分析](entries/BofA-5月App数据跟踪-中国电商与在线媒体格局分析.md) — BofA基于5月App下载量和活跃度数据分析中国互联网电商、本地生活和在线媒体竞争格局变化
-- [BofA Greater China EV & Future Car — Structural leadership amid intensifying competition](entries/BofA-Greater-China-EV-Future-Car-20260618.md) — BofA发布中国电动车和未来汽车行业深度报告，分析中国新能源车企在激烈竞争中的结构性领先优势
 - [BofA中国AI观察：DeepSeek V4 Flash以低价后训练强化重塑模型竞争](entries/bofa-deepseek-v4-flash-china-ai-watch-20260803.md) — DeepSeek V4 Flash以每百万输入输出Token仅0.14和0.28美元实现全球领先编程与Agent性能，BofA判断其利空智谱与MiniMax、对腾讯中性并加剧阿里Qwen竞争。
+- [BofA中国未来汽车第78期：比亚迪大唐七座纯电SUV上市点评](entries/BofA-Greater-China-EV-Future-Car-20260618.md) — BofA此报告实际聚焦比亚迪大唐七座纯电SUV：售价23.99万—30.99万元、较预售低约1万元，管理层称可退款预订单超15万；续航最高950公里，不能据此推导全行业渗透率。
 - [BofA中国银行1H26前瞻：利润改善但K型分化加剧](entries/BofA中国银行1H26前瞻-利润改善但K型分化加剧.md) — BofA预计H股银行平均净利润增速由1Q26的1.1%升至1H26的1.7%，五大行PPOP增长6%-12%；贷款增速降至5.2%、NIM短期企稳但2027年或再承压，首选ICBC、ABC-H和CCB-H。
 - [BofA中国银行业周报2026-07-03：央行“降息”信号、推动民间投资、券商受益科技股上涨](entries/BofA中国银行业周报2026-07-03.md) — BofA 2026年7月3日周报：央行开展首笔3000亿元超额逆回购操作（利率1.25%）被视为实质性“降息”信号；1-5月工业企业利润增长18.8%（电子利润大增103.9%）；H股银行板块周跌1.9%（P/B 0.49x，股息率5.9%），A股银行板块周跌1.8%（P/B 0.60x）。
 - [BofA中国银行业周报2026-08-21：宏观放缓但息差企稳，H股银行跑赢大市](entries/BofA中国银行业周报2026-08-21-宏观放缓与息差企稳.md) — 7月零售增速降至0.6%、工业产出增速降至4.5%，但2Q银行净息差环比回升1bp；H股银行周涨5.2%并以0.56x P/B、5.1%股息率跑赢恒指，显示政策托底与息差企稳正在抵消宏观压力。
@@ -20,69 +20,65 @@
 - [BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧](entries/台积电BofA-产能与技术爬坡-缓解竞争担忧.md) — BofA（Haas Liu）于2026年5月15日发布的台积电台湾技术研讨会要点分析。3nm产能Q4'26达190k WPM（远超三星/Intel），N2缺陷密度领先3nm两季度，CoWoS良率98%+。评级买入，目标价NT$2,560。
 - [BofA：台积电先进节点需求强劲——2026-27资本支出展望上调](entries/台积电BofA-先进节点资本支出-Arizona盈利改善.md) — BofA（Haas Liu）于2026年5月17日发布。TSMC董事会批准US$31bn资本拨款，Arizona 1Q26运营大幅改善（营收NT$39bn，净利润NT$19bn），2027年capex或达US$75bn。评级买入，目标价NT$2,560。
 - [BofA：台积电股东大会更新——AI驱动需求与技术执行支撑营收/毛利率展望](entries/台积电BofA-股东大会AI需求与技术执行.md) — BofA（Haas Liu）于2026年6月4日发布的台积电年度股东大会要点分析。管理层对AI需求高度乐观（2030年前增长可见度），维持56%+长期GM指引。N2利润率将优于N3。Intel为前十大客户。评级买入，目标价NT$2,560。
-- [Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高，后端供应成新瓶颈](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Broadcom FY26Q2 AI收入$56bn估测，FY27"远高于$100bn"，Multi-GW客户承诺去风险FY27/28但营收预期miss致股价回调；后端供应限制v9 TPU路线图，20GW SPV与Apollo/Blackstone合作落地
 - [Broadcom/JPMorgan：TPU v9 2nm ASIC按计划CY28量产——无延迟，锁定后续4代TPU](entries/AVGO-JPM-TPUv9-2nm-ASIC-CY28.md) — JPMorgan Harlan Sur确认Broadcom TPU v9 2nm ASIC按计划CY28量产（无延迟），Google五年协议锁定v8-v11四代TPU及逐年递增收入，目标价$580
 - [DB半导体季度终端市场监控：数据中心+84%YoY再加速，工业连续8季改善，汽车连续4季回暖](entries/ADI-DB-US-Semi-季度终端市场监控.md) — Deutsche Bank 1Q26美国半导体终端市场监测：数据中心收入$102.5b/+84%YoY连续3季加速，工业+25%YoY连续8季改善，汽车+11%YoY连续4季回暖
 - [EssilorLuxottica 2Q26韧性与AI眼镜增长期权分析](entries/essilorluxottica-jefferies-ai-glasses-q2-2026.md) — EssilorLuxottica 2Q26有机增速8.7%，AI眼镜贡献约3个百分点且销量近翻倍；Jefferies预计2026年售出约1000万副并维持€250目标价，判断短期增速降温不改平台化重估逻辑。
-- [Google 1Q26云业务超预期爆发，Cloud backlog达$4,620亿(BofA/DB/HSBC)](entries/Google-1Q26-Cloud-Backlog-BofA-DB-HSBC-20260430.md) — Google 1Q26营收$94.7bn(+22% y/y)超预期，核心惊喜来自Cloud收入$20bn(+63% y/y)和Cloud backlog暴增90%至$4,620亿。Search增长加速至19% y/y。BofA维持Buy(PT $430)，HSBC维持Buy(PT $435)，DB强调TPU外部销售成为新的可盈利业务。但EPS因$369亿股权投资公允价值收益失真。
 - [Google AI Wars流量跟踪：Gemini与Claude高速增长，Google搜索份额稳定(BofA)](entries/Google-AI-Wars-Traffic-BofA-202605-06.md) — BofA持续跟踪AI产品流量趋势。截至2026年5月，Gemini全球日活达1.1亿(月+10%/+321% y/y)，Claude DAU 1,700万(月+22%/+1,349% y/y)，ChatGPT DAU 4.38亿(月+2%/+68% y/y)，Meta AI DAU 1,000万。Google搜索份额稳定在90%。Gemini和Claude增长最快，但ChatGPT仍占绝对规模优势。
-- [Google I/O 2026发布Gemini Spark个人AI代理，随后宣布$300亿资本募资](entries/Google-Agentic-IO-Capital-Raise-MS-HSBC-UBS-202605-06.md) — Morgan Stanley总结Google I/O 2026大会——发布Gemini Spark个人AI代理(整合搜索/Gmail/Calendar/3P应用)，Gemini 3.5 Flash/Pro新模型(API定价较竞品低70%)。随即HSBC报告Google宣布$300亿公开募资(含$150亿强制可转债)，用于AI基础设施和员工税务。UBS拆解Cloud backlog结构，指出TPU芯片销售和AI实验室大单后2026/27年Cloud收入将上调~24%/~34%。
 - [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — HSBC维持Buy评级，TP从KRW 1,800,000上调至2,900,000。DRAM服务器和移动端价格均超预期，2Q26 OP预测上调14%至KRW 65tn。通用服务器需求爆发（AI:非AI比例从4-8:1趋近1:1），CSP Capex大幅增长。
 - [Hubbell 30亿美元收购NSI Industries：强化电气化与数据中心布局](entries/HubbellNSI收购与电气化分析.md) — Hubbell以30亿美元现金(15.5x 2026E EBITDA)收购NSI Industries，NSI预计2026收入5.7亿美元/EBITDA 1.93亿美元(34%利润率)，DB维持Hold/TP 520美元，MS维持Equal-weight/TP 565美元，UBS维持Neutral/TP 515美元
 - [Jefferies AI系列#41：DeepSeek V4发布后的新进展](entries/Jefferies-AI系列-41-DeepSeek-V4发布后的新进展.md) — Jefferies追踪DeepSeek V4发布后的行业影响，分析开源模型对AI竞争格局的冲击
 - [Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化](entries/jefferies-china-csp-ai-earnings-focus-20260803.md) — Jefferies预计阿里云与百度AI云基础设施收入分别增长45%和55%，中国模型周Token用量达28万亿且约为美国模型6.4倍，结论是低价高效模型将驱动需求但CSP估值需由利润率与ROIC验证。
 - [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — JPMorgan全球中国峰会2026互联网行业核心要点：AI应用落地、电商竞争格局和监管环境展望
-- [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — JPMorgan分析AI数据中心储能系统(ESS)的参考架构设计和早期订单趋势
+- [JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发](entries/JPMorgan-AIDC储能系统参考架构-早期订单指向需求爆发.md) — JPMorgan以Fluence与2家云巨头的供货框架及LGES向DTE供应6GWh、金额16亿美元的储能合同，判断AIDC储能采用正在获得架构与订单验证，但订单兑现偏后置。
 - [JPMorgan Greater China Data Watch 6/22 — 中国宏观走弱、南亚塑胶与力积电评级上调](entries/JPMorgan-Greater-China-Data-Watch-6-22-中国宏观走弱-南亚塑胶与力积电评级上调.md) — JPMorgan 6/22 Taiwan FTM周报：中国5月经济活动全面走弱，下调Q2 GDP预测；南亚塑胶目标价NT$200（AI级CCL占比加速）；力积电升级至OW目标价NT$100（存储代工涨价+HBM封装机会）
 - [JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M](entries/JPMorgan-SK-hynix-LTA-paves-path-for-new-valuation-framework-raising-PT-to-W3M.md) — JPMorgan维持Overweight，TP从KRW 1,800,000大幅上调至3,000,000。LTA谈判进入关键拐点，将推动存储器从P/B向P/E估值框架迁移（8x FY26-27E EPS）。上调FY26-28E EPS 9-20%。
-- [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — JPMorgan在中国AI应用巡回调研中发现，AI正从模型开发阶段转向行业应用加速落地
+- [JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点](entries/JPMorgan中国AI应用调研-从模型竞赛到应用落地的转折点.md) — JPM的8场中国AI调研显示工作流、专有数据与客户集成是早期变现关键；部分企业声称经常性收入及经营盈利，但尚待核验，首页无可支持“市场增长3—5倍”的规模数据。
 - [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — JPMorgan首次覆盖中国AI芯片Fabless板块，预计40%单位CAGR至2030年，聚焦本土AI芯片国产替代
 - [JPMorgan中国地产-预售制逐步退出政策点评-利好贝壳与头部国企开发商](entries/jpm-中国地产-预售制逐步退出-2026-08.md) — 住建部2026-08-28发文逐步退出（非取消）预售制，央行要求项目竣工前银行不得向开发商释放预售款；执行比预期灵活但开发商回款放慢、拿地意愿下降，利好市场整合者中海/华润置地及二手房平台贝壳，对银行影响多空交织。
 - [JPMorgan中国地产周度数据监控：端午假期扰动致销售转弱，一线城市挂牌量持续下降支撑房价企稳](entries/jpm-china-property-weekly-data-2026-06.md) — 6月第三周受端午假期影响，冰山指数10城二手成交同比微降0.05%（扣除假期效应+15%），一线城市二手挂牌量环比-0.5%较3月峰值累计降2.6%，60城一手网签同比-23%但同期基数偏低不可比
-- [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — JPMorgan分析外卖行业新披露规则对美团和饿了么竞争格局的影响
+- [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — JPM认为外卖新规的7天预披露与资金来源约束可降低补贴战尾部风险，但维持美团Neutral、目标价85港元且不调整盈利预测；51/92/128港元分别为熊/基准/牛情景价值。
 - [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — JPMorgan分析5月国家统计局房地产数据，一线城市房价环比止跌，但全国市场恢复仍需政策支持
-- [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — JPMorgan在中国电池行业报告中建议精选个股，关注供给侧改革受益标的和全球化布局领先的企业
+- [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — JPM称中国电池产业链自5月初高点回调15%—40%，同期沪深300跌5%；认为产能控制比单纯贸易担忧更能重塑供需，首选宁德时代，并已上调中创新航与璞泰来至增持。
 - [JPMorgan亚洲科技巡访：AI需求扩散与半导体瓶颈向设备和材料迁移](entries/jpmorgan-asia-tech-tour-2026-semiconductor-supply-chain.md) — JPMorgan走访37家公司并吸引115名投资者，判断AI订单能见度已延至2027年且开始讨论2028年；亚洲OSAT 2026年资本开支同比增逾80%，CoW设备交期最长12个月，先进封装紧张或持续至2027-28年。
-- [JPMorgan全球房地产日报：中国地产新闻与研究摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — JPMorgan全球房地产研究团队每日新闻和研究摘要，涵盖中国地产行业动态
+- [JPMorgan全球房地产日报：纽约租金与欧美资产交易摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — JPM全球地产日报披露曼哈顿5月住宅租金中位数5,125美元、同比增7%，以及Realty Income约2.6亿英镑收购英国8座零售园区、净初始收益率7.7%；首尾页不能支持原条目的中国地产回暖结论。
 - [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — JPMorgan分析4月WSTS半导体销售数据，同比增速再创新高，AI芯片和存储是主要驱动力
 - [JPMorgan晶圆代工2Q26总结-先进制程供需紧张延续至2028-成熟制程定价转暖](entries/台积电JPMorgan-晶圆代工2Q26总结-先进制程紧张延续至2028.md) — JPMorgan 2026-08-28晶圆代工2Q26总结：台积电上调FY26营收指引至40%+美元增长并提高资本开支至600-640亿美元，AI需求能见度延伸至2029-30年；成熟制程定价叙事转暖，SMIC 3Q指引大超预期，预期2027年初台积电N3/N2再涨价10%+。
 - [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — JPM 6/23分析：中国地产股4个交易日跑输恒指9%，CRL/COLI单周跌11%；一线城市房价连续4个月环比正增长（NBS二手+0.3%/中原+0.3% MoM），9城冰山指数二手成交+15% YoY；维持SOE开发商择低买入建议
 - [JPM亚洲电力设备：全球二季度订单验证长周期景气](entries/JPM亚洲电力设备-全球二季度订单验证长周期景气.md) — 全球主要电气设备企业超过75%上调收入或利润指引，订单与积压普遍向好；JPM预计美国输配电投资本十年维持双位数增长，2030年后全球燃机供给约95GW仍低于110-120GW年需求。
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Macquarie维持Outperform，TP上调61%至KRW 2,900,000（6x 2027E PE）。存储器短缺将持续恶化，HBM 2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。
-- [Meta 1Q26业绩超预期但资本开支大幅上调，多空观点激烈交锋](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Meta 1Q26营收$56.3bn(+29% y/y)超预期，但大幅上调2026年资本开支指引$100亿至$1,250-1,450亿，并预告2027年capex将增长42%至$2,020亿，导致FCF转负。BofA维持Buy(目标$835)，DB强调广告ROI改善，JPMorgan下调至Neutral(目标$725)。核心分歧在于AI巨额投资回报可见度。
-- [MetaxGoogle反垄断诉讼专家电话会(Jefferies)](entries/Meta-Google-Antitrust-Lawsuit-Jefferies-20260416.md) — Jefferies邀请反垄断专家Glenn Manishin(曾参与AT&T和微软反垄断案)解读Meta/Google近期反垄断诉讼进展，分析可能的判决结果及对科技巨头的行业影响。
+- [Meta/Google反垄断诉讼专家电话会邀请：非会后观点（Jefferies）](entries/Meta-Google-Antitrust-Lawsuit-Jefferies-20260416.md) — Jefferies本文件是Meta/Google反垄断专家电话会邀请而非会后结论；首页列Meta Buy、目标价1,000美元，对应前收662.49美元的研报所列上行空间51%。
 - [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — JPMorgan详细分析Meta Superintelligence Labs(MSL)首款模型Muse Spark，认为其标志Meta在AI前沿领域的突破。Muse Spark为原生多模态推理模型，支持工具调用、视觉思维链与多智能体编排。Meta规划可预测的扩展路径，更大更强的模型在开发中。维持Overweight评级，目标价$825 (Dec-26)
 - [Meta裁员10%与Neocloud选择权(Morgan Stanley)](entries/Meta-Headcount-MS-20260517.md) — Morgan Stanley分析Meta计划裁员10%(约8,000人)，关闭6,000个职位空缺，同时大幅提高capex。MS估算裁员可带来~$2bn/2H26和~$3.5bn/FY27的运营费用节省。维持Overweight评级，目标价$775。同时提出"Neocloud备份选择权"概念——若Meta向第三方出租过剩GPU容量，有望带来8%+的FY28 EPS上行空间。
-- [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Morgan Stanley总结Computex 2026展会关键趋势：AI PC、服务器与边缘计算
 - [Morgan Stanley WAIC 2026 洞察：具身智能与工业 AI 变革，探索具身与数据瓶颈](entries/Morgan-Stanley-WAIC-2026-洞察-具身智能与工业-AI-变革.md) — 2026年世界人工智能大会（WAIC）显示，中国具身智能与工业AI应用加速步入部署期，AI Agent赋能工业设备升级与数据基础设施建设成为核心逻辑。
-- [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — Morgan Stanley 2026年6月24日发布中国人形机器人Investor Presentation，预测2050年全球保有量达10亿台、市场规模7.5万亿美元，2026年正式开启小规模商业化拐点，中国供应链优势显著
-- [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Morgan Stanley中国工业企业调研显示资本支出复苏范围扩大、力度增强
-- [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Morgan Stanley分析中国金融业高质量发展路径和人民币存款新规对银行的影响
+- [Morgan Stanley中国人形机器人演示：2050年10亿台保有量与7.5万亿美元市场预测](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — MS预测2050年全球人形机器人保有量10亿台、市场7.5万亿美元；2026年被判断为小规模商业化拐点，工业7×24小时替代2–3班人力是潜力而非已验证回报。
+- [Morgan Stanley中国工业调研：AI设备与苹果链超预期，订单扩张并非全行业同速](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — 雷赛年初至今收入+40%以上、信捷5月订单+35%以上；先导管理层预计2Q订单增速不低于1Q约60%，MS看好AI设备升级，但美国头部人形机器人爬坡低于预期。
 - [Morgan Stanley中国金融体系去杠杆与正向循环研判](entries/morgan-stanley-china-financials-deleveraging-positive-loop-202607.md) — MS分析表明中国正走出强刺激去杠杆，通过抗内卷和优化信贷配置（取消普惠小微量化增速要求），驱动NIM在2026年企稳、2027年反弹，社融与GDP缺口收窄。
 - [Morgan Stanley中国金融催化剂前瞻：2Q26与3Q26盈利改善及政策扰动消退](entries/MS中国金融催化剂前瞻-2Q26与3Q26盈利改善及政策扰动消退.md) — MS预计中国银行2Q26/3Q26收入与利润继续改善，NIM企稳、手续费复苏及信用风险可控构成基本面支撑；国家队减持和政府债发行放缓的担忧有望在2H26明显缓解。
-- [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Morgan Stanley分析中国金融业高质量发展路径、人民币存款新规的影响以及银行板块投资机会
-- [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Morgan Stanley分析AI投资从硬件到软件的轮动趋势，评估互联网板块当前估值水平
-- [Morgan Stanley人形机器人前沿：即将登陆彭博终端与产业进展](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Morgan Stanley追踪人形机器人行业最新进展，关注机器人登录彭博终端等里程碑事件
+- [Morgan Stanley中国银行业投资者演示：支付回暖、信贷理性化与净息差拐点](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — 1Q26支付金额同比+29%、居民金融资产+10.8%；MS预计净息差2026年企稳、2027年回升，核心政策是取消普惠小微贷款量化目标而非存款新规。
+- [Morgan Stanley互联网周报：北美平台估值回撤与AI硬件/软件资金流观察](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — 北美互联网板块报告期下跌约3%；AMZN/GOOGL/META按2026E EPS估值约25/24/17倍，较各自过去12个月平均估值低21%/5%/30%，并非中国互联网荐股报告。
+- [Morgan Stanley人形机器人前沿：IPO与分拣演示推进，泛化和利润承压](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Figure三台机器人200小时处理249,560个包裹；宇树招股书预计1H26收入约+40%、调整净利率22–25%，低于2025年约35%，IPO和量产不等于盈利同步改善。
 - [Morgan Stanley全球云资本开支追踪：2027年共识升至1.2万亿美元仍偏保守](entries/morgan-stanley-global-cloud-capex-tracker-2026-08.md) — 2027年全球云资本开支共识已上调至约1.2万亿美元、同比增长29%，但Morgan Stanley估算达1.4万亿美元、较共识高17%；供给约束与云收入加速意味着资本开支仍有上修空间。
-- [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Morgan Stanley总结Computex 2026展会关键趋势，AI PC生态成熟、服务器需求强劲、边缘计算崛起
-- [Morgan Stanley台湾半导体供应链调研纪要](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Morgan Stanley在台湾与半导体公司会面后的关键发现，涵盖CoWoS产能、HBM需求和先进制程展望
+- [Morgan Stanley全球科技Computex 2026：Vera Rubin机柜配套升级，AI PC短期需求有限](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Vera CPU风冷/液冷机柜配置125/256颗CPU；800V DC电源柜调研预计4Q26出货，RTX Spark高配笔记本可能超3,000美元，MS判断AI PC短期拉动有限。
+- [Morgan Stanley台湾半导体调研：Rubin按期爬坡、CPU增量与存储短缺](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — NVIDIA管理层称年内CPU收入目标200亿美元，MS估计头节点贡献100–120亿美元、独立CPU贡献70–100亿美元；供应链预期3Q存储价格涨20%以上，尚非已成交价格。
 - [MSFT AI基础设施深度系列：OpenAI与Anthropic效应——Token优化周期来临 (BNP Paribas 6/2)](entries/MSFT-AI基础设施深度系列-OpenAI与Anthropic效应-Token优化周期来临-BNP-Paribas-6-2.md) — BNP Paribas 6月2日深度报告：OpenAI+Anthropic合计ARR已达$800亿（2025年底$300亿），agentic AI推动token消耗爆发式增长，但企业token成本反弹正引发首次有意义的token优化周期，AI基础设施ROIC有望达20-30%
-- [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — Morgan Stanley从每MW营收角度分析微软AI基础设施扩张：DC容量从FY24的5GW扩至FY28的20GW，营收/MW持续下降暗示营收预估可能滞后，目标价50
-- [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，Capex从810亿上调至340亿，以及从席位向用量定价模式的加速转型
-- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 微软FQ3'26（2026年4月）财报综合速览：营收28.86亿(+18.3%)，EPS .27(+19.9%)，Azure CCY增长39%超预期，Capex指引900亿大幅上修，Copilot席位达2000万
+- [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — Morgan Stanley从每MW营收角度分析微软AI基础设施扩张：DC容量从FY24的5GW扩至FY28的20GW，营收/MW持续下降暗示营收预估可能滞后，目标价650美元
+- [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，UBS将FY27全口径Capex预测从1810亿美元上调至2340亿美元，以及从席位向用量定价模式的加速转型
 - [MSFT NDR前瞻10问：Copilot进展、GPU定价权与AI基础设施融资 (BNP Paribas 6/9)](entries/MSFT-NDR前瞻10问-Copilot进展-GPU定价权与AI基础设施融资-BNP-Paribas-6-9.md) — BNP Paribas 6月9日发布微软纽约NDR前夕10大投资者核心问题：Copilot是否已突破2500万席位、agentic工作负载的算力经济性、Azure GPU定价权、OpenAI承诺中的对冲机制、Capex超现金流的融资选项，以及SpaceX AI云披露暗示AI基础设施收入远超此前预期
 - [MSFT NYC NDR反馈：Copilot成核心议题，FQ4席位或远超2500万 (BNP Paribas 6/11)](entries/MSFT-NDR反馈-Copilot成核心议题-FQ4席位或远超2500万-BNP-Paribas-6-11.md) — BNP Paribas 6月11日微软纽约NDR反馈：Copilot超越Azure成为投资者最关注话题，FQ4 Copilot席位有望远超2500万+指引，定价模式正从纯席位向席位+消费混合模式演进，Azure GPU定价倾向优化效率而非全面提价
 - [MSFT Windows AI PC新篇章：与NVIDIA合作发布RTX Spark平台 (Morgan Stanley 6/1)](entries/MSFT-Windows-AI-PC新篇章-与NVIDIA合作发布RTX-Spark平台-Morgan-Stanley-6-1.md) — Morgan Stanley 6月1日报告：微软与NVIDIA联合发布RTX Spark——为个人AI Agent设计的Windows AI计算平台，搭载Grace CPU+Blackwell RTX+128GB统一内存，可本地运行120B参数大模型；Surface Laptop Ultra成为首款NVIDIA架构旗舰PC
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — BNP Paribas 5月26日更新报告：微软处于关键拐点，Copilot用户反馈显著改善（Agent Mode/Copilot Cowork获好评），Azure 40%+增长可持续至FQ3'27
-- [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — HSBC 5月26日报告：Anthropic年化营收从0亿飙升至00亿，Azure可能到2030年从Anthropic获得30亿/年增量营收，维持Buy目标价71
+- [MSFT：Anthropic合作有望成为Azure 430亿美元年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — HSBC 5月26日报告：Anthropic年化营收从2025年底约90亿美元升至2026年5月约400亿美元；按2030年收入2410亿美元、算力支出占60%、Azure份额30%的假设，可形成约430亿美元/年机会，维持Buy和571美元目标价
 - [MS中国地产7月跟踪：百强房企销售同比降11%，国企与民企分化加剧](entries/MS中国地产7月跟踪-百强房企销售同比降11-国企民企分化加剧.md) — 摩根士丹利7月跟踪显示百强房企销售同比下降11%，央国企（华润/中海外/建发）保持正增长，看好具自救阿尔法能力的优质国企标的。
-- [MS中国美妆618预售排名：珀莱雅第一，巨子生物快速崛起](entries/MS中国美妆618预售排名.md) — Morgan Stanley发布2026年618预售排名，珀莱雅蝉联第一，巨子生物可复美/可丽金快速增长，国际品牌表现分化，国货美妆持续抢占市场份额
+- [MS中国美妆618预售：珀莱雅第一，可复美第11、毛戈平第15](entries/MS中国美妆618预售排名.md) — MS跟踪2026年5月21—27日天猫美妆预售：珀莱雅第1、可复美第11、毛戈平第15，前20国货仍为5家；阶段排名改善不能直接推出全行业国货份额加速提升。
 - [MS中国金融跟踪：工业信用去风险趋势延续，工业需求增速显著快于供给](entries/MS中国金融跟踪-工业信用去风险趋势延续-需求增速快于供给.md) — 摩根士丹利6月中国金融跟踪显示，名义工业生产（需求）同比+7.2%快于固定资产投资（供给）-1.2%，连续9个月去产能，支撑制造业利润同比大增20.1%。
 - [MS亚洲宏观与工业：亚洲迎来20年来最强工业资本开支超级周期](entries/MS亚洲宏观与工业-亚洲迎来20年来最强工业资本开支超级周期.md) — 摩根士丹利看好受AI算力需求、能源安全与地缘政治驱动的亚洲工业资本开支超级周期，电力能源仍为核心瓶颈，重点看好中国AI解决方案商与AI制造产业链。
-- [Nomura Sansera Engineering (SANSERA IN) — Diversification gains momentum (Buy)](entries/Nomura-Sansera-Engineering-Buy-Diversification-gains-momentum-20260521.md) — Nomura维持Sansera Engineering买入评级，目标价上调，认为公司业务多元化从汽车零部件向航空航天和工业领域拓展正获得动能
+- [Nomura Sansera Engineering (SANSERA IN) — Diversification gains momentum (Buy)](entries/Nomura-Sansera-Engineering-Buy-Diversification-gains-momentum-20260521.md) — Nomura称Sansera第四财季收入100亿印度卢比、同比增28%，EBITDA利润率19.3%；目标价由2,342升至3,114卢比，FY26—28 EPS CAGR预测26%，由航空航天、国防和半导体业务推动。
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
-- [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价40评级买入
+- [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价640美元、评级买入（44倍CY28E EPS 14.54美元）
 - [Reddit 2Q26广告高增长与Google搜索流量风险再平衡](entries/reddit-jpm-q2-2026-advertising-search-traffic.md) — Reddit 2Q26收入8.05亿美元同比增长61%，广告收入增长64%、活跃广告主增长70%以上，但美国DAUq环比减少30万；JPMorgan认为商业化强劲尚不足以抵消Google搜索流量不确定性，维持Neutral并设2027年底目标价185美元。
+- [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — 汇丰银行（HSBC）认为市场因2Q26短暂低于预期而过度抛售SK海力士，认为Agentic AI正引发比肩1990-95年的存储超级周期，HBM4溢价与SO-CAMM2普及将推动3Q26营业利润大增至79万亿韩元，重申Buy。
+- [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Macquarie指出SK海力士2Q26营业利润60.5万亿韩元（+61% QoQ），因NAND提价及DRAM均价增长；股价自高点腰斩，当前扣除净现金后2027E PE仅1倍（全表PE 2.5x），重申Outperform。
+- [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Morgan Stanley指出SK海力士2Q26营业利润60.5万亿韩元（OP率76%），因HBM3e组合过渡短期未能达最高共识；但下半年HBM4加速放量与多长单（LTA）锁定将显著提升盈利与FCF，维持Overweight。
 - [UBS中国在线娱乐2026年7月月报：腾讯网易游戏韧性延续，短视频继续挤压长视频](entries/ubs-china-online-entertainment-monthly-2026-07.md) — 2026年7月腾讯与网易手游流水分别同比增长12%和11%，但瑞银预计腾讯三季度国内游戏收入增速由二季度17%放缓至11%；抖音与红果时长份额分别升至25.5%和4.7%，结论是优先配置游戏与可量化AI催化标的。
 - [UBS中国银行2Q26前瞻：收入仍稳健但利润增速滞后](entries/UBS中国银行2Q26前瞻-收入仍稳健但利润增速滞后.md) — UBS预计中国银行2Q26 NII、营收和净利润分别增长6.9%、4.9%和2.6%，信用成本同比升6bp；国有大行收入/PPOP增长7.6%/10.6%，继续领先股份行。
 - [UBS中国银行业月报：7月信贷疲弱与政策宽松预期升温](entries/UBS中国银行业月报-7月信贷疲弱与政策宽松预期升温.md) — 2026年7月人民币贷款净减少3400亿元，弱于市场预期新增250亿元；新增社融1.4万亿元、超过预期1.15万亿元，UBS认为财政加速有望托底信贷，继续偏好股息率超过5%的H股国有大行及宁波银行。
@@ -98,6 +94,9 @@
 - [WWDC 2026：Apple新Siri由Gemini驱动(UBS)](entries/WWDC-Apple-Siri-Gemini-UBS-20260608.md) — UBS快评WWDC 2026——Apple展示全新Siri，底层基础模型由Gemini提供支持。对聊天应用(Meta AI、ChatGPT、Gemini)方向性负面，iOS生态推出更具竞争力的Siri。Google可能通过广告收入分成或Cloud收入获得长期补偿。
 - [万国数据AI需求爆发：三年Capex 300-500亿元，订单创纪录](entries/万国数据AI驱动数据中心分析.md) — 万国数据1Q26净收入34亿元(+24% YoY)，EBITDA 19亿元(+47%)，新增预订200MW创季度新高，三年计划投资300-500亿元，多投行维持买入/跑赢
 - [三星电子存储能见度延伸至2027年代工提前盈亏平衡](entries/三星电子存储能见度延伸至2027年代工提前盈亏平衡.md) — BNPP三星电子1Q26点评：营收134万亿韩元创纪录+43%QoQ，存储能见度至2027年，代工2027年初盈亏平衡，目标价30万韩元
+- [三花智控H股BofA：核心经营超预期，但约27倍PE难匹配10%增长](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — 三花1Q26毛利率27.8%、营业利润高于BofA预测5%，但净利润仅增约3%；BofA维持H股Underperform及30港元目标价，预计2026年盈利增长约10%。
+- [三花智控UBS：1Q26扣非利润增长15.5%，制冷承压而液冷逐步兑现](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — 三花1Q26收入77.7亿元同比+1.4%、净利9.3亿元+2.7%、扣非9.9亿元+15.5%，毛利率27.8%；UBS维持A股Buy与65元目标价，关注铝价与机器人、液冷兑现。
+- [世界先进VIS：中介层业务改善与VSMC资本支出下调，野村升级买入](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — 野村2026-05-05覆盖世界先进VIS（5347 TT），不是日月光：VSMC预算78亿降至67亿美元，2026/27F EPS上调14%/28%至5.76/5.94新台币，目标178新台币；扩产期FCF仍承压。
 - [东方电气01072.HK价值成长QARP深度分析](entries/dongfang-electric-qarp-analysis-2026-07.md) — 东方电气是中国重型燃气轮机和核电装备龙头，H股估值（11x Forward PE，PEG 0.64）处于52周5%底部低估，具备极高安全边际和AI用电期权。
 - [中国短剧行业野村专家会纪要：红果短剧AI生成内容反噬流量，平台重回真人短剧偏好（野村 7/13）](entries/short-drama-industry-nomura-expert-call-analysis.md) — 野村举办字节跳动红果短剧专家交流：AI短剧生产成本仅真人1/3-1/4，但因缺乏情感共鸣损害广告价值，红果已干预将AI内容占比压制在30%以下，流量与补贴重新倾斜真人短剧；预计2026年中国短剧市场将突破1200亿元（+25% YoY）。
 - [中通快递1Q26超预期+反内卷持续——JPM/MS/UBS一致看多，阿里减持为情绪扰动](entries/中通快递1Q26超预期-反内卷持续-阿里减持为情绪扰动.md) — 中通1Q26收入+22% YoY超预期，市场份额+1.4ppt，ASP +Rmb0.11，运输成本-Rmb0.04；JPM OW（PT HK$225），MS OW（PT US$30.1），UBS Buy（PT US$28），一季度为年内第三次盈利预测上调
@@ -106,7 +105,7 @@
 - [中际旭创多重增长驱动-AI光网络升级](entries/中际旭创多重增长驱动-AI光网络升级.md) — Nomura中际旭创深度：1.6T出货量上调至26mn/60mn单位，3.2T/NPO/CPO延伸AI周期，目标价¥1,015评级买入
 - [云计算经济性基准显示微软云兼具回报韧性与估值吸引力](entries/云计算经济性基准显示微软云兼具回报韧性与估值吸引力.md) — 汇丰估算微软云二〇二七年投入资本回报率14.6%，二〇二八年扣除股权激励后企业价值与经营利润比率14.1倍，低于亚马逊云18.2倍及核心编织27.0倍；但开放人工智能与安索匹克约占微软剩余履约义务46%，客户集中度是核心风险。
 - [伯恩斯坦：AI电力狂潮下燃气轮机周期与2000年的本质不同](entries/伯恩斯坦-AI电力狂潮下燃气轮机周期与2000年的本质不同.md) — 伯恩斯坦90页研报：本轮燃气轮机周期以棕地复苏为主非绿地新建，全球产能64GW→109GW（+60%），HDGT到2030年仍供不应求缺口23.6GW，IGT&Aero 2027年起过剩18.8GW。AI数据中心电力需求20-34GW/年，三大厂订单中数据中心占比20-30%。定价持续上涨（Turbine价格+50%），服务市场是现金牛（每GW≈4亿欧元全生命周期收入）。A股映射：东方电气、应流股份、图南股份、平高电气等。
-- [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — 华泰证券分析AI Agent发展趋势，认为Agent应用爆发将拉动算力需求持续增长，形成算力通胀效应
+- [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — 华泰认为Agent推理扩张将推动CPU、互联和边缘云需求；首页推荐表给浪潮信息82.48元、深信服138.89元目标价，但未提供可核实的行业60%增速或Agent耗算5—10倍结论。
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — 华泰证券预计腾讯1Q26营收+11%/经调整净利+10%，AI Agent赛道迎拐点(龙虾产品矩阵升级/云提价/混元3.0发布)，SOTP目标价716港元，预计26年营收8410亿
 - [华泰证券资产配置月报：AI链行情进入新阶段](entries/华泰证券资产配置月报-AI链行情进入新阶段.md) — 华泰证券4月资产配置报告认为AI链行情正从第一阶段（算力硬件）向第二阶段（应用与生态）切换
 - [双环传动002472.SZ价值成长QARP深度分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — 双环传动是新能源齿轮与机器人RV减速器龙头，2026Q1受车企价格战降速明显（扣非-4.04%），动态PEG达1.76偏高。
@@ -137,16 +136,15 @@
 - [德银中国NEV周度新订单监控（2026年6月第3周）](entries/db-china-nev-weekly-orders-2026-06.md) — Deutsche Bank发布中国新能源车周度新订单监控周报（2026年6月23日），基于Thinkercar数据追踪比亚迪、吉利、HIMA、理想、蔚来、小鹏、零跑、小米、特斯拉等关键车企的周度新订单趋势，为NEV需求领先指标
 - [德银中国NEV周度新订单监控（2026年7月第1周）](entries/db-china-nev-weekly-orders-2026-07.md) — Deutsche Bank发布中国新能源车周度新订单监控（2026年7月7日），基于Thinkercar数据追踪比亚迪、吉利、HIMA（问界）、理想、蔚来、小鹏、零跑、小米及特斯拉等关键车企周度新订单趋势，反映7月首周高频需求领先指标
 - [德银中国汽车欧洲本地化：福耀现有产能构成先发优势](entries/德银中国汽车欧洲本地化-福耀现有产能构成先发优势.md) — 中国车企欧洲份额由2020年1月的0.2%升至2026年6月的9.8%，德银预计2030年前后本地化成熟后长期份额可达接近20%；福耀凭德国、匈牙利和斯洛伐克加工设施及汽车玻璃暂未纳入IAA强制原产地门槛而成为首选供应商。
+- [德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — 德银2026-06-15比较宇树、优必选、云深处、越疆、乐聚：宇树2025毛利率60%、经常性净利率35%，但1H26指引经常性净利下降14%；2050年1万亿美元为德银市场预测，机会与费用风险并存。
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — 腾讯2Q26实现营收2048亿元（+11% YoY），Non-IFRS净利684亿元（+9% YoY）；单季Capex同比大增176%至593亿元加速AI基建；混元Hy3、WorkBuddy与微信小微全面落地，德银维持买入评级与目标价760港元。
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — 谷歌2Q26营收1200亿美元（+24% YoY），Google Cloud营收248亿美元（+82% YoY，利润率升至35.6%），积压订单达5140亿美元；德银指出市场过度聚焦Capex上调（I）而忽视高ROI（R），维持买入评级与目标价430美元。
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — 恒瑞医药与BMS签订涵盖13个早期项目的全球战略合作，潜在总价值US$152亿（6亿首付款），为中国药企第二大license-out交易；JPM维持A股OW（PT Rmb70）/H股Neutral（PT HK$70）
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — 恒立液压是高精密液压泵阀与丝杠龙头，ROE稳定，但当前估值过贵（2025静态PE 50.8x，动态PE 39.5x），安全边际不足。
-- [拼多多：电商监管再起与业务稳健发展周期(Deutsche Bank/华泰证券)](entries/PDD-Ecommerce-Regulation-Huatai-DB-202603-04.md) — 两份报告从不同角度分析拼多多。DB(2026-04-23)聚焦SAMR对主要电商平台罚款RMB36亿，标志从价格战转向"合规战"，有利于头部平台。华泰证券(2026-03-26)上调评级至买入(目标价$133)，认为拼多多电商业务有望进入稳健发展周期——平台模式较少受国补基数影响、竞争边际缓和、"新拼姆"自营模式提升海外确定性。
 - [摩根士丹利中国房地产周度监测：新房成交同比反弹，去化率显著改善](entries/ms-china-property-weekly-2026-07.md) — 7月首周（截至7月5日）50城新房周成交同比增22%（前值-11%），YTD同比-11%；10城二手成交同比增4%（前值-1%），YTD同比+5%；总去化率回升至68%（前值53%），一线去化率达90%。中原六城二手降价比例微增至16.7%，一线中介指数升至54.7。
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — 摩根士丹利指出宁波银行2Q26营收和净利润分别增长12.9%和13.9%，贷款环比增长2.8%、显著快于行业0.8%；维持增持与首选股，目标价48.30元。
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — JPMorgan测算阿里、腾讯、百度基准年化AI Capex分别为2000亿、2000亿、300亿元；阿里年资金缺口1000亿元且配股稀释3.7%，但算力项目IRR 22%高于约10%资本成本，结论是市场对融资毁值定价过度而三家公司均维持Overweight。
 - [摩根大通：台积电2026年7月营收符合进度，N3需求与N2爬坡支撑三季度指引](entries/台积电2026年7月营收快评-JPMorgan-N3需求与N2爬坡.md) — 台积电2026年7月营收4,676亿元新台币，同比增长45%、环比增长6%，已完成摩根大通及市场三季度预估约32%；强劲N3需求与N2爬坡支持三季度收入落在446亿-458亿美元指引中高端，并指向2026年美元收入低40%增长。
-- [日月光投控中介层业务超预期VSMC资本支出降低](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Nomura世界先进研报：中介层业务好于预期、VSMC资本支出从8亿降至7亿加速盈亏平衡，上调至买入目标价TWD178
 - [毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持](entries/毛戈平JPM-增长可见性高-管理层承诺不减持.md) — 毛戈平2026年1Q销售+>20% YoY（线下SSSG >12%），管理层维持全年+30%收入指引和稳定利润率；JPM OW（PT HKD130），TP 31x 2027E PE
 - [汇丰美国科技AI Reality Check：需求两极化、ROI看任务而非Token，电力设备成资本开支硬约束](entries/hsbc-us-technology-ai-reality-check-2026-08.md) — 汇丰专家会显示企业AI试点成功率由2024年约10%升至约30%，但技术组织的编码与研究工具采用率已接近100%、通用SaaS Agent消费仍低迷；模型扩展尚无天花板，10万至100万GPU集群需求支撑Capex，而大型变压器积压最长10年使电力设备先于光模块和网络成为首要瓶颈。
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — 腾讯2Q26营收2047.85亿元（+11%）且Non-IFRS净利684.15亿元（+9%）；汇丰认为小微推理成本或被高估、GPU出租提供即时回报，维持买入及655港元目标价。
@@ -180,10 +178,9 @@
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — UBS认为腾讯2026Q1业绩符合预期，核心业务盈利能力稳健(+17% ex-AI)，当前约13x Forward PE处于历史低位，AI期权价值未充分定价，目标价516港元
 - [英特尔服务器需求顺风与制造叙事改善](entries/英特尔服务器需求顺风与制造叙事改善.md) — UBS英特尔1Q26点评：营收35.8亿超预期，DCAI+22% YoY，18A良率提前6个月，目标价3评级中性
 - [英特尔重新定价AI系统级价值](entries/英特尔重新定价AI系统级价值.md) — 华泰证券英特尔点评：AI驱动业务占60%营收，18A实现制程追赶，目标价12（4.0x 27E PB）重申买入
-- [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — 邮箱：zhaoxc@csco.com.cn 邮箱：donglyn@csco.com.cn
+- [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — 世纪证券披露4月逆变器出口407.4万台、9.38亿美元，金额环比增23.7%、同比增13.4%，1—4月累计33.6亿美元、同比增29.7%；海外需求向储能和高价值产品升级。
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — 茅台2026年3月飞天出厂价提至Rmb1,269（+8.6%），1Q26收入+6.3%但毛利率-331bp；MS维持OW（PT Rmb1,790），BofA Buy（PT Rmb1,630），Jefferies Buy（PT Rmb2,100），共识聚焦2H26结构性增长
 - [野村世界先进涨价强化二〇二七年盈利](entries/野村世界先进涨价强化二〇二七年盈利.md) — 世界先进第三季晶圆出货量指引环比增长1%至3%、平均售价增长2%至4%，管理层预期2027年调价幅度可能高于2026年；野村据此上调2027至2028年每股收益24%，并将目标价由178新台币提高至220新台币，判断涨价可抵消新加坡十二英寸厂爬坡的部分毛利率稀释。
-- [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
 - [隆基绿能：BC技术+储能双轮驱动，组件3Q26有望扭亏](entries/隆基绿能BC技术转型分析.md) — 隆基绿能1Q26净亏损约17亿元(剔除减值)，BC组件出货占比从28%升至66%，目标6GWh BESS出货，UBS维持买入/TP 22.8元，JPM维持UW/TP 11.7元
 - [麦格理东方电气1Q26业绩快评与评级下调分析](entries/macquarie-dec-1q26-performance-downgrade.md) — 麦格理将东方电气下调至Underperform，因其1Q26扣非核心利润仅增11.5%，2025年订单覆盖率从2.19x降至1.78x，且十五五煤电定位转变削弱中线可见性。
 
@@ -200,18 +197,12 @@
 
 ## Note
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — BNPP 2026-06-11. ETN Mobility/Dana RMT is clear positive: Mobility valued at $5.1bn (8.3x EV/EBITDA, 5.9x with $250m synergies). ETN gets $1.1bn cash for deleveraging (net leverage 3.1x). Accelerates focus on high-growth Electrical + Aerospace. Data center to reach 34% of sales in 2027. ETN at ~24x 2027E PE is undervalued, expect re-rating. PT $490. Top Pick.
-- [BofA: Zhejiang Sanhua 1Q26 Core Beat](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — BofA 2026-04-30. Zhejiang Sanhua (002050.SZ) 1Q26 core earnings beat expectations, but valuation looks stretched. Analysis of thermal management and automotive components.
 - [Deutsche Bank: ETN 1Q Wrap](entries/Deutsche-Bank-ETN-1Q-Wrap.md) — DB 2026-05-05. ETN 1Q: EA margin 25.6% (-440bps YoY) on capacity expansion + cost inflation. Orders strong (+60% EA). 2H margin recovery to >30% expected. 2026 adj EPS $13.38. PT $461 (27x NTM). Risks: DC capex slowdown, utility investment slowdown, M&A execution.
-- [Deutsche Bank: Humanoid Robot Comparing Unitree, UBTECH, DEEP, Dobot and Others](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — DB 2026-06-15. Humanoid robot industry comparison: Unitree, UBTECH, DEEP, Dobot and others. Detailed competitive analysis of Chinese humanoid robot players.
 - [JPMorgan: ETN 1Q Wrap and Model Update](entries/JPMorgan-ETN-1Q-Wrap-and-Model-Update.md) — JPM 2026-05-06. ETN 1Q: Sales beat (+10% organic vs 6.5% est), EA margin miss (25.6% vs 27.2% est). Data center orders +240%, record EA backlog. DC to be 25-30% of 2026 sales, 35% in 2027. 2027 EPS raised 5% to $16.15. PT $445 (20% sector premium). Maintain OW.
 - [Morgan Stanley: ETN Under-Appreciated Transformation](entries/Morgan-Stanley-ETN-Under-Appreciated-Transformation.md) — MS 2026-05-08. ETN portfolio transformation under-appreciated: Mobility spin-off + Dana RMT ($5.1bn, 8.3x EV/EBITDA), Boyd acquisition. Data center to grow from 21% (2025) to 34% (2027). 2027 EPS $15.91 (P/E 25x). Market too focused on 2026 margin uncertainty, missing 2027 structural re-rating. PT $500. Maintain OW.
-- [UBS: Zhejiang Sanhua Intelligent Controls Q126 Revenue](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — UBS 2026-04-30. Zhejiang Sanhua Intelligent Controls (002050.SZ) Q1 2026 revenue analysis. First read on thermal management business performance.
 
 ## Reference
 - [Momenta港股不同投票权控制上市招股书分析](entries/momenta-global-hk-ipo-prospectus-202606.md) — 智能驾驶独角兽Momenta（初速度）于2026年6月29日披露港股招股书，2025年营收增至24.13亿元，定点170款车型，累计装车超68万辆，在独立城市NOA智驾系统领域市占率达64.5%排名第一。
-- [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — 汇丰银行（HSBC）认为市场因2Q26短暂低于预期而过度抛售SK海力士，认为Agentic AI正引发比肩1990-95年的存储超级周期，HBM4溢价与SO-CAMM2普及将推动3Q26营业利润大增至79万亿韩元，重申Buy。
-- [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Macquarie指出SK海力士2Q26营业利润60.5万亿韩元（+61% QoQ），因NAND提价及DRAM均价增长；股价自高点腰斩，当前扣除净现金后2027E PE仅1倍（全表PE 2.5x），重申Outperform。
-- [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Morgan Stanley指出SK海力士2Q26营业利润60.5万亿韩元（OP率76%），因HBM3e组合过渡短期未能达最高共识；但下半年HBM4加速放量与多长单（LTA）锁定将显著提升盈利与FCF，维持Overweight。
 - [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — 东方电气2026H1实现营业总收入386.24亿元（+1.24%），归母净利润27.13亿元（+42.07%），扣非净利润23.66亿元（+30.96%）；新生效订单698.8亿元（+6.71%），但经营现金流净流出17.22亿元。
 - [厦门瑞为信息港股18C章上市招股书分析](entries/reconova-technologies-hk-ipo-prospectus-202606.md) — 视觉AI企业瑞为信息于2026年6月29日披露港股特专科技招股书，2025年在中国民航视觉智能产品市场排名第一，营收达4.43亿元，并于2026年4月推出VTFLA多模态大模型切入具身智能与机器人。
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — 台积电2026Q2营收1.270万亿新台币同比增长36%，净利润7065.62亿元增长77.4%，毛利率67.7%；2nm贡献3%晶圆收入，Q3美元收入指引446亿至458亿美元。
@@ -232,9 +223,16 @@
 - [麦格理中国自动化与工业研究：EU路演反馈与AIDC机遇](entries/macquarie-china-automation-industrials-2026-07.md) — 麦格理2026年7月报告显示，欧洲投资者对中国工业股兴趣回升。AI数据中心（AIDC）是核心主题，潍柴动力是最受青睐的标的。
 
 ## Synthesis
+- [Broadcom FY26Q2多投行研报汇总：业绩小幅超预期，AI高预期与后端瓶颈并存](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Broadcom FY26Q2营收221.87亿美元略超共识221.30亿美元，560亿美元是FY26全年AI收入指引而非单季；MS/JPM/UBS目标价分别502/580/485美元，对FY27增长幅度及TPU后端瓶颈存在分歧。
+- [Google 1Q26云业务超预期爆发，Cloud backlog达$4,620亿(BofA/DB/HSBC)](entries/Google-1Q26-Cloud-Backlog-BofA-DB-HSBC-20260430.md) — Google 1Q26营收$94.7bn(+22% y/y)超预期，核心惊喜来自Cloud收入$20bn(+63% y/y)和Cloud backlog暴增90%至$4,620亿。Search增长加速至19% y/y。BofA维持Buy(PT $430)，HSBC维持Buy(PT $435)，DB强调TPU外部销售成为新的可盈利业务。但EPS因$369亿股权投资公允价值收益失真。
+- [Google I/O 2026发布Gemini Spark个人AI代理，随后宣布$300亿资本募资](entries/Google-Agentic-IO-Capital-Raise-MS-HSBC-UBS-202605-06.md) — Morgan Stanley总结Google I/O 2026大会——发布Gemini Spark个人AI代理(整合搜索/Gmail/Calendar/3P应用)，Gemini 3.5 Flash/Pro新模型(API定价较竞品低70%)。随即HSBC报告Google宣布$300亿公开募资(含$150亿强制可转债)，用于AI基础设施和员工税务。UBS拆解Cloud backlog结构，指出TPU芯片销售和AI实验室大单后2026/27年Cloud收入将上调~24%/~34%。
+- [Meta 1Q26业绩超预期但资本开支上调：三家投行对AI回报与FCF存在分歧](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Meta 1Q26营收563.11亿美元、报告同比+33.1%，固定汇率约+28.9%；2026年capex指引1250—1450亿美元。2027年capex 2020亿美元及FCF转负是JPM预测而非公司指引；BofA/DB维持Buy，目标835/810美元，JPM降至Neutral、725美元。
+- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 微软FQ3'26（截至2026年3月，4月披露）财报综合速览：营收828.86亿美元(+18.3%)，非GAAP EPS 4.27美元(+19.9%，HSBC口径)，Azure固定汇率增长39%高于指引但符合买方预期，CY26 Capex指引1900亿美元，Copilot席位达2000万
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — 台积电上调2026年资本支出指引至600亿-640亿美元，并上调全年美元营收增速指引至40%以上，Datacenter AI需求可见度延伸至2029-2030年。
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — 微软4QFY26总营收预期增长16.8%，Azure维持39.6%的强劲增长；由于GPU供应偏紧及AI算力需求持续旺盛，Q4单季Capex飙升至410亿美元。Copilot已超越Azure成为NDR会期投资人核心议题，FQ4付费席位有望突破2500万，且定价策略加速向“席位+消费”混合模式转型。HSBC维持买入评级，将目标价由571美元微调至567美元。
+- [拼多多：电商监管再起与业务稳健发展周期(Deutsche Bank/华泰证券)](entries/PDD-Ecommerce-Regulation-Huatai-DB-202603-04.md) — 两份报告从不同角度分析拼多多。DB(2026-04-23)聚焦SAMR对主要电商平台罚款RMB36亿，标志从价格战转向"合规战"，有利于头部平台。华泰证券(2026-03-26)上调评级至买入(目标价$133)，认为拼多多电商业务有望进入稳健发展周期——平台模式较少受国补基数影响、竞争边际缓和、"新拼姆"自营模式提升海外确定性。
 - [福耀玻璃2026H1深度复盘：经营小幅超预期，汇兑与H2增速要求构成约束](entries/fuyao-glass-2026-h1-results-expectation-valuation-analysis.md) — 对比UBS、HSBC、Morgan Stanley三家前瞻，福耀2026Q2收入115.58亿元基本符合“持平”判断，毛利率40.17%验证韧性并略强于担忧；H1归母39.70亿元受8.03亿元汇兑损失压制，当前56.16元对应2026E PE约14.1-15.3倍。
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — 福耀玻璃2Q26产能利用率环比+3-4%，ASP在去年高基数上同环比均有提升，毛利率由于高附加值产品占比增加而表现稳健；人民币升值带来的汇兑压力依然延续。UBS下调目标价至85.00元以反映乘用车销量弱于预期，MS维持目标价53.50港元。
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — 腾讯2Q26预期营收增速+9%，Non-IFRS净利润+4%至660亿元。核心看点为Weixin AI Agent在6月开启Beta测试，有望开辟微信端领跑、半商城以及顶层流量分发的三层AI电商变现空间（2030年增量收入空间达690亿至4260亿元）。因AI资本支出大幅提升（预测2026年Capex升至1700亿元），多投行下调盈利预测，HSBC将目标价从720港元降至655港元。
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — 谷歌2Q26营收1200亿美元，Google Cloud暴增82%至248亿且OPM达35.6%，Backlog飙升至5140亿美元；德银、美银、大摩、汇丰力挺多引擎变现与高ROIC并予买入评级（目标价$400-$430），瑞银因Capex指引上调至2050亿与FCF承压维持中性（目标价$379）。
+- [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。

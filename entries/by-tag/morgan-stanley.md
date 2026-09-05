@@ -1,19 +1,16 @@
 # morgan-stanley
 
-- [Broadcom FY26Q2多投行研报汇总：AI需求爆发但预期过高，后端供应成新瓶颈](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Analysis
-- [Google I/O 2026发布Gemini Spark个人AI代理，随后宣布$300亿资本募资](entries/Google-Agentic-IO-Capital-Raise-MS-HSBC-UBS-202605-06.md) — Analysis
+- [Google I/O 2026发布Gemini Spark个人AI代理，随后宣布$300亿资本募资](entries/Google-Agentic-IO-Capital-Raise-MS-HSBC-UBS-202605-06.md) — Synthesis
 - [Hubbell 30亿美元收购NSI Industries：强化电气化与数据中心布局](entries/HubbellNSI收购与电气化分析.md) — Analysis
 - [Meta裁员10%与Neocloud选择权(Morgan Stanley)](entries/Meta-Headcount-MS-20260517.md) — Analysis
-- [Morgan Stanley Computex 2026要点：AI PC生态成熟与服务器需求强劲](entries/Morgan-Stanley-Computex-2026要点-AI-PC生态成熟与服务器需求强劲.md) — Analysis
 - [Morgan Stanley: ETN Under-Appreciated Transformation](entries/Morgan-Stanley-ETN-Under-Appreciated-Transformation.md) — Note
-- [Morgan Stanley中国人形机器人Investor Presentation：2050年保有量10亿台、市场7.5万亿美元](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — Analysis
-- [Morgan Stanley中国工业调研：Capex复苏更广泛、更强劲](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Analysis
-- [Morgan Stanley中国金融业高质量发展与存款新规影响](entries/Morgan-Stanley中国金融业高质量发展与存款新规影响.md) — Analysis
-- [Morgan Stanley中国银行业投资者演示：高质量发展与人民币存款新规](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Analysis
-- [Morgan Stanley互联网周报：AI硬件vs软件投资轮动分析](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Analysis
-- [Morgan Stanley人形机器人前沿：即将登陆彭博终端与产业进展](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Analysis
-- [Morgan Stanley全球科技Computex 2026要点：AI PC、服务器与边缘计算](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Analysis
-- [Morgan Stanley台湾半导体供应链调研纪要](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Analysis
+- [Morgan Stanley中国人形机器人演示：2050年10亿台保有量与7.5万亿美元市场预测](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — Analysis
+- [Morgan Stanley中国工业调研：AI设备与苹果链超预期，订单扩张并非全行业同速](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Analysis
+- [Morgan Stanley中国银行业投资者演示：支付回暖、信贷理性化与净息差拐点](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Analysis
+- [Morgan Stanley互联网周报：北美平台估值回撤与AI硬件/软件资金流观察](entries/Morgan-Stanley互联网周报-AI硬件vs软件投资轮动分析.md) — Analysis
+- [Morgan Stanley人形机器人前沿：IPO与分拣演示推进，泛化和利润承压](entries/Morgan-Stanley人形机器人前沿-即将登陆彭博终端与产业进展.md) — Analysis
+- [Morgan Stanley全球科技Computex 2026：Vera Rubin机柜配套升级，AI PC短期需求有限](entries/Morgan-Stanley全球科技Computex-2026要点-AI-PC-服务器与边缘计算.md) — Analysis
+- [Morgan Stanley台湾半导体调研：Rubin按期爬坡、CPU增量与存储短缺](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Analysis
 - [MS中国地产7月跟踪：百强房企销售同比降11%，国企与民企分化加剧](entries/MS中国地产7月跟踪-百强房企销售同比降11-国企民企分化加剧.md) — Analysis
 - [MS中国金融跟踪：工业信用去风险趋势延续，工业需求增速显著快于供给](entries/MS中国金融跟踪-工业信用去风险趋势延续-需求增速快于供给.md) — Analysis
 - [MS亚洲宏观与工业：亚洲迎来20年来最强工业资本开支超级周期](entries/MS亚洲宏观与工业-亚洲迎来20年来最强工业资本开支超级周期.md) — Analysis

@@ -10,8 +10,7 @@ resource: res/Eaton-ETN/2026-05-05-ROK.N-Deutsche Bank-Multi-Industry and Electr
   Equipment Todays Wrap ETN a...-121846011.pdf
 source_type: pdf
 tags:
-- ETN
-- Eaton
+- eaton
 - 电气设备
 - data-center
 - 美股

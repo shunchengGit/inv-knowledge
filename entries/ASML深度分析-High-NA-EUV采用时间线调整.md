@@ -7,7 +7,7 @@ resource: res/ASML/2026-05-07-ASML.AS-BofA Global Research-ASML Holding N.V. Hig
   re-times, not reset; low-NA stren...-121872968.undefined.pdf
 source_type: pdf
 tags:
-- ASML
+- asml
 - EUV光刻
 - High-NA
 - 半导体设备

@@ -1,10 +1,9 @@
 ---
 type: Analysis
 title: JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点
-description: JPMorgan在中国AI应用巡回调研中发现，AI正从模型开发阶段转向行业应用加速落地
+description: JPM的8场中国AI调研显示工作流、专有数据与客户集成是早期变现关键；部分企业声称经常性收入及经营盈利，但尚待核验，首页无可支持“市场增长3—5倍”的规模数据。
 timestamp: 2026-06-24 00:59:15.793763+08:00
-resource: res/行业研究-AI/2026-05-22-JPMorgan-China Artificial Intelligence China AI Application
-  Tour Take...-122171752.pdf
+resource: res/行业研究-AI/2026-05-22-JPMorgan-China Artificial Intelligence China AI Application Tour Take...-122171752.pdf
 source_type: pdf
 tags:
 - jpmorgan
@@ -16,30 +15,26 @@ tags:
 
 # JPMorgan中国AI应用调研：从模型竞赛到应用落地的转折点
 
-**来源**: 行业研究-AI | **机构**: jpmorgan
-
 ## 摘要
 
-JPMorgan调研中国AI应用生态，认为2026年是AI应用规模化元年。
-企业级AI应用需求强劲，金融、医疗、教育是率先落地的行业。
-AI Agent(智能体)成为中国AI应用最热门方向之一。
+JPM此次进行了8场涵盖自动驾驶、独立模型、企业工作流软件及垂直AI应用的调研，观察到部分工作流场景开始出现商业化信号。
+核心框架是掌握上下文而按需使用模型：专有数据、客户集成和部署经验可能比单纯的底层模型接入更能形成黏性。
+部分企业描述了经常性收入、按价值定价和经营层面盈利，但资料主要来自管理层，常涉及未上市公司，尚需财报、客户证据和可重复披露验证。
+JPM因而对基础设施、国产芯片、存储以及拥有工作流的应用企业更积极，并未据此证明全行业已进入规模化盈利阶段。
 
 ## 关键要点
 
-
-- 中国AI应用市场2026年有望实现3-5倍增长
-- 金融行业AI渗透率最高，智能客服、风控、投研是主要场景
-- 企业级AI Agent产品开始贡献可观收入
-- AI编程助手在国内开发者中渗透率快速提升
-- 数据壁垒和行业know-how是AI应用公司的核心护城河
+- 8场会议属于调研样本数量，不是行业渗透率或增速统计。（源PDF第1页）
+- 企业按成本、性能和场景路由不同模型，裸API的切换成本可能较低，数据与工作流集成后黏性才增强。（源PDF第1页）
+- Robotaxi在部分部署中的单位经济改善是受访企业表述，不能推广为整个行业已经盈利。（源PDF第1页）
+- 模型厂商在编程、Agent及企业软件等掌握用户入口、工作流记忆或数据反馈的场景仍可能维护盈利能力。（源PDF第1页）
 
 ## 关联
 
-- 行业: ai-industry
-- 机构: jpmorgan
-- 主题: china-ai-application
-- 相关: ai-agent, enterprise-ai
+- [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — Agent算力需求扩张应与应用端可持续收入和成本结构交叉观察。
+- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — 基础设施受益路径与国产芯片供应瓶颈构成上下游参照。
 
-- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — 同机构JPMorgan中国AI产业链系列
-- [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — 同主题：中国互联网AI应用落地
-- [华泰证券科技行业深度：AI Agent加速有望驱动算力通胀持续](entries/华泰证券科技行业深度-AI-Agent加速有望驱动算力通胀持续.md) — 同主题：中国AI应用与算力需求
+## 引用与核查限制
+
+- [原始PDF](res/行业研究-AI/2026-05-22-JPMorgan-China Artificial Intelligence China AI Application Tour Take...-122171752.pdf) — 本条数字与判断核查页码：PDF第1页；首末页只读提取保存在 `/tmp/km-thin-pdf-6.txt`。
+- 首尾页没有可核实的行业市场规模增速、收入额或利润率；删除原文“2026年3—5倍增长”和“金融渗透率最高”，不拿会议数量冒充经营增长。

@@ -1,5 +1,5 @@
 ---
-type: Reference
+type: Analysis
 title: SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元
 description: Morgan Stanley指出SK海力士2Q26营业利润60.5万亿韩元（OP率76%），因HBM3e组合过渡短期未能达最高共识；但下半年HBM4加速放量与多长单（LTA）锁定将显著提升盈利与FCF，维持Overweight。
 timestamp: 2026-07-29 00:00:00+08:00

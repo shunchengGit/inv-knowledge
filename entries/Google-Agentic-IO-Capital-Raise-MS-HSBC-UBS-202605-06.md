@@ -1,5 +1,5 @@
 ---
-type: Analysis
+type: Synthesis
 title: Google I/O 2026发布Gemini Spark个人AI代理，随后宣布$300亿资本募资
 description: Morgan Stanley总结Google I/O 2026大会——发布Gemini Spark个人AI代理(整合搜索/Gmail/Calendar/3P应用)，Gemini
   3.5 Flash/Pro新模型(API定价较竞品低70%)。随即HSBC报告Google宣布$300亿公开募资(含$150亿强制可转债)，用于AI基础设施和员工税务。UBS拆解Cloud

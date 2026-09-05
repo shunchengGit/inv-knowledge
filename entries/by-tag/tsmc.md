@@ -5,7 +5,7 @@
 - [BofA：台积电先进节点需求强劲——2026-27资本支出展望上调](entries/台积电BofA-先进节点资本支出-Arizona盈利改善.md) — Analysis
 - [BofA：台积电股东大会更新——AI驱动需求与技术执行支撑营收/毛利率展望](entries/台积电BofA-股东大会AI需求与技术执行.md) — Analysis
 - [JPMorgan晶圆代工2Q26总结-先进制程供需紧张延续至2028-成熟制程定价转暖](entries/台积电JPMorgan-晶圆代工2Q26总结-先进制程紧张延续至2028.md) — Analysis
-- [Morgan Stanley台湾半导体供应链调研纪要](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Analysis
+- [Morgan Stanley台湾半导体调研：Rubin按期爬坡、CPU增量与存储短缺](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Analysis
 - [UBS快速解读：台积电4月营收NT$4,107亿——Q2开局符合预期](entries/台积电UBS-4月营收4107亿-符合Q2预期.md) — Analysis
 - [UBS快速解读：台积电5月营收NT$4,170亿——Q2稳步推进，目标价上调至NT$3,000](entries/台积电UBS-5月营收4170亿-Q2稳步推进-目标价上调至3000.md) — Analysis
 - [UBS：台积电US技术研讨会——A13/A12/N2U路线图与AI护城河](entries/台积电UBS-US技术研讨会-A13-A12-N2U路线图与AI护城河.md) — Analysis

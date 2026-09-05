@@ -21,7 +21,7 @@ tags:
 # MSFT NDR前瞻10问：Copilot进展、GPU定价权与AI基础设施融资
 
 ## 摘要
-BNP Paribas在6月10日纽约NDR前夕发布10大投资者核心问题，涵盖Copilot采用与货币化、GPU算力需求、agentic工作负载经济性及AI基础设施融资。关键新数据来自SpaceX S-1披露：Anthropic以$150亿/年租赁32.5万NVIDIA GPU（~500MW），隐含~$300亿/GW年化收入，远超此前$150-$240亿/GW估算；Alphabet以$11亿/年（$9.2亿/月）租用11万GPU（~200MW），隐含接近$500亿/GW。报告认为若Azure合约续约时定价能走强，Azure增长可能进入40%中段区间。Build大会反馈方面，MAI模型因缺乏benchmark验证而未获投资者信心，但Scout和Copilot Autopilot更受认可。Capex方面，报告指出AI基础设施资本强度可能超过经营现金流，需关注微软是否会采用传统公司债之外的融资结构。
+BNP Paribas在6月10日纽约NDR前夕发布10大投资者核心问题，涵盖Copilot采用与货币化、GPU算力需求、agentic工作负载经济性及AI基础设施融资。关键新数据来自SpaceX S-1披露：Anthropic以$150亿/年租赁32.5万NVIDIA GPU（~500MW），隐含~$300亿/GW年化收入，远超此前$150-$240亿/GW估算；Alphabet以约110亿美元/年（9.2亿美元/月）租用11万GPU（~200MW），隐含接近$500亿/GW。这些是供应极紧时期的短期合同，不能直接当作长期稳态收益。报告认为若Azure合约续约时定价能走强，Azure增长可能进入40%中段区间。Build大会反馈方面，MAI模型因缺乏benchmark验证而未获投资者信心，但Scout和Copilot Autopilot更受认可。Capex方面，报告指出AI基础设施资本强度可能超过经营现金流，需关注微软是否会采用传统公司债之外的融资结构。
 
 ## 关键要点
 
@@ -36,3 +36,7 @@ BNP Paribas在6月10日纽约NDR前夕发布10大投资者核心问题，涵盖C
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — 共享标签: microsoft, azure, copilot, capex; 同标的: Azure定价权、Capex融资、Copilot席位
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — 共享标签: microsoft, copilot, azure; 同标的: Copilot 2500万+席位、Azure增长40%+
 - [MSFT NYC NDR反馈：Copilot成核心议题，FQ4席位或远超2500万 (BNP Paribas 6/11)](entries/MSFT-NDR反馈-Copilot成核心议题-FQ4席位或远超2500万-BNP-Paribas-6-11.md) — 共享标签: copilot, capex, azure; 同标的: copilot, capex; 共同关键词(27): gpu, pa, op, ib
+
+
+## 引用
+- [原始PDF（金额与观点核验）](res/微软/2026-06-09-MSFT.OQ-BNP Paribas-MICROSOFT (+)  10 questions ahead of New York NDR, and Spac...-122486295.pdf)

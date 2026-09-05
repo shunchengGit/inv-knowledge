@@ -3,25 +3,29 @@
 - [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — Analysis
 - [BofA中国银行1H26前瞻：利润改善但K型分化加剧](entries/BofA中国银行1H26前瞻-利润改善但K型分化加剧.md) — Analysis
 - [BofA大中华汽车零部件2026年7月复盘：业绩预期消化、人形机器人情绪转弱](entries/BofA大中华汽车零部件2026年7月复盘-业绩预期消化人形机器人情绪转弱.md) — Analysis
+- [Broadcom FY26Q2多投行研报汇总：业绩小幅超预期，AI高预期与后端瓶颈并存](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Synthesis
 - [EssilorLuxottica 2Q26韧性与AI眼镜增长期权分析](entries/essilorluxottica-jefferies-ai-glasses-q2-2026.md) — Analysis
 - [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — Analysis
 - [Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化](entries/jefferies-china-csp-ai-earnings-focus-20260803.md) — Analysis
 - [JPMorgan: SK hynix LTA paves path for new valuation framework, raising PT to W3M](entries/JPMorgan-SK-hynix-LTA-paves-path-for-new-valuation-framework-raising-PT-to-W3M.md) — Analysis
 - [JPMorgan晶圆代工2Q26总结-先进制程供需紧张延续至2028-成熟制程定价转暖](entries/台积电JPMorgan-晶圆代工2Q26总结-先进制程紧张延续至2028.md) — Analysis
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Analysis
+- [Meta 1Q26业绩超预期但资本开支上调：三家投行对AI回报与FCF存在分歧](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Synthesis
 - [Morgan Stanley中国金融催化剂前瞻：2Q26与3Q26盈利改善及政策扰动消退](entries/MS中国金融催化剂前瞻-2Q26与3Q26盈利改善及政策扰动消退.md) — Analysis
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — Analysis
-- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Analysis
-- [MSFT：Anthropic合作有望成为Azure 30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis
+- [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Synthesis
+- [MSFT：Anthropic合作有望成为Azure 430亿美元年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Analysis
 - [Reddit 2Q26广告高增长与Google搜索流量风险再平衡](entries/reddit-jpm-q2-2026-advertising-search-traffic.md) — Analysis
-- [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — Reference
-- [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Reference
-- [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Reference
+- [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — Analysis
+- [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Analysis
+- [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Analysis
 - [UBS中国在线娱乐2026年7月月报：腾讯网易游戏韧性延续，短视频继续挤压长视频](entries/ubs-china-online-entertainment-monthly-2026-07.md) — Analysis
 - [UBS中国银行2Q26前瞻：收入仍稳健但利润增速滞后](entries/UBS中国银行2Q26前瞻-收入仍稳健但利润增速滞后.md) — Analysis
 - [UBS大中华银行路演反馈：投资兴趣回升与高股息防御配置](entries/UBS大中华银行路演反馈-投资兴趣回升与高股息防御配置.md) — Analysis
 - [UBS宁波银行2Q26快评：营收与净利润超预期，维持买入评级](entries/ubs-bank-of-ningbo-2q26-results-beat.md) — Analysis
+- [三花智控H股BofA：核心经营超预期，但约27倍PE难匹配10%增长](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — Analysis
+- [三花智控UBS：1Q26扣非利润增长15.5%，制冷承压而液冷逐步兑现](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — Analysis
 - [东方电气01072.HK价值成长QARP深度分析](entries/dongfang-electric-qarp-analysis-2026-07.md) — Analysis
 - [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — Reference
 - [中通快递1Q26超预期+反内卷持续——JPM/MS/UBS一致看多，阿里减持为情绪扰动](entries/中通快递1Q26超预期-反内卷持续-阿里减持为情绪扰动.md) — Analysis
@@ -41,6 +45,7 @@
 - [微软FQ4’26财报后分析：Azure超预期与资本开支上限逐步清晰](entries/微软FQ4-26财报后分析-Azure超预期与资本开支上限-BNP-Paribas.md) — Analysis
 - [微软FQ4’26财报后分析：Azure预测上修与利润率韧性构成制胜公式](entries/微软FQ4-26财报后分析-Azure上修与利润率韧性-UBS.md) — Analysis
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
+- [德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — Analysis
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — Analysis

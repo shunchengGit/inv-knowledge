@@ -1,9 +1,15 @@
 # risk-factor
 
+- [Broadcom FY26Q2多投行研报汇总：业绩小幅超预期，AI高预期与后端瓶颈并存](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Synthesis
 - [JPMorgan中国地产-预售制逐步退出政策点评-利好贝壳与头部国企开发商](entries/jpm-中国地产-预售制逐步退出-2026-08.md) — Analysis
+- [Meta 1Q26业绩超预期但资本开支上调：三家投行对AI回报与FCF存在分歧](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Synthesis
+- [三花智控H股BofA：核心经营超预期，但约27倍PE难匹配10%增长](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — Analysis
+- [三花智控UBS：1Q26扣非利润增长15.5%，制冷承压而液冷逐步兑现](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — Analysis
+- [世界先进VIS：中介层业务改善与VSMC资本支出下调，野村升级买入](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Analysis
 - [云计算经济性基准显示微软云兼具回报韧性与估值吸引力](entries/云计算经济性基准显示微软云兼具回报韧性与估值吸引力.md) — Analysis
 - [大摩SEMICON台湾纪要：AI扩产压力与ABF载板材料瓶颈](entries/ms-semicon-taiwan-takeaways-20260902.md) — Article
 - [希音国际2026年港股招股书：418亿美元收入与关税压力下的全球时尚平台](entries/希音国际2026年港股招股书-全球线上时尚平台与关税压力.md) — Reference
+- [德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — Analysis
 - [摩根士丹利人形机器人前沿：莫拉维克悖论、数据瓶颈与商业化检验](entries/ms-humanoid-horizons-moravec-paradox-2026-09.md) — Article
 - [摩根大通中国AI基础设施生态：算力需求高增长与先进代工、HBM双重瓶颈](entries/jpm-china-ai-infra-growth-foundry-hbm-constraints-20260902.md) — Article
 - [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article

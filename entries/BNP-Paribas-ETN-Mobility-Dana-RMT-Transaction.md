@@ -11,8 +11,7 @@ resource: res/Eaton-ETN/2026-06-11-ETN.N-BNP Paribas-EATON (+)  Mobility Group t
   combine with Dana in Reverse M...-122544705.pdf
 source_type: pdf
 tags:
-- ETN
-- Eaton
+- eaton
 - 电气设备
 - data-center
 - 美股

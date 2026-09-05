@@ -1,7 +1,7 @@
 ---
 type: Analysis
 title: MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)
-description: UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，Capex从810亿上调至340亿，以及从席位向用量定价模式的加速转型
+description: UBS对微软FQ3'26的深度分析：Azure H2 CY26加速指引超预期，UBS将FY27全口径Capex预测从1810亿美元上调至2340亿美元，以及从席位向用量定价模式的加速转型
 timestamp: 2026-06-24 00:40:34.993550+08:00
 resource: res/微软/2026-04-30-MSFT.OQ-UBS Equities-Microsoft Corp. _Capex Ramps, Azure
   Accelerates and Pricing ...-121724357.pdf
@@ -19,7 +19,7 @@ tags:
 # MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型
 
 ## 摘要
-UBS在微软FQ3'26财报后深度分析：Azure CCY增长39%超预期，AI贡献$240亿年化营收（超预期$30亿），但Capex指引$1900亿大幅上修引发FCF担忧。M365 CoPilot席位2000万+、GitHub Copilot营收$30亿+均加速。维持Buy，目标价$510。
+UBS在微软FQ3'26财报后深度分析：Azure固定汇率增长39%，符合UBS与投资者预期；全公司AI收入年化运行率370亿美元，接近UBS原预期360亿美元。CY26资本开支指引1900亿美元引发FCF担忧。M365 Copilot付费席位2000万，预计FQ4超过2500万，GitHub Copilot用量加速，但本报告未给出其30亿美元收入值。维持Buy，目标价$510。
 
 ## 关键要点
 
@@ -27,12 +27,12 @@ UBS在微软FQ3'26财报后深度分析：Azure CCY增长39%超预期，AI贡献
 - 更重要：管理层罕见指引"温和加速"发生在H2 CY26，UBS据此将Azure增速预估上调至42.0%/42.5%（Sep/Dec'26）
 - 微软FQ3新增1.0GW GPU容量（连续两季），过去6个月新增2GW vs FY25全年新增2GW
 - 但需注意：AWS同期加速4个百分点、GCP加速15个百分点，微软的"数个百分点"加速相对温和
-- OpenAI对Azure的消费（含CPU服务如CosmosDB）计入Azure营收，构成H2加速的一部分解释
+- UBS指出OpenAI向微软支付的收入分成计入Azure收入，可能解释H2部分加速；另据第5页，全公司AI收入运行率也包含OpenAI对CosmosDB等CPU服务的支出，二者不能混为同一归因
 
 ## Capex的惊人跳升
 - FQ3 capex $319亿 → FQ4指引$400亿+ → H2 CY26平均每季~$600亿 → CY26合计$1900亿
 - UBS将FY27 capex从$1810亿大幅上调至$2340亿，FY27 FCF预估从+$150亿转为-$210亿
-- $250亿增量来自内存硬件通胀（HBM等），$250亿来自需求驱动的主动扩张
+- CY26资本开支中250亿美元增量来自内存硬件通胀（FQ4约50亿美元、H2 CY26约200亿美元）；UBS另将FY27预测提高530亿美元，不可把不同年度的增量直接拆成两个250亿美元
 - 管理层明确表示2/3 capex用于短周期资产（GPU服务器），说明对需求可见度极高
 - 投资者通常直接将$600亿/季的年化数字推演到FY27
 
@@ -52,7 +52,7 @@ UBS在微软FQ3'26财报后深度分析：Azure CCY增长39%超预期，AI贡献
 - **AI营收$370亿年化**（+123% YoY），占总营收11%，含OpenAI在Azure上的CPU服务支出
 
 ## 利润率展望
-- 毛利率承压：FQ4指引仅66.2%（环比-240bps），云计算毛利率从66%降至64%
+- 毛利率承压：FQ4指引仅66.2%（同比-240bps），云计算毛利率从66%降至64%
 - 抵消因素：OpenAI协议修订后微软不再支付收入分成（此前在COGS中），从FQ4开始提振毛利率
 - 管理层暗示FY27 OI"双位数增长"，UBS预期14%，将通过裁员和控制OPEX实现
 - FY27非GAAP EPS预估从$19.21上调至$19.49（+1%）
@@ -64,4 +64,9 @@ UBS在微软FQ3'26财报后深度分析：Azure CCY增长39%超预期，AI贡献
 - OpenAI损失对GAAP EPS的拖累已降至最低（接近累计亏损上限）
 
 ## 关联
+- [微软AI基础设施货币化研究](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — 对照资本投入与收入兑现框架。
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 共享标签: 2026-Q1, microsoft, competitive-advantage; 同标的: microsoft, azure; 共同关键词(18): q3, bs, ms, az
+
+
+## 引用
+- [原始PDF（金额与观点核验）](res/微软/2026-04-30-MSFT.OQ-UBS Equities-Microsoft Corp. _Capex Ramps, Azure Accelerates and Pricing ...-121724357.pdf)

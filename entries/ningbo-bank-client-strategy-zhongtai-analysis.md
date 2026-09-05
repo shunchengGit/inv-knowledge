@@ -6,7 +6,7 @@ timestamp: 2026-07-25 00:00:00+08:00
 resource: res/宁波银行/2026-07-25-002142.SZ-Zhongtai Securities-宁波银行-宁波银行系列报告之一丨客群篇： 如何理解“大银行做不好，小银行做不了”-07252026-123408680.pdf
 source_type: pdf
 tags:
-- ningbo-bank
+- bank-of-ningbo
 - competitive-advantage
 - business-model
 - banking-sector
@@ -33,6 +33,7 @@ tags:
   - 当前股价对应2026E PE 6.74x、PB 0.89x，ROE稳定在14%以上，安全边际良好。
 
 ## 关联
+- [UBS宁波银行2Q26快评：营收与净利润超预期，维持买入评级](entries/ubs-bank-of-ningbo-2q26-results-beat.md) — 以随后季度营收、手续费及不良率验证客群经营的财务效果。
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) —— 对比摩根士丹利关于宁波银行一季报营收重回双位数增长的研判。
 
 

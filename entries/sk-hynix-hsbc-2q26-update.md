@@ -1,5 +1,5 @@
 ---
-type: Reference
+type: Analysis
 title: SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元
 description: 汇丰银行（HSBC）认为市场因2Q26短暂低于预期而过度抛售SK海力士，认为Agentic AI正引发比肩1990-95年的存储超级周期，HBM4溢价与SO-CAMM2普及将推动3Q26营业利润大增至79万亿韩元，重申Buy。
 timestamp: 2026-07-30 00:00:00+08:00

@@ -7,7 +7,7 @@ resource: res/ASML/2026-05-19-ASML.AS-UBS Equities-ASML _Why ASML Is Our Top Pic
   Three Key Drivers_ (Buy) Bou...-122126186.pdf
 source_type: pdf
 tags:
-- ASML
+- asml
 - EUV光刻
 - 存储器
 - High-NA

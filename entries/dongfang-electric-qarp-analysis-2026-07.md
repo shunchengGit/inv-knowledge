@@ -26,6 +26,8 @@ tags:
 - 麦格理（Macquarie）因传统火电降速偏悲观；建银国际（CCBI）因AI电力与燃机出海偏乐观；悲观预期已充分在港股（01072.HK）端计价，性价比较高。
 
 ## 关联
+- [麦格理东方电气1Q26业绩快评与评级下调分析](entries/macquarie-dec-1q26-performance-downgrade.md) — 保留订单下滑和一次性收益的反方证据，旧买入判断不等于当前建议。
+- [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — 用官方半年报追踪旧研究中的订单、利润与现金流假设。
 - [麦格理中国自动化与工业研究：EU路演反馈与AIDC机遇](entries/macquarie-china-automation-industrials-2026-07.md) — 麦格理讨论了AIDC用电需求与工业大厂估值对冲。
 
 

@@ -31,4 +31,6 @@ Hubbell宣布以30亿美元现金收购NSI Industries(电气连接件/配件龙�
 - UBS认为HUBB可持续有机增长7-8%(公用事业投资+数据中心+非住宅建设)，但目前估值24x NTM P/E低于工业板块均值25x
 
 ## 关联
+- [Morgan Stanley: ETN Under-Appreciated Transformation](entries/Morgan-Stanley-ETN-Under-Appreciated-Transformation.md) — 比较电气设备公司的业务组合升级和数据中心敞口，区分并购增厚与内生增长。
+- [JPM亚洲电力设备：全球二季度订单验证长周期景气](entries/JPM亚洲电力设备-全球二季度订单验证长周期景气.md) — 从全球电气设备订单侧检验电气化需求持续性。
 - [万国数据AI数据中心分析](entries/万国数据AI驱动数据中心分析.md)

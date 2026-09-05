@@ -1,5 +1,5 @@
 ---
-type: Analysis
+type: Synthesis
 title: 阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)
 description: JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All
   Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
@@ -14,7 +14,7 @@ tags:
 - alibaba
 - jpmorgan
 - ubs
-- 1Q26
+- 2026-Q1
 - ai
 - Cloud
 - cmr
@@ -61,6 +61,7 @@ tags:
 - 估值反映AI Cloud增长期权价值，但短期业绩波动需关注
 
 ## 关联
+- [Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化](entries/jefferies-china-csp-ai-earnings-focus-20260803.md) — 用后续中国云业绩前瞻追踪AI投入与商业化，不能回填4月预期。
 
 - 公司: Alibaba Group (BABA/9988.HK)
 - 机构: JPMorgan, UBS

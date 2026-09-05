@@ -7,10 +7,9 @@ resource: res/博通/2026-06-17-AVGO.OQ-JPMorgan-Broadcom Inc Ignore The Noise -
   2nm ASIC Program On T...-122610719.pdf
 source_type: pdf
 tags:
-- Broadcom
-- AVGO
+- broadcom
 - ASIC
-- TPU
+- tpu
 - google
 - 2nm
 - ai-chip

@@ -9,8 +9,7 @@ timestamp: 2026-06-28 11:40:12.084926+08:00
 resource: res/Eaton-ETN/2026-05-06-ETN.N-JPMorgan-Eaton 1Q Wrap and Model Update-121859909.pdf
 source_type: pdf
 tags:
-- ETN
-- Eaton
+- eaton
 - 电气设备
 - data-center
 - 美股

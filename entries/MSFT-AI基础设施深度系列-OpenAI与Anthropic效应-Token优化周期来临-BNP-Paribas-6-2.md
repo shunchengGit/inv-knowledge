@@ -21,7 +21,7 @@ tags:
 # MSFT AI基础设施深度系列：OpenAI与Anthropic效应
 
 ## 摘要
-BNP Paribas发布AI基础设施深度系列第三篇报告。核心数据：OpenAI与Anthropic合计年化经常性收入(ARR)已达~$800亿（2025年底仅$300亿）。2026年上半年以"tokenmaxxing"现象为标志——企业鼓励员工以token消耗作为AI采用指标；但下半年正进入首次有意义的token优化周期，企业CIO对token支出的反弹日益强烈（Box CEO称此为Fortune 500最热门话题）。报告同时剖析AI基础设施ROIC：通过GPU虚拟化、时间切片和多租户环境，单一物理GPU可被多次"售卖"，驱动ROIC向20-30%区间演进。此外，OpenAI与Anthropic预计到2030年合计需要~50GW AI算力。BNPP维持MSFT Outperform评级和$555目标价，同时首次覆盖CoreWeave（Outperform）和Nebius（Neutral）。
+BNP Paribas发布AI基础设施深度系列第三篇报告。核心数据：OpenAI与Anthropic合计年化经常性收入(ARR)已达~$800亿（2025年底仅$300亿）。2026年上半年以"tokenmaxxing"现象为标志——企业鼓励员工以token消耗作为AI采用指标；但BNP在6月2日报告中预计下半年将进入首次有意义的token优化周期，企业CIO对token支出的抵触日益强烈（Box CEO称此为Fortune 500最热门话题）。报告同时剖析AI基础设施ROIC：通过GPU虚拟化、时间切片和多租户环境，单一物理GPU可被多次"售卖"，驱动ROIC向20-30%区间演进。此外，OpenAI与Anthropic预计到2030年合计需要~50GW AI算力。BNPP维持MSFT Outperform评级和$555目标价，同时首次覆盖CoreWeave（Outperform）和Nebius（Neutral）。
 
 ## 关键要点
 
@@ -35,4 +35,8 @@ BNP Paribas发布AI基础设施深度系列第三篇报告。核心数据：Open
 
 ## 关联
 - [MSFT AI基础设施货币化：仍处AI周期早期阶段 (Morgan Stanley 5/27)](entries/MSFT-AI基础设施货币化-仍处AI周期早期阶段-Morgan-Stanley-5-27.md) — 共享标签: ai-infrastructure, microsoft; 同标的: AI基础设施投资回报、GPU算力供需
-- [MSFT Anthropic合作有望成为Azure $30亿年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — 共享标签: microsoft, anthropic; 同标的: Anthropic Azure承诺$300亿、AI labs基础设施需求
+- [MSFT Anthropic合作有望成为Azure 430亿美元年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — 共享标签: microsoft, anthropic; 同标的: Anthropic对Azure的算力需求与HSBC的2030年机会测算（非同一口径）、AI labs基础设施需求
+
+
+## 引用
+- [原始PDF（金额与观点核验）](res/微软/2026-06-02-MSFT.OQ-BNP Paribas-SOFTWARE  The OpenAI ( Anthropic) Effect AI Infrastructur...-122356064_2.pdf)

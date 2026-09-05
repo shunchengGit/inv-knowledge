@@ -1,10 +1,9 @@
 ---
 type: Analysis
 title: JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发
-description: JPMorgan分析AI数据中心储能系统(ESS)的参考架构设计和早期订单趋势
+description: JPMorgan以Fluence与2家云巨头的供货框架及LGES向DTE供应6GWh、金额16亿美元的储能合同，判断AIDC储能采用正在获得架构与订单验证，但订单兑现偏后置。
 timestamp: 2026-06-24 01:01:23.364451+08:00
-resource: res/行业研究-AI/2026-06-02-JPMorgan-AIDC ESS Reference Architectures and Early
-  Orders Point to E...-122368714.pdf
+resource: res/行业研究-AI/2026-06-02-JPMorgan-AIDC ESS Reference Architectures and Early Orders Point to E...-122368714.pdf
 source_type: pdf
 tags:
 - jpmorgan
@@ -16,30 +15,26 @@ tags:
 
 # JPMorgan AIDC储能系统参考架构：早期订单指向需求爆发
 
-**来源**: 行业研究-AI | **机构**: jpmorgan
-
 ## 摘要
 
-JPMorgan发布AI数据中心储能系统参考架构分析报告。
-早期订单显示AI数据中心对储能系统的需求正在爆发式增长。
-液冷散热和高效电源管理成为AI数据中心标配。
+西门子联合英伟达并与Fluence合作，为下一代AI数据中心构建模块化电力与控制参考架构，储能承担供电韧性和负载平滑功能。
+Fluence已与2家超大规模云厂商签署主供货协议，报告时预计首批订单在其财务第三季度落地；阳光电源管理层亦表示已收到数据中心电力开发商的储能订单。
+LGES另披露向DTE Energy供应6GWh储能电池的16亿美元合同，JPM将其作为电力紧张背景下储能需求的旁证，但不等于全部订单直接用于AIDC。
+报告认为储能订单受项目开发顺序影响偏后置，不能据此推算2026年AIDC储能市场增速。
 
 ## 关键要点
 
-
-- AI数据中心储能系统市场预计2026年同比增长80%+
-- 锂电池储能方案在AI数据中心应用中的渗透率快速提升
-- 液冷散热+储能一体化方案成为新趋势
-- 中国供应商在储能系统中占据全球主导地位
-- AI数据中心电力需求激增驱动电网级储能需求同步增长
+- 参考架构支持短时供电穿越、黑启动、需求响应和AI负载平滑；重点是固定电力约束下的部署能力。（源PDF第1页）
+- Fluence与2家云巨头签署的是供货框架，首单仍属报告时的未来预期，不能视作已确认营收。（源PDF第1页）
+- LGES—DTE合同为16亿美元、6GWh；须与阳光电源的AIDC相关订单区分。（源PDF第1页）
+- JPM重点列示增持评级的宁德时代、阳光电源、三星SDI、LGES和国电南瑞。（源PDF第1页）
 
 ## 关联
 
-- 行业: ai-industry
-- 机构: jpmorgan
-- 主题: aidc-energy-storage
-- 相关: data-center, liquid-cooling
+- [JPMorgan中国电池行业精选：供给侧改革与全球化布局中的机会](entries/JPMorgan中国电池行业精选-供给侧改革与全球化布局中的机会.md) — 电池供给纪律和宁德时代配置观点补充储能上游分析。
+- [装备制造行业周报（5 月第4 周）](entries/装备制造行业周报-5-月第4-周.md) — 逆变器出口及储能需求数据提供相邻电力设备环节参照。
 
-- [JPMorgan中国AI芯片Fabless深度报告：供应短期瓶颈与客户突破长期驱动](entries/JPMorgan中国AI芯片Fabless深度报告-供应短期瓶颈与客户突破长期驱动.md) — 同主题：JPMorgan中国AI基础设施产业链
-- [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — 同主题：AI数据中心半导体需求
-- ["万国数据AI需求爆发：三年Capex 300-500亿元，订单创纪录"](entries/万国数据AI驱动数据中心分析.md) — 同主题：AIDC数据中心储能需求
+## 引用与核查限制
+
+- [原始PDF](res/行业研究-AI/2026-06-02-JPMorgan-AIDC ESS Reference Architectures and Early Orders Point to E...-122368714.pdf) — 本条数字与判断核查页码：PDF第1页；首末页只读提取保存在 `/tmp/km-thin-pdf-0.txt`。
+- 删除旧文“2026年增长80%+”及液冷一体化趋势等未由本次边缘页核实的说法。

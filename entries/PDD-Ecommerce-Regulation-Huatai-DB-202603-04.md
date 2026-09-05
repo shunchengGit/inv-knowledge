@@ -1,5 +1,5 @@
 ---
-type: Analysis
+type: Synthesis
 title: 拼多多：电商监管再起与业务稳健发展周期(Deutsche Bank/华泰证券)
 description: 两份报告从不同角度分析拼多多。DB(2026-04-23)聚焦SAMR对主要电商平台罚款RMB36亿，标志从价格战转向"合规战"，有利于头部平台。华泰证券(2026-03-26)上调评级至买入(目标价$133)，认为拼多多电商业务有望进入稳健发展周期——平台模式较少受国补基数影响、竞争边际缓和、"新拼姆"自营模式提升海外确定性。
 timestamp: 2026-03-26 ~ 2026-04-23
@@ -9,9 +9,9 @@ resource:
 - res/拼多多/20260326-华泰证券-拼多多-PDD.US-电商业务或进入稳健发展周期.pdf
 source_type: pdf
 tags:
-- pdd
+- pinduoduo
 - deutsche-bank
-- 华泰证券
+- huatai-securities
 - e-commerce
 - regulation
 - 2026-Q1
@@ -60,6 +60,7 @@ tags:
 - FY2026E Adj EPS RMB95.26(PE 7.09x)，FY2027E Adj EPS RMB115.89(PE 5.83x)
 
 ## 关联
+- [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — 对照平台补贴与监管约束；外卖规则不直接适用于所有电商业态。
 
 - 公司: PDD Holdings (PDD US)
 - 机构: Deutsche-Bank, 华泰证券

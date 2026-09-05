@@ -77,6 +77,7 @@ JPMorgan维持SK海力士Overweight，目标价从KRW 1,800,000大幅上调至KR
 - 多重重估空间：从 P/B 到 P/E 的框架迁移是关键
 
 ## 关联
+- [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — 以二季度财报点评追踪前期长单与盈利框架假设的兑现。
 - [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — 共享标签: valuation, 2026-Q1, sk-hynix; 同标的: sk-hynix; 共同关键词(19): es, an, asp, ve
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — 共享标签: valuation, 2026-Q1, sk-hynix; 同标的: sk-hynix; 共同关键词(19): to, sk, at, th
 - [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — 共享标签: valuation, 2026-Q1, sk-hynix; 同标的: sk-hynix; 共同关键词(17): sk, is, ix, es
