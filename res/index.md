@@ -358,6 +358,9 @@
 - [doc_16b4b4458e4d_2026-08-03-BofA Global Research-Greater China Auto, EV and EV battery (H) 2Q261H26 preview...-123591446.pdf](行业研究-汽车/doc_16b4b4458e4d_2026-08-03-BofA Global Research-Greater China Auto, EV and EV battery (H) 2Q261H26 preview...-123591446.pdf)
 - [doc_82096f359922_2026-08-05-BofA Global Research-Greater China Auto Parts (H) July wrap 2Q26 results expect...-123641581.pdf](行业研究-汽车/doc_82096f359922_2026-08-05-BofA Global Research-Greater China Auto Parts (H) July wrap 2Q26 results expect...-123641581.pdf)
 
+## 行业研究-消费
+- [2026-09-01-JPMorgan-APAC Consumer The Compass The Consumer Is More Selective; W...-124171120.pdf](行业研究-消费/2026-09-01-JPMorgan-APAC Consumer The Compass The Consumer Is More Selective; W...-124171120.pdf)
+
 ## 行业研究-电力设备
 - [2026-08-19-JPMorgan-Asia Power Equipment Key Learnings from Global Electrical Co...-123950557.pdf](行业研究-电力设备/2026-08-19-JPMorgan-Asia Power Equipment Key Learnings from Global Electrical Co...-123950557.pdf)
 
