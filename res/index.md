@@ -309,6 +309,7 @@
 
 ## 行业研究-人形机器人
 - [2026-09-01-Morgan Stanley-Humanoids Humanoid Horizons Moravecs Paradox-124132563.pdf](行业研究-人形机器人/2026-09-01-Morgan Stanley-Humanoids Humanoid Horizons Moravecs Paradox-124132563.pdf)
+- [2026-09-02-Morgan Stanley-人形机器人 人形机器人前沿：莫拉维克悖论-124172490.pdf](行业研究-人形机器人/2026-09-02-Morgan Stanley-人形机器人 人形机器人前沿：莫拉维克悖论-124172490.pdf)
 
 ## 行业研究-传媒
 - [20260417-国信证券-传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会.pdf](行业研究-传媒/20260417-国信证券-传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会.pdf)
