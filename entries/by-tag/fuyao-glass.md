@@ -1,7 +1,9 @@
 # fuyao-glass
 
 - [BofA大中华汽车零部件2026年7月复盘：业绩预期消化、人形机器人情绪转弱](entries/BofA大中华汽车零部件2026年7月复盘-业绩预期消化人形机器人情绪转弱.md) — Analysis
+- [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
 - [德银中国汽车欧洲本地化：福耀现有产能构成先发优势](entries/德银中国汽车欧洲本地化-福耀现有产能构成先发优势.md) — Analysis
+- [法巴福耀二季报：销量与汇兑压低盈利预测，经营韧性支撑双市场评级](entries/fuyao-bnp-2q26-resilience-20260820.md) — Article
 - [福耀玻璃2026H1深度复盘：经营小幅超预期，汇兑与H2增速要求构成约束](entries/fuyao-glass-2026-h1-results-expectation-valuation-analysis.md) — Synthesis
 - [福耀玻璃2026年半年报：Q2毛利率40.17%，汇兑掩盖经营韧性](entries/fuyao-glass-2026-h1-official-results.md) — Reference
 - [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
@@ -17,3 +19,4 @@
 - [福耀玻璃MS 2Q26电话会：高附加值产品占比59.68%，美国二期加速爬坡](entries/福耀玻璃MS-2Q26电话会-高附加值产品占比59.68-美国二期加速爬坡.md) — Analysis
 - [福耀玻璃UBS 1Q26快评：毛利率超预期，剔除汇兑利润+10% YoY](entries/福耀玻璃UBS-1Q26快评-毛利率超预期-剔除汇兑利润-10-YoY.md) — Analysis
 - [福耀玻璃：汽车大盘弱势充分计价，下半年基本面将底部修复（HSBC 7/22）](entries/fuyao-glass-2q26-hsbc-analysis.md) — Analysis
+- [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article

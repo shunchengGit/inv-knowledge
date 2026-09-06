@@ -32,6 +32,7 @@
 - [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis
 - [大摩北美互联网估值周报：AI动能积聚下的估值折价，SBC现金化对EV/EBITDA真实倍数重估](entries/ms-north-america-internet-valuation-update-2026-08.md) — Analysis
+- [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — Analysis
 - [微软4Q/FY26财报前瞻：Azure增长强劲，Capex预期上修，M365商业云加速（UBS 7/26）](entries/msft-4qfy26-azure-capex-m365-ubs-update.md) — Analysis
@@ -47,6 +48,7 @@
 - [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [汇丰腾讯HY4预览版点评：7700亿参数升级与商业化成本检验](entries/tencent-hsbc-hy4-preview-20260831.md) — Article
+- [法巴福耀二季报：销量与汇兑压低盈利预测，经营韧性支撑双市场评级](entries/fuyao-bnp-2q26-resilience-20260820.md) — Article
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
 - [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
 - [瑞银：台积电2026年7月营收完成三季度预估32%，N3增长与N2加速驱动全年高增](entries/台积电2026年7月营收快评-UBS-N3增长与N2加速.md) — Analysis
@@ -58,6 +60,7 @@
 - [福耀玻璃JPMorgan 2Q26业绩快评：销量承压但毛利率创新高](entries/福耀玻璃JPMorgan-2Q26业绩快评-销量承压但毛利率创新高.md) — Analysis
 - [福耀玻璃JPMorgan 2Q26会后更新：最差已过但催化剂仍不足](entries/福耀玻璃JPMorgan-2Q26会后更新-最差已过但催化剂仍不足.md) — Analysis
 - [福耀玻璃：汽车大盘弱势充分计价，下半年基本面将底部修复（HSBC 7/22）](entries/fuyao-glass-2q26-hsbc-analysis.md) — Analysis
+- [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis

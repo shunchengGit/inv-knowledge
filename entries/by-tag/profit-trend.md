@@ -36,6 +36,7 @@
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — Analysis
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — Analysis
 - [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
+- [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
 - [宁波银行2026年半年报：营收利润双位数增长，中收增长54%](entries/宁波银行2026年半年报-营收利润双位数增长-中收增长54.md) — Reference
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — Analysis
@@ -54,6 +55,7 @@
 - [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article
 - [毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持](entries/毛戈平JPM-增长可见性高-管理层承诺不减持.md) — Analysis
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
+- [法巴福耀二季报：销量与汇兑压低盈利预测，经营韧性支撑双市场评级](entries/fuyao-bnp-2q26-resilience-20260820.md) — Article
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
 - [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
 - [福耀玻璃2026年半年报：Q2毛利率40.17%，汇兑掩盖经营韧性](entries/fuyao-glass-2026-h1-official-results.md) — Reference
@@ -71,6 +73,7 @@
 - [福耀玻璃UBS 1Q26快评：毛利率超预期，剔除汇兑利润+10% YoY](entries/福耀玻璃UBS-1Q26快评-毛利率超预期-剔除汇兑利润-10-YoY.md) — Analysis
 - [福耀玻璃：汽车大盘弱势充分计价，下半年基本面将底部修复（HSBC 7/22）](entries/fuyao-glass-2q26-hsbc-analysis.md) — Analysis
 - [美国银行台积电资本拨款加速与美国厂盈利改善](entries/美国银行台积电资本拨款加速与美国厂盈利改善.md) — Analysis
+- [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis
 - [腾讯控股2026Q2及H1官方业绩：营收增长11%，Non-IFRS净利增长9%](entries/tencent-2026-q2-h1-official-results.md) — Reference
