@@ -1,5 +1,11 @@
 # 变更日志
 
+## 2026-09-06 Adobe研报批量导入
+- 归档Downloads两份新研报（UBS 2026-06-12、HSBC 2026-07-02），按原文题名、机构、日期及SHA256核对；非研报不处理，下载原件保留。
+- [Adobe瑞银：AI削弱定价权](entries/adobe-ubs-ai-pricing-power-20260612.md) — Analysis (pdf)，Neutral、目标价225美元，保留有机ARR与现金流口径。
+- [Adobe汇丰：升级买入](entries/adobe-hsbc-buy-irrational-despondence-20260702.md) — Analysis (pdf)，Buy、目标价308美元，保留工作流黏性论点及表间数据差异。
+- 两篇互链并关联微软软件定价研究；统一刷新资源索引、条目索引、标签及图谱。
+
 ## 2026-06-22
 - 清理非投资条目：删除 ai-engineering（11条）和 programming（1条），共12条
 - 知识库聚焦为专用投资知识库，仅保留 investing 分类 18 条

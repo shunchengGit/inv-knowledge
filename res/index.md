@@ -7,6 +7,10 @@
 - [2026-05-21-ASML.AS-BofA Global Research-ASML Holding N.V. High-NA inflection intact, with memory fi...-122166365.undefined.pdf](ASML/2026-05-21-ASML.AS-BofA Global Research-ASML Holding N.V. High-NA inflection intact, with memory fi...-122166365.undefined.pdf)
 - [2026-05-21-ASML.AS-JPMorgan-ASML Takeaways from London TMT Conference 2026-122159112.pdf](ASML/2026-05-21-ASML.AS-JPMorgan-ASML Takeaways from London TMT Conference 2026-122159112.pdf)
 
+## Adobe
+- [2026-06-12-UBS-Adobe-AI-Hits-Pricing-Power.pdf](Adobe/2026-06-12-UBS-Adobe-AI-Hits-Pricing-Power.pdf)
+- [2026-07-02-HSBC-Adobe-Irrational-Despondence.pdf](Adobe/2026-07-02-HSBC-Adobe-Irrational-Despondence.pdf)
+
 ## DKE控股
 - [2026062900102_c.pdf](DKE控股/2026062900102_c.pdf)
 

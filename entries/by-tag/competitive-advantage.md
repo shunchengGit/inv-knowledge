@@ -1,5 +1,7 @@
 # competitive-advantage
 
+- [Adobe汇丰升级买入：工作流黏性抵御AI替代，12倍预期EPS支撑308美元目标价](entries/adobe-hsbc-buy-irrational-despondence-20260702.md) — Analysis
+- [Adobe瑞银研报：AI削弱定价权，有机ARR指引降至8%与225美元目标价](entries/adobe-ubs-ai-pricing-power-20260612.md) — Analysis
 - [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — Analysis
 - [BofA：台积电股东大会更新——AI驱动需求与技术执行支撑营收/毛利率展望](entries/台积电BofA-股东大会AI需求与技术执行.md) — Analysis
 - [EssilorLuxottica 2Q26韧性与AI眼镜增长期权分析](entries/essilorluxottica-jefferies-ai-glasses-q2-2026.md) — Analysis

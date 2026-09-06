@@ -1,4 +1,6 @@
 ## Analysis
+- [Adobe汇丰升级买入：工作流黏性抵御AI替代，12倍预期EPS支撑308美元目标价](entries/adobe-hsbc-buy-irrational-despondence-20260702.md) — HSBC将Adobe由Hold升至Buy，目标价282升至308美元，采用12倍未来12个月非GAAP EPS 25.68美元；FY26—28 EPS预测上调3.6%—8.3%，认为8.5倍CY26E PE过度反映AI替代风险。
+- [Adobe瑞银研报：AI削弱定价权，有机ARR指引降至8%与225美元目标价](entries/adobe-ubs-ai-pricing-power-20260612.md) — UBS指出Adobe年末有机ARR增速指引由约10%降至8%，将目标价由260降至225美元并维持Neutral；估值采用8倍CY27E FCF，低PE仍需防范免费化侵蚀定价权。
 - [ASML伦敦TMT会议要点](entries/ASML伦敦TMT会议要点.md) — JPMorgan伦敦TMT大会ASML CFO炉边对话：EUV产能2027年≥80台，DRAM未来占比将超50%，High-NA产品数月内面世
 - [ASML分析：两种孔径的故事](entries/ASML分析-两种孔径的故事.md) — BNP Paribas ASML研报：评级Outperform目标价€1,550，2026-30E EPS €33.74-€69.85，EV/EBITDA从30.9x降至13.8x
 - [ASML深度分析：High-NA-EUV采用时间线调整](entries/ASML深度分析-High-NA-EUV采用时间线调整.md) — BofA ASML深度报告：High-NA EUV采用以DRAM为先台积电最晚，Low-NA EUV出货量上调至65/85/87台，EPS上调2.8-14.5%，目标价€1,710重申买入

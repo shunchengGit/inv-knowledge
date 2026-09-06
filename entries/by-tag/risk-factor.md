@@ -1,5 +1,7 @@
 # risk-factor
 
+- [Adobe汇丰升级买入：工作流黏性抵御AI替代，12倍预期EPS支撑308美元目标价](entries/adobe-hsbc-buy-irrational-despondence-20260702.md) — Analysis
+- [Adobe瑞银研报：AI削弱定价权，有机ARR指引降至8%与225美元目标价](entries/adobe-ubs-ai-pricing-power-20260612.md) — Analysis
 - [Broadcom FY26Q2多投行研报汇总：业绩小幅超预期，AI高预期与后端瓶颈并存](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Synthesis
 - [JPMorgan中国地产-预售制逐步退出政策点评-利好贝壳与头部国企开发商](entries/jpm-中国地产-预售制逐步退出-2026-08.md) — Analysis
 - [Meta 1Q26业绩超预期但资本开支上调：三家投行对AI回报与FCF存在分歧](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Synthesis
