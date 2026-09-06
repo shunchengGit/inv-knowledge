@@ -229,6 +229,7 @@
 - [2026-08-19-600660.SS-BofA Global Research-Fuyao Glass (HA) 2Q26 core earnings beat; execution intact...-123951236.pdf](福耀玻璃/2026-08-19-600660.SS-BofA Global Research-Fuyao Glass (HA) 2Q26 core earnings beat; execution intact...-123951236.pdf)
 - [2026-08-19-600660.SS-JPMorgan-Fuyao AH Worst behind, catalyst still elusive-123953162.pdf](福耀玻璃/2026-08-19-600660.SS-JPMorgan-Fuyao AH Worst behind, catalyst still elusive-123953162.pdf)
 - [2026-08-19-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 2Q26 Earnings and NDR Call Takea...-123949357.pdf](福耀玻璃/2026-08-19-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 2Q26 Earnings and NDR Call Takea...-123949357.pdf)
+- [2026-08-20-600660.SS-BNP Paribas-FUYAO GLASS - H  2Q26 Operational resilience despite weak ...-123958358.pdf](福耀玻璃/2026-08-20-600660.SS-BNP Paribas-FUYAO GLASS - H  2Q26 Operational resilience despite weak ...-123958358.pdf)
 - [Fuyao-Glass-2026-H1-summary.pdf](福耀玻璃/Fuyao-Glass-2026-H1-summary.pdf)
 - [Fuyao-Glass-2026-H1.pdf](福耀玻璃/Fuyao-Glass-2026-H1.pdf)
 
