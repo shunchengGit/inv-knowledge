@@ -37,6 +37,7 @@
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — Analysis
+- [安踏体育2026年中报业绩复盘与德意志银行评级分析](entries/db-anta-sports-1h26-review-superior-execution-20260826.md) — Analysis
 - [微软4Q/FY26财报前瞻：Azure增长强劲，Capex预期上修，M365商业云加速（UBS 7/26）](entries/msft-4qfy26-azure-capex-m365-ubs-update.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis

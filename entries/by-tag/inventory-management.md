@@ -1,0 +1,3 @@
+# inventory-management
+
+- [德意志银行与摩根士丹利安踏体育2026年Q2经营走势与指引交叉验证](entries/db-ms-anta-sports-2q26-execution-guidance-20260720.md) — Analysis

@@ -21,6 +21,7 @@
 - [台积电BofA-2026年Q2业绩与供需景气度评估](entries/台积电BofA-2Q26业绩与供需景气度评估.md) — Analysis
 - [台积电JPMorgan-2026年Q2业绩与AI算力需求能见度](entries/台积电JPMorgan-2Q26业绩与AI算力需求能见度.md) — Analysis
 - [宁波银行深度：如何理解“大银行做不好，小银行做不了”的客群经营能力（中泰证券 7/25）](entries/ningbo-bank-client-strategy-zhongtai-analysis.md) — Analysis
+- [安踏体育2026年中报业绩复盘与德意志银行评级分析](entries/db-anta-sports-1h26-review-superior-execution-20260826.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
 - [德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — Analysis
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
