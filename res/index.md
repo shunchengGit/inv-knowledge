@@ -129,6 +129,7 @@
 - [2026-04-26-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd 1Q26 Revenue, PPOP and profit growt...-121638787.undefined.pdf](宁波银行/2026-04-26-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd 1Q26 Revenue, PPOP and profit growt...-121638787.undefined.pdf)
 - [2026-04-27-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q126 a clean beat; sizable divid...-121640444.pdf](宁波银行/2026-04-27-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q126 a clean beat; sizable divid...-121640444.pdf)
 - [2026-07-25-002142.SZ-Zhongtai Securities-宁波银行-宁波银行系列报告之一丨客群篇： 如何理解“大银行做不好，小银行做不了”-07252026-123408680.pdf](宁波银行/2026-07-25-002142.SZ-Zhongtai Securities-宁波银行-宁波银行系列报告之一丨客群篇： 如何理解“大银行做不好，小银行做不了”-07252026-123408680.pdf)
+- [2026-09-04-JPMorgan-China Regional Banks 2Q26 review Core earnings resilient, w...-124239084.pdf](宁波银行/2026-09-04-JPMorgan-China Regional Banks 2Q26 review Core earnings resilient, w...-124239084.pdf)
 - [doc_29ce6bb9986b_2026-08-19-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q226 robust revenue  NPAT beat...-123950088.pdf](宁波银行/doc_29ce6bb9986b_2026-08-19-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q226 robust revenue  NPAT beat...-123950088.pdf)
 - [doc_cb7c9da0ec7d_2026-08-19-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd Revenue and profit growth further ac...-123954232.pdf](宁波银行/doc_cb7c9da0ec7d_2026-08-19-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd Revenue and profit growth further ac...-123954232.pdf)
 - [nbcb_2026H1.pdf](宁波银行/nbcb_2026H1.pdf)
@@ -298,6 +299,8 @@
 - [2026-05-28-Jefferies-Huaweis _Tau_ Scaling Law - Not Yet a DeepSeek Moment for C...-122278601.pdf](行业研究-AI/2026-05-28-Jefferies-Huaweis _Tau_ Scaling Law - Not Yet a DeepSeek Moment for C...-122278601.pdf)
 - [2026-06-02-JPMorgan-AIDC ESS Reference Architectures and Early Orders Point to E...-122368714.pdf](行业研究-AI/2026-06-02-JPMorgan-AIDC ESS Reference Architectures and Early Orders Point to E...-122368714.pdf)
 - [2026-08-23-HSBC Global Investme-US Technology AI Reality Check - Key takeaways from expert c...-124014168.pdf](行业研究-AI/2026-08-23-HSBC Global Investme-US Technology AI Reality Check - Key takeaways from expert c...-124014168.pdf)
+- [2026-09-04-Morgan Stanley-Asia Compass The Rise of China’s AI Ecosystem-124223802.pdf](行业研究-AI/2026-09-04-Morgan Stanley-Asia Compass The Rise of China’s AI Ecosystem-124223802.pdf)
+- [2026-09-09-Morgan Stanley-China AI Foundation Model Our View on DeepSeek V4 Flash Pri...-124296848.pdf](行业研究-AI/2026-09-09-Morgan Stanley-China AI Foundation Model Our View on DeepSeek V4 Flash Pri...-124296848.pdf)
 
 ## 行业研究-AI基础设施
 - [2026-09-02-JPMorgan-China AI Infra Ecosystem  Unprecedented growth; lingering co...-124188125.pdf](行业研究-AI基础设施/2026-09-02-JPMorgan-China AI Infra Ecosystem  Unprecedented growth; lingering co...-124188125.pdf)
@@ -319,6 +322,7 @@
 - [2026-08-12-Morgan Stanley-Internet How Could Open-Weight Models Impact GenAI ROIC-123797326.pdf](行业研究-互联网/2026-08-12-Morgan Stanley-Internet How Could Open-Weight Models Impact GenAI ROIC-123797326.pdf)
 - [2026-08-24-UBS Equities-China Online Entertainment Monthly _July TencentNetEase ga...-124022217.pdf](行业研究-互联网/2026-08-24-UBS Equities-China Online Entertainment Monthly _July TencentNetEase ga...-124022217.pdf)
 - [2026-08-26-JPMorgan-China Internet Who Pays for the AI Build-124047703.pdf](行业研究-互联网/2026-08-26-JPMorgan-China Internet Who Pays for the AI Build-124047703.pdf)
+- [2026-09-06-Morgan Stanley-China Internet  AI Foundation Models Catalyst Preview Wha...-124258867.pdf](行业研究-互联网/2026-09-06-Morgan Stanley-China Internet  AI Foundation Models Catalyst Preview Wha...-124258867.pdf)
 - [doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf](行业研究-互联网/doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf)
 - [doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf](行业研究-互联网/doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf)
 - [doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf](行业研究-互联网/doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf)
@@ -428,6 +432,7 @@
 ## 行业研究-银行
 - [2026-08-21-BofA Global Research-Banks - China Weekly Wrap Macro slows, LPR holds, property...-123981624.pdf](行业研究-银行/2026-08-21-BofA Global Research-Banks - China Weekly Wrap Macro slows, LPR holds, property...-123981624.pdf)
 - [2026-08-24-UBS Equities-Greater China Banks Daily _China to roll out additional fisc...-124014319.pdf](行业研究-银行/2026-08-24-UBS Equities-Greater China Banks Daily _China to roll out additional fisc...-124014319.pdf)
+- [2026-09-04-UBS Equities-Greater China Banks Daily _PBOC Shanghai reports issuance of...-124222075.pdf](行业研究-银行/2026-09-04-UBS Equities-Greater China Banks Daily _PBOC Shanghai reports issuance of...-124222075.pdf)
 
 ## 谷歌
 - [2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf](谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf)

@@ -10,3 +10,4 @@
 - [大摩SEMICON台湾纪要：AI扩产压力与ABF载板材料瓶颈](entries/ms-semicon-taiwan-takeaways-20260902.md) — Article
 - [大摩科技硬件月报：应用商店转弱但云资本开支再上修](entries/大摩科技硬件月报-应用商店转弱但云资本开支再上修.md) — Analysis
 - [太空探索技术公司扩产揭示二〇二七年图形处理器短缺与新云机会](entries/太空探索技术公司扩产揭示二〇二七年图形处理器短缺与新云机会.md) — Analysis
+- [摩根士丹利Asia Compass：中国AI生态崛起与DRAM芯片竞争格局重塑](entries/ms-asia-compass-china-ai-ecosystem-cxmt.md) — Analysis
