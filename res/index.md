@@ -302,6 +302,7 @@
 - [2026-09-04-Morgan Stanley-Asia Compass The Rise of China’s AI Ecosystem-124223802.pdf](行业研究-AI/2026-09-04-Morgan Stanley-Asia Compass The Rise of China’s AI Ecosystem-124223802.pdf)
 - [2026-09-09-Morgan Stanley-China AI Foundation Model Our View on DeepSeek V4 Flash Pri...-124296848.pdf](行业研究-AI/2026-09-09-Morgan Stanley-China AI Foundation Model Our View on DeepSeek V4 Flash Pri...-124296848.pdf)
 - [2026-09-13-Morgan Stanley-Chinas AI Path From Rmb8.5tr Capex to 3x Compute-124373122.pdf](行业研究-AI/2026-09-13-Morgan Stanley-Chinas AI Path From Rmb8.5tr Capex to 3x Compute-124373122.pdf)
+- [2026-09-17-BofA Global Research-Equity Strategy - China China AI from localization to mone...-124436600.pdf](行业研究-AI/2026-09-17-BofA Global Research-Equity Strategy - China China AI from localization to mone...-124436600.pdf)
 
 ## 行业研究-AI基础设施
 - [2026-09-02-JPMorgan-China AI Infra Ecosystem  Unprecedented growth; lingering co...-124188125.pdf](行业研究-AI基础设施/2026-09-02-JPMorgan-China AI Infra Ecosystem  Unprecedented growth; lingering co...-124188125.pdf)
