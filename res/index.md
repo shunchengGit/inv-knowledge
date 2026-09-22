@@ -352,6 +352,7 @@
 
 ## 行业研究-工业
 - [2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf](行业研究-工业/2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf)
+- [2026-09-18-Morgan Stanley-Asia Compass China’s Industrial Reinvention-124437913.pdf](行业研究-工业/2026-09-18-Morgan Stanley-Asia Compass China’s Industrial Reinvention-124437913.pdf)
 
 ## 行业研究-工业自动化
 - [2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf](行业研究-工业自动化/2026-06-01-Morgan Stanley-人形机器人 人形机器人前沿：人形机器人即将登陆彭博终端-122326109.undefined.pdf)
