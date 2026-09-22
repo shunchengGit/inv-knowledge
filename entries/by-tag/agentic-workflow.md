@@ -1,4 +1,3 @@
-# meituan
+# agentic-workflow
 
 - [摩根士丹利中国互联网AI广告：从注意力到交易结果，两阶段商业化与平台分化](entries/ms-china-internet-ai-advertising-attention-to-outcomes-20260916.md) — Analysis
-- [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — Article
