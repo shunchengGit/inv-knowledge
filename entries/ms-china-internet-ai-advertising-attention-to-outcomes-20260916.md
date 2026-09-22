@@ -23,7 +23,7 @@ tags: [tencent, alibaba, meituan, ai-advertising, digital-ad, agentic-workflow, 
 ## 关联
 - [摩根士丹利中国AI路径：8.5万亿资本开支到3倍算力](ms-china-ai-path-rmb8-5tr-capex-3x-compute-20260913.md) — 算力供给与广告应用变现需求端呼应
 - [BofA中国AI从本土化到变现：价值链微笑曲线与三大投资主题](bofa-china-ai-localization-to-monetization-20260917.md) — 云与平台变现能力的横向印证
--  — 腾讯广告变现与微信生态底座
+- [腾讯控股2026年Q2业绩及H1正式财报](tencent-2026-q2-h1-official-results.md) — 腾讯广告变现与微信生态底座
 
 ## 引用
 - [Morgan Stanley - China Internet: AI Advertising: From Attention to Outcomes](res/腾讯控股/2026-09-16-Morgan Stanley-China Internet AI Advertising From Attention to Outcomes-124425698.pdf)
