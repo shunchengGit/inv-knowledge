@@ -304,6 +304,7 @@
 - [2026-09-09-Morgan Stanley-China AI Foundation Model Our View on DeepSeek V4 Flash Pri...-124296848.pdf](行业研究-AI/2026-09-09-Morgan Stanley-China AI Foundation Model Our View on DeepSeek V4 Flash Pri...-124296848.pdf)
 - [2026-09-13-Morgan Stanley-Chinas AI Path From Rmb8.5tr Capex to 3x Compute-124373122.pdf](行业研究-AI/2026-09-13-Morgan Stanley-Chinas AI Path From Rmb8.5tr Capex to 3x Compute-124373122.pdf)
 - [2026-09-16-Morgan Stanley-Investor Presentation  Chinas AI Path Rmb8.5tr Capex into...-124424111.pdf](行业研究-AI/2026-09-16-Morgan Stanley-Investor Presentation  Chinas AI Path Rmb8.5tr Capex into...-124424111.pdf)
+- [2026-09-16-Morgan Stanley-Investor Presentation Chinas AI Path LLM-124424446.pdf](行业研究-AI/2026-09-16-Morgan Stanley-Investor Presentation Chinas AI Path LLM-124424446.pdf)
 - [2026-09-17-BofA Global Research-Equity Strategy - China China AI from localization to mone...-124436600.pdf](行业研究-AI/2026-09-17-BofA Global Research-Equity Strategy - China China AI from localization to mone...-124436600.pdf)
 
 ## 行业研究-AI基础设施
