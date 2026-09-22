@@ -8,6 +8,7 @@
 - [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — BNP Paribas维持Outperform，1Q26 DRAM ASP中60%+/NAND ASP中70%+大幅增长。HBM4E预期>50%份额，容量扩张有纪律性（龙仁Cluster灵活分期）。TP上调26%至KRW 2,000,000，基于3x 2027E BVPS。
 - [BNP Paribas：台积电推出A13并更新技术路线图——重申Outperform](entries/台积电BNP-技术路线图-A13更新-重申Outperform.md) — BNP Paribas（Alex Chang）于2026年4月24日发布。A13（2029 HVM，面积节省6%）、A12（Super Power Rail背面供电）、N2U（2028 HVM，速度+3-4%/功耗-8-10%）、CoWoS扩展至14-reticle。评级Outperform，目标价TWD2,520/USD478。
 - [BofA 5月App数据跟踪：中国电商与在线媒体格局分析](entries/BofA-5月App数据跟踪-中国电商与在线媒体格局分析.md) — BofA基于5月App下载量和活跃度数据分析中国互联网电商、本地生活和在线媒体竞争格局变化
+- [BofA中国AI从本土化到变现：价值链微笑曲线与三大投资主题](entries/bofa-china-ai-localization-to-monetization-20260917.md) — BofA 2026-09-17中国AI策略72页全景：国产AI加速器份额2025年近50%→2028E约80%（华为训练领先）；CXMT全球DRAM份额从2024年3-4%升至2Q26的10%，YMTC NAND从7-8%升至14%；半导体设备国产化率2025年近30%。价值链呈微笑曲线——两端（加速器/设备/代工/存储+云平台）盈利最强，独立LLM与物理AI制造商定价权弱。三大主题：本土化受益（拥挤高估值）、AI基建出口（受美国周期+制裁风险）、AI应用（终极变现层但缺杀手级应用）。
 - [BofA中国AI观察：DeepSeek V4 Flash以低价后训练强化重塑模型竞争](entries/bofa-deepseek-v4-flash-china-ai-watch-20260803.md) — DeepSeek V4 Flash以每百万输入输出Token仅0.14和0.28美元实现全球领先编程与Agent性能，BofA判断其利空智谱与MiniMax、对腾讯中性并加剧阿里Qwen竞争。
 - [BofA中国未来汽车第78期：比亚迪大唐七座纯电SUV上市点评](entries/BofA-Greater-China-EV-Future-Car-20260618.md) — BofA此报告实际聚焦比亚迪大唐七座纯电SUV：售价23.99万—30.99万元、较预售低约1万元，管理层称可退款预订单超15万；续航最高950公里，不能据此推导全行业渗透率。
 - [BofA中国银行1H26前瞻：利润改善但K型分化加剧](entries/BofA中国银行1H26前瞻-利润改善但K型分化加剧.md) — BofA预计H股银行平均净利润增速由1Q26的1.1%升至1H26的1.7%，五大行PPOP增长6%-12%；贷款增速降至5.2%、NIM短期企稳但2027年或再承压，首选ICBC、ABC-H和CCB-H。
@@ -27,6 +28,7 @@
 - [EssilorLuxottica 2Q26韧性与AI眼镜增长期权分析](entries/essilorluxottica-jefferies-ai-glasses-q2-2026.md) — EssilorLuxottica 2Q26有机增速8.7%，AI眼镜贡献约3个百分点且销量近翻倍；Jefferies预计2026年售出约1000万副并维持€250目标价，判断短期增速降温不改平台化重估逻辑。
 - [Google AI Wars流量跟踪：Gemini与Claude高速增长，Google搜索份额稳定(BofA)](entries/Google-AI-Wars-Traffic-BofA-202605-06.md) — BofA持续跟踪AI产品流量趋势。截至2026年5月，Gemini全球日活达1.1亿(月+10%/+321% y/y)，Claude DAU 1,700万(月+22%/+1,349% y/y)，ChatGPT DAU 4.38亿(月+2%/+68% y/y)，Meta AI DAU 1,000万。Google搜索份额稳定在90%。Gemini和Claude增长最快，但ChatGPT仍占绝对规模优势。
 - [HSBC: SK Hynix — Another surprise in DRAM prices, raise TP to KRW 2.9M](entries/HSBC-SK-Hynix-Another-surprise-in-DRAM-prices-raise-TP.md) — HSBC维持Buy评级，TP从KRW 1,800,000上调至2,900,000。DRAM服务器和移动端价格均超预期，2Q26 OP预测上调14%至KRW 65tn。通用服务器需求爆发（AI:非AI比例从4-8:1趋近1:1），CSP Capex大幅增长。
+- [HSBC人形机器人具身智能：大脑（Brain）是下一个前沿](entries/hsbc-embodied-intelligence-brain-next-frontier-20260911.md) — HSBC 2026-09-11世界机器人大会调研：人形机器人已现初步商业化迹象，但硬件价格战加剧，HSBC对硬件偏好下降；大脑能力突破（数据+世界模型）与Optimus 3商业化是关键催化剂。产业链共识龙头：硬件-宇树，软件-自变量/智元，灵巧手-Sharpa/无界，商业化-宇树/优必选/智元。
 - [Hubbell 30亿美元收购NSI Industries：强化电气化与数据中心布局](entries/HubbellNSI收购与电气化分析.md) — Hubbell以30亿美元现金(15.5x 2026E EBITDA)收购NSI Industries，NSI预计2026收入5.7亿美元/EBITDA 1.93亿美元(34%利润率)，DB维持Hold/TP 520美元，MS维持Equal-weight/TP 565美元，UBS维持Neutral/TP 515美元
 - [Jefferies AI系列#41：DeepSeek V4发布后的新进展](entries/Jefferies-AI系列-41-DeepSeek-V4发布后的新进展.md) — Jefferies追踪DeepSeek V4发布后的行业影响，分析开源模型对AI竞争格局的冲击
 - [Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化](entries/jefferies-china-csp-ai-earnings-focus-20260803.md) — Jefferies预计阿里云与百度AI云基础设施收入分别增长45%和55%，中国模型周Token用量达28万亿且约为美国模型6.4倍，结论是低价高效模型将驱动需求但CSP估值需由利润率与ROIC验证。
@@ -146,6 +148,8 @@
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — 恒瑞医药与BMS签订涵盖13个早期项目的全球战略合作，潜在总价值US$152亿（6亿首付款），为中国药企第二大license-out交易；JPM维持A股OW（PT Rmb70）/H股Neutral（PT HK$70）
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — 恒立液压是高精密液压泵阀与丝杠龙头，ROE稳定，但当前估值过贵（2025静态PE 50.8x，动态PE 39.5x），安全边际不足。
 - [摩根士丹利Asia Compass：中国AI生态崛起与DRAM芯片竞争格局重塑](entries/ms-asia-compass-china-ai-ecosystem-cxmt.md) — 摩根士丹利Asia Compass分析中国AI生态迈入2.0工业领导力阶段，长鑫存储（CXMT）推进HBM3E有望在2027年缓解算力瓶颈并重塑全球存储格局，AI算力竞争由单点峰值转向每Token成本与规模化落地。
+- [摩根士丹利Asia Compass：中国工业再造——从"世界工厂"到"工业操作系统"](entries/ms-asia-compass-china-industrial-reinvention-20260918.md) — 摩根士丹利2026-09-18 Asia Compass泛亚研究总监Stoklosa：中国工业故事的核心是技术、能源与制造边界的消融——AI要电、电要储能、先进制造依赖自动化+深度供应链+规模。三大支柱报告：中国从世界工厂进化为"工业操作系统"（潜在12万亿美元投资周期，"Made in China"→"Made by China"）；钠电池成"新石油"（2035年部署3.7TWh，约8000亿美元投资周期）；中国制造业主导力新章（长期规划+研发+AI+一体化供应链+耐心资本+STEM人才）。核心矛盾：规模能否持续转化为有吸引力的回报，下一阶段是把规模转化为可持续经济价值。
+- [摩根士丹利中国AI路径：8.5万亿资本开支到3倍算力，2030年IT容量81GW](entries/ms-china-ai-path-rmb8-5tr-capex-3x-compute-20260913.md) — 摩根士丹利2026-09-13预测2026-30E中国AI总资本开支8.5万亿元（约1.3万亿美元，均值约美国17%），支撑IT容量从2025年26GW扩至2030年81GW；超大规模云厂商5年全球新增47GW算力（约美国22%）。四种资金通路+离岸融资2.0万亿元支持离岸资本开支；IaaS/MaaS ROIC 10-20%，MaaS(3P)可达30%，下一代国产芯片ROIC约9%（3.6年回收）随国产化推进改善。超配AI基础设施（阿里/金山云/万国数据）、AI实验室（智谱/MiniMax）、GPU国产化（寒武纪/燧原/海光）。
 - [摩根士丹利中国房地产周度监测：新房成交同比反弹，去化率显著改善](entries/ms-china-property-weekly-2026-07.md) — 7月首周（截至7月5日）50城新房周成交同比增22%（前值-11%），YTD同比-11%；10城二手成交同比增4%（前值-1%），YTD同比+5%；总去化率回升至68%（前值53%），一线去化率达90%。中原六城二手降价比例微增至16.7%，一线中介指数升至54.7。
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — 摩根士丹利指出宁波银行2Q26营收和净利润分别增长12.9%和13.9%，贷款环比增长2.8%、显著快于行业0.8%；维持增持与首选股，目标价48.30元。
 - [摩根士丹利安踏体育1H26业绩点评与3Q天气影响跟踪](entries/ms-anta-sports-1h26-bucked-trend-20260827.md) — 安踏2026H1销售与调整后净利双增13%，大摩认为其多品牌矩阵具备穿越周期能力，7月暴雨扰动不改变Q3与全年稳健复苏趋势。
@@ -194,6 +198,7 @@
 - [麦格理东方电气1Q26业绩快评与评级下调分析](entries/macquarie-dec-1q26-performance-downgrade.md) — 麦格理将东方电气下调至Underperform，因其1Q26扣非核心利润仅增11.5%，2025年订单覆盖率从2.19x降至1.78x，且十五五煤电定位转变削弱中线可见性。
 
 ## Article
+- [UBS大中华银行日报：央行明确"十五五"金融改革方向，1-7月科技贷款同比+17.9%](entries/ubs-greater-china-banks-daily-pboc-15th-five-year-20260911.md) — UBS 2026-09-11大中华银行日报：央行副行长陆磊披露"十五五"金融改革方向——货币政策框架逐步淡化数量目标、强化利率传导；截至2026年6月结构性货币政策工具余额4.6万亿元。监管总局披露1-7月科技企业贷款余额26.9万亿元（+17.9% YoY），制造业贷款41.7万亿元（+9.8%），支持居民消费约1.88万亿元。
 - [东方电气G50燃机首台整机启运哈萨克斯坦——国产F级重型燃机首次整机出口](entries/dongfang-electric-g50-first-export-kazakhstan-2026-08.md) — 2026年8月28日东方电气自主F级50MW重型燃机（G50）从四川德阳启运哈萨克斯坦江布尔州联合循环发电项目，为国产高端重型燃机首次整机出口海外；项目共3台套成套设备并配套全生命周期运维，标志燃机出海从签约阶段进入交付兑现阶段。
 - [大摩SEMICON台湾纪要：AI扩产压力与ABF载板材料瓶颈](entries/ms-semicon-taiwan-takeaways-20260902.md) — 大摩2026年9月2日SEMICON纪要转述欣兴过去18个月与供应商及客户开会超过10次协调产能，指出AI推高ABF载板尺寸和层数、ABR与T-glass供给仍紧；行业观点维持In-Line。
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — 大摩2026年EPS由3.78降至3.51元、2027年4.53降至4.43元，维持A股56.20元目标价及等权；牛熊情景78元和25元反映执行与利润率风险。

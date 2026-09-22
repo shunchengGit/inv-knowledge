@@ -1,4 +1,3 @@
-# manufacturing
+# industry-5-0
 
 - [摩根士丹利Asia Compass：中国工业再造——从"世界工厂"到"工业操作系统"](entries/ms-asia-compass-china-industrial-reinvention-20260918.md) — Analysis
-- [浙江东方科脉（DKE控股）港股上市招股书分析](entries/dke-holding-electronic-paper-ipo-prospectus-202606.md) — Reference

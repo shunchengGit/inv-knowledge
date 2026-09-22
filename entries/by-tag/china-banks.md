@@ -1,4 +1,3 @@
-# pboc
+# china-banks
 
 - [UBS大中华银行日报：央行明确"十五五"金融改革方向，1-7月科技贷款同比+17.9%](entries/ubs-greater-china-banks-daily-pboc-15th-five-year-20260911.md) — Article
-- [瑞银大中华银行日报：上海自贸区离岸债发行进展与2Q26金融机构资产规模](entries/ubs-greater-china-banks-daily-shanghai-ftz-2q26-assets.md) — Reference
