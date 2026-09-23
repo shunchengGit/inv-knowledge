@@ -328,6 +328,7 @@
 - [2026-08-24-UBS Equities-China Online Entertainment Monthly _July TencentNetEase ga...-124022217.pdf](行业研究-互联网/2026-08-24-UBS Equities-China Online Entertainment Monthly _July TencentNetEase ga...-124022217.pdf)
 - [2026-08-26-JPMorgan-China Internet Who Pays for the AI Build-124047703.pdf](行业研究-互联网/2026-08-26-JPMorgan-China Internet Who Pays for the AI Build-124047703.pdf)
 - [2026-09-06-Morgan Stanley-China Internet  AI Foundation Models Catalyst Preview Wha...-124258867.pdf](行业研究-互联网/2026-09-06-Morgan Stanley-China Internet  AI Foundation Models Catalyst Preview Wha...-124258867.pdf)
+- [2026-09-18-UBS Equities-First Read China Internet Sector _AI downstream application...-124445034.pdf](行业研究-互联网/2026-09-18-UBS Equities-First Read China Internet Sector _AI downstream application...-124445034.pdf)
 - [doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf](行业研究-互联网/doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf)
 - [doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf](行业研究-互联网/doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf)
 - [doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf](行业研究-互联网/doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf)
