@@ -1,6 +1,7 @@
 # tencent
 
 - [Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化](entries/jefferies-china-csp-ai-earnings-focus-20260803.md) — Analysis
+- [UBS中国互联网AI下游应用专家会：视频生成竞争格局与商业化进展](entries/ubs-china-internet-ai-downstream-expert-call-20260918.md) — Article
 - [UBS中国在线娱乐2026年7月月报：腾讯网易游戏韧性延续，短视频继续挤压长视频](entries/ubs-china-online-entertainment-monthly-2026-07.md) — Analysis
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — Analysis
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
