@@ -1,5 +1,6 @@
 # earnings-review
 
+- [BofA中国银行业1H26业绩会纪要：15家银行管理层要点，大行NIM下半年企稳成共识](entries/BofA中国银行业1H26业绩会纪要-15家银行管理层要点.md) — Analysis
 - [UBS大中华银行日报：宁波银行与江苏银行业绩及助贷监管收紧风险](entries/ubs-greater-china-banks-daily-bonb-bojs-loan-facilitation-202608.md) — Analysis
 - [UBS宁波银行2Q26快评：营收与净利润超预期，维持买入评级](entries/ubs-bank-of-ningbo-2q26-results-beat.md) — Analysis
 - [安踏体育2026年中报业绩复盘与德意志银行评级分析](entries/db-anta-sports-1h26-review-superior-execution-20260826.md) — Analysis
