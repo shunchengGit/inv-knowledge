@@ -327,6 +327,7 @@
 - [2026-08-12-Morgan Stanley-Internet How Could Open-Weight Models Impact GenAI ROIC-123797326.pdf](行业研究-互联网/2026-08-12-Morgan Stanley-Internet How Could Open-Weight Models Impact GenAI ROIC-123797326.pdf)
 - [2026-08-24-UBS Equities-China Online Entertainment Monthly _July TencentNetEase ga...-124022217.pdf](行业研究-互联网/2026-08-24-UBS Equities-China Online Entertainment Monthly _July TencentNetEase ga...-124022217.pdf)
 - [2026-08-26-JPMorgan-China Internet Who Pays for the AI Build-124047703.pdf](行业研究-互联网/2026-08-26-JPMorgan-China Internet Who Pays for the AI Build-124047703.pdf)
+- [2026-08-28-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – July 2026-124082794.pdf](行业研究-互联网/2026-08-28-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – July 2026-124082794.pdf)
 - [2026-09-06-Morgan Stanley-China Internet  AI Foundation Models Catalyst Preview Wha...-124258867.pdf](行业研究-互联网/2026-09-06-Morgan Stanley-China Internet  AI Foundation Models Catalyst Preview Wha...-124258867.pdf)
 - [2026-09-18-UBS Equities-First Read China Internet Sector _AI downstream application...-124445034.pdf](行业研究-互联网/2026-09-18-UBS Equities-First Read China Internet Sector _AI downstream application...-124445034.pdf)
 - [doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf](行业研究-互联网/doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf)
