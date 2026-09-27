@@ -18,5 +18,6 @@
 - [福耀玻璃MS 2Q26业绩快评：核心经营利润增长5%，毛利率升至40.2%](entries/福耀玻璃MS-2Q26业绩快评-核心经营利润增长5-毛利率升至40.2.md) — Analysis
 - [福耀玻璃MS 2Q26电话会：高附加值产品占比59.68%，美国二期加速爬坡](entries/福耀玻璃MS-2Q26电话会-高附加值产品占比59.68-美国二期加速爬坡.md) — Analysis
 - [福耀玻璃UBS 1Q26快评：毛利率超预期，剔除汇兑利润+10% YoY](entries/福耀玻璃UBS-1Q26快评-毛利率超预期-剔除汇兑利润-10-YoY.md) — Analysis
+- [福耀玻璃被低估的全球汽车玻璃龙头：2027E P/E仅10.5x，股息率5.7%](entries/fuyao-ubs-undervalued-global-leader-20260916.md) — Analysis
 - [福耀玻璃：汽车大盘弱势充分计价，下半年基本面将底部修复（HSBC 7/22）](entries/fuyao-glass-2q26-hsbc-analysis.md) — Analysis
 - [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
