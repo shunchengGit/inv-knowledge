@@ -188,6 +188,7 @@
 - [2026-07-31-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy Two-pronged AI monetization is deli...-123507565.pdf](微软/2026-07-31-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy Two-pronged AI monetization is deli...-123507565.pdf)
 - [2026-08-05-MSFT.OQ-BNP Paribas-SOFTWARE  Neoclouds SpaceX read-across. Compute (and GPU) ...-123634801.pdf](微软/2026-08-05-MSFT.OQ-BNP Paribas-SOFTWARE  Neoclouds SpaceX read-across. Compute (and GPU) ...-123634801.pdf)
 - [2026-08-06-MSFT.OQ-HSBC Global Investme-Cloudnomics Benchmarking analysis reveals risk and valuation...-123655744.pdf](微软/2026-08-06-MSFT.OQ-HSBC Global Investme-Cloudnomics Benchmarking analysis reveals risk and valuation...-123655744.pdf)
+- [2026-09-04-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft Read Through From APAC Chinese LLM...-124236048.pdf](微软/2026-09-04-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft Read Through From APAC Chinese LLM...-124236048.pdf)
 - [microsoft-fy2026-sec-10k.pdf](微软/microsoft-fy2026-sec-10k.pdf)
 
 ## 恒瑞医药
