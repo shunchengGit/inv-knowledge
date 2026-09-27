@@ -1,4 +1,3 @@
-# ndr
+# gpu-rental
 
 - [微软管理层Contact Feedback：GPU租赁定价上行，OpenAI收入分成cap确认存在](entries/msft-bnp-corporate-contact-feedback-20260921.md) — Analysis
-- [腾讯控股2Q26 NDR call关键要点：AI战略、资本开支与变现路径](entries/tencent-hsbc-2q26-ndr-call-key-takeaways.md) — Analysis

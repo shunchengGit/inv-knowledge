@@ -7,3 +7,5 @@
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — Analysis
 - [MSFT：Anthropic合作有望成为Azure 430亿美元年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis
 - [微软4Q/FY26财报前瞻：Azure增长强劲，Capex预期上修，M365商业云加速（UBS 7/26）](entries/msft-4qfy26-azure-capex-m365-ubs-update.md) — Analysis
+- [微软中国LLM映射：开源模型推动Azure平台变现，而非侵蚀OpenAI关系](entries/msft-bnp-chinese-llm-read-through-20260904.md) — Analysis
+- [微软管理层Contact Feedback：GPU租赁定价上行，OpenAI收入分成cap确认存在](entries/msft-bnp-corporate-contact-feedback-20260921.md) — Analysis
