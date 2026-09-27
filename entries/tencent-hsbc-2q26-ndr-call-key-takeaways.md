@@ -1,6 +1,7 @@
 ---
 type: Analysis
 title: 腾讯控股2Q26 NDR call关键要点：AI战略、资本开支与变现路径
+description: HSBC 9月3日NDR：腾讯CSO James Mitchell确认AI团队统一后模型发布加速至每2月一次，2Q26存储芯片预付款超RMB50亿属一次性投入，MaaS毛利率40%但优先发展harness和混元训练。
 timestamp: 2026-09-07T00:00:00+08:00
 resource: res/腾讯控股/2026-09-07-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy 2Q26 NDR call key takeaways-124259745.pdf
 source_type: pdf

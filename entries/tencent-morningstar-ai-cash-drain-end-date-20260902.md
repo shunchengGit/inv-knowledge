@@ -1,6 +1,7 @@
 ---
 type: Analysis
 title: 腾讯控股AI资本开支拐点已现：2027年FCF转正路径明确
+description: Morningstar Ivan Su维持HKD 780公允价值，核心结论：AI投入不会成为永久性现金消耗，2027年自由现金流转正，公司明确拒绝股权融资，当前股价较公允价值折让50%。
 timestamp: 2026-09-02T00:00:00+08:00
 resource: res/腾讯控股/2026-09-02-0700.HK-Morningstar, Inc.-Morningstar  Tencent The AI Cash Drain Has a Visible End D...-124188931.pdf
 source_type: pdf

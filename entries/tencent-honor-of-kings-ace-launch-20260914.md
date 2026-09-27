@@ -1,6 +1,7 @@
 ---
 type: Analysis
 title: 王者荣耀：ACE首发成功，iOS畅销榜第5，预计首年流水36亿元
+description: 王者荣耀：ACE 9月10日上线首日iOS畅销榜第9、第4日升至第5，HSBC预计首12个月流水RMB36亿，对标金铲铲之战首年RMB47亿。
 timestamp: 2026-09-14T00:00:00+08:00
 resource: res/腾讯控股/2026-09-14-0700.HK-HSBC Global Investme-Equity Snap Tencent Holdings (700 HK) Successful launch of ...-124373257.pdf
 source_type: pdf

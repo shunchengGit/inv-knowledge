@@ -1,6 +1,7 @@
 ---
 type: Analysis
 title: 抖音月时长首次超越微信，字节跳动系占据中国移动时长35%
+description: Nomura 7月App Tracker：抖音月时长同比+29%首次超越微信，字节系5款App进Top 20合计时长份额35% vs 腾讯系24%，红果短剧DAU 1.68亿超越四大长视频之和。
 timestamp: 2026-08-28T00:00:00+08:00
 resource: res/行业研究-互联网/2026-08-28-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – July 2026-124082794.pdf
 source_type: pdf
