@@ -16,6 +16,8 @@
 - [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — Analysis
 - [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — Analysis
 - [万国数据AI需求爆发：三年Capex 300-500亿元，订单创纪录](entries/万国数据AI驱动数据中心分析.md) — Analysis
+- [台积电8月营收514.8亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — Analysis
+- [台积电CoWoS与先进封装更新：2027-28年产能上修，SoIC 2028年接棒](entries/tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — Analysis
 - [小摩中国房地产异动点评：无实质利好下的5%脉冲反弹，存量博弈短命反弹与国企Alpha策略](entries/jpm-china-property-curious-share-price-rally-2026-08.md) — Analysis
 - [汇川技术综合投行分析：自动化订单强劲但NEV拖累1Q26](entries/汇川技术多投行综合分析.md) — Analysis
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — Synthesis

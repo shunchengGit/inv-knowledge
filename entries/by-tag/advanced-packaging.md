@@ -5,3 +5,4 @@
 - [JPMorgan亚洲科技巡访：AI需求扩散与半导体瓶颈向设备和材料迁移](entries/jpmorgan-asia-tech-tour-2026-semiconductor-supply-chain.md) — Analysis
 - [UBS：台积电US技术研讨会——A13/A12/N2U路线图与AI护城河](entries/台积电UBS-US技术研讨会-A13-A12-N2U路线图与AI护城河.md) — Analysis
 - [世界先进VIS：中介层业务改善与VSMC资本支出下调，野村升级买入](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Analysis
+- [台积电CoWoS与先进封装更新：2027-28年产能上修，SoIC 2028年接棒](entries/tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — Analysis

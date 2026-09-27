@@ -1,5 +1,5 @@
-# CoWoS
+# cowos
 
-- [BNP Paribas：台积电推出A13并更新技术路线图——重申Outperform](entries/台积电BNP-技术路线图-A13更新-重申Outperform.md) — Analysis
-- [BofA：台积电产能与技术爬坡斜率更陡——缓解竞争担忧](entries/台积电BofA-产能与技术爬坡-缓解竞争担忧.md) — Analysis
-- [UBS：台积电US技术研讨会——A13/A12/N2U路线图与AI护城河](entries/台积电UBS-US技术研讨会-A13-A12-N2U路线图与AI护城河.md) — Analysis
+- [SEMICON Taiwan 2026：AI驱动半导体制造创新，数据中心电力需求加速](entries/tsmc-bofa-semicon-taiwan-20260831.md) — Analysis
+- [台积电8月营收514.8亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — Analysis
+- [台积电CoWoS与先进封装更新：2027-28年产能上修，SoIC 2028年接棒](entries/tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — Analysis

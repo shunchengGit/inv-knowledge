@@ -82,6 +82,7 @@
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
 - [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价640美元、评级买入（44倍CY28E EPS 14.54美元）
 - [Reddit 2Q26广告高增长与Google搜索流量风险再平衡](entries/reddit-jpm-q2-2026-advertising-search-traffic.md) — Reddit 2Q26收入8.05亿美元同比增长61%，广告收入增长64%、活跃广告主增长70%以上，但美国DAUq环比减少30万；JPMorgan认为商业化强劲尚不足以抵消Google搜索流量不确定性，维持Neutral并设2027年底目标价185美元。
+- [SEMICON Taiwan 2026：AI驱动半导体制造创新，数据中心电力需求加速](entries/tsmc-bofa-semicon-taiwan-20260831.md) — BofA 8月31日SEMICON Taiwan纪要：TSMC预计数据中心电力容量从2025-30年每年30-40GW加速增长，2030年达300GW装机；AI推理token消耗自2022年增长500倍，2030年将再增24倍至120万亿；硅光子COUPE平台降低插入损耗，200Gbps向400Gbps演进。
 - [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — 汇丰银行（HSBC）认为市场因2Q26短暂低于预期而过度抛售SK海力士，认为Agentic AI正引发比肩1990-95年的存储超级周期，HBM4溢价与SO-CAMM2普及将推动3Q26营业利润大增至79万亿韩元，重申Buy。
 - [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Macquarie指出SK海力士2Q26营业利润60.5万亿韩元（+61% QoQ），因NAND提价及DRAM均价增长；股价自高点腰斩，当前扣除净现金后2027E PE仅1倍（全表PE 2.5x），重申Outperform。
 - [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Morgan Stanley指出SK海力士2Q26营业利润60.5万亿韩元（OP率76%），因HBM3e组合过渡短期未能达最高共识；但下半年HBM4加速放量与多长单（LTA）锁定将显著提升盈利与FCF，维持Overweight。
@@ -115,8 +116,10 @@
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — 华泰证券预计腾讯1Q26营收+11%/经调整净利+10%，AI Agent赛道迎拐点(龙虾产品矩阵升级/云提价/混元3.0发布)，SOTP目标价716港元，预计26年营收8410亿
 - [华泰证券资产配置月报：AI链行情进入新阶段](entries/华泰证券资产配置月报-AI链行情进入新阶段.md) — 华泰证券4月资产配置报告认为AI链行情正从第一阶段（算力硬件）向第二阶段（应用与生态）切换
 - [双环传动002472.SZ价值成长QARP深度分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — 双环传动是新能源齿轮与机器人RV减速器龙头，2026Q1受车企价格战降速明显（扣非-4.04%），动态PEG达1.76偏高。
+- [台积电8月营收514.8亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — JPMorgan 9月10日快评：TSMC 8月营收NT$514.8bn同比+53%环比+10%，达3Q26指引的67%；N3供需缺口2027年将恶化至60万片，NVIDIA Rubin/Vera将占2027年N3产能55-60%；预计2027/28年capex US$81bn/90bn，CoWoS产能2027年底达200K wfpm。
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — 法巴评台积电2026年Q2业绩超预期，上调2026-28E累计资本支出至2400亿美元以应对AI强劲需求，提示ASML光刻机提价和高内存价格的潜在负面影响。
 - [台积电BofA-2026年Q2业绩与供需景气度评估](entries/台积电BofA-2Q26业绩与供需景气度评估.md) — 美银美林评台积电2026年Q2业绩及后市展望，强调良性竞争格局与行业供不应求将支撑台积电维持强势地位，2026年资本支出上调至600亿-640亿美元。
+- [台积电CoWoS与先进封装更新：2027-28年产能上修，SoIC 2028年接棒](entries/tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — JPMorgan 9月17日深度：上调2027/28年CoWoS行业产能预期4%/6%，TSMC CoWoS 2027/28年底达200K/225K wfpm；SoIC 2028年成为焦点，NVIDIA Feynman预计采用A16-on-A16 3D SoIC；CoWoS供需缺口收窄至10%，领先制程晶圆和基板成为更大瓶颈。
 - [台积电JPMorgan-2026年Q2业绩与AI算力需求能见度](entries/台积电JPMorgan-2Q26业绩与AI算力需求能见度.md) — 小摩评台积电2026年Q2业绩与中长期展望，上调目标价至NT$3,200。指出数据中心AI需求能见度已延伸至2029-30年，预计台积电2027/28年资本支出将突破800亿美元。
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — 瑞银评台积电2026年Q2业绩及先进制程定价趋势，重申Buy评级并上调目标价至NT$3,650。瑞银指出2026年资本支出指引上调至600亿-640亿美元对确保全球供给份额至关重要。
 - [国信证券传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会](entries/国信证券-传媒行业4月投资策略-20260417.md) — 国信证券发布传媒行业4月投资策略，建议超配游戏和IP潮玩板块，认为AI应用经过调整后具备底部布局价值

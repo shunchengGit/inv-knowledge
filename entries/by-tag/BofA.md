@@ -8,5 +8,6 @@
 - [BofA大中华策略3Q26罗盘：杠铃策略应对K型分化市场，偏好工业与科技硬件](entries/bofas-china-investment-compass-3q26.md) — Analysis
 - [Google 1Q26云业务超预期爆发，Cloud backlog达$4,620亿(BofA/DB/HSBC)](entries/Google-1Q26-Cloud-Backlog-BofA-DB-HSBC-20260430.md) — Synthesis
 - [Google AI Wars流量跟踪：Gemini与Claude高速增长，Google搜索份额稳定(BofA)](entries/Google-AI-Wars-Traffic-BofA-202605-06.md) — Analysis
+- [SEMICON Taiwan 2026：AI驱动半导体制造创新，数据中心电力需求加速](entries/tsmc-bofa-semicon-taiwan-20260831.md) — Analysis
 - [美银美林中国AI基础设施：电力出海与大国重器期权（金盘、东方电气、应流）](entries/bofas-ai-infrastructure-china-power-AIDC-2026-06.md) — Reference
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis

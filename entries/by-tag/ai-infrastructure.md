@@ -6,6 +6,7 @@
 - [MSFT AI基础设施深度系列：OpenAI与Anthropic效应——Token优化周期来临 (BNP Paribas 6/2)](entries/MSFT-AI基础设施深度系列-OpenAI与Anthropic效应-Token优化周期来临-BNP-Paribas-6-2.md) — Analysis
 - [MSFT NDR前瞻10问：Copilot进展、GPU定价权与AI基础设施融资 (BNP Paribas 6/9)](entries/MSFT-NDR前瞻10问-Copilot进展-GPU定价权与AI基础设施融资-BNP-Paribas-6-9.md) — Analysis
 - [MS亚洲宏观与工业：亚洲迎来20年来最强工业资本开支超级周期](entries/MS亚洲宏观与工业-亚洲迎来20年来最强工业资本开支超级周期.md) — Analysis
+- [SEMICON Taiwan 2026：AI驱动半导体制造创新，数据中心电力需求加速](entries/tsmc-bofa-semicon-taiwan-20260831.md) — Analysis
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis
 - [大摩SEMICON台湾纪要：AI扩产压力与ABF载板材料瓶颈](entries/ms-semicon-taiwan-takeaways-20260902.md) — Article
 - [大摩科技硬件月报：应用商店转弱但云资本开支再上修](entries/大摩科技硬件月报-应用商店转弱但云资本开支再上修.md) — Analysis

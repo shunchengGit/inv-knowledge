@@ -6,13 +6,16 @@
 - [BofA：台积电股东大会更新——AI驱动需求与技术执行支撑营收/毛利率展望](entries/台积电BofA-股东大会AI需求与技术执行.md) — Analysis
 - [JPMorgan晶圆代工2Q26总结-先进制程供需紧张延续至2028-成熟制程定价转暖](entries/台积电JPMorgan-晶圆代工2Q26总结-先进制程紧张延续至2028.md) — Analysis
 - [Morgan Stanley台湾半导体调研：Rubin按期爬坡、CPU增量与存储短缺](entries/Morgan-Stanley台湾半导体供应链调研纪要.md) — Analysis
+- [SEMICON Taiwan 2026：AI驱动半导体制造创新，数据中心电力需求加速](entries/tsmc-bofa-semicon-taiwan-20260831.md) — Analysis
 - [UBS快速解读：台积电4月营收NT$4,107亿——Q2开局符合预期](entries/台积电UBS-4月营收4107亿-符合Q2预期.md) — Analysis
 - [UBS快速解读：台积电5月营收NT$4,170亿——Q2稳步推进，目标价上调至NT$3,000](entries/台积电UBS-5月营收4170亿-Q2稳步推进-目标价上调至3000.md) — Analysis
 - [UBS：台积电US技术研讨会——A13/A12/N2U路线图与AI护城河](entries/台积电UBS-US技术研讨会-A13-A12-N2U路线图与AI护城河.md) — Analysis
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — Reference
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — Synthesis
+- [台积电8月营收514.8亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — Analysis
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — Analysis
 - [台积电BofA-2026年Q2业绩与供需景气度评估](entries/台积电BofA-2Q26业绩与供需景气度评估.md) — Analysis
+- [台积电CoWoS与先进封装更新：2027-28年产能上修，SoIC 2028年接棒](entries/tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — Analysis
 - [台积电JPMorgan-2026年Q2业绩与AI算力需求能见度](entries/台积电JPMorgan-2Q26业绩与AI算力需求能见度.md) — Analysis
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — Analysis
 - [摩根大通：台积电2026年7月营收符合进度，N3需求与N2爬坡支撑三季度指引](entries/台积电2026年7月营收快评-JPMorgan-N3需求与N2爬坡.md) — Analysis
