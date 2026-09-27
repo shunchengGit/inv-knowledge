@@ -12,7 +12,7 @@ tags: [tsmc, monthly-revenue, n3, cowos, nvidia, ai-demand, jpmorgan, 2026-09]
 
 JPMorgan Gokul Hariharan 发布 TSMC 8 月营收快评。8 月营收 NT$514.8bn（同比 +53%，环比 +10%），占 JPM/共识 3Q26 营收预期的 67%。预计 3Q26 营收达指引中上限（US$44.6-45.8bn，JPM 预期 US$45.5bn），毛利率维持 66.5% 左右。核心判断：AI 加速器需求强劲，N3 供需失衡 2027 年将进一步恶化，NVIDIA Rubin/Vera 放量是主要驱动力。
 
-## 要点
+## 关键要点
 
 1. **8 月营收创纪录**：NT$514.8bn 同比 +53%，环比 +10%，连续第 4 个月环比增长。3Q26 营收预计达 US$44.6-45.8bn 指引中上限，JPM 预期 US$45.5bn。
 

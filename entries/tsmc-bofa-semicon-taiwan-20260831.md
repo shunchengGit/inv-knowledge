@@ -12,7 +12,7 @@ tags: [tsmc, semicon-taiwan, ai-infrastructure, silicon-photonics, cowos, bofa, 
 
 BofA Haas Liu 团队参加 SEMICON Taiwan 2026（8月31日开幕），TSMC 在 IC Forum 和 Silicon Photonics Summit 上发表演讲。核心判断：AI 正驱动半导体制造全产业链创新，从逻辑制程（A13/A12/N2U）、HBM 硅技术（N12→N3）、先进封装（SoIC 11 个 tape-out、>14x reticle CoWoS）到硅光子（COUPE 平台）全面布局。维持 Buy，目标价 NT$3,100（20x 2027 P/E）。
 
-## 要点
+## 关键要点
 
 1. **数据中心电力需求爆发**：TSMC 预计数据中心电力容量将从 2015-24 年的每年 5-6GW 加速至 2025-30 年的每年 30-40GW，2030 年累计装机达 300GW。驱动力是 AI 训练向多模态演进（LLM 算力每年 5 倍增长）。
 

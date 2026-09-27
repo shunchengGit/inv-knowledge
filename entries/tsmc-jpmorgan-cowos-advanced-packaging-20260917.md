@@ -12,7 +12,7 @@ tags: [tsmc, cowos, soic, advanced-packaging, nvidia, ai-accelerator, jpmorgan, 
 
 JPMorgan Gokul Hariharan 发布 TSMC CoWoS 与先进封装深度更新（17 页）。核心结论：上调 2027/28 年 CoWoS 行业产能预期 4%/6%，TSMC CoWoS 产能 2027/28 年底分别达 200K/225K wfpm；SoIC 2028 年接棒成为主要增长点，NVIDIA Feynman 预计采用 A16-on-A16 3D SoIC 逻辑-逻辑堆叠。CoWoS 供需缺口已收窄至 10% 左右，领先制程晶圆和 ABF 基板取代 CoWoS 成为 AI 客户更大瓶颈。
 
-## 要点
+## 关键要点
 
 1. **CoWoS 产能上修**：TSMC CoWoS 产能 2027/28 年底预计达 200K/225K wfpm（此前预期约 190K/210K），增量主要来自 CoWoS-R（满足 Vera CPU 和 AI ASIC 需求）。OSAT 厂商扩产更快，2027/28 年底合计产能达 60K/95K wfpm，主要聚焦 CPU 和 CoWoS-R 类应用。
 
