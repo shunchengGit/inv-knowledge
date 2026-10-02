@@ -265,6 +265,7 @@
 
 ## 美的集团
 - [2026-05-10-000333.SZ-BofA Global Research-Midea Group (HA) Scaling globally  advancing toward 2B-121943610.pdf](美的集团/2026-05-10-000333.SZ-BofA Global Research-Midea Group (HA) Scaling globally  advancing toward 2B-121943610.pdf)
+- [2026-07-20-000333.SZ-BofA Global Research-Midea Group (HA) Improving outlook in 2H26; strong shareho...-123272020.pdf](美的集团/2026-07-20-000333.SZ-BofA Global Research-Midea Group (HA) Improving outlook in 2H26; strong shareho...-123272020.pdf)
 
 ## 老铺黄金
 - [2026-04-23-6181.HK-UBS Equities-First Read Laopu Gold _Sales growth may decelerate but prof...-121598309.pdf](老铺黄金/2026-04-23-6181.HK-UBS Equities-First Read Laopu Gold _Sales growth may decelerate but prof...-121598309.pdf)
