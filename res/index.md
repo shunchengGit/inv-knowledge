@@ -260,6 +260,9 @@
 - [2026-08-29-JPMorgan-China Property  Banks Phasing out the pre-sales system - go...-124092715.pdf](策略研究/2026-08-29-JPMorgan-China Property  Banks Phasing out the pre-sales system - go...-124092715.pdf)
 - [20260429-华泰证券-资产配置月报：AI链行情进入新阶段.pdf](策略研究/20260429-华泰证券-资产配置月报：AI链行情进入新阶段.pdf)
 
+## 网易
+- [2026-08-21-9999.HK-JPMorgan-NetEase Existing game portfolio remains healthy; await next ...-123980980.pdf](网易/2026-08-21-9999.HK-JPMorgan-NetEase Existing game portfolio remains healthy; await next ...-123980980.pdf)
+
 ## 美光
 - [2026-06-08-MU.OQ-UBS Equities-Micron Technology Inc _FQ326 (May) Earnings Preview LTAs +...-122467674.pdf](美光/2026-06-08-MU.OQ-UBS Equities-Micron Technology Inc _FQ326 (May) Earnings Preview LTAs +...-122467674.pdf)
 
