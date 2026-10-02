@@ -263,6 +263,7 @@
 ## 网易
 - [2026-08-21-9999.HK-JPMorgan-NetEase Existing game portfolio remains healthy; await next ...-123980980.pdf](网易/2026-08-21-9999.HK-JPMorgan-NetEase Existing game portfolio remains healthy; await next ...-123980980.pdf)
 - [2026-08-21-9999.HK-Morgan Stanley-NetEase, Inc Risk Reward Update-123977905.pdf](网易/2026-08-21-9999.HK-Morgan Stanley-NetEase, Inc Risk Reward Update-123977905.pdf)
+- [2026-08-23-9999.HK-Nomura-NetEase (NTES US) (Buy) - A solid quarter-124013933.pdf](网易/2026-08-23-9999.HK-Nomura-NetEase (NTES US) (Buy) - A solid quarter-124013933.pdf)
 
 ## 美光
 - [2026-06-08-MU.OQ-UBS Equities-Micron Technology Inc _FQ326 (May) Earnings Preview LTAs +...-122467674.pdf](美光/2026-06-08-MU.OQ-UBS Equities-Micron Technology Inc _FQ326 (May) Earnings Preview LTAs +...-122467674.pdf)
