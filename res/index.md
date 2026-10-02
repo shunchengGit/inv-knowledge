@@ -265,6 +265,7 @@
 - [2026-08-21-9999.HK-Morgan Stanley-NetEase, Inc Risk Reward Update-123977905.pdf](网易/2026-08-21-9999.HK-Morgan Stanley-NetEase, Inc Risk Reward Update-123977905.pdf)
 - [2026-08-23-9999.HK-Nomura-NetEase (NTES US) (Buy) - A solid quarter-124013933.pdf](网易/2026-08-23-9999.HK-Nomura-NetEase (NTES US) (Buy) - A solid quarter-124013933.pdf)
 - [2026-09-15-9999.HK-Morgan Stanley-NetEase, Inc BlizzCon 2026 Positive Read Across-124396936.pdf](网易/2026-09-15-9999.HK-Morgan Stanley-NetEase, Inc BlizzCon 2026 Positive Read Across-124396936.pdf)
+- [2026-09-27-9999.HK-Morgan Stanley-NetEase, Inc Something Big Is Coming-124575403.pdf](网易/2026-09-27-9999.HK-Morgan Stanley-NetEase, Inc Something Big Is Coming-124575403.pdf)
 
 ## 美光
 - [2026-06-08-MU.OQ-UBS Equities-Micron Technology Inc _FQ326 (May) Earnings Preview LTAs +...-122467674.pdf](美光/2026-06-08-MU.OQ-UBS Equities-Micron Technology Inc _FQ326 (May) Earnings Preview LTAs +...-122467674.pdf)
