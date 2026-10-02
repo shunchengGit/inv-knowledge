@@ -50,6 +50,7 @@
 - [摩根大通中国AI基础设施生态：算力需求高增长与先进代工、HBM双重瓶颈](entries/jpm-china-ai-infra-growth-foundry-hbm-constraints-20260902.md) — Article
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis
 - [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article
+- [汇丰中国互联网行业研报：宏观与税负承压下的选择性乐观](entries/china-internet-hsbc-selective-optimism-20260923.md) — Article
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [汇丰腾讯HY4预览版点评：7700亿参数升级与商业化成本检验](entries/tencent-hsbc-hy4-preview-20260831.md) — Article
 - [法巴福耀二季报：销量与汇兑压低盈利预测，经营韧性支撑双市场评级](entries/fuyao-bnp-2q26-resilience-20260820.md) — Article
@@ -65,6 +66,12 @@
 - [福耀玻璃JPMorgan 2Q26会后更新：最差已过但催化剂仍不足](entries/福耀玻璃JPMorgan-2Q26会后更新-最差已过但催化剂仍不足.md) — Analysis
 - [福耀玻璃被低估的全球汽车玻璃龙头：2027E P/E仅10.5x，股息率5.7%](entries/fuyao-ubs-undervalued-global-leader-20260916.md) — Analysis
 - [福耀玻璃：汽车大盘弱势充分计价，下半年基本面将底部修复（HSBC 7/22）](entries/fuyao-glass-2q26-hsbc-analysis.md) — Analysis
+- [网易摩根士丹利：无限大全球化与估值重评情景](entries/netease-ms-无限大全球化情景-2026-09-27.md) — Article
+- [网易摩根士丹利：暴雪多年内容管线的潜在正面映射](entries/netease-ms-暴雪内容管线-2026-09-15.md) — Article
+- [网易摩根士丹利：核心利润上修与风险回报重估](entries/netease-ms-风险回报更新-2026-08-21.md) — Article
+- [网易摩根大通：存量游戏稳健但股价仍待爆款催化](entries/netease-jpm-存量游戏与新品催化-2026-08-21.md) — Article
+- [网易野村：二季度营业利润强劲但投资损失拖累净利](entries/netease-nomura-利润率与税费分化-2026-08-24.md) — Article
+- [美的集团下半年经营修复预期与投资收益分红的不确定性](entries/midea-bofa-h2-outlook-20260721.md) — Article
 - [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis

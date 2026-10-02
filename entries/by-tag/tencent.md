@@ -9,6 +9,7 @@
 - [摩根士丹利中国互联网AI广告：从注意力到交易结果，两阶段商业化与平台分化](entries/ms-china-internet-ai-advertising-attention-to-outcomes-20260916.md) — Analysis
 - [摩根士丹利中国互联网与AI大模型催化剂前瞻：微信AI落地与Qwen/混元模型迭代](entries/ms-china-internet-ai-foundation-models-catalysts-preview-202609.md) — Synthesis
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis
+- [汇丰中国互联网行业研报：宏观与税负承压下的选择性乐观](entries/china-internet-hsbc-selective-optimism-20260923.md) — Article
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [汇丰腾讯HY4预览版点评：7700亿参数升级与商业化成本检验](entries/tencent-hsbc-hy4-preview-20260831.md) — Article
 - [王者荣耀：ACE首发成功，iOS畅销榜第5，预计首年流水36亿元](entries/tencent-honor-of-kings-ace-launch-20260914.md) — Analysis
