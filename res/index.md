@@ -379,6 +379,7 @@
 
 ## 行业研究-地产
 - [2026-07-31-Morgan Stanley-China Property Primary Home Sales Remained Weak and Diverge...-123519690.pdf](行业研究-地产/2026-07-31-Morgan Stanley-China Property Primary Home Sales Remained Weak and Diverge...-123519690.pdf)
+- [2026-09-29-JPMorgan-China Property  Banks Mortgage subsidies are out - a good g...-124621960.pdf](行业研究-地产/2026-09-29-JPMorgan-China Property  Banks Mortgage subsidies are out - a good g...-124621960.pdf)
 
 ## 行业研究-工业
 - [2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf](行业研究-工业/2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf)
