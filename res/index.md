@@ -148,6 +148,7 @@
 - [2026-08-26-DB-Anta-1H26-Review-Superior-Execution.pdf](安踏体育/2026-08-26-DB-Anta-1H26-Review-Superior-Execution.pdf)
 - [2026-08-27-MS-Anta-Sports-1H26-Bucked-Trend.pdf](安踏体育/2026-08-27-MS-Anta-Sports-1H26-Bucked-Trend.pdf)
 - [2026-09-20-2020.HK-Morgan Stanley-ANTA China BEST Conference 2026 Feedback-124455579.pdf](安踏体育/2026-09-20-2020.HK-Morgan Stanley-ANTA China BEST Conference 2026 Feedback-124455579.pdf)
+- [2026-09-28-2020.HK-Deutsche Bank-Anta Puma China A New Growth Engine for Anta from 2027-124590614.pdf](安踏体育/2026-09-28-2020.HK-Deutsche Bank-Anta Puma China A New Growth Engine for Anta from 2027-124590614.pdf)
 
 ## 宝盖新材
 - [2026062900044_c.pdf](宝盖新材/2026062900044_c.pdf)
