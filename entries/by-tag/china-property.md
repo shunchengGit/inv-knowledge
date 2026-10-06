@@ -2,6 +2,7 @@
 
 - [JPMorgan中国地产-预售制逐步退出政策点评-利好贝壳与头部国企开发商](entries/jpm-中国地产-预售制逐步退出-2026-08.md) — Analysis
 - [JPMorgan中国地产周度数据监控：端午假期扰动致销售转弱，一线城市挂牌量持续下降支撑房价企稳](entries/jpm-china-property-weekly-data-2026-06.md) — Analysis
+- [JPMorgan中国地产按揭补贴评估：方向积极但覆盖范围与刺激力度有限](entries/jpm-china-property-mortgage-subsidy-20260930.md) — Analysis
 - [JPMorgan中国房地产5月数据：一线城市房价初现企稳迹象](entries/JPMorgan中国房地产5月数据-一线城市房价初现企稳迹象.md) — Analysis
 - [JPMorgan全球房地产日报：纽约租金与欧美资产交易摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — Analysis
 - [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — Analysis

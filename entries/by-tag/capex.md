@@ -8,6 +8,7 @@
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — Analysis
 - [MSFT NDR前瞻10问：Copilot进展、GPU定价权与AI基础设施融资 (BNP Paribas 6/9)](entries/MSFT-NDR前瞻10问-Copilot进展-GPU定价权与AI基础设施融资-BNP-Paribas-6-9.md) — Analysis
 - [MSFT NYC NDR反馈：Copilot成核心议题，FQ4席位或远超2500万 (BNP Paribas 6/11)](entries/MSFT-NDR反馈-Copilot成核心议题-FQ4席位或远超2500万-BNP-Paribas-6-11.md) — Analysis
+- [UBS台积电Q326前瞻：上调2027-28年资本开支以应对AI需求](entries/tsmc-ubs-q326-preview-capex-20260928.md) — Analysis
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — Synthesis
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — Analysis
 - [台积电BofA-2026年Q2业绩与供需景气度评估](entries/台积电BofA-2Q26业绩与供需景气度评估.md) — Analysis

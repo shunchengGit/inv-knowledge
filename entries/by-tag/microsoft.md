@@ -20,3 +20,4 @@
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
 - [微软中国LLM映射：开源模型推动Azure平台变现，而非侵蚀OpenAI关系](entries/msft-bnp-chinese-llm-read-through-20260904.md) — Analysis
 - [微软管理层Contact Feedback：GPU租赁定价上行，OpenAI收入分成cap确认存在](entries/msft-bnp-corporate-contact-feedback-20260921.md) — Analysis
+- [汇丰美国软件Q2综述：企业AI商业化指标增多，估值仍低于历史常态](entries/msft-hsbc-us-tech-q2-software-20260923.md) — Analysis
