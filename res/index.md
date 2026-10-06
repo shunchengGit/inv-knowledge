@@ -427,6 +427,7 @@
 
 ## 行业研究-电力设备
 - [2026-08-19-JPMorgan-Asia Power Equipment Key Learnings from Global Electrical Co...-123950557.pdf](行业研究-电力设备/2026-08-19-JPMorgan-Asia Power Equipment Key Learnings from Global Electrical Co...-123950557.pdf)
+- [2026-10-02-JPMorgan-Asia Electrical Equipment Notes from the Road Takeaways fro...-124679452.pdf](行业研究-电力设备/2026-10-02-JPMorgan-Asia Electrical Equipment Notes from the Road Takeaways fro...-124679452.pdf)
 
 ## 行业研究-科技
 - [2026-08-25-JPMorgan-Asia Tech Tour Key takeaways-124030130.pdf](行业研究-科技/2026-08-25-JPMorgan-Asia Tech Tour Key takeaways-124030130.pdf)
