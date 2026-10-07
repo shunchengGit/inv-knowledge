@@ -91,6 +91,9 @@
 - [2026-04-16-300308.SZ-Nomura-Zhongji InnoLight (300308 CH) (Buy) - Multiple growth driver...-121441677.pdf](中际旭创/2026-04-16-300308.SZ-Nomura-Zhongji InnoLight (300308 CH) (Buy) - Multiple growth driver...-121441677.pdf)
 - [2026-06-09-300308.SZ-BofA Global Research-Zhongji Innolight (A) Lift PO to CNY1,650 full-stack optic...-122497876.undefined.pdf](中际旭创/2026-06-09-300308.SZ-BofA Global Research-Zhongji Innolight (A) Lift PO to CNY1,650 full-stack optic...-122497876.undefined.pdf)
 
+## 传音控股
+- [2026-10-07-传音控股-港股IPO全球发售招股章程-02636.HK.pdf](传音控股/2026-10-07-传音控股-港股IPO全球发售招股章程-02636.HK.pdf)
+
 ## 博通
 - [2026-06-04-AVGO.OQ-JPMorgan-Broadcom Inc AI Momentum Accelerates on Strong Bookings; Mul...-122408104.pdf](博通/2026-06-04-AVGO.OQ-JPMorgan-Broadcom Inc AI Momentum Accelerates on Strong Bookings; Mul...-122408104.pdf)
 - [2026-06-04-AVGO.OQ-Morgan Stanley-Broadcom Inc. Expectations miss amid very strong demand-122403915.undefined.pdf](博通/2026-06-04-AVGO.OQ-Morgan Stanley-Broadcom Inc. Expectations miss amid very strong demand-122403915.undefined.pdf)
