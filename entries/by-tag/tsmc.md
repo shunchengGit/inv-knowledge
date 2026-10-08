@@ -13,6 +13,7 @@
 - [UBS快速解读：台积电5月营收NT$4,170亿——Q2稳步推进，目标价上调至NT$3,000](entries/台积电UBS-5月营收4170亿-Q2稳步推进-目标价上调至3000.md) — Analysis
 - [UBS：台积电US技术研讨会——A13/A12/N2U路线图与AI护城河](entries/台积电UBS-US技术研讨会-A13-A12-N2U路线图与AI护城河.md) — Analysis
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — Reference
+- [台积电2026年9月官方营收：同比增长54.6%，第三季度收入略超预期](entries/tsmc-2026-september-official-revenue-20261008.md) — Reference
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — Synthesis
 - [台积电8月营收514.8亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — Analysis
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — Analysis

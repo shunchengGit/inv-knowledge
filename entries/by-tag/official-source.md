@@ -2,6 +2,7 @@
 
 - [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — Reference
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — Reference
+- [台积电2026年9月官方营收：同比增长54.6%，第三季度收入略超预期](entries/tsmc-2026-september-official-revenue-20261008.md) — Reference
 - [宁波银行2026年半年报：营收利润双位数增长，中收增长54%](entries/宁波银行2026年半年报-营收利润双位数增长-中收增长54.md) — Reference
 - [希音国际2026年港股招股书：418亿美元收入与关税压力下的全球时尚平台](entries/希音国际2026年港股招股书-全球线上时尚平台与关税压力.md) — Reference
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
