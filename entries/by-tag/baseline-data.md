@@ -5,6 +5,7 @@
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — Reference
 - [台积电2026年9月官方营收：同比增长54.6%，第三季度收入略超预期](entries/tsmc-2026-september-official-revenue-20261008.md) — Reference
 - [宁波银行2026年半年报：营收利润双位数增长，中收增长54%](entries/宁波银行2026年半年报-营收利润双位数增长-中收增长54.md) — Reference
+- [小摩中港地产黄金周初评：二手成交增59%，政策脉冲仍待持续性验证](entries/jpm-mainland-hk-property-golden-week-20261009.md) — Article
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
 - [江波龙港股IPO聆讯后资料集-全球第九大存储产品企业-2026年极端上行周期毛利率57.5%](entries/江波龙港股IPO-PHIP-2026-08-23.md) — Reference
 - [福耀玻璃2026年半年报：Q2毛利率40.17%，汇兑掩盖经营韧性](entries/fuyao-glass-2026-h1-official-results.md) — Reference

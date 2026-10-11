@@ -11,6 +11,7 @@
 - [云计算经济性基准显示微软云兼具回报韧性与估值吸引力](entries/云计算经济性基准显示微软云兼具回报韧性与估值吸引力.md) — Analysis
 - [大摩SEMICON台湾纪要：AI扩产压力与ABF载板材料瓶颈](entries/ms-semicon-taiwan-takeaways-20260902.md) — Article
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
+- [小摩中港地产黄金周初评：二手成交增59%，政策脉冲仍待持续性验证](entries/jpm-mainland-hk-property-golden-week-20261009.md) — Article
 - [希音国际2026年港股招股书：418亿美元收入与关税压力下的全球时尚平台](entries/希音国际2026年港股招股书-全球线上时尚平台与关税压力.md) — Reference
 - [德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — Analysis
 - [摩根士丹利人形机器人前沿：莫拉维克悖论、数据瓶颈与商业化检验](entries/ms-humanoid-horizons-moravec-paradox-2026-09.md) — Article
