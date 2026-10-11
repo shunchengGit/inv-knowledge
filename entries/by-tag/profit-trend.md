@@ -81,6 +81,7 @@
 - [美国银行台积电资本拨款加速与美国厂盈利改善](entries/美国银行台积电资本拨款加速与美国厂盈利改善.md) — Analysis
 - [美的集团下半年经营修复预期与投资收益分红的不确定性](entries/midea-bofa-h2-outlook-20260721.md) — Article
 - [美的集团全球化与企业业务扩张的战略目标及资本纪律](entries/midea-bofa-globalization-20260511.md) — Article
+- [美银中国投资罗盘四季度策略：盈利下修与信用收紧，偏好网购和非银](entries/bofa-china-investment-compass-4q26-20261005.md) — Article
 - [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis

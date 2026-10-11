@@ -72,6 +72,7 @@
 - [网易摩根大通：存量游戏稳健但股价仍待爆款催化](entries/netease-jpm-存量游戏与新品催化-2026-08-21.md) — Article
 - [网易野村：二季度营业利润强劲但投资损失拖累净利](entries/netease-nomura-利润率与税费分化-2026-08-24.md) — Article
 - [美的集团下半年经营修复预期与投资收益分红的不确定性](entries/midea-bofa-h2-outlook-20260721.md) — Article
+- [美银中国投资罗盘四季度策略：盈利下修与信用收紧，偏好网购和非银](entries/bofa-china-investment-compass-4q26-20261005.md) — Article
 - [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis
