@@ -164,6 +164,7 @@
 - [2026-05-20-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. AI Servers Continue to...-122143074.undefined.pdf](工业富联/2026-05-20-601138.SS-Morgan Stanley-Foxconn Industrial Internet Co. Ltd. AI Servers Continue to...-122143074.undefined.pdf)
 
 ## 市场策略
+- [2026-10-05-BofA Global Research-China Investment Compass - Quarterly 4Q26 from AI euphoria...-124736041.pdf](市场策略/2026-10-05-BofA Global Research-China Investment Compass - Quarterly 4Q26 from AI euphoria...-124736041.pdf)
 - [2026-10-06-BofA Global Research-Equity Strategy - China In 24 hours China 4Q26 outlook fr...-124756811.pdf](市场策略/2026-10-06-BofA Global Research-Equity Strategy - China In 24 hours China 4Q26 outlook fr...-124756811.pdf)
 
 ## 希音
