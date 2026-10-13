@@ -229,6 +229,7 @@
 - [2026-08-31-300124.SZ-Deutsche Bank-Inovance 2Q26 aided by strong Automation; 2H26 profits shou...-124127406.pdf](汇川技术/2026-08-31-300124.SZ-Deutsche Bank-Inovance 2Q26 aided by strong Automation; 2H26 profits shou...-124127406.pdf)
 - [2026-08-31-300124.SZ-JPMorgan-Shenzhen Inovance Technology Co. Ltd - A Guidance maintained...-124118960.pdf](汇川技术/2026-08-31-300124.SZ-JPMorgan-Shenzhen Inovance Technology Co. Ltd - A Guidance maintained...-124118960.pdf)
 - [2026-08-31-300124.SZ-Macquarie Research-FA strong, NEV weak-124115387.pdf](汇川技术/2026-08-31-300124.SZ-Macquarie Research-FA strong, NEV weak-124115387.pdf)
+- [2026-09-22-300124.SZ-JPMorgan-Shenzhen Inovance Technology Co. Ltd - A Moving to Neutral ...-124504721.pdf](汇川技术/2026-09-22-300124.SZ-JPMorgan-Shenzhen Inovance Technology Co. Ltd - A Moving to Neutral ...-124504721.pdf)
 - [20260429-华泰证券-汇川技术-300124-新兴业务有望构筑新增长极.pdf](汇川技术/20260429-华泰证券-汇川技术-300124-新兴业务有望构筑新增长极.pdf)
 
 ## 江波龙
