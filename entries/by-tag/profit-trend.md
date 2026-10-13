@@ -56,6 +56,11 @@
 - [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article
 - [毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持](entries/毛戈平JPM-增长可见性高-管理层承诺不减持.md) — Analysis
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
+- [汇川技术二季度通用自动化强劲，美银上调盈利但下调目标价](entries/汇川技术-美银-二季度通用自动化增长与估值下调-20260831.md) — Analysis
+- [汇川技术维持全年指引，摩根大通押注自动化支撑下半年修复](entries/汇川技术-摩根大通-全年指引与下半年修复预期-20260831.md) — Analysis
+- [汇川技术自动化强新能源弱，麦格理提示现金流和原文口径分歧](entries/汇川技术-麦格理-自动化强新能源弱与现金流分歧-20260831.md) — Analysis
+- [汇川技术自动化清理积压订单，德银预计下半年利润修复](entries/汇川技术-德银-自动化清理积压与新能源亏损-20260901.md) — Analysis
+- [汇川技术被摩根大通降至中性，盈利交付与订单透明度成为再评级门槛](entries/汇川技术-摩根大通-降至中性与交付披露风险-20260922.md) — Analysis
 - [法巴福耀二季报：销量与汇兑压低盈利预测，经营韧性支撑双市场评级](entries/fuyao-bnp-2q26-resilience-20260820.md) — Article
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
 - [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
@@ -90,5 +95,6 @@
 - [腾讯控股2Q26前瞻：AI加大投入拖累短期利润率，核心业务韧性良好（野村 7/13）](entries/tencent-2q26-nomura-preview.md) — Analysis
 - [腾讯控股JPM 1Q26：转向更积极，双P&L披露化解AI稀释担忧](entries/腾讯控股JPM-1Q26-转向更积极-双P-L披露化解AI稀释担忧.md) — Analysis
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — Analysis
+- [蓝思科技调研显示折叠屏单价与机器人扩张机会，德银对工控含义中性](entries/蓝思科技-德银-调研折叠屏机器人与服务器扩张-20260922.md) — Analysis
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — Analysis
 - [野村世界先进涨价强化二〇二七年盈利](entries/野村世界先进涨价强化二〇二七年盈利.md) — Analysis

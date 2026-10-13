@@ -12,3 +12,5 @@
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — Analysis
 - [拼多多：电商监管再起与业务稳健发展周期(Deutsche Bank/华泰证券)](entries/PDD-Ecommerce-Regulation-Huatai-DB-202603-04.md) — Synthesis
 - [汇川技术综合投行分析：自动化订单强劲但NEV拖累1Q26](entries/汇川技术多投行综合分析.md) — Analysis
+- [汇川技术自动化清理积压订单，德银预计下半年利润修复](entries/汇川技术-德银-自动化清理积压与新能源亏损-20260901.md) — Analysis
+- [蓝思科技调研显示折叠屏单价与机器人扩张机会，德银对工控含义中性](entries/蓝思科技-德银-调研折叠屏机器人与服务器扩张-20260922.md) — Analysis
