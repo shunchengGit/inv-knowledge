@@ -331,6 +331,9 @@
 - [2026-04-23-INTC.OQ-UBS Equities-Intel Corp. _Server Tailwinds and Continued Improvement in M...-121610959.pdf](英特尔/2026-04-23-INTC.OQ-UBS Equities-Intel Corp. _Server Tailwinds and Continued Improvement in M...-121610959.pdf)
 - [20260425-华泰证券-英特尔-INTC.US-重新定价英特尔的AI系统级价值.pdf](英特尔/20260425-华泰证券-英特尔-INTC.US-重新定价英特尔的AI系统级价值.pdf)
 
+## 蓝思科技
+- [2026-09-22-1590.TW-Deutsche Bank-APAC Industrials Lens Technology (not covered) site visit t...-124501376.pdf](蓝思科技/2026-09-22-1590.TW-Deutsche Bank-APAC Industrials Lens Technology (not covered) site visit t...-124501376.pdf)
+
 ## 行业研究-AI
 - [2026-05-10-Jefferies-AI Series #41 New Developments of DeepSeek Post V4-121942676.pdf](行业研究-AI/2026-05-10-Jefferies-AI Series #41 New Developments of DeepSeek Post V4-121942676.pdf)
 - [2026-05-22-JPMorgan-China Artificial Intelligence China AI Application Tour Take...-122171752.pdf](行业研究-AI/2026-05-22-JPMorgan-China Artificial Intelligence China AI Application Tour Take...-122171752.pdf)
