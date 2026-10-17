@@ -125,6 +125,7 @@
 - [2026-10-05-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. TSMC-Musk customer ...-124725352.pdf](台积电/2026-10-05-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. TSMC-Musk customer ...-124725352.pdf)
 - [2026-10-05-2330.TW-JPMorgan-TSMC Potential collaboration with Tesla for US fab – JPM tho...-124734988.pdf](台积电/2026-10-05-2330.TW-JPMorgan-TSMC Potential collaboration with Tesla for US fab – JPM tho...-124734988.pdf)
 - [2026-10-08-2330.TW-JPMorgan-TSMC 3Q sales exceed high end of guidance; GM to stay in mid...-124801615.pdf](台积电/2026-10-08-2330.TW-JPMorgan-TSMC 3Q sales exceed high end of guidance; GM to stay in mid...-124801615.pdf)
+- [2026-10-08-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _Q2 NT$ s...-124791033.pdf](台积电/2026-10-08-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _Q2 NT$ s...-124791033.pdf)
 - [tsmc-2026-q2-earnings-release.pdf](台积电/tsmc-2026-q2-earnings-release.pdf)
 - [tsmc-2026-q2-official-6k.pdf](台积电/tsmc-2026-q2-official-6k.pdf)
 - [tsmc-2026-q2-presentation.pdf](台积电/tsmc-2026-q2-presentation.pdf)
