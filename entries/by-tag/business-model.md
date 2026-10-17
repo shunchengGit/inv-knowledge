@@ -4,5 +4,7 @@
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — Analysis
 - [宁波银行深度：如何理解“大银行做不好，小银行做不了”的客群经营能力（中泰证券 7/25）](entries/ningbo-bank-client-strategy-zhongtai-analysis.md) — Analysis
 - [摩根士丹利人形机器人前沿：莫拉维克悖论、数据瓶颈与商业化检验](entries/ms-humanoid-horizons-moravec-paradox-2026-09.md) — Article
+- [摩根大通认为台积电与特斯拉美国厂合作可采用纯代工或控股合资](entries/tsmc-jpm-tesla-usfab-20261005.md) — Analysis
 - [申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化](entries/申万宏源腾讯深度之三-AI时代核心受益者-超级入口与生态壁垒的再进化.md) — Analysis
+- [美国银行认为台积电与马斯克客户关系稳固但技术与控制权共享概率低](entries/tsmc-bofa-musk-20261005.md) — Analysis
 - [美的集团全球化与企业业务扩张的战略目标及资本纪律](entries/midea-bofa-globalization-20260511.md) — Article

@@ -30,7 +30,9 @@
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — Analysis
 - [台积电BofA-2026年Q2业绩与供需景气度评估](entries/台积电BofA-2Q26业绩与供需景气度评估.md) — Analysis
 - [台积电JPMorgan-2026年Q2业绩与AI算力需求能见度](entries/台积电JPMorgan-2Q26业绩与AI算力需求能见度.md) — Analysis
+- [台积电JPM十月营收快评：第三季收入超预期与全年66.9%毛利率预测](entries/tsmc-jpm-sales-margin-20261008.md) — Analysis
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — Analysis
+- [台积电UBS十月快评：保留Q2标题疑点，第四季收入环增8%至10%预测](entries/tsmc-ubs-sales-fasttake-20261008.md) — Analysis
 - [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis
 - [大摩北美互联网估值周报：AI动能积聚下的估值折价，SBC现金化对EV/EBITDA真实倍数重估](entries/ms-north-america-internet-valuation-update-2026-08.md) — Analysis
@@ -50,6 +52,7 @@
 - [摩根大通中国AI基础设施生态：算力需求高增长与先进代工、HBM双重瓶颈](entries/jpm-china-ai-infra-growth-foundry-hbm-constraints-20260902.md) — Article
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis
 - [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article
+- [摩根大通认为台积电与特斯拉美国厂合作可采用纯代工或控股合资](entries/tsmc-jpm-tesla-usfab-20261005.md) — Analysis
 - [汇丰中国互联网行业研报：宏观与税负承压下的选择性乐观](entries/china-internet-hsbc-selective-optimism-20260923.md) — Article
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [汇丰腾讯HY4预览版点评：7700亿参数升级与商业化成本检验](entries/tencent-hsbc-hy4-preview-20260831.md) — Article
@@ -71,6 +74,8 @@
 - [网易摩根士丹利：核心利润上修与风险回报重估](entries/netease-ms-风险回报更新-2026-08-21.md) — Article
 - [网易摩根大通：存量游戏稳健但股价仍待爆款催化](entries/netease-jpm-存量游戏与新品催化-2026-08-21.md) — Article
 - [网易野村：二季度营业利润强劲但投资损失拖累净利](entries/netease-nomura-利润率与税费分化-2026-08-24.md) — Article
+- [美国银行台积电三季度前瞻与盈利现金流模型核对](entries/tsmc-bofa-q326-preview-20261012.md) — Analysis
+- [美国银行认为台积电与马斯克客户关系稳固但技术与控制权共享概率低](entries/tsmc-bofa-musk-20261005.md) — Analysis
 - [美的集团下半年经营修复预期与投资收益分红的不确定性](entries/midea-bofa-h2-outlook-20260721.md) — Article
 - [美银中国投资罗盘四季度策略：盈利下修与信用收紧，偏好网购和非银](entries/bofa-china-investment-compass-4q26-20261005.md) — Article
 - [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
