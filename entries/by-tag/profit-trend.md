@@ -39,6 +39,7 @@
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — Analysis
 - [台积电UBS十月快评：保留Q2标题疑点，第四季收入环增8%至10%预测](entries/tsmc-ubs-sales-fasttake-20261008.md) — Analysis
 - [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
+- [大摩台积电三季度点评：需求强劲但利润率承压，下调盈利并上调资本开支](entries/tsmc-ms-q326-review-20261015.md) — Analysis
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
 - [宁波银行2026年半年报：营收利润双位数增长，中收增长54%](entries/宁波银行2026年半年报-营收利润双位数增长-中收增长54.md) — Reference

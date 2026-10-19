@@ -17,6 +17,7 @@
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — Analysis
 - [台积电UBS十月快评：保留Q2标题疑点，第四季收入环增8%至10%预测](entries/tsmc-ubs-sales-fasttake-20261008.md) — Analysis
 - [大摩SEMICON台湾纪要：AI扩产压力与ABF载板材料瓶颈](entries/ms-semicon-taiwan-takeaways-20260902.md) — Article
+- [大摩台积电三季度点评：需求强劲但利润率承压，下调盈利并上调资本开支](entries/tsmc-ms-q326-review-20261015.md) — Analysis
 - [微软4Q/FY26财报前瞻：Azure增长强劲，Capex预期上修，M365商业云加速（UBS 7/26）](entries/msft-4qfy26-azure-capex-m365-ubs-update.md) — Analysis
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [汇丰中国互联网行业研报：宏观与税负承压下的选择性乐观](entries/china-internet-hsbc-selective-optimism-20260923.md) — Article

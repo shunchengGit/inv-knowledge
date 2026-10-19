@@ -23,6 +23,7 @@
 - [台积电JPM十月营收快评：第三季收入超预期与全年66.9%毛利率预测](entries/tsmc-jpm-sales-margin-20261008.md) — Analysis
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — Analysis
 - [台积电UBS十月快评：保留Q2标题疑点，第四季收入环增8%至10%预测](entries/tsmc-ubs-sales-fasttake-20261008.md) — Analysis
+- [大摩台积电三季度点评：需求强劲但利润率承压，下调盈利并上调资本开支](entries/tsmc-ms-q326-review-20261015.md) — Analysis
 - [摩根大通认为台积电与特斯拉美国厂合作可采用纯代工或控股合资](entries/tsmc-jpm-tesla-usfab-20261005.md) — Analysis
 - [摩根大通：台积电2026年7月营收符合进度，N3需求与N2爬坡支撑三季度指引](entries/台积电2026年7月营收快评-JPMorgan-N3需求与N2爬坡.md) — Analysis
 - [瑞银：台积电2026年7月营收完成三季度预估32%，N3增长与N2加速驱动全年高增](entries/台积电2026年7月营收快评-UBS-N3增长与N2加速.md) — Analysis

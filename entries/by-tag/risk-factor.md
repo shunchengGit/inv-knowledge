@@ -12,6 +12,7 @@
 - [台积电JPM十月营收快评：第三季收入超预期与全年66.9%毛利率预测](entries/tsmc-jpm-sales-margin-20261008.md) — Analysis
 - [台积电UBS十月快评：保留Q2标题疑点，第四季收入环增8%至10%预测](entries/tsmc-ubs-sales-fasttake-20261008.md) — Analysis
 - [大摩SEMICON台湾纪要：AI扩产压力与ABF载板材料瓶颈](entries/ms-semicon-taiwan-takeaways-20260902.md) — Article
+- [大摩台积电三季度点评：需求强劲但利润率承压，下调盈利并上调资本开支](entries/tsmc-ms-q326-review-20261015.md) — Analysis
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
 - [小摩中港地产黄金周初评：二手成交增59%，政策脉冲仍待持续性验证](entries/jpm-mainland-hk-property-golden-week-20261009.md) — Article
 - [希音国际2026年港股招股书：418亿美元收入与关税压力下的全球时尚平台](entries/希音国际2026年港股招股书-全球线上时尚平台与关税压力.md) — Reference
