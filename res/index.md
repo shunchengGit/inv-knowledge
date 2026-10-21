@@ -330,6 +330,7 @@
 - [2026-09-07-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy 2Q26 NDR call key takeaways-124259745.pdf](腾讯控股/2026-09-07-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy 2Q26 NDR call key takeaways-124259745.pdf)
 - [2026-09-14-0700.HK-HSBC Global Investme-Equity Snap Tencent Holdings (700 HK) Successful launch of ...-124373257.pdf](腾讯控股/2026-09-14-0700.HK-HSBC Global Investme-Equity Snap Tencent Holdings (700 HK) Successful launch of ...-124373257.pdf)
 - [2026-09-16-Morgan Stanley-China Internet AI Advertising From Attention to Outcomes-124425698.pdf](腾讯控股/2026-09-16-Morgan Stanley-China Internet AI Advertising From Attention to Outcomes-124425698.pdf)
+- [2026-10-14-0700.HK-UBS Equities-First Read Tencent Holdings _3Q26 preview; AI investment li...-124940746.pdf](腾讯控股/2026-10-14-0700.HK-UBS Equities-First Read Tencent Holdings _3Q26 preview; AI investment li...-124940746.pdf)
 - [20260313-申万宏源-腾讯控股-0700.HK-AI时代核心受益者，超级入口与生态壁垒的再进化（腾讯控股深度之三）.pdf](腾讯控股/20260313-申万宏源-腾讯控股-0700.HK-AI时代核心受益者，超级入口与生态壁垒的再进化（腾讯控股深度之三）.pdf)
 - [20260410-华泰证券-腾讯控股-0700.HK-AI布局和云业务迎来拐点.pdf](腾讯控股/20260410-华泰证券-腾讯控股-0700.HK-AI布局和云业务迎来拐点.pdf)
 - [tencent-2026-q2-h1-results.pdf](腾讯控股/tencent-2026-q2-h1-results.pdf)
