@@ -131,6 +131,7 @@
 - [2026-10-15-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. 3Q26 earnings take ...-124966292.pdf](台积电/2026-10-15-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. 3Q26 earnings take ...-124966292.pdf)
 - [2026-10-15-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Conviction grows as ...-124974549.pdf](台积电/2026-10-15-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Conviction grows as ...-124974549.pdf)
 - [2026-10-15-2330.TW-Morgan Stanley-TSMC No slowdown of AI semi demand; reiterate OW-124970495.pdf](台积电/2026-10-15-2330.TW-Morgan Stanley-TSMC No slowdown of AI semi demand; reiterate OW-124970495.pdf)
+- [2026-10-15-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _Full speed on capacity e...-124969594.pdf](台积电/2026-10-15-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _Full speed on capacity e...-124969594.pdf)
 - [tsmc-2026-q2-earnings-release.pdf](台积电/tsmc-2026-q2-earnings-release.pdf)
 - [tsmc-2026-q2-official-6k.pdf](台积电/tsmc-2026-q2-official-6k.pdf)
 - [tsmc-2026-q2-presentation.pdf](台积电/tsmc-2026-q2-presentation.pdf)
