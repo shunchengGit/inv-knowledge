@@ -22,8 +22,12 @@
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [汇丰中国互联网行业研报：宏观与税负承压下的选择性乐观](entries/china-internet-hsbc-selective-optimism-20260923.md) — Article
 - [汇丰腾讯AI投入前瞻：2027年盈利与自由现金流承压，目标价降至600港元](entries/tencent-hsbc-ai-commitment-20261016.md) — Article
+- [法巴台积电三季度点评：营收支撑扩产，资本开支指引仍为600亿至640亿美元](entries/tsmc-bnp-q326-capex-review-20261015.md) — Analysis
+- [瑞银台积电三季度点评：扩产提速，2027年资本开支预测900亿美元](entries/tsmc-ubs-q326-capacity-expansion-20261015.md) — Analysis
 - [瑞银腾讯三季度前瞻：AI投入压低利润，盈利下修或延续至2027年](entries/tencent-ubs-q326-preview-20261014.md) — Article
 - [美国银行台积电三季度前瞻与盈利现金流模型核对](entries/tsmc-bofa-q326-preview-20261012.md) — Analysis
 - [美国银行台积电资本拨款加速与美国厂盈利改善](entries/美国银行台积电资本拨款加速与美国厂盈利改善.md) — Analysis
+- [美银台积电三季度快评：毛利率66.4%，扩产支持人工智能需求但指引低于原模型](entries/tsmc-bofa-q326-earnings-take-20261015.md) — Analysis
+- [美银台积电需求与产能长篇：资本开支830亿及900亿美元，盈利下修而先进制程扩张](entries/tsmc-bofa-ai-capacity-outlook-20261015.md) — Analysis
 - [腾讯控股2Q26 NDR call关键要点：AI战略、资本开支与变现路径](entries/tencent-hsbc-2q26-ndr-call-key-takeaways.md) — Analysis
 - [腾讯控股AI资本开支拐点已现：2027年FCF转正路径明确](entries/tencent-morningstar-ai-cash-drain-end-date-20260902.md) — Analysis

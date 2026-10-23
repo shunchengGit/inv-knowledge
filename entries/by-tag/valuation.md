@@ -58,8 +58,10 @@
 - [汇丰中国互联网行业研报：宏观与税负承压下的选择性乐观](entries/china-internet-hsbc-selective-optimism-20260923.md) — Article
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [汇丰腾讯HY4预览版点评：7700亿参数升级与商业化成本检验](entries/tencent-hsbc-hy4-preview-20260831.md) — Article
+- [法巴台积电三季度点评：营收支撑扩产，资本开支指引仍为600亿至640亿美元](entries/tsmc-bnp-q326-capex-review-20261015.md) — Analysis
 - [法巴福耀二季报：销量与汇兑压低盈利预测，经营韧性支撑双市场评级](entries/fuyao-bnp-2q26-resilience-20260820.md) — Article
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
+- [瑞银台积电三季度点评：扩产提速，2027年资本开支预测900亿美元](entries/tsmc-ubs-q326-capacity-expansion-20261015.md) — Analysis
 - [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
 - [瑞银：台积电2026年7月营收完成三季度预估32%，N3增长与N2加速驱动全年高增](entries/台积电2026年7月营收快评-UBS-N3增长与N2加速.md) — Analysis
 - [福耀玻璃2026H1深度复盘：经营小幅超预期，汇兑与H2增速要求构成约束](entries/fuyao-glass-2026-h1-results-expectation-valuation-analysis.md) — Synthesis
@@ -80,6 +82,8 @@
 - [美国银行认为台积电与马斯克客户关系稳固但技术与控制权共享概率低](entries/tsmc-bofa-musk-20261005.md) — Analysis
 - [美的集团下半年经营修复预期与投资收益分红的不确定性](entries/midea-bofa-h2-outlook-20260721.md) — Article
 - [美银中国投资罗盘四季度策略：盈利下修与信用收紧，偏好网购和非银](entries/bofa-china-investment-compass-4q26-20261005.md) — Article
+- [美银台积电三季度快评：毛利率66.4%，扩产支持人工智能需求但指引低于原模型](entries/tsmc-bofa-q326-earnings-take-20261015.md) — Analysis
+- [美银台积电需求与产能长篇：资本开支830亿及900亿美元，盈利下修而先进制程扩张](entries/tsmc-bofa-ai-capacity-outlook-20261015.md) — Analysis
 - [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis

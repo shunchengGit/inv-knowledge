@@ -40,4 +40,5 @@
 - [福耀玻璃UBS 1Q26快评：毛利率超预期，剔除汇兑利润+10% YoY](entries/福耀玻璃UBS-1Q26快评-毛利率超预期-剔除汇兑利润-10-YoY.md) — Analysis
 - [福耀玻璃：汽车大盘弱势充分计价，下半年基本面将底部修复（HSBC 7/22）](entries/fuyao-glass-2q26-hsbc-analysis.md) — Analysis
 - [美的集团全球化与企业业务扩张的战略目标及资本纪律](entries/midea-bofa-globalization-20260511.md) — Article
+- [美银台积电需求与产能长篇：资本开支830亿及900亿美元，盈利下修而先进制程扩张](entries/tsmc-bofa-ai-capacity-outlook-20261015.md) — Analysis
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
