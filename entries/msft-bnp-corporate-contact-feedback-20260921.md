@@ -26,10 +26,8 @@ BNP Paribas Stefan Slowinski 在微软 FQ1'27 静默期前与 Investor Relations
 
 ## 关联
 
-- [[msft-bnp-chinese-llm-read-through-20260904]] — 中国LLM对微软/Azure的映射影响
-- [[msft-bnp-openai-anthropic-effect-20260602]] — OpenAI/Anthropic 基础设施效应分析
-- [[微软FQ4-26财报后分析-Azure超预期与资本开支上限-BNP-Paribas]] — FQ4'26 财报后分析
-- [[微软FQ4-26财报后分析-Azure上修与利润率韧性-UBS]] — UBS FQ4'26 分析
+- [中国开源模型对Azure的映射](msft-bnp-chinese-llm-read-through-20260904.md) — 连接模型多元化与平台变现逻辑，不将平台机会当已实现收入。
+- [法巴微软FQ4财报后分析](微软FQ4-26财报后分析-Azure超预期与资本开支上限-BNP-Paribas.md) — 同机构此前的Azure增长与资本开支基础，用于追踪预测变化。
 
 ## 数据验证
 

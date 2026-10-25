@@ -1,6 +1,6 @@
 ---
 type: Analysis
-title: 台积电8月营收514.8亿新台币，3Q26有望达指引中上限
+title: 台积电8月营收约5148亿新台币，3Q26有望达指引中上限
 description: JPMorgan 9月10日快评：TSMC 8月营收NT$514.8bn同比+53%环比+10%，达3Q26指引的67%；N3供需缺口2027年将恶化至60万片，NVIDIA Rubin/Vera将占2027年N3产能55-60%；预计2027/28年capex US$81bn/90bn，CoWoS产能2027年底达200K wfpm。
 timestamp: 2026-09-10T00:00:00+08:00
 resource: res/台积电/2026-09-10-2330.TW-JPMorgan-TSMC August sales on track; 3Q likely to reach mid-high end ...-124315727.pdf
@@ -10,7 +10,7 @@ tags: [tsmc, monthly-revenue, n3, cowos, nvidia, ai-demand, jpmorgan, 2026-09]
 
 ## 摘要
 
-JPMorgan Gokul Hariharan 发布 TSMC 8 月营收快评。8 月营收 NT$514.8bn（同比 +53%，环比 +10%），占 JPM/共识 3Q26 营收预期的 67%。预计 3Q26 营收达指引中上限（US$44.6-45.8bn，JPM 预期 US$45.5bn），毛利率维持 66.5% 左右。核心判断：AI 加速器需求强劲，N3 供需失衡 2027 年将进一步恶化，NVIDIA Rubin/Vera 放量是主要驱动力。
+JPMorgan Gokul Hariharan 发布 TSMC 8 月营收快评。8 月营收 NT$514.8bn（约5148亿元新台币；同比 +53%，环比 +10%），占 JPM/共识 3Q26 营收预期的 67%。预计 3Q26 营收达指引中上限（US$44.6-45.8bn，JPM 预期 US$45.5bn），毛利率维持 66.5% 左右。核心判断：AI 加速器需求强劲，N3 供需失衡 2027 年将进一步恶化，NVIDIA Rubin/Vera 放量是主要驱动力。
 
 ## 关键要点
 
@@ -26,9 +26,8 @@ JPMorgan Gokul Hariharan 发布 TSMC 8 月营收快评。8 月营收 NT$514.8bn�
 
 ## 关联
 
-- [[tsmc-jpmorgan-cowos-advanced-packaging-20260917]] — CoWoS/SoIC 产能细节
-- [[tsmc-bofa-semicon-taiwan-20260831]] — SEMICON Taiwan AI 趋势
-- [[tsmc-jpmorgan-july-sales-20260810]] — 7月营收数据（此前月份）
+- [摩根大通先进封装更新](tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — 跟踪同机构后一周CoWoS与SoIC模型变化，不混用两个日期的预测。
+- [台积电九月官方月报](tsmc-2026-september-official-revenue-20261008.md) — 后续官方收入与季度加总，用于验证收入端，不验证利润率或未来产能。
 
 ## 数据验证
 

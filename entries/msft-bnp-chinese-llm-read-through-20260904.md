@@ -26,9 +26,8 @@ BNP Paribas Stefan Slowinski 就 APAC 团队对中国 LLM 生态系统的首次�
 
 ## 关联
 
-- [[msft-bnp-openai-anthropic-effect-20260602]] — 此前对 OpenAI/Anthropic 基础设施效应的分析
-- [[msft-bnp-corporate-contact-feedback-20260921]] — 9月21日管理层 contact feedback（定价与产能）
-- [[microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback]] — FQ4'26 预览与 Copilot NDR 反馈
+- [微软9月21日管理层沟通](msft-bnp-corporate-contact-feedback-20260921.md) — 后续追踪Azure定价、容量和OpenAI收入分成；不等于中国模型已贡献可量化收入。
+- [微软FQ4前瞻与Copilot反馈](microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — 对照企业软件变现与云平台附加服务逻辑，保留不同报告期间。
 
 ## 数据验证
 

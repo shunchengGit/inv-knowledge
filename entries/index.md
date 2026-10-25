@@ -55,8 +55,6 @@
 - [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — JPM 6/23分析：中国地产股4个交易日跑输恒指9%，CRL/COLI单周跌11%；一线城市房价连续4个月环比正增长（NBS二手+0.3%/中原+0.3% MoM），9城冰山指数二手成交+15% YoY；维持SOE开发商择低买入建议
 - [JPM亚洲电力设备：全球二季度订单验证长周期景气](entries/JPM亚洲电力设备-全球二季度订单验证长周期景气.md) — 全球主要电气设备企业超过75%上调收入或利润指引，订单与积压普遍向好；JPM预计美国输配电投资本十年维持双位数增长，2030年后全球燃机供给约95GW仍低于110-120GW年需求。
 - [Macquarie: SK Hynix — Giddy profit growth at a low PE multiple, raise TP to KRW 2.9M](entries/Macquarie-SK-Hynix-Giddy-profit-growth-at-a-low-PE-multiple.md) — Macquarie维持Outperform，TP上调61%至KRW 2,900,000（6x 2027E PE）。存储器短缺将持续恶化，HBM 2027年价格有望大涨>50%。Hynix对LTA拥有选择权可精选有利条款。ADR发行+回购将收缩流通股并引入外资。
-- [Meta/Google反垄断诉讼专家电话会邀请：非会后观点（Jefferies）](entries/Meta-Google-Antitrust-Lawsuit-Jefferies-20260416.md) — Jefferies本文件是Meta/Google反垄断专家电话会邀请而非会后结论；首页列Meta Buy、目标价1,000美元，对应前收662.49美元的研报所列上行空间51%。
-- [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — JPMorgan详细分析Meta Superintelligence Labs(MSL)首款模型Muse Spark，认为其标志Meta在AI前沿领域的突破。Muse Spark为原生多模态推理模型，支持工具调用、视觉思维链与多智能体编排。Meta规划可预测的扩展路径，更大更强的模型在开发中。维持Overweight评级，目标价$825 (Dec-26)
 - [Meta裁员10%与Neocloud选择权(Morgan Stanley)](entries/Meta-Headcount-MS-20260517.md) — Morgan Stanley分析Meta计划裁员10%(约8,000人)，关闭6,000个职位空缺，同时大幅提高capex。MS估算裁员可带来~$2bn/2H26和~$3.5bn/FY27的运营费用节省。维持Overweight评级，目标价$775。同时提出"Neocloud备份选择权"概念——若Meta向第三方出租过剩GPU容量，有望带来8%+的FY28 EPS上行空间。
 - [Morgan Stanley WAIC 2026 洞察：具身智能与工业 AI 变革，探索具身与数据瓶颈](entries/Morgan-Stanley-WAIC-2026-洞察-具身智能与工业-AI-变革.md) — 2026年世界人工智能大会（WAIC）显示，中国具身智能与工业AI应用加速步入部署期，AI Agent赋能工业设备升级与数据基础设施建设成为核心逻辑。
 - [Morgan Stanley中国人形机器人演示：2050年10亿台保有量与7.5万亿美元市场预测](entries/Morgan-Stanley中国人形机器人Investor-Presentation-2050年保有量10亿台-市场7-5万亿美元.md) — MS预测2050年全球人形机器人保有量10亿台、市场7.5万亿美元；2026年被判断为小规模商业化拐点，工业7×24小时替代2–3班人力是潜力而非已验证回报。
@@ -122,7 +120,7 @@
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — 华泰证券预计腾讯1Q26营收+11%/经调整净利+10%，AI Agent赛道迎拐点(龙虾产品矩阵升级/云提价/混元3.0发布)，SOTP目标价716港元，预计26年营收8410亿
 - [华泰证券资产配置月报：AI链行情进入新阶段](entries/华泰证券资产配置月报-AI链行情进入新阶段.md) — 华泰证券4月资产配置报告认为AI链行情正从第一阶段（算力硬件）向第二阶段（应用与生态）切换
 - [双环传动002472.SZ价值成长QARP深度分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — 双环传动是新能源齿轮与机器人RV减速器龙头，2026Q1受车企价格战降速明显（扣非-4.04%），动态PEG达1.76偏高。
-- [台积电8月营收514.8亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — JPMorgan 9月10日快评：TSMC 8月营收NT$514.8bn同比+53%环比+10%，达3Q26指引的67%；N3供需缺口2027年将恶化至60万片，NVIDIA Rubin/Vera将占2027年N3产能55-60%；预计2027/28年capex US$81bn/90bn，CoWoS产能2027年底达200K wfpm。
+- [台积电8月营收约5148亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — JPMorgan 9月10日快评：TSMC 8月营收NT$514.8bn同比+53%环比+10%，达3Q26指引的67%；N3供需缺口2027年将恶化至60万片，NVIDIA Rubin/Vera将占2027年N3产能55-60%；预计2027/28年capex US$81bn/90bn，CoWoS产能2027年底达200K wfpm。
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — 法巴评台积电2026年Q2业绩超预期，上调2026-28E累计资本支出至2400亿美元以应对AI强劲需求，提示ASML光刻机提价和高内存价格的潜在负面影响。
 - [台积电BofA-2026年Q2业绩与供需景气度评估](entries/台积电BofA-2Q26业绩与供需景气度评估.md) — 美银美林评台积电2026年Q2业绩及后市展望，强调良性竞争格局与行业供不应求将支撑台积电维持强势地位，2026年资本支出上调至600亿-640亿美元。
 - [台积电CoWoS与先进封装更新：2027-28年产能上修，SoIC 2028年接棒](entries/tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — JPMorgan 9月17日深度：上调2027/28年CoWoS行业产能预期4%/6%，TSMC CoWoS 2027/28年底达200K/225K wfpm；SoIC 2028年成为焦点，NVIDIA Feynman预计采用A16-on-A16 3D SoIC；CoWoS供需缺口收窄至10%，领先制程晶圆和基板成为更大瓶颈。
@@ -130,7 +128,6 @@
 - [台积电JPM十月营收快评：第三季收入超预期与全年66.9%毛利率预测](entries/tsmc-jpm-sales-margin-20261008.md) — JPM于2026年10月8日估计第三季营收新台币14940亿元、环增18%，预测第三季毛利率66.8%、全年66.9%，2026—2028年资本支出640亿、860亿、1000亿美元；维持台股目标价3300元。
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — 瑞银评台积电2026年Q2业绩及先进制程定价趋势，重申Buy评级并上调目标价至NT$3,650。瑞银指出2026年资本支出指引上调至600亿-640亿美元对确保全球供给份额至关重要。
 - [台积电UBS十月快评：保留Q2标题疑点，第四季收入环增8%至10%预测](entries/tsmc-ubs-sales-fasttake-20261008.md) — UBS于2026年10月8日快评标题写Q2新台币收入环增17.6%，正文语境指向第三季；预测第四季收入环增8%—10%、毛利率67.0%，2026/27年稀释EPS为109.06/148.98新台币，台股目标价3650元。
-- [国信证券传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会](entries/国信证券-传媒行业4月投资策略-20260417.md) — 国信证券发布传媒行业4月投资策略，建议超配游戏和IP潮玩板块，认为AI应用经过调整后具备底部布局价值
 - [地平线机器人发布Starry舱驾融合芯片，3Q26 SOP](entries/地平线机器人舱驾融合分析.md) — 地平线机器人发布5nm Starry 6P(650 TOPS)舱驾融合SoC，3Q26 SOP首发奇瑞iCar，成本较传统方案省5000元/车，MS维持OW/TP 10港元，UBS维持买入/TP 13.2港元
 - [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — 大摩将TPU一方销售单GW收入由200亿美元上调至270亿美元、毛利率由20%上调至30%，预计2027和2028年收入达843亿和1083亿美元，维持Overweight及400美元目标价。
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — 大摩测算在开源模型带动Token价格降至$1.75/M背景下，1GW GB300集群通过2000-3500 token/s吞吐量提升及核心云基础设施Attach，云厂商仍可实现23-39% ROIC，算力稀缺与低服务成本构成核心护城河。
@@ -236,10 +233,13 @@
 - [麦格理东方电气1Q26业绩快评与评级下调分析](entries/macquarie-dec-1q26-performance-downgrade.md) — 麦格理将东方电气下调至Underperform，因其1Q26扣非核心利润仅增11.5%，2025年订单覆盖率从2.19x降至1.78x，且十五五煤电定位转变削弱中线可见性。
 
 ## Article
+- [Meta/Google反垄断诉讼专家电话会邀请：非会后观点（Jefferies）](entries/Meta-Google-Antitrust-Lawsuit-Jefferies-20260416.md) — Jefferies本文件是Meta/Google反垄断专家电话会邀请而非会后结论；首页列Meta Buy、目标价1,000美元，对应前收662.49美元的研报所列上行空间51%。
+- [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — JPM于2026年4月8日评论Muse Spark，报告称股价盘中一度涨9%而非收盘涨幅；维持OW及2026年12月825美元目标，基于2027E GAAP EPS 31.50美元约26倍，并非当前评级。
 - [Morgan Stanley Asia Compass：日本投资周期与金融结构变化](entries/ms-asia-compass-cycle-shifting-20261002.md) — Morgan Stanley于2026年10月2日讨论日本企业资本开支回升、银行结构性增长与海外业务占比提高的保险业，并认为美国利率和美元走强对新兴市场构成压力。
 - [UBS中国互联网AI下游应用专家会：视频生成竞争格局与商业化进展](entries/ubs-china-internet-ai-downstream-expert-call-20260918.md) — UBS 2026-09-18专家会要点：Seedance 2.5领先视频生成（Rmb1.8/s，命中率1.5-2次 vs 同业3次），可灵专业级差异化；AI短剧/动漫已商业化，长视频2027年规模化，游戏AI处于互动影游早期；首选腾讯、快手、网易、阅文。
 - [UBS大中华银行日报：央行明确"十五五"金融改革方向，1-7月科技贷款同比+17.9%](entries/ubs-greater-china-banks-daily-pboc-15th-five-year-20260911.md) — UBS 2026-09-11大中华银行日报：央行副行长陆磊披露"十五五"金融改革方向——货币政策框架逐步淡化数量目标、强化利率传导；截至2026年6月结构性货币政策工具余额4.6万亿元。监管总局披露1-7月科技企业贷款余额26.9万亿元（+17.9% YoY），制造业贷款41.7万亿元（+9.8%），支持居民消费约1.88万亿元。
 - [东方电气G50燃机首台整机启运哈萨克斯坦——国产F级重型燃机首次整机出口](entries/dongfang-electric-g50-first-export-kazakhstan-2026-08.md) — 2026年8月28日东方电气自主F级50MW重型燃机（G50）从四川德阳启运哈萨克斯坦江布尔州联合循环发电项目，为国产高端重型燃机首次整机出口海外；项目共3台套成套设备并配套全生命周期运维，标志燃机出海从签约阶段进入交付兑现阶段。
+- [国信证券传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会](entries/国信证券-传媒行业4月投资策略-20260417.md) — 国信4月策略列申万传媒TTM PE 40.1倍、五年70.6%分位，并非整体历史低估；4月明确组合为巨人网络、泡泡玛特、昆仑万维、汇量科技、顺网科技，维持行业优于大市。
 - [大摩SEMICON台湾纪要：AI扩产压力与ABF载板材料瓶颈](entries/ms-semicon-taiwan-takeaways-20260902.md) — 大摩2026年9月2日SEMICON纪要转述欣兴过去18个月与供应商及客户开会超过10次协调产能，指出AI推高ABF载板尺寸和层数、ABR与T-glass供给仍紧；行业观点维持In-Line。
 - [大摩工博会调研：潍柴与杰瑞维持人工智能供电增长预期，订单仍有兑现差异](entries/ms-ciif-ai-demand-intact-20261019.md) — 大摩转述潍柴2027年人工智能数据中心燃气机组2000台及柴油机6000台出货指引，杰瑞预计交付24亿至25亿美元设备；燃气订单尚未全部锁定，不能视为已实现收入。
 - [大摩福耀2026年三季度前瞻：量弱价升延续，汇兑收窄或推动盈利转正](entries/fuyao-ms-q326-preview-20261012.md) — 大摩预计福耀3Q26收入同比及环比均个位数增长、汇兑亏损收窄使盈利同比转正；38%为管理层下半年毛利率目标，H股等权及目标价53.50港元，2026—2028年EPS预测3.51/4.43/5.17元人民币。
@@ -313,10 +313,10 @@
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — 微软FQ3'26（截至2026年3月，4月披露）财报综合速览：营收828.86亿美元(+18.3%)，非GAAP EPS 4.27美元(+19.9%，HSBC口径)，Azure固定汇率增长39%高于指引但符合买方预期，CY26 Capex指引1900亿美元，Copilot席位达2000万
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — 台积电上调2026年资本支出指引至600亿-640亿美元，并上调全年美元营收增速指引至40%以上，Datacenter AI需求可见度延伸至2029-2030年。
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — 微软4QFY26总营收预期增长16.8%，Azure维持39.6%的强劲增长；由于GPU供应偏紧及AI算力需求持续旺盛，Q4单季Capex飙升至410亿美元。Copilot已超越Azure成为NDR会期投资人核心议题，FQ4付费席位有望突破2500万，且定价策略加速向“席位+消费”混合模式转型。HSBC维持买入评级，将目标价由571美元微调至567美元。
-- [拼多多：电商监管再起与业务稳健发展周期(Deutsche Bank/华泰证券)](entries/PDD-Ecommerce-Regulation-Huatai-DB-202603-04.md) — 两份报告从不同角度分析拼多多。DB(2026-04-23)聚焦SAMR对主要电商平台罚款RMB36亿，标志从价格战转向"合规战"，有利于头部平台。华泰证券(2026-03-26)上调评级至买入(目标价$133)，认为拼多多电商业务有望进入稳健发展周期——平台模式较少受国补基数影响、竞争边际缓和、"新拼姆"自营模式提升海外确定性。
+- [拼多多：电商监管再起与业务稳健发展周期(Deutsche Bank/华泰证券)](entries/PDD-Ecommerce-Regulation-Huatai-DB-202603-04.md) — 华泰3月26日上调PDD至买入、目标122.9升至133美元；德银4月23日认为合规监管对PDD有实质负面影响，维持Hold、目标115降至110美元；两份不同日期观点不构成共同看多。
 - [摩根士丹利中国互联网与AI大模型催化剂前瞻：微信AI落地与Qwen/混元模型迭代](entries/ms-china-internet-ai-foundation-models-catalysts-preview-202609.md) — 摩根士丹利梳理中国核心互联网平台（BATM）及独立模型厂商（MiniMax、智谱）近中期催化剂：腾讯（0700.HK）聚焦3Q26微信AI Agent推出与4Q26混元4.0发布；阿里（BABA）聚焦9月Qwen4.0及云栖大会；百度纳入港股通。
 - [福耀玻璃2026H1深度复盘：经营小幅超预期，汇兑与H2增速要求构成约束](entries/fuyao-glass-2026-h1-results-expectation-valuation-analysis.md) — 对比UBS、HSBC、Morgan Stanley三家前瞻，福耀2026Q2收入115.58亿元基本符合“持平”判断，毛利率40.17%验证韧性并略强于担忧；H1归母39.70亿元受8.03亿元汇兑损失压制，当前56.16元对应2026E PE约14.1-15.3倍。
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — 福耀玻璃2Q26产能利用率环比+3-4%，ASP在去年高基数上同环比均有提升，毛利率由于高附加值产品占比增加而表现稳健；人民币升值带来的汇兑压力依然延续。UBS下调目标价至85.00元以反映乘用车销量弱于预期，MS维持目标价53.50港元。
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — 腾讯2Q26预期营收增速+9%，Non-IFRS净利润+4%至660亿元。核心看点为Weixin AI Agent在6月开启Beta测试，有望开辟微信端领跑、半商城以及顶层流量分发的三层AI电商变现空间（2030年增量收入空间达690亿至4260亿元）。因AI资本支出大幅提升（预测2026年Capex升至1700亿元），多投行下调盈利预测，HSBC将目标价从720港元降至655港元。
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — 谷歌2Q26营收1200亿美元，Google Cloud暴增82%至248亿且OPM达35.6%，Backlog飙升至5140亿美元；德银、美银、大摩、汇丰力挺多引擎变现与高ROIC并予买入评级（目标价$400-$430），瑞银因Capex指引上调至2050亿与FCF承压维持中性（目标价$379）。
-- [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — JPMorgan与UBS同步发布阿里4QFY26(对应CY1Q26)业绩预览。核心分歧：JPMorgan认为市场预期过高，CMR增长仅约1%(普遍预期中高单)，"All Others"亏损将达RMB200亿；UBS持类似观点但指出CMR受商家补贴影响(若剔除补贴影响则为6-7%)，同时快消品亏损收窄至RMB150亿。两家机构均指出阿里AI投入持续加大(Qwen模型训练、CNY营销)，Cloud收入维持+40%增长。
+- [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — 2026年4月8日前瞻：JPM与UBS均预计CMR约增1%、All Others亏损约200亿元；UBS即时零售亏损预计150亿元，非快消品，ADS目标降至170美元，JPM降至200美元。

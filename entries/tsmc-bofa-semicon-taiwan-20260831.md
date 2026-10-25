@@ -24,9 +24,8 @@ BofA Haas Liu 团队参加 SEMICON Taiwan 2026（8月31日开幕），TSMC 在 I
 
 ## 关联
 
-- [[tsmc-jpmorgan-cowos-advanced-packaging-20260917]] — CoWoS/SoIC 产能扩张细节
-- [[tsmc-jpmorgan-august-sales-20260910]] — 8月营收数据验证AI需求
-- [[tsmc-bofa-capital-appropriation-20260818]] — 此前BofA对TSMC资本开支的评估
+- [摩根大通先进封装更新](tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — 以另一机构后续CoWoS与SoIC产能模型对照技术路线；预测不是实际产能。
+- [台积电八月营收快评](tsmc-jpmorgan-august-sales-20260910.md) — 连接技术与需求叙事至当月收入，不将收入增长全部归因AI。
 
 ## 数据验证
 

@@ -26,9 +26,8 @@ JPMorgan Gokul Hariharan 发布 TSMC CoWoS 与先进封装深度更新（17 页�
 
 ## 关联
 
-- [[tsmc-jpmorgan-august-sales-20260910]] — 8月营收与N3供需
-- [[tsmc-bofa-semicon-taiwan-20260831]] — SEMICON Taiwan 硅光子/SoIC 趋势
-- [[tsmc-bofa-benign-competitive-20260716]] — 此前对竞争格局的评估
+- [摩根大通八月营收与产能预测](tsmc-jpmorgan-august-sales-20260910.md) — 同机构此前CoWoS与SoIC模型作为预测调整基准。
+- [美银SEMICON技术路线纪要](tsmc-bofa-semicon-taiwan-20260831.md) — 连接硅光子、先进封装技术与需求机制，区分行业展望与交付。
 
 ## 数据验证
 

@@ -26,10 +26,8 @@ UBS Nora Min 发布福耀玻璃 17 页深度报告，标题"被低估的全球�
 
 ## 关联
 
-- [[fuyao-ms-risk-reward-update-20260830]] — 8月底MS风险回报更新
-- [[fuyao-bnp-2q26-operational-resilience-20260820]] — BNP 2Q26 运营韧性点评
-- [[fuyao-jpm-worst-behind-catalyst-elusive-20260819]] — JPM "最坏已过，催化剂难觅"
-- [[fuyao-bofa-2q26-core-earnings-beat-20260819]] — BofA 2Q26 核心盈利超预期
+- [福耀玻璃2026年半年报](fuyao-glass-2026-h1-official-results.md) — 以官方历史实际值对照瑞银预测；剔除汇兑后的利润总额与券商盈利口径不能直接等同。
+- [福耀半年报与机构预期复盘](fuyao-glass-2026-h1-results-expectation-valuation-analysis.md) — 比较同一期经营兑现和多机构预测，区分官方数据与估值情景。
 
 ## 数据验证
 

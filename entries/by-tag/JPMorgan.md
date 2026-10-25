@@ -14,9 +14,9 @@
 - [JPMorgan全球房地产日报：纽约租金与欧美资产交易摘要](entries/JPMorgan全球房地产日报-中国地产新闻与研究摘要.md) — Analysis
 - [JPMorgan半导体行业4月WSTS数据：增长再加速，AI和存储驱动](entries/JPMorgan半导体行业4月WSTS数据-增长再加速-AI和存储驱动.md) — Analysis
 - [JPM中国地产股：近期股价下跌归因与一线城市企稳下的择机买入逻辑](entries/jpm-china-property-share-price-weakness-2026-06.md) — Analysis
-- [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — Analysis
+- [Meta发布Muse Spark AI模型，重燃AI信心(JPMorgan)](entries/Meta-Muse-Spark-AI-Model-Launch-JPM-20260408.md) — Article
 - [万国数据AI需求爆发：三年Capex 300-500亿元，订单创纪录](entries/万国数据AI驱动数据中心分析.md) — Analysis
-- [台积电8月营收514.8亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — Analysis
+- [台积电8月营收约5148亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — Analysis
 - [台积电CoWoS与先进封装更新：2027-28年产能上修，SoIC 2028年接棒](entries/tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — Analysis
 - [小摩中国房地产异动点评：无实质利好下的5%脉冲反弹，存量博弈短命反弹与国企Alpha策略](entries/jpm-china-property-curious-share-price-rally-2026-08.md) — Analysis
 - [汇川技术维持全年指引，摩根大通押注自动化支撑下半年修复](entries/汇川技术-摩根大通-全年指引与下半年修复预期-20260831.md) — Analysis

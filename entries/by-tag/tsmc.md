@@ -15,7 +15,7 @@
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — Reference
 - [台积电2026年9月官方营收：同比增长54.6%，第三季度收入略超预期](entries/tsmc-2026-september-official-revenue-20261008.md) — Reference
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — Synthesis
-- [台积电8月营收514.8亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — Analysis
+- [台积电8月营收约5148亿新台币，3Q26有望达指引中上限](entries/tsmc-jpmorgan-august-sales-20260910.md) — Analysis
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — Analysis
 - [台积电BofA-2026年Q2业绩与供需景气度评估](entries/台积电BofA-2Q26业绩与供需景气度评估.md) — Analysis
 - [台积电CoWoS与先进封装更新：2027-28年产能上修，SoIC 2028年接棒](entries/tsmc-jpmorgan-cowos-advanced-packaging-20260917.md) — Analysis
