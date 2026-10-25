@@ -423,6 +423,7 @@
 ## 行业研究-工业
 - [2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf](行业研究-工业/2026-07-31-Morgan Stanley-Asia Compass Asias Strongest Industrial Capex Cycle in 20 ...-123503999.pdf)
 - [2026-09-18-Morgan Stanley-Asia Compass China’s Industrial Reinvention-124437913.pdf](行业研究-工业/2026-09-18-Morgan Stanley-Asia Compass China’s Industrial Reinvention-124437913.pdf)
+- [2026-10-19-BofA Global Research-Greater China Industrials Sep automation industrial activi...-125025405.pdf](行业研究-工业/2026-10-19-BofA Global Research-Greater China Industrials Sep automation industrial activi...-125025405.pdf)
 - [2026-10-19-Morgan Stanley-China Industrials CIIF Trip Takeaways AI Demand Intact-125028327.pdf](行业研究-工业/2026-10-19-Morgan Stanley-China Industrials CIIF Trip Takeaways AI Demand Intact-125028327.pdf)
 
 ## 行业研究-工业自动化
