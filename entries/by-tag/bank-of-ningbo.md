@@ -8,3 +8,4 @@
 - [宁波银行深度：如何理解“大银行做不好，小银行做不了”的客群经营能力（中泰证券 7/25）](entries/ningbo-bank-client-strategy-zhongtai-analysis.md) — Analysis
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — Analysis
 - [摩根大通2Q26区域性银行复盘：核心营收韧性与资产质量分化加剧首选宁波银行](entries/jpm-china-regional-banks-2q26-bonb-top-pick.md) — Analysis
+- [摩根大通区域银行三季度前瞻：核心增长放缓与拨备分化，宁波预期领先](entries/jpm-china-regional-banks-3q26-preview-20261019.md) — Article

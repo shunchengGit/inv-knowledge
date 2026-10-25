@@ -37,6 +37,7 @@
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis
 - [大摩北美互联网估值周报：AI动能积聚下的估值折价，SBC现金化对EV/EBITDA真实倍数重估](entries/ms-north-america-internet-valuation-update-2026-08.md) — Analysis
 - [大摩台积电三季度点评：需求强劲但利润率承压，下调盈利并上调资本开支](entries/tsmc-ms-q326-review-20261015.md) — Analysis
+- [大摩工博会调研：潍柴与杰瑞维持人工智能供电增长预期，订单仍有兑现差异](entries/ms-ciif-ai-demand-intact-20261019.md) — Article
 - [大摩福耀2026年三季度前瞻：量弱价升延续，汇兑收窄或推动盈利转正](entries/fuyao-ms-q326-preview-20261012.md) — Article
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
@@ -49,11 +50,13 @@
 - [恒瑞医药JPM：与BMS达成US$152亿全球战略联盟，从授权方升级为战略共创者](entries/恒瑞医药JPM-BMS-US152亿全球战略联盟-从授权方升级为战略共创者.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [摩根士丹利人形机器人前沿：莫拉维克悖论、数据瓶颈与商业化检验](entries/ms-humanoid-horizons-moravec-paradox-2026-09.md) — Article
+- [摩根士丹利北美互联网估值跟踪：板块周跌4%，股权激励成本改变折价判断](entries/ms-us-internet-ai-revenue-funding-20261020.md) — Article
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — Analysis
 - [摩根大通2Q26区域性银行复盘：核心营收韧性与资产质量分化加剧首选宁波银行](entries/jpm-china-regional-banks-2q26-bonb-top-pick.md) — Analysis
 - [摩根大通中国AI基础设施生态：算力需求高增长与先进代工、HBM双重瓶颈](entries/jpm-china-ai-infra-growth-foundry-hbm-constraints-20260902.md) — Article
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis
 - [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article
+- [摩根大通区域银行三季度前瞻：核心增长放缓与拨备分化，宁波预期领先](entries/jpm-china-regional-banks-3q26-preview-20261019.md) — Article
 - [摩根大通认为台积电与特斯拉美国厂合作可采用纯代工或控股合资](entries/tsmc-jpm-tesla-usfab-20261005.md) — Analysis
 - [汇丰中国互联网行业研报：宏观与税负承压下的选择性乐观](entries/china-internet-hsbc-selective-optimism-20260923.md) — Article
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis

@@ -2,4 +2,6 @@
 
 - [Morgan Stanley WAIC 2026 洞察：具身智能与工业 AI 变革，探索具身与数据瓶颈](entries/Morgan-Stanley-WAIC-2026-洞察-具身智能与工业-AI-变革.md) — Analysis
 - [Morgan Stanley中国工业调研：AI设备与苹果链超预期，订单扩张并非全行业同速](entries/Morgan-Stanley中国工业调研-Capex复苏更广泛-更强劲.md) — Analysis
+- [大摩工博会调研：潍柴与杰瑞维持人工智能供电增长预期，订单仍有兑现差异](entries/ms-ciif-ai-demand-intact-20261019.md) — Article
 - [摩根士丹利中国工业中报展望：资本支出强劲与机器人商业化起航](entries/ms-china-industrials-mid-year-outlook-2026-07.md) — Reference
+- [美银九月自动化跟踪：工业活动分化，机器人产量增速放缓](entries/bofa-september-automation-divergence-20261019.md) — Article

@@ -5,4 +5,6 @@
 - [摩根士丹利Asia Compass：中国AI生态崛起与DRAM芯片竞争格局重塑](entries/ms-asia-compass-china-ai-ecosystem-cxmt.md) — Analysis
 - [摩根士丹利中国AI基础大模型路演报告：前沿模型规格对比、定价趋势与阿里全栈AI](entries/ms-investor-presentation-china-ai-path-llm-20260916.md) — Reference
 - [摩根士丹利中国AI路径：8.5万亿资本开支到3倍算力，2030年IT容量81GW](entries/ms-china-ai-path-rmb8-5tr-capex-3x-compute-20260913.md) — Analysis
+- [摩根士丹利中国人工智能路径路演：8.5万亿元投入、算力扩张与分层商业化](entries/ms-china-internet-ai-path-presentation-20261019.md) — Article
+- [摩根士丹利解读中国人工智能出口限制草案：服务与技术转移须分开判断](entries/ms-china-ai-proposed-export-restrictions-20261018.md) — Article
 - [摩根士丹利评DeepSeek V4 Flash降价：非高峰期缓存降价60%与大模型性价比竞争](entries/ms-deepseek-v4-flash-price-cut-analysis-202609.md) — Analysis

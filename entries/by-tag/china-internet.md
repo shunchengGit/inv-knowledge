@@ -6,6 +6,7 @@
 - [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — Analysis
 - [UBS中国互联网AI下游应用专家会：视频生成竞争格局与商业化进展](entries/ubs-china-internet-ai-downstream-expert-call-20260918.md) — Article
 - [抖音月时长首次超越微信，字节跳动系占据中国移动时长35%](entries/nomura-china-internet-app-tracker-july-2026.md) — Analysis
+- [摩根士丹利中国人工智能路径路演：8.5万亿元投入、算力扩张与分层商业化](entries/ms-china-internet-ai-path-presentation-20261019.md) — Article
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis
 - [汇丰中国互联网行业研报：宏观与税负承压下的选择性乐观](entries/china-internet-hsbc-selective-optimism-20260923.md) — Article
 - [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — Article

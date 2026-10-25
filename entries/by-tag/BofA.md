@@ -10,5 +10,6 @@
 - [Google AI Wars流量跟踪：Gemini与Claude高速增长，Google搜索份额稳定(BofA)](entries/Google-AI-Wars-Traffic-BofA-202605-06.md) — Analysis
 - [SEMICON Taiwan 2026：AI驱动半导体制造创新，数据中心电力需求加速](entries/tsmc-bofa-semicon-taiwan-20260831.md) — Analysis
 - [汇川技术二季度通用自动化强劲，美银上调盈利但下调目标价](entries/汇川技术-美银-二季度通用自动化增长与估值下调-20260831.md) — Analysis
+- [美银九月自动化跟踪：工业活动分化，机器人产量增速放缓](entries/bofa-september-automation-divergence-20261019.md) — Article
 - [美银美林中国AI基础设施：电力出海与大国重器期权（金盘、东方电气、应流）](entries/bofas-ai-infrastructure-china-power-AIDC-2026-06.md) — Reference
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
