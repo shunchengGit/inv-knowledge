@@ -364,6 +364,9 @@
 ## 行业研究-AI基础设施
 - [2026-09-02-JPMorgan-China AI Infra Ecosystem  Unprecedented growth; lingering co...-124188125.pdf](行业研究-AI基础设施/2026-09-02-JPMorgan-China AI Infra Ecosystem  Unprecedented growth; lingering co...-124188125.pdf)
 
+## 行业研究-AI数据中心
+- [2026-10-19-HSBC Global Investme-US Technology AI Data Center Reality Check – key takeaways f...-125027017.pdf](行业研究-AI数据中心/2026-10-19-HSBC Global Investme-US Technology AI Data Center Reality Check – key takeaways f...-125027017.pdf)
+
 ## 行业研究-互联网
 - [2026-04-20-JPMorgan-China Internet What the Market May Be Missing on SAMR’s Ghos...-121484311.pdf](行业研究-互联网/2026-04-20-JPMorgan-China Internet What the Market May Be Missing on SAMR’s Ghos...-121484311.pdf)
 - [2026-04-23-JPMorgan-China Internet Post 4Q25 Re-evaluating the Sector; Tencent ...-121601321.pdf](行业研究-互联网/2026-04-23-JPMorgan-China Internet Post 4Q25 Re-evaluating the Sector; Tencent ...-121601321.pdf)
