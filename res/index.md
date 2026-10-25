@@ -392,6 +392,9 @@
 - [doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf](行业研究-互联网/doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf)
 - [doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf](行业研究-互联网/doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf)
 
+## 行业研究-人工智能
+- [2026-10-18-Morgan Stanley-China AI Foundation Models Our Read on Proposed AI Export R...-125001477.pdf](行业研究-人工智能/2026-10-18-Morgan Stanley-China AI Foundation Models Our Read on Proposed AI Export R...-125001477.pdf)
+
 ## 行业研究-人形机器人
 - [2026-09-01-Morgan Stanley-Humanoids Humanoid Horizons Moravecs Paradox-124132563.pdf](行业研究-人形机器人/2026-09-01-Morgan Stanley-Humanoids Humanoid Horizons Moravecs Paradox-124132563.pdf)
 - [2026-09-02-Morgan Stanley-人形机器人 人形机器人前沿：莫拉维克悖论-124172490.pdf](行业研究-人形机器人/2026-09-02-Morgan Stanley-人形机器人 人形机器人前沿：莫拉维克悖论-124172490.pdf)
