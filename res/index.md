@@ -282,6 +282,7 @@
 - [2026-10-21-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 3Q26 Earnings Call Takeaways-125062149.pdf](福耀玻璃/2026-10-21-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 3Q26 Earnings Call Takeaways-125062149.pdf)
 - [Fuyao-Glass-2026-H1-summary.pdf](福耀玻璃/Fuyao-Glass-2026-H1-summary.pdf)
 - [Fuyao-Glass-2026-H1.pdf](福耀玻璃/Fuyao-Glass-2026-H1.pdf)
+- [福耀玻璃2026年第三季度报告.pdf](福耀玻璃/福耀玻璃2026年第三季度报告.pdf)
 
 ## 策略研究
 - [2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf](策略研究/2026-06-21-JPMorgan-J.P. Morgan Taiwan FTM 22 Jun 26 Greater China Data Watch; T...-122675506.pdf)
