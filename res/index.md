@@ -512,6 +512,7 @@
 - [2026-08-24-UBS Equities-Greater China Banks Daily _China to roll out additional fisc...-124014319.pdf](行业研究-银行/2026-08-24-UBS Equities-Greater China Banks Daily _China to roll out additional fisc...-124014319.pdf)
 - [2026-09-04-UBS Equities-Greater China Banks Daily _PBOC Shanghai reports issuance of...-124222075.pdf](行业研究-银行/2026-09-04-UBS Equities-Greater China Banks Daily _PBOC Shanghai reports issuance of...-124222075.pdf)
 - [2026-09-11-UBS Equities-Greater China Banks Daily _PBOC outlines the 15th five-year ...-124320804.pdf](行业研究-银行/2026-09-11-UBS Equities-Greater China Banks Daily _PBOC outlines the 15th five-year ...-124320804.pdf)
+- [2026-10-19-JPMorgan-China Regional Banks 3Q26 preview Core earnings growth to m...-125013191.pdf](行业研究-银行/2026-10-19-JPMorgan-China Regional Banks 3Q26 preview Core earnings growth to m...-125013191.pdf)
 
 ## 谷歌
 - [2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf](谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf)
