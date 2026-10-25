@@ -279,6 +279,7 @@
 - [2026-08-30-600660.SS-Morgan Stanley-Fuyao Glass Industry Group Risk Reward Update-124102621.pdf](福耀玻璃/2026-08-30-600660.SS-Morgan Stanley-Fuyao Glass Industry Group Risk Reward Update-124102621.pdf)
 - [2026-09-16-600660.SS-UBS Equities-Fuyao Glass _Undervalued global auto glass leader_ (Buy) Min-124414655.pdf](福耀玻璃/2026-09-16-600660.SS-UBS Equities-Fuyao Glass _Undervalued global auto glass leader_ (Buy) Min-124414655.pdf)
 - [2026-10-12-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 3Q26 Preview Volume Still Weak,...-124872991.pdf](福耀玻璃/2026-10-12-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 3Q26 Preview Volume Still Weak,...-124872991.pdf)
+- [2026-10-20-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 3Q26 Missed; Volume Grew but ASP...-125051746.pdf](福耀玻璃/2026-10-20-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 3Q26 Missed; Volume Grew but ASP...-125051746.pdf)
 - [2026-10-21-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 3Q26 Earnings Call Takeaways-125062149.pdf](福耀玻璃/2026-10-21-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 3Q26 Earnings Call Takeaways-125062149.pdf)
 - [Fuyao-Glass-2026-H1-summary.pdf](福耀玻璃/Fuyao-Glass-2026-H1-summary.pdf)
 - [Fuyao-Glass-2026-H1.pdf](福耀玻璃/Fuyao-Glass-2026-H1.pdf)
