@@ -8,6 +8,7 @@
 - [小摩中港地产黄金周初评：二手成交增59%，政策脉冲仍待持续性验证](entries/jpm-mainland-hk-property-golden-week-20261009.md) — Article
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
 - [江波龙港股IPO聆讯后资料集-全球第九大存储产品企业-2026年极端上行周期毛利率57.5%](entries/江波龙港股IPO-PHIP-2026-08-23.md) — Reference
+- [福耀玻璃2026年三季报：单季收入增2.5%、归母净利降9.9%，前三季度剔除汇兑利润总额增1.2%](entries/fuyao-glass-2026-q3-official-report.md) — Reference
 - [福耀玻璃2026年半年报：Q2毛利率40.17%，汇兑掩盖经营韧性](entries/fuyao-glass-2026-h1-official-results.md) — Reference
 - [美银九月自动化跟踪：工业活动分化，机器人产量增速放缓](entries/bofa-september-automation-divergence-20261019.md) — Article
 - [腾讯控股2026Q2及H1官方业绩：营收增长11%，Non-IFRS净利增长9%](entries/tencent-2026-q2-h1-official-results.md) — Reference
