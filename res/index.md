@@ -397,6 +397,9 @@
 ## 行业研究-传媒
 - [20260417-国信证券-传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会.pdf](行业研究-传媒/20260417-国信证券-传媒行业4月投资策略：持续看好游戏、IP潮玩业绩表现，关注AI应用底部机会.pdf)
 
+## 行业研究-医疗器械
+- [2026-10-19-UBS Equities-First Read China Medtech _Surprisingly favourable IVD test ...-125008770.pdf](行业研究-医疗器械/2026-10-19-UBS Equities-First Read China Medtech _Surprisingly favourable IVD test ...-125008770.pdf)
+
 ## 行业研究-半导体
 - [2026-04-07-JPMorgan-China AI Chip Fabless  Supply a short-term bottleneck, and C...-121196421.pdf](行业研究-半导体/2026-04-07-JPMorgan-China AI Chip Fabless  Supply a short-term bottleneck, and C...-121196421.pdf)
 - [2026-06-01-Morgan Stanley-Semiconductors Takeaways from our meetings in Taiwan-122325978.undefined.pdf](行业研究-半导体/2026-06-01-Morgan Stanley-Semiconductors Takeaways from our meetings in Taiwan-122325978.undefined.pdf)
