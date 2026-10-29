@@ -151,6 +151,7 @@
 - [doc_29ce6bb9986b_2026-08-19-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q226 robust revenue  NPAT beat...-123950088.pdf](宁波银行/doc_29ce6bb9986b_2026-08-19-002142.SZ-UBS Equities-First Read Bank of Ningbo _Q226 robust revenue  NPAT beat...-123950088.pdf)
 - [doc_cb7c9da0ec7d_2026-08-19-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd Revenue and profit growth further ac...-123954232.pdf](宁波银行/doc_cb7c9da0ec7d_2026-08-19-002142.SZ-Morgan Stanley-Bank of Ningbo Co. Ltd Revenue and profit growth further ac...-123954232.pdf)
 - [nbcb_2026H1.pdf](宁波银行/nbcb_2026H1.pdf)
+- [宁波银行-2026年三季度报告.pdf](宁波银行/宁波银行-2026年三季度报告.pdf)
 
 ## 安克创新
 - [2026062300038_c.pdf](安克创新/2026062300038_c.pdf)
