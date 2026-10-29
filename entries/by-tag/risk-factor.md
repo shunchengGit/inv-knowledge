@@ -19,6 +19,7 @@
 - [大摩福耀三季报电话会：维持6—7%长期ASP复合增速，高附加值占比59.95%，美国工厂三季度利润率约15%](entries/fuyao-ms-3q26-earnings-call-20261021.md) — Article
 - [大摩福耀战术观点：三季报后回调过度，预计15天内绝对上涨，但维持等权](entries/fuyao-ms-tactical-idea-20261021.md) — Article
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
+- [宁波银行2026年三季度报告：营收净利双位数增长，净息差1.71%](entries/宁波银行2026年三季度报告-营收净利双位数增长-净息差1-71.md) — Reference
 - [小摩中港地产黄金周初评：二手成交增59%，政策脉冲仍待持续性验证](entries/jpm-mainland-hk-property-golden-week-20261009.md) — Article
 - [希音国际2026年港股招股书：418亿美元收入与关税压力下的全球时尚平台](entries/希音国际2026年港股招股书-全球线上时尚平台与关税压力.md) — Reference
 - [德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — Analysis

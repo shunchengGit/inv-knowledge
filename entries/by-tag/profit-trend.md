@@ -45,6 +45,7 @@
 - [大摩福耀三季报电话会：维持6—7%长期ASP复合增速，高附加值占比59.95%，美国工厂三季度利润率约15%](entries/fuyao-ms-3q26-earnings-call-20261021.md) — Article
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
+- [宁波银行2026年三季度报告：营收净利双位数增长，净息差1.71%](entries/宁波银行2026年三季度报告-营收净利双位数增长-净息差1-71.md) — Reference
 - [宁波银行2026年半年报：营收利润双位数增长，中收增长54%](entries/宁波银行2026年半年报-营收利润双位数增长-中收增长54.md) — Reference
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis

@@ -4,6 +4,7 @@
 - [传音控股港股IPO招股章程-非洲手机之王赴港双重上市-存储周期与第二增长曲线](entries/传音控股港股IPO招股章程-2026-10-07.md) — Reference
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — Reference
 - [台积电2026年9月官方营收：同比增长54.6%，第三季度收入略超预期](entries/tsmc-2026-september-official-revenue-20261008.md) — Reference
+- [宁波银行2026年三季度报告：营收净利双位数增长，净息差1.71%](entries/宁波银行2026年三季度报告-营收净利双位数增长-净息差1-71.md) — Reference
 - [宁波银行2026年半年报：营收利润双位数增长，中收增长54%](entries/宁波银行2026年半年报-营收利润双位数增长-中收增长54.md) — Reference
 - [小摩中港地产黄金周初评：二手成交增59%，政策脉冲仍待持续性验证](entries/jpm-mainland-hk-property-golden-week-20261009.md) — Article
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
