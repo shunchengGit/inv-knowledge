@@ -40,6 +40,7 @@
 - [台积电UBS十月快评：保留Q2标题疑点，第四季收入环增8%至10%预测](entries/tsmc-ubs-sales-fasttake-20261008.md) — Analysis
 - [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
 - [大摩台积电三季度点评：需求强劲但利润率承压，下调盈利并上调资本开支](entries/tsmc-ms-q326-review-20261015.md) — Analysis
+- [大摩宁波银行三季度点评：净息差回升支撑增长，目标价50.70元](entries/ningbo-bank-ms-q326-results-20261029.md) — Analysis
 - [大摩福耀2026年三季度前瞻：量弱价升延续，汇兑收窄或推动盈利转正](entries/fuyao-ms-q326-preview-20261012.md) — Article
 - [大摩福耀三季报快评：盈利同比降10%，销量恢复但ASP增速放缓，剔汇兑经营利润三年来首降](entries/fuyao-ms-3q26-missed-asp-slowed-20261020.md) — Article
 - [大摩福耀三季报电话会：维持6—7%长期ASP复合增速，高附加值占比59.95%，美国工厂三季度利润率约15%](entries/fuyao-ms-3q26-earnings-call-20261021.md) — Article
@@ -115,3 +116,4 @@
 - [蓝思科技调研显示折叠屏单价与机器人扩张机会，德银对工控含义中性](entries/蓝思科技-德银-调研折叠屏机器人与服务器扩张-20260922.md) — Analysis
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — Analysis
 - [野村世界先进涨价强化二〇二七年盈利](entries/野村世界先进涨价强化二〇二七年盈利.md) — Analysis
+- [野村腾讯三季度前瞻：AI投入压低经营利润，目标价降至659港元](entries/tencent-nomura-q326-preview-20261018.md) — Analysis

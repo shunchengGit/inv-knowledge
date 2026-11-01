@@ -43,3 +43,5 @@
 - [美的集团全球化与企业业务扩张的战略目标及资本纪律](entries/midea-bofa-globalization-20260511.md) — Article
 - [美银台积电需求与产能长篇：资本开支830亿及900亿美元，盈利下修而先进制程扩张](entries/tsmc-bofa-ai-capacity-outlook-20261015.md) — Analysis
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
+- [野村2026年8月应用跟踪：字节时长份额扩大，流量规模与使用深度分化](entries/nomura-china-internet-app-tracker-august-2026.md) — Analysis
+- [野村AI办公智能体专家访谈：企业上下文与协同平台成为竞争焦点](entries/nomura-ai-office-agent-enterprise-context-20261001.md) — Analysis

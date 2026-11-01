@@ -8,3 +8,4 @@
 - [申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化](entries/申万宏源腾讯深度之三-AI时代核心受益者-超级入口与生态壁垒的再进化.md) — Analysis
 - [美国银行认为台积电与马斯克客户关系稳固但技术与控制权共享概率低](entries/tsmc-bofa-musk-20261005.md) — Analysis
 - [美的集团全球化与企业业务扩张的战略目标及资本纪律](entries/midea-bofa-globalization-20260511.md) — Article
+- [野村AI办公智能体专家访谈：企业上下文与协同平台成为竞争焦点](entries/nomura-ai-office-agent-enterprise-context-20261001.md) — Analysis

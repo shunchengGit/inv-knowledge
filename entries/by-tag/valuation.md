@@ -37,6 +37,7 @@
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis
 - [大摩北美互联网估值周报：AI动能积聚下的估值折价，SBC现金化对EV/EBITDA真实倍数重估](entries/ms-north-america-internet-valuation-update-2026-08.md) — Analysis
 - [大摩台积电三季度点评：需求强劲但利润率承压，下调盈利并上调资本开支](entries/tsmc-ms-q326-review-20261015.md) — Analysis
+- [大摩宁波银行三季度点评：净息差回升支撑增长，目标价50.70元](entries/ningbo-bank-ms-q326-results-20261029.md) — Analysis
 - [大摩工博会调研：潍柴与杰瑞维持人工智能供电增长预期，订单仍有兑现差异](entries/ms-ciif-ai-demand-intact-20261019.md) — Article
 - [大摩福耀2026年三季度前瞻：量弱价升延续，汇兑收窄或推动盈利转正](entries/fuyao-ms-q326-preview-20261012.md) — Article
 - [大摩福耀战术观点：三季报后回调过度，预计15天内绝对上涨，但维持等权](entries/fuyao-ms-tactical-idea-20261021.md) — Article
@@ -101,3 +102,4 @@
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — Analysis
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — Synthesis
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — Analysis
+- [野村腾讯三季度前瞻：AI投入压低经营利润，目标价降至659港元](entries/tencent-nomura-q326-preview-20261018.md) — Analysis
