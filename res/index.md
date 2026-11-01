@@ -537,6 +537,7 @@
 - [2026-09-04-UBS Equities-Greater China Banks Daily _PBOC Shanghai reports issuance of...-124222075.pdf](行业研究-银行/2026-09-04-UBS Equities-Greater China Banks Daily _PBOC Shanghai reports issuance of...-124222075.pdf)
 - [2026-09-11-UBS Equities-Greater China Banks Daily _PBOC outlines the 15th five-year ...-124320804.pdf](行业研究-银行/2026-09-11-UBS Equities-Greater China Banks Daily _PBOC outlines the 15th five-year ...-124320804.pdf)
 - [2026-10-19-JPMorgan-China Regional Banks 3Q26 preview Core earnings growth to m...-125013191.pdf](行业研究-银行/2026-10-19-JPMorgan-China Regional Banks 3Q26 preview Core earnings growth to m...-125013191.pdf)
+- [2026-10-26-UBS Equities-Greater China Banks Daily _APAC Focus Stress-testing the un...-125145929.pdf](行业研究-银行/2026-10-26-UBS Equities-Greater China Banks Daily _APAC Focus Stress-testing the un...-125145929.pdf)
 - [2026-10-28-601288.SS-Deutsche Bank-China banks 3Q26 preview stable margins to underpin solid ...-125239204.pdf](行业研究-银行/2026-10-28-601288.SS-Deutsche Bank-China banks 3Q26 preview stable margins to underpin solid ...-125239204.pdf)
 
 ## 谷歌
