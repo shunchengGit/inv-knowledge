@@ -6,3 +6,4 @@
 - [Morgan Stanley中国金融业：加码反内卷与去杠杆，两大新政策强化长期看多逻辑](entries/MS中国金融加码反内卷与去杠杆-两大新政策强化NIM回升逻辑.md) — Analysis
 - [Morgan Stanley中国金融催化剂前瞻：2Q26与3Q26盈利改善及政策扰动消退](entries/MS中国金融催化剂前瞻-2Q26与3Q26盈利改善及政策扰动消退.md) — Analysis
 - [UBS中国银行2Q26前瞻：收入仍稳健但利润增速滞后](entries/UBS中国银行2Q26前瞻-收入仍稳健但利润增速滞后.md) — Analysis
+- [德银中国银行三季度前瞻：息差企稳支撑利润，拨备与零售风险仍制约修复](entries/db-china-banks-3q26-preview-20261029.md) — Article

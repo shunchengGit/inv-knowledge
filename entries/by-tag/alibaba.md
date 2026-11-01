@@ -1,6 +1,7 @@
 # alibaba
 
 - [Jefferies中国CSP业绩前瞻：AI云增速、模型降本与Token需求分化](entries/jefferies-china-csp-ai-earnings-focus-20260803.md) — Analysis
+- [德银中国电商三季度前瞻：需求承压与外卖减亏并行，拼多多评级上调](entries/db-china-ecommerce-3q26-preview-pdd-upgrade-20261029.md) — Analysis
 - [摩根士丹利中国AI基础大模型路演报告：前沿模型规格对比、定价趋势与阿里全栈AI](entries/ms-investor-presentation-china-ai-path-llm-20260916.md) — Reference
 - [摩根士丹利中国AI路径：8.5万亿资本开支到3倍算力，2030年IT容量81GW](entries/ms-china-ai-path-rmb8-5tr-capex-3x-compute-20260913.md) — Analysis
 - [摩根士丹利中国互联网AI广告：从注意力到交易结果，两阶段商业化与平台分化](entries/ms-china-internet-ai-advertising-attention-to-outcomes-20260916.md) — Analysis

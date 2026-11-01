@@ -5,10 +5,12 @@
 - [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — Analysis
 - [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — Analysis
 - [UBS中国互联网AI下游应用专家会：视频生成竞争格局与商业化进展](entries/ubs-china-internet-ai-downstream-expert-call-20260918.md) — Article
+- [德银中国电商三季度前瞻：需求承压与外卖减亏并行，拼多多评级上调](entries/db-china-ecommerce-3q26-preview-pdd-upgrade-20261029.md) — Analysis
 - [抖音月时长首次超越微信，字节跳动系占据中国移动时长35%](entries/nomura-china-internet-app-tracker-july-2026.md) — Analysis
 - [摩根士丹利中国人工智能路径路演：8.5万亿元投入、算力扩张与分层商业化](entries/ms-china-internet-ai-path-presentation-20261019.md) — Article
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis
 - [汇丰中国互联网行业研报：宏观与税负承压下的选择性乐观](entries/china-internet-hsbc-selective-optimism-20260923.md) — Article
+- [美银中国互联网与人工智能月度电话会提醒：三季度业绩及板块回调议题](entries/bofa-china-internet-ai-pulse-call-invitation-20261026.md) — Article
 - [野村2026年8月应用跟踪：字节时长份额扩大，流量规模与使用深度分化](entries/nomura-china-internet-app-tracker-august-2026.md) — Analysis
 - [野村AI办公智能体专家访谈：企业上下文与协同平台成为竞争焦点](entries/nomura-ai-office-agent-enterprise-context-20261001.md) — Analysis
 - [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — Article

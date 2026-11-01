@@ -5,3 +5,4 @@
 - [JPMorgan台积电Q3前瞻：高端指引与N3紧张支撑上修目标价](entries/tsmc-jpmorgan-q326-preview-20260930.md) — Analysis
 - [UBS中国银行2Q26前瞻：收入仍稳健但利润增速滞后](entries/UBS中国银行2Q26前瞻-收入仍稳健但利润增速滞后.md) — Analysis
 - [美光FQ3-26业绩预览](entries/美光FQ3-26业绩预览.md) — Analysis
+- [美银中国互联网与人工智能月度电话会提醒：三季度业绩及板块回调议题](entries/bofa-china-internet-ai-pulse-call-invitation-20261026.md) — Article

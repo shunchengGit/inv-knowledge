@@ -8,3 +8,4 @@
 - [摩根士丹利中国人工智能路径路演：8.5万亿元投入、算力扩张与分层商业化](entries/ms-china-internet-ai-path-presentation-20261019.md) — Article
 - [摩根士丹利解读中国人工智能出口限制草案：服务与技术转移须分开判断](entries/ms-china-ai-proposed-export-restrictions-20261018.md) — Article
 - [摩根士丹利评DeepSeek V4 Flash降价：非高峰期缓存降价60%与大模型性价比竞争](entries/ms-deepseek-v4-flash-price-cut-analysis-202609.md) — Analysis
+- [美银中国互联网与人工智能月度电话会提醒：三季度业绩及板块回调议题](entries/bofa-china-internet-ai-pulse-call-invitation-20261026.md) — Article

@@ -11,4 +11,6 @@
 - [小摩中港地产三问：香港楼价年涨12.5%但内地宽松仅属边际利好](entries/jpm-mainland-hk-property-top-3-questions-2026-08.md) — Analysis
 - [小摩中港地产黄金周初评：二手成交增59%，政策脉冲仍待持续性验证](entries/jpm-mainland-hk-property-golden-week-20261009.md) — Article
 - [摩根士丹利中国房地产周度监测：新房成交同比反弹，去化率显著改善](entries/ms-china-property-weekly-2026-07.md) — Analysis
+- [摩根大通地产监测：内地领先指标转弱，香港新盘去化取决于定价](entries/jpm-property-data-monitor-leading-indicators-2026-10-28.md) — Analysis
+- [摩根大通深圳地产专家会：供给收缩支撑二手房企稳但回款与存量产品承压](entries/jpm-shenzhen-expert-market-stabilization-2026-10-29.md) — Analysis
 - [美银中国楼市8月高频：一线新房增长17%但全国仍降12%](entries/bofa-china-property-tier1-outperformance-2026-08.md) — Analysis

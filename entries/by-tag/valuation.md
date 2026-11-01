@@ -47,6 +47,8 @@
 - [安踏体育2026年中报业绩复盘与德意志银行评级分析](entries/db-anta-sports-1h26-review-superior-execution-20260826.md) — Analysis
 - [微软4Q/FY26财报前瞻：Azure增长强劲，Capex预期上修，M365商业云加速（UBS 7/26）](entries/msft-4qfy26-azure-capex-m365-ubs-update.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
+- [德银中国电商三季度前瞻：需求承压与外卖减亏并行，拼多多评级上调](entries/db-china-ecommerce-3q26-preview-pdd-upgrade-20261029.md) — Analysis
+- [德银中国银行三季度前瞻：息差企稳支撑利润，拨备与零售风险仍制约修复](entries/db-china-banks-3q26-preview-20261029.md) — Article
 - [德银安踏三季度点评：两大核心品牌流水转负，国庆回暖，维持全年指引与85港元目标价](entries/anta-db-3q26-core-brands-declined-20261021.md) — Article
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — Analysis
