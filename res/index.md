@@ -215,6 +215,7 @@
 - [2026-09-04-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft Read Through From APAC Chinese LLM...-124236048.pdf](微软/2026-09-04-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Microsoft Read Through From APAC Chinese LLM...-124236048.pdf)
 - [2026-09-21-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Corporate Contact Feedback Pricing upside s...-124456780.pdf](微软/2026-09-21-MSFT.OQ-BNP Paribas-MICROSOFT (+)  Corporate Contact Feedback Pricing upside s...-124456780.pdf)
 - [2026-09-23-SAPG.DE-HSBC Global Investme-US Technology Q2 takeaways Enterprise software returns-124511739.pdf](微软/2026-09-23-SAPG.DE-HSBC Global Investme-US Technology Q2 takeaways Enterprise software returns-124511739.pdf)
+- [2026-10-29-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ1’27 postview Azure  M365 accelerating. ...-125244789.pdf](微软/2026-10-29-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ1’27 postview Azure  M365 accelerating. ...-125244789.pdf)
 - [microsoft-fy2026-sec-10k.pdf](微软/microsoft-fy2026-sec-10k.pdf)
 
 ## 恒瑞医药
