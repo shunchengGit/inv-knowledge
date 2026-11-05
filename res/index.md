@@ -566,6 +566,7 @@
 - [2026-10-29-GOOGL.OQ-BofA Global Research-Alphabet Comps and AI transition drive search miss, AI foun...-125245444.pdf](谷歌/2026-10-29-GOOGL.OQ-BofA Global Research-Alphabet Comps and AI transition drive search miss, AI foun...-125245444.pdf)
 - [2026-10-29-GOOGL.OQ-Deutsche Bank-Alphabet Monetization Follows Engagement-125250436.pdf](谷歌/2026-10-29-GOOGL.OQ-Deutsche Bank-Alphabet Monetization Follows Engagement-125250436.pdf)
 - [2026-10-29-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Q3 results miss on Google Services ...-125257177.pdf](谷歌/2026-10-29-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Q3 results miss on Google Services ...-125257177.pdf)
+- [2026-10-29-GOOGL.OQ-Morgan Stanley-Alphabet Inc. Searching for Growth-125244400.pdf](谷歌/2026-10-29-GOOGL.OQ-Morgan Stanley-Alphabet Inc. Searching for Growth-125244400.pdf)
 
 ## 贵州茅台
 - [2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf](贵州茅台/2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf)
