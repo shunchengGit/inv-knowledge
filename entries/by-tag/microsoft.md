@@ -19,5 +19,9 @@
 - [微软FQ4’26财报后分析：Azure预测上修与利润率韧性构成制胜公式](entries/微软FQ4-26财报后分析-Azure上修与利润率韧性-UBS.md) — Analysis
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
 - [微软中国LLM映射：开源模型推动Azure平台变现，而非侵蚀OpenAI关系](entries/msft-bnp-chinese-llm-read-through-20260904.md) — Analysis
+- [微软云业务规模增长与资本回报测算的证据边界](entries/msft-hsbc-azure-growth-20261030.md) — Analysis
+- [微软云业务超预期与人工智能客户集中度的双面影响](entries/msft-ubs-azure-openai-upside-20261029.md) — Analysis
+- [微软第一财季云增长加速与资本开支挤压现金流](entries/msft-bnp-fq127-postview-20261029.md) — Analysis
+- [微软第一财季企业智能飞轮与经营杠杆验证](entries/msft-ms-fq127-results-20261029.md) — Analysis
 - [微软管理层Contact Feedback：GPU租赁定价上行，OpenAI收入分成cap确认存在](entries/msft-bnp-corporate-contact-feedback-20260921.md) — Analysis
 - [汇丰美国软件Q2综述：企业AI商业化指标增多，估值仍低于历史常态](entries/msft-hsbc-us-tech-q2-software-20260923.md) — Analysis
