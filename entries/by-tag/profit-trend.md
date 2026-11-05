@@ -45,6 +45,7 @@
 - [大摩福耀三季报快评：盈利同比降10%，销量恢复但ASP增速放缓，剔汇兑经营利润三年来首降](entries/fuyao-ms-3q26-missed-asp-slowed-20261020.md) — Article
 - [大摩福耀三季报电话会：维持6—7%长期ASP复合增速，高附加值占比59.95%，美国工厂三季度利润率约15%](entries/fuyao-ms-3q26-earnings-call-20261021.md) — Article
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
+- [大摩谷歌增长再审视：搜索创新比芯片外售更决定估值](entries/googl-ms-searching-growth-20261029.md) — Analysis
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
 - [宁波银行2026年三季度报告：营收净利双位数增长，净息差1.71%](entries/宁波银行2026年三季度报告-营收净利双位数增长-净息差1-71.md) — Reference
 - [宁波银行2026年半年报：营收利润双位数增长，中收增长54%](entries/宁波银行2026年半年报-营收利润双位数增长-中收增长54.md) — Reference
@@ -63,6 +64,7 @@
 - [德银中国银行三季度前瞻：息差企稳支撑利润，拨备与零售风险仍制约修复](entries/db-china-banks-3q26-preview-20261029.md) — Article
 - [德银人形机器人比较：宇树2025毛利率60%，模型投入使高盈利承压](entries/Deutsche-Bank-Humanoid-Robot-Comparing-Unitree-UBTECH-DEEP-Dobot-and-Others.md) — Analysis
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
+- [德银谷歌三季报：查询参与度领先变现，云产能扩张仍受成本约束](entries/googl-db-monetization-20261029.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — Analysis
 - [摩根大通中国AI基础设施生态：算力需求高增长与先进代工、HBM双重瓶颈](entries/jpm-china-ai-infra-growth-foundry-hbm-constraints-20260902.md) — Article
@@ -73,6 +75,7 @@
 - [毛戈平JPM Global China Summit纪要：2026增长可见性高，管理层承诺6个月内不减持](entries/毛戈平JPM-增长可见性高-管理层承诺不减持.md) — Analysis
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [汇丰腾讯AI投入前瞻：2027年盈利与自由现金流承压，目标价降至600港元](entries/tencent-hsbc-ai-commitment-20261016.md) — Article
+- [汇丰谷歌三季度点评：云收入翻倍难抵服务利润率失速](entries/googl-hsbc-q326-results-20261029.md) — Analysis
 - [汇川技术二季度通用自动化强劲，美银上调盈利但下调目标价](entries/汇川技术-美银-二季度通用自动化增长与估值下调-20260831.md) — Analysis
 - [汇川技术维持全年指引，摩根大通押注自动化支撑下半年修复](entries/汇川技术-摩根大通-全年指引与下半年修复预期-20260831.md) — Analysis
 - [汇川技术自动化强新能源弱，麦格理提示现金流和原文口径分歧](entries/汇川技术-麦格理-自动化强新能源弱与现金流分歧-20260831.md) — Analysis
@@ -112,6 +115,7 @@
 - [美银台积电三季度快评：毛利率66.4%，扩产支持人工智能需求但指引低于原模型](entries/tsmc-bofa-q326-earnings-take-20261015.md) — Analysis
 - [美银台积电需求与产能长篇：资本开支830亿及900亿美元，盈利下修而先进制程扩张](entries/tsmc-bofa-ai-capacity-outlook-20261015.md) — Analysis
 - [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
+- [美银谷歌三季报：搜索转型压低变现，云增长与人工智能投入并行](entries/googl-bofa-search-ai-20261029.md) — Analysis
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis
 - [腾讯控股2026Q2及H1官方业绩：营收增长11%，Non-IFRS净利增长9%](entries/tencent-2026-q2-h1-official-results.md) — Reference
@@ -120,6 +124,8 @@
 - [腾讯控股JPM 1Q26：转向更积极，双P&L披露化解AI稀释担忧](entries/腾讯控股JPM-1Q26-转向更积极-双P-L披露化解AI稀释担忧.md) — Analysis
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — Analysis
 - [蓝思科技调研显示折叠屏单价与机器人扩张机会，德银对工控含义中性](entries/蓝思科技-德银-调研折叠屏机器人与服务器扩张-20260922.md) — Analysis
+- [谷歌三季报瑞银首读：广告低预期与芯片销售利润率疑问](entries/googl-ubs-first-read-20261028.md) — Analysis
+- [谷歌瑞银完整点评：订单增长未消除广告变现与芯片毛利疑问](entries/googl-ubs-questions-20261029.md) — Analysis
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — Analysis
 - [野村世界先进涨价强化二〇二七年盈利](entries/野村世界先进涨价强化二〇二七年盈利.md) — Analysis
 - [野村腾讯三季度前瞻：AI投入压低经营利润，目标价降至659港元](entries/tencent-nomura-q326-preview-20261018.md) — Analysis

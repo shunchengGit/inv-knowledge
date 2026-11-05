@@ -9,8 +9,14 @@
 - [WWDC 2026：Apple新Siri由Gemini驱动(UBS)](entries/WWDC-Apple-Siri-Gemini-UBS-20260608.md) — Analysis
 - [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
 - [大摩北美互联网估值周报：AI动能积聚下的估值折价，SBC现金化对EV/EBITDA真实倍数重估](entries/ms-north-america-internet-valuation-update-2026-08.md) — Analysis
+- [大摩谷歌增长再审视：搜索创新比芯片外售更决定估值](entries/googl-ms-searching-growth-20261029.md) — Analysis
 - [德银谷歌2Q26点评：聚焦“I”带来买入良机，云业务爆发与TPU外售开启第三增长曲线](entries/google-2q26-db-focus-on-i-buying-opportunity.md) — Analysis
+- [德银谷歌三季报：查询参与度领先变现，云产能扩张仍受成本约束](entries/googl-db-monetization-20261029.md) — Analysis
 - [摩根士丹利北美互联网估值跟踪：板块周跌4%，股权激励成本改变折价判断](entries/ms-us-internet-ai-revenue-funding-20261020.md) — Article
+- [汇丰谷歌三季度点评：云收入翻倍难抵服务利润率失速](entries/googl-hsbc-q326-results-20261029.md) — Analysis
 - [美银Google AI Wars七月跟踪：搜索份额升至91.3%，AI流量环比季节性放缓](entries/google-ai-wars-july-traffic-bofa-2026-08.md) — Analysis
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
+- [美银谷歌三季报：搜索转型压低变现，云增长与人工智能投入并行](entries/googl-bofa-search-ai-20261029.md) — Analysis
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — Synthesis
+- [谷歌三季报瑞银首读：广告低预期与芯片销售利润率疑问](entries/googl-ubs-first-read-20261028.md) — Analysis
+- [谷歌瑞银完整点评：订单增长未消除广告变现与芯片毛利疑问](entries/googl-ubs-questions-20261029.md) — Analysis
