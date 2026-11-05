@@ -217,6 +217,7 @@
 - [2026-09-23-SAPG.DE-HSBC Global Investme-US Technology Q2 takeaways Enterprise software returns-124511739.pdf](微软/2026-09-23-SAPG.DE-HSBC Global Investme-US Technology Q2 takeaways Enterprise software returns-124511739.pdf)
 - [2026-10-29-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ1’27 postview Azure  M365 accelerating. ...-125244789.pdf](微软/2026-10-29-MSFT.OQ-BNP Paribas-MICROSOFT (+)  FQ1’27 postview Azure  M365 accelerating. ...-125244789.pdf)
 - [2026-10-29-MSFT.OQ-Morgan Stanley-Microsoft 1Q27 Results – Strong Start to the Year-125244688.pdf](微软/2026-10-29-MSFT.OQ-Morgan Stanley-Microsoft 1Q27 Results – Strong Start to the Year-125244688.pdf)
+- [2026-10-29-MSFT.OQ-UBS Equities-Microsoft Corp. _AzureOpenAI Drives the Upside_ (Buy) Keirs...-125252629.pdf](微软/2026-10-29-MSFT.OQ-UBS Equities-Microsoft Corp. _AzureOpenAI Drives the Upside_ (Buy) Keirs...-125252629.pdf)
 - [microsoft-fy2026-sec-10k.pdf](微软/microsoft-fy2026-sec-10k.pdf)
 
 ## 恒瑞医药
