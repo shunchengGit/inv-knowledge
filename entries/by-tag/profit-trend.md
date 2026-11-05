@@ -82,6 +82,7 @@
 - [汇川技术自动化清理积压订单，德银预计下半年利润修复](entries/汇川技术-德银-自动化清理积压与新能源亏损-20260901.md) — Analysis
 - [汇川技术被摩根大通降至中性，盈利交付与订单透明度成为再评级门槛](entries/汇川技术-摩根大通-降至中性与交付披露风险-20260922.md) — Analysis
 - [法巴台积电三季度点评：营收支撑扩产，资本开支指引仍为600亿至640亿美元](entries/tsmc-bnp-q326-capex-review-20261015.md) — Analysis
+- [法巴福耀三季报分析：海外收入增2.0%，下调2026及2027年EPS预测9%及8%，A及H股目标价76](entries/fuyao-bnp-3q26-bottoming-20261021.md) — Analysis
 - [法巴福耀二季报：销量与汇兑压低盈利预测，经营韧性支撑双市场评级](entries/fuyao-bnp-2q26-resilience-20260820.md) — Article
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
 - [瑞银台积电三季度点评：扩产提速，2027年资本开支预测900亿美元](entries/tsmc-ubs-q326-capacity-expansion-20261015.md) — Analysis
@@ -114,6 +115,7 @@
 - [美银中国投资罗盘四季度策略：盈利下修与信用收紧，偏好网购和非银](entries/bofa-china-investment-compass-4q26-20261005.md) — Article
 - [美银台积电三季度快评：毛利率66.4%，扩产支持人工智能需求但指引低于原模型](entries/tsmc-bofa-q326-earnings-take-20261015.md) — Analysis
 - [美银台积电需求与产能长篇：资本开支830亿及900亿美元，盈利下修而先进制程扩张](entries/tsmc-bofa-ai-capacity-outlook-20261015.md) — Analysis
+- [美银福耀三季报分析：净利20亿元低于预期24亿元，2026年盈利预测下调8%，A及H股目标价61](entries/fuyao-bofa-3q26-oneoffs-20261021.md) — Analysis
 - [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — Article
 - [美银谷歌三季报：搜索转型压低变现，云增长与人工智能投入并行](entries/googl-bofa-search-ai-20261029.md) — Analysis
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis
