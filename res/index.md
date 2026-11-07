@@ -135,6 +135,7 @@
 - [tsmc-2026-q1-earnings-release.pdf](台积电/tsmc-2026-q1-earnings-release.pdf)
 - [tsmc-2026-q1-full-financial-statements.pdf](台积电/tsmc-2026-q1-full-financial-statements.pdf)
 - [tsmc-2026-q2-earnings-release.pdf](台积电/tsmc-2026-q2-earnings-release.pdf)
+- [tsmc-2026-q2-full-financial-statements.pdf](台积电/tsmc-2026-q2-full-financial-statements.pdf)
 - [tsmc-2026-q2-official-6k.pdf](台积电/tsmc-2026-q2-official-6k.pdf)
 - [tsmc-2026-q2-presentation.pdf](台积电/tsmc-2026-q2-presentation.pdf)
 
