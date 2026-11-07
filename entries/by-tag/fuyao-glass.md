@@ -13,6 +13,7 @@
 - [福耀玻璃2026H1深度复盘：经营小幅超预期，汇兑与H2增速要求构成约束](entries/fuyao-glass-2026-h1-results-expectation-valuation-analysis.md) — Synthesis
 - [福耀玻璃2026年三季报：单季收入增2.5%、归母净利降9.9%，前三季度剔除汇兑利润总额增1.2%](entries/fuyao-glass-2026-q3-official-report.md) — Reference
 - [福耀玻璃2026年半年报：Q2毛利率40.17%，汇兑掩盖经营韧性](entries/fuyao-glass-2026-h1-official-results.md) — Reference
+- [福耀玻璃2026年第一季度正式报告：收入增长5.08%，汇兑拖累利润与经营现金流承压](entries/fuyao-glass-2026-q1-official-report.md) — Reference
 - [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis
 - [福耀玻璃2Q26前瞻：毛利率表现稳健，汇兑影响表观业绩（UBS 7/2）](entries/fuyao-glass-2q26-ubs-preview.md) — Analysis

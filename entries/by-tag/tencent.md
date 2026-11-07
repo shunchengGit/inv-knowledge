@@ -21,6 +21,7 @@
 - [腾讯发布并开源Hy4 preview：770B MoE与1M上下文进入国产开源第一梯队](entries/腾讯发布并开源Hy4-preview-770B-MoE与1M上下文进入国产开源第一梯队.md) — Reference
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis
 - [腾讯控股2026Q2及H1官方业绩：营收增长11%，Non-IFRS净利增长9%](entries/tencent-2026-q2-h1-official-results.md) — Reference
+- [腾讯控股2026完整中期报告：上半年收入4012亿元与财务附注基准](entries/tencent-2026-complete-interim-report.md) — Reference
 - [腾讯控股2Q26 NDR call关键要点：AI战略、资本开支与变现路径](entries/tencent-hsbc-2q26-ndr-call-key-takeaways.md) — Analysis
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — Synthesis
 - [腾讯控股2Q26前瞻：AI加大投入拖累短期利润率，核心业务韧性良好（野村 7/13）](entries/tencent-2q26-nomura-preview.md) — Analysis

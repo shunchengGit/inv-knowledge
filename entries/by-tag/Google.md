@@ -20,5 +20,7 @@
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
 - [美银谷歌三季报：搜索转型压低变现，云增长与人工智能投入并行](entries/googl-bofa-search-ai-20261029.md) — Analysis
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — Synthesis
+- [谷歌Alphabet二〇二六年一季报官方基准：云增长63%，投资收益须与经营利润分离](entries/alphabet-2026-q1-official-report.md) — Reference
+- [谷歌Alphabet二〇二六年二季报官方基准：云增长82%，巨额投资收益不等于经营利润](entries/alphabet-2026-q2-official-report.md) — Reference
 - [谷歌三季报瑞银首读：广告低预期与芯片销售利润率疑问](entries/googl-ubs-first-read-20261028.md) — Analysis
 - [谷歌瑞银完整点评：订单增长未消除广告变现与芯片毛利疑问](entries/googl-ubs-questions-20261029.md) — Analysis

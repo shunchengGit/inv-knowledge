@@ -34,7 +34,10 @@
 - [中通快递1Q26超预期+反内卷持续——JPM/MS/UBS一致看多，阿里减持为情绪扰动](entries/中通快递1Q26超预期-反内卷持续-阿里减持为情绪扰动.md) — Analysis
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — Analysis
 - [双环传动002472.SZ价值成长QARP深度分析](entries/shuanghuan-driveline-qarp-analysis-2026-07.md) — Analysis
+- [台积电2026Q1完整官方财报：营收1.134万亿元、归母净利5724.80亿元及附注](entries/tsmc-2026-q1-official-full-statements.md) — Reference
+- [台积电2026Q2完整官方财报：半年现金流与VIS处置收益核验](entries/tsmc-2026-q2-official-full-statements.md) — Reference
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — Reference
+- [台积电2026Q3官方业绩公告：EPS29.43元，完整附注财报仍待补](entries/tsmc-2026-q3-official-release.md) — Reference
 - [台积电2Q26业绩与展望综合分析：上调资本支出与营收指引，AI需求可见度延至2030年](entries/台积电2Q26业绩与展望综合分析-上调资本支出与营收指引.md) — Synthesis
 - [台积电BNP-2026年Q2业绩点评与资本支出展望](entries/台积电BNP-2Q26业绩点评与资本支出展望.md) — Analysis
 - [台积电JPM十月营收快评：第三季收入超预期与全年66.9%毛利率预测](entries/tsmc-jpm-sales-margin-20261008.md) — Analysis
@@ -51,6 +54,7 @@
 - [宁波银行2026Q1：营收和利润重回双位数增长，Morgan Stanley维持Top Pick](entries/宁波银行2026Q1-营收和利润重回双位数增长-Morgan-Stanley维持Top-Pick.md) — Analysis
 - [宁波银行2026年三季度报告：营收净利双位数增长，净息差1.71%](entries/宁波银行2026年三季度报告-营收净利双位数增长-净息差1-71.md) — Reference
 - [宁波银行2026年半年报：营收利润双位数增长，中收增长54%](entries/宁波银行2026年半年报-营收利润双位数增长-中收增长54.md) — Reference
+- [宁波银行2026年第一季度正式报告：营收利润双位数增长，不良率0.76%](entries/bank-of-ningbo-2026-q1-official-report.md) — Reference
 - [宁波银行UBS 1Q26快评：超预期+分红率大幅提升至27%](entries/宁波银行UBS-1Q26快评-超预期-分红率大幅提升至27.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
 - [微软FQ4 2026全栈AI变现提速与资本纪律重建](entries/MSFT-FQ4-26-BNP-全栈AI变现与资本纪律.md) — Analysis
@@ -92,6 +96,7 @@
 - [瑞银腾讯三季度前瞻：AI投入压低利润，盈利下修或延续至2027年](entries/tencent-ubs-q326-preview-20261014.md) — Article
 - [福耀玻璃2026年三季报：单季收入增2.5%、归母净利降9.9%，前三季度剔除汇兑利润总额增1.2%](entries/fuyao-glass-2026-q3-official-report.md) — Reference
 - [福耀玻璃2026年半年报：Q2毛利率40.17%，汇兑掩盖经营韧性](entries/fuyao-glass-2026-h1-official-results.md) — Reference
+- [福耀玻璃2026年第一季度正式报告：收入增长5.08%，汇兑拖累利润与经营现金流承压](entries/fuyao-glass-2026-q1-official-report.md) — Reference
 - [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis
 - [福耀玻璃2Q26前瞻：毛利率表现稳健，汇兑影响表观业绩（UBS 7/2）](entries/fuyao-glass-2q26-ubs-preview.md) — Analysis
@@ -123,11 +128,14 @@
 - [老铺黄金多空观点：增长放缓与品牌升级之争——UBS/JPM Buy vs Macquarie Underperform](entries/老铺黄金多空观点-增长放缓与品牌升级之争.md) — Analysis
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis
 - [腾讯控股2026Q2及H1官方业绩：营收增长11%，Non-IFRS净利增长9%](entries/tencent-2026-q2-h1-official-results.md) — Reference
+- [腾讯控股2026完整中期报告：上半年收入4012亿元与财务附注基准](entries/tencent-2026-complete-interim-report.md) — Reference
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — Synthesis
 - [腾讯控股2Q26前瞻：AI加大投入拖累短期利润率，核心业务韧性良好（野村 7/13）](entries/tencent-2q26-nomura-preview.md) — Analysis
 - [腾讯控股JPM 1Q26：转向更积极，双P&L披露化解AI稀释担忧](entries/腾讯控股JPM-1Q26-转向更积极-双P-L披露化解AI稀释担忧.md) — Analysis
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — Analysis
 - [蓝思科技调研显示折叠屏单价与机器人扩张机会，德银对工控含义中性](entries/蓝思科技-德银-调研折叠屏机器人与服务器扩张-20260922.md) — Analysis
+- [谷歌Alphabet二〇二六年一季报官方基准：云增长63%，投资收益须与经营利润分离](entries/alphabet-2026-q1-official-report.md) — Reference
+- [谷歌Alphabet二〇二六年二季报官方基准：云增长82%，巨额投资收益不等于经营利润](entries/alphabet-2026-q2-official-report.md) — Reference
 - [谷歌三季报瑞银首读：广告低预期与芯片销售利润率疑问](entries/googl-ubs-first-read-20261028.md) — Analysis
 - [谷歌瑞银完整点评：订单增长未消除广告变现与芯片毛利疑问](entries/googl-ubs-questions-20261029.md) — Analysis
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — Analysis
