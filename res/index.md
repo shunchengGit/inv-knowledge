@@ -138,6 +138,7 @@
 - [tsmc-2026-q2-full-financial-statements.pdf](台积电/tsmc-2026-q2-full-financial-statements.pdf)
 - [tsmc-2026-q2-official-6k.pdf](台积电/tsmc-2026-q2-official-6k.pdf)
 - [tsmc-2026-q2-presentation.pdf](台积电/tsmc-2026-q2-presentation.pdf)
+- [tsmc-2026-q3-earnings-release.pdf](台积电/tsmc-2026-q3-earnings-release.pdf)
 
 ## 地平线机器人
 - [2026-04-22-9660.HK-Morgan Stanley-Horizon Robotics A Starry Debut - Integrated Smart Cockpit-...-121572319.pdf](地平线机器人/2026-04-22-9660.HK-Morgan Stanley-Horizon Robotics A Starry Debut - Integrated Smart Cockpit-...-121572319.pdf)
