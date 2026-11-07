@@ -1,5 +1,7 @@
 # google
 
+- [Alphabet谷歌2026年三季度官方10-Q：资本投入、融资与普通股收益基准](entries/alphabet-2026-q3-official-10q.md) — Reference
+- [Alphabet谷歌2026年三季度官方业绩公告：搜索增长12%与云增长103%](entries/alphabet-2026-q3-official-earnings.md) — Reference
 - [Broadcom/JPMorgan：TPU v9 2nm ASIC按计划CY28量产——无延迟，锁定后续4代TPU](entries/AVGO-JPM-TPUv9-2nm-ASIC-CY28.md) — Analysis
 - [Google 1Q26云业务超预期爆发，Cloud backlog达$4,620亿(BofA/DB/HSBC)](entries/Google-1Q26-Cloud-Backlog-BofA-DB-HSBC-20260430.md) — Synthesis
 - [Google AI Wars流量跟踪：Gemini与Claude高速增长，Google搜索份额稳定(BofA)](entries/Google-AI-Wars-Traffic-BofA-202605-06.md) — Analysis

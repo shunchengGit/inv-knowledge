@@ -307,6 +307,8 @@
 - [Morgan Stanley: ETN Under-Appreciated Transformation](entries/Morgan-Stanley-ETN-Under-Appreciated-Transformation.md) — MS 2026-05-08. ETN portfolio transformation under-appreciated: Mobility spin-off + Dana RMT ($5.1bn, 8.3x EV/EBITDA), Boyd acquisition. Data center to grow from 21% (2025) to 34% (2027). 2027 EPS $15.91 (P/E 25x). Market too focused on 2026 margin uncertainty, missing 2027 structural re-rating. PT $500. Maintain OW.
 
 ## Reference
+- [Alphabet谷歌2026年三季度官方10-Q：资本投入、融资与普通股收益基准](entries/alphabet-2026-q3-official-10q.md) — 季度收入1275.77亿美元、普通股摊薄EPS2.12美元；现金FCF负90.65亿美元，需结合租赁、融资与稀释理解盈利现金差异。
+- [Alphabet谷歌2026年三季度官方业绩公告：搜索增长12%与云增长103%](entries/alphabet-2026-q3-official-earnings.md) — 2026Q3收入1275.77亿美元、营业利润405.76亿美元；搜索收入633.50亿美元、云收入307.09亿美元，TPU销售已有实质贡献。
 - [Momenta港股不同投票权控制上市招股书分析](entries/momenta-global-hk-ipo-prospectus-202606.md) — 智能驾驶独角兽Momenta（初速度）于2026年6月29日披露港股招股书，2025年营收增至24.13亿元，定点170款车型，累计装车超68万辆，在独立城市NOA智驾系统领域市占率达64.5%排名第一。
 - [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — 东方电气2026H1实现营业总收入386.24亿元（+1.24%），归母净利润27.13亿元（+42.07%），扣非净利润23.66亿元（+30.96%）；新生效订单698.8亿元（+6.71%），但经营现金流净流出17.22亿元。
 - [传音控股港股IPO招股章程-非洲手机之王赴港双重上市-存储周期与第二增长曲线](entries/传音控股港股IPO招股章程-2026-10-07.md) — 传音控股（02636.HK）全球发售招股章程（2026-10-07）：全球第三大手机品牌，2025年营收655.9亿元、净利26.1亿元（受存储涨价挤压-53.5%）；2026年1-4月提价修复营收232.9亿元(+30.1%)、净利13.6亿元(+121.5%)；发售价35.30-38.80港元，基石认购12.45亿港元（含GIC/易方达/比亚迪/江波龙），募资40%投向端侧AI研发。

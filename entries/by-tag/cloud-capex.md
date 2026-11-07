@@ -1,5 +1,7 @@
 # cloud-capex
 
+- [Alphabet谷歌2026年三季度官方10-Q：资本投入、融资与普通股收益基准](entries/alphabet-2026-q3-official-10q.md) — Reference
+- [Alphabet谷歌2026年三季度官方业绩公告：搜索增长12%与云增长103%](entries/alphabet-2026-q3-official-earnings.md) — Reference
 - [Morgan Stanley全球云资本开支追踪：2027年共识升至1.2万亿美元仍偏保守](entries/morgan-stanley-global-cloud-capex-tracker-2026-08.md) — Analysis
 - [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
 - [大摩GenAI ROIC深度框架：开源权重模型普及下云巨头如何维持20-40%高资本回报率](entries/ms-genai-roic-framework-open-weight-models.md) — Analysis

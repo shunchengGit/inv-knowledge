@@ -1,6 +1,8 @@
 # profit-trend
 
 - [Adobe汇丰升级买入：工作流黏性抵御AI替代，12倍预期EPS支撑308美元目标价](entries/adobe-hsbc-buy-irrational-despondence-20260702.md) — Analysis
+- [Alphabet谷歌2026年三季度官方10-Q：资本投入、融资与普通股收益基准](entries/alphabet-2026-q3-official-10q.md) — Reference
+- [Alphabet谷歌2026年三季度官方业绩公告：搜索增长12%与云增长103%](entries/alphabet-2026-q3-official-earnings.md) — Reference
 - [BNP Paribas: SK HYNIX — Enhanced AI memory leadership, less concern on oversupply](entries/BNP-Paribas-SK-HYNIX-Enhanced-AI-memory-leadership-less-concern-on-oversupply.md) — Analysis
 - [BofA中国银行1H26前瞻：利润改善但K型分化加剧](entries/BofA中国银行1H26前瞻-利润改善但K型分化加剧.md) — Analysis
 - [BofA大中华汽车零部件2026年7月复盘：业绩预期消化、人形机器人情绪转弱](entries/BofA大中华汽车零部件2026年7月复盘-业绩预期消化人形机器人情绪转弱.md) — Analysis

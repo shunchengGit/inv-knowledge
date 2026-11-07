@@ -1,5 +1,7 @@
 # official-source
 
+- [Alphabet谷歌2026年三季度官方10-Q：资本投入、融资与普通股收益基准](entries/alphabet-2026-q3-official-10q.md) — Reference
+- [Alphabet谷歌2026年三季度官方业绩公告：搜索增长12%与云增长103%](entries/alphabet-2026-q3-official-earnings.md) — Reference
 - [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — Reference
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — Reference
 - [台积电2026年9月官方营收：同比增长54.6%，第三季度收入略超预期](entries/tsmc-2026-september-official-revenue-20261008.md) — Reference
