@@ -579,6 +579,7 @@
 - [2026-10-29-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _More Questions than Answers_ (Neutr...-125245516.pdf](谷歌/2026-10-29-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _More Questions than Answers_ (Neutr...-125245516.pdf)
 - [Alphabet-2026-Q3-10Q.pdf](谷歌/Alphabet-2026-Q3-10Q.pdf)
 - [Alphabet-2026-Q3-Earnings.pdf](谷歌/Alphabet-2026-Q3-Earnings.pdf)
+- [Alphabet-2026Q1-10-Q.pdf](谷歌/Alphabet-2026Q1-10-Q.pdf)
 
 ## 贵州茅台
 - [2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf](贵州茅台/2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf)
