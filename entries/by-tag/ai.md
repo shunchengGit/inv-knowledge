@@ -14,6 +14,7 @@
 - [微软第一财季云增长加速与资本开支挤压现金流](entries/msft-bnp-fq127-postview-20261029.md) — Analysis
 - [微软第一财季企业智能飞轮与经营杠杆验证](entries/msft-ms-fq127-results-20261029.md) — Analysis
 - [德银谷歌三季报：查询参与度领先变现，云产能扩张仍受成本约束](entries/googl-db-monetization-20261029.md) — Analysis
+- [汇丰腾讯数字生态大会纪要：办公智能体深化集成，云业务海外客户翻倍](entries/tencent-hsbc-digital-ecosystem-summit-20261029.md) — Analysis
 - [汇丰谷歌三季度点评：云收入翻倍难抵服务利润率失速](entries/googl-hsbc-q326-results-20261029.md) — Analysis
 - [美银谷歌三季报：搜索转型压低变现，云增长与人工智能投入并行](entries/googl-bofa-search-ai-20261029.md) — Analysis
 - [英特尔服务器需求顺风与制造叙事改善](entries/英特尔服务器需求顺风与制造叙事改善.md) — Analysis

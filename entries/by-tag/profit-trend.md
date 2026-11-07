@@ -140,4 +140,5 @@
 - [谷歌瑞银完整点评：订单增长未消除广告变现与芯片毛利疑问](entries/googl-ubs-questions-20261029.md) — Analysis
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — Analysis
 - [野村世界先进涨价强化二〇二七年盈利](entries/野村世界先进涨价强化二〇二七年盈利.md) — Analysis
+- [野村中国电商9月点评：线上商品销售近乎停滞，渗透率同比下降](entries/nomura-china-ecommerce-september-stagnation-20261019.md) — Analysis
 - [野村腾讯三季度前瞻：AI投入压低经营利润，目标价降至659港元](entries/tencent-nomura-q326-preview-20261018.md) — Analysis

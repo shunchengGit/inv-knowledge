@@ -30,6 +30,7 @@
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
 - [摩根士丹利Asia Compass：中国AI生态崛起与DRAM芯片竞争格局重塑](entries/ms-asia-compass-china-ai-ecosystem-cxmt.md) — Analysis
 - [摩根大通亚太消费指南：选择性需求下的盈利分化、渠道壁垒与区域配置](entries/jpm-apac-consumer-selective-demand-quality-compass-20260902.md) — Article
+- [汇丰腾讯数字生态大会纪要：办公智能体深化集成，云业务海外客户翻倍](entries/tencent-hsbc-digital-ecosystem-summit-20261029.md) — Analysis
 - [申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化](entries/申万宏源腾讯深度之三-AI时代核心受益者-超级入口与生态壁垒的再进化.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与基本面底部复苏判研](entries/fuyao-glass-2q26-hsbc-ubs-preview-analysis.md) — Analysis
 - [福耀玻璃2Q26业绩前瞻与海外份额扩张展望](entries/fuyao-glass-2q26-preview-and-global-market-share.md) — Synthesis

@@ -13,4 +13,5 @@
 - [美银中国互联网与人工智能月度电话会提醒：三季度业绩及板块回调议题](entries/bofa-china-internet-ai-pulse-call-invitation-20261026.md) — Article
 - [野村2026年8月应用跟踪：字节时长份额扩大，流量规模与使用深度分化](entries/nomura-china-internet-app-tracker-august-2026.md) — Analysis
 - [野村AI办公智能体专家访谈：企业上下文与协同平台成为竞争焦点](entries/nomura-ai-office-agent-enterprise-context-20261001.md) — Analysis
+- [野村中国电商9月点评：线上商品销售近乎停滞，渗透率同比下降](entries/nomura-china-ecommerce-september-stagnation-20261019.md) — Analysis
 - [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — Article

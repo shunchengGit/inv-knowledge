@@ -14,6 +14,7 @@
 - [汇丰腾讯2Q26：AI成本担忧或被高估，WorkBuddy开始变现](entries/tencent-hsbc-2q26-better-ai-outlook.md) — Analysis
 - [汇丰腾讯AI投入前瞻：2027年盈利与自由现金流承压，目标价降至600港元](entries/tencent-hsbc-ai-commitment-20261016.md) — Article
 - [汇丰腾讯HY4预览版点评：7700亿参数升级与商业化成本检验](entries/tencent-hsbc-hy4-preview-20260831.md) — Article
+- [汇丰腾讯数字生态大会纪要：办公智能体深化集成，云业务海外客户翻倍](entries/tencent-hsbc-digital-ecosystem-summit-20261029.md) — Analysis
 - [王者荣耀：ACE首发成功，iOS畅销榜第5，预计首年流水36亿元](entries/tencent-honor-of-kings-ace-launch-20260914.md) — Analysis
 - [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
 - [瑞银腾讯三季度前瞻：AI投入压低利润，盈利下修或延续至2027年](entries/tencent-ubs-q326-preview-20261014.md) — Article
