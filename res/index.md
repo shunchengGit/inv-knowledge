@@ -582,6 +582,7 @@
 - [Alphabet-2026Q1-10-Q.pdf](谷歌/Alphabet-2026Q1-10-Q.pdf)
 - [Alphabet-2026Q1-earnings.pdf](谷歌/Alphabet-2026Q1-earnings.pdf)
 - [Alphabet-2026Q2-10-Q.pdf](谷歌/Alphabet-2026Q2-10-Q.pdf)
+- [Alphabet-2026Q2-earnings.pdf](谷歌/Alphabet-2026Q2-earnings.pdf)
 
 ## 贵州茅台
 - [2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf](贵州茅台/2026-03-30-600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai-121021293.undefined.pdf)
