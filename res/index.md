@@ -358,6 +358,7 @@
 - [2026-10-14-0700.HK-UBS Equities-First Read Tencent Holdings _3Q26 preview; AI investment li...-124940746.pdf](腾讯控股/2026-10-14-0700.HK-UBS Equities-First Read Tencent Holdings _3Q26 preview; AI investment li...-124940746.pdf)
 - [2026-10-16-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy Firm commitment in AI continu...-124976305.pdf](腾讯控股/2026-10-16-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy Firm commitment in AI continu...-124976305.pdf)
 - [2026-10-18-0700.HK-Nomura-Tencent Holdings (700 HK) (Buy) - Expecting weaker 3Q operat...-124998211.pdf](腾讯控股/2026-10-18-0700.HK-Nomura-Tencent Holdings (700 HK) (Buy) - Expecting weaker 3Q operat...-124998211.pdf)
+- [2026-10-29-0700.HK-HSBC Global Investme-Equity Snap Tencent Holdings (700 HK) Key takeaways from 20...-125255469.pdf](腾讯控股/2026-10-29-0700.HK-HSBC Global Investme-Equity Snap Tencent Holdings (700 HK) Key takeaways from 20...-125255469.pdf)
 - [20260313-申万宏源-腾讯控股-0700.HK-AI时代核心受益者，超级入口与生态壁垒的再进化（腾讯控股深度之三）.pdf](腾讯控股/20260313-申万宏源-腾讯控股-0700.HK-AI时代核心受益者，超级入口与生态壁垒的再进化（腾讯控股深度之三）.pdf)
 - [20260410-华泰证券-腾讯控股-0700.HK-AI布局和云业务迎来拐点.pdf](腾讯控股/20260410-华泰证券-腾讯控股-0700.HK-AI布局和云业务迎来拐点.pdf)
 - [Tencent-2026-Interim-Report.pdf](腾讯控股/Tencent-2026-Interim-Report.pdf)
