@@ -416,6 +416,7 @@
 - [2026-09-23-9999.HK-HSBC Global Investme-China internet Selective optimism in a noisy tape-124522726.pdf](行业研究-互联网/2026-09-23-9999.HK-HSBC Global Investme-China internet Selective optimism in a noisy tape-124522726.pdf)
 - [2026-10-01-0700.HK-Nomura-China Internet  New Media - AI Office Agent a new battlegr...-124671200.pdf](行业研究-互联网/2026-10-01-0700.HK-Nomura-China Internet  New Media - AI Office Agent a new battlegr...-124671200.pdf)
 - [2026-10-04-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – August 20...-124725178.pdf](行业研究-互联网/2026-10-04-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – August 20...-124725178.pdf)
+- [2026-10-19-0700.HK-Nomura-Quick Note - China e-commerce - China e-commerce market stag...-125012581.pdf](行业研究-互联网/2026-10-19-0700.HK-Nomura-Quick Note - China e-commerce - China e-commerce market stag...-125012581.pdf)
 - [2026-10-26-BofA Global Research-Internet - China Reminder China InternetAI Pulse Call th...-125147955.pdf](行业研究-互联网/2026-10-26-BofA Global Research-Internet - China Reminder China InternetAI Pulse Call th...-125147955.pdf)
 - [2026-10-29-PDD.OQ-Deutsche Bank-China E-commerce 3Q26 preview; Upgrade PDD to BUY-125261422.pdf](行业研究-互联网/2026-10-29-PDD.OQ-Deutsche Bank-China E-commerce 3Q26 preview; Upgrade PDD to BUY-125261422.pdf)
 - [doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf](行业研究-互联网/doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf)
