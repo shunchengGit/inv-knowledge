@@ -354,6 +354,7 @@
 - [2026-10-18-0700.HK-Nomura-Tencent Holdings (700 HK) (Buy) - Expecting weaker 3Q operat...-124998211.pdf](腾讯控股/2026-10-18-0700.HK-Nomura-Tencent Holdings (700 HK) (Buy) - Expecting weaker 3Q operat...-124998211.pdf)
 - [20260313-申万宏源-腾讯控股-0700.HK-AI时代核心受益者，超级入口与生态壁垒的再进化（腾讯控股深度之三）.pdf](腾讯控股/20260313-申万宏源-腾讯控股-0700.HK-AI时代核心受益者，超级入口与生态壁垒的再进化（腾讯控股深度之三）.pdf)
 - [20260410-华泰证券-腾讯控股-0700.HK-AI布局和云业务迎来拐点.pdf](腾讯控股/20260410-华泰证券-腾讯控股-0700.HK-AI布局和云业务迎来拐点.pdf)
+- [Tencent-2026-Interim-Report.pdf](腾讯控股/Tencent-2026-Interim-Report.pdf)
 - [tencent-2026-q2-h1-results.pdf](腾讯控股/tencent-2026-q2-h1-results.pdf)
 
 ## 英特尔
