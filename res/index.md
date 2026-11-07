@@ -293,6 +293,7 @@
 - [2026-10-21-600660.SS-Morgan Stanley-Fuyao Glass Industry Group Research Tactical Idea-125088078.pdf](福耀玻璃/2026-10-21-600660.SS-Morgan Stanley-Fuyao Glass Industry Group Research Tactical Idea-125088078.pdf)
 - [Fuyao-Glass-2026-H1-summary.pdf](福耀玻璃/Fuyao-Glass-2026-H1-summary.pdf)
 - [Fuyao-Glass-2026-H1.pdf](福耀玻璃/Fuyao-Glass-2026-H1.pdf)
+- [福耀玻璃2026年第一季度报告.pdf](福耀玻璃/福耀玻璃2026年第一季度报告.pdf)
 - [福耀玻璃2026年第三季度报告.pdf](福耀玻璃/福耀玻璃2026年第三季度报告.pdf)
 
 ## 策略研究
