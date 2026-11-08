@@ -85,8 +85,11 @@
 - [福耀玻璃：汽车大盘弱势充分计价，下半年基本面将底部修复（HSBC 7/22）](entries/fuyao-glass-2q26-hsbc-analysis.md) — Analysis
 - [网易摩根士丹利：无限大全球化与估值重评情景](entries/netease-ms-无限大全球化情景-2026-09-27.md) — Article
 - [网易摩根士丹利：暴雪多年内容管线的潜在正面映射](entries/netease-ms-暴雪内容管线-2026-09-15.md) — Article
+- [网易摩根士丹利：极限战场揭晓与射击新品增量边界](entries/netease-ms-ecc-redline-20261009.md) — Article
 - [网易摩根士丹利：核心利润上修与风险回报重估](entries/netease-ms-风险回报更新-2026-08-21.md) — Article
 - [网易摩根大通：存量游戏稳健但股价仍待爆款催化](entries/netease-jpm-存量游戏与新品催化-2026-08-21.md) — Article
+- [网易汇丰：短期盈利承压与明年新品增长预期并存](entries/netease-hsbc-2027-growth-intact-20261020.md) — Article
+- [网易野村：三季度收入偏弱但利润率扩张仍支撑营业盈利](entries/netease-nomura-quiet-quarter-20261021.md) — Article
 - [网易野村：二季度营业利润强劲但投资损失拖累净利](entries/netease-nomura-利润率与税费分化-2026-08-24.md) — Article
 - [美国银行台积电三季度前瞻与盈利现金流模型核对](entries/tsmc-bofa-q326-preview-20261012.md) — Analysis
 - [美国银行认为台积电与马斯克客户关系稳固但技术与控制权共享概率低](entries/tsmc-bofa-musk-20261005.md) — Analysis
