@@ -304,6 +304,9 @@
 - [美银福耀二季报：经营利润超预期但收入与净利偏弱，双市场目标价下调](entries/fuyao-bofa-2q26-core-beat-20260819.md) — 美银二季度营收较预期低4.6%、经营利润高5.1%、归母低3.7%；2026至2028年EPS降至3.49、4.14、4.72元，A/H目标价71元及71港元。
 - [野村证券中国互联网2026年5月月度流量与App跟踪报告](entries/野村证券中国互联网2026年5月月度流量与App跟踪报告.md) — 野村证券2026年5月中国App流量跟踪显示，整体MAS同比微增1.2%至12.8亿，拼多多DAU同比增8%领跑电商，小红书MTS出现2020年追踪以来首次同比下滑（-1%），腾讯微信保持19.0%时长份额。
 - [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — 野村证券2026年6月App跟踪显示，中国智能手机月活用户同比增1.2%至12.8亿、总时长增8.6%；豆包DAU达1.67亿且同比增3.3倍，字节系Top-50时长份额升至40.1%，跨境电商Temu全球MAU则转为同比下降2%。
+- [鱼跃医疗三季度国内渠道恢复与海外扩张的瑞银交流后更新](entries/鱼跃医疗-瑞银-20261026-国内恢复与海外扩张.md) — 鱼跃医疗2026年三季度收入20.42亿元、归母净利润2.88亿元，经营现金净流出0.24亿元；瑞银预测2027年海外收入约增30%，低于管理层45%至50%的目标。
+- [鱼跃医疗三季度收入利润略超一致预期但经营现金流转负](entries/鱼跃医疗-瑞银-20261023-三季报快评.md) — 瑞银2026年10月23日快评显示鱼跃医疗三季度收入和净利润同比增长8.3%和9.6%，销售与净利润较一致预期高约1%和2%，毛利率50.0%且经营现金流转负。
+- [鱼跃医疗二季度收入承压与研发投入上升的瑞银中报解读](entries/鱼跃医疗-瑞银-20260823-中报与研发投入.md) — 鱼跃医疗2026年上半年收入45.69亿元、归母净利润8.43亿元，分别同比下降1.9%和29.9%；瑞银因研发投入上调将2027年摊薄每股收益预测降至1.48元。
 
 ## Note
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — BNPP 2026-06-11. ETN Mobility/Dana RMT is clear positive: Mobility valued at $5.1bn (8.3x EV/EBITDA, 5.9x with $250m synergies). ETN gets $1.1bn cash for deleveraging (net leverage 3.1x). Accelerates focus on high-growth Electrical + Aerospace. Data center to reach 34% of sales in 2027. ETN at ~24x 2027E PE is undervalued, expect re-rating. PT $490. Top Pick.
