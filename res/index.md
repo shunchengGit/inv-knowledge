@@ -623,3 +623,4 @@
 
 ## 鱼跃医疗
 - [2026-08-23-002223.SZ-UBS Equities-First Read Yuyue Medical _Mixed Q226; OPEX might remain ele...-124007695.pdf](鱼跃医疗/2026-08-23-002223.SZ-UBS Equities-First Read Yuyue Medical _Mixed Q226; OPEX might remain ele...-124007695.pdf)
+- [2026-10-23-002223.SZ-UBS Equities-UBS Fast Take Yuyue Medical _Q326 salesNP beat VA consens...-125126608.pdf](鱼跃医疗/2026-10-23-002223.SZ-UBS Equities-UBS Fast Take Yuyue Medical _Q326 salesNP beat VA consens...-125126608.pdf)
