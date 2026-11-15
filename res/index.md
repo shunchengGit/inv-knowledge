@@ -626,6 +626,7 @@
 - [2025-08-23-鱼跃医疗-2025H1-完整报告.pdf](鱼跃医疗/2025-08-23-鱼跃医疗-2025H1-完整报告.pdf)
 - [2025-10-25-鱼跃医疗-2025Q3-完整报告.pdf](鱼跃医疗/2025-10-25-鱼跃医疗-2025Q3-完整报告.pdf)
 - [2026-04-25-鱼跃医疗-2025FY-完整报告.pdf](鱼跃医疗/2026-04-25-鱼跃医疗-2025FY-完整报告.pdf)
+- [2026-08-22-鱼跃医疗-2026H1-完整报告.pdf](鱼跃医疗/2026-08-22-鱼跃医疗-2026H1-完整报告.pdf)
 - [2026-08-23-002223.SZ-UBS Equities-First Read Yuyue Medical _Mixed Q226; OPEX might remain ele...-124007695.pdf](鱼跃医疗/2026-08-23-002223.SZ-UBS Equities-First Read Yuyue Medical _Mixed Q226; OPEX might remain ele...-124007695.pdf)
 - [2026-10-23-002223.SZ-UBS Equities-UBS Fast Take Yuyue Medical _Q326 salesNP beat VA consens...-125126608.pdf](鱼跃医疗/2026-10-23-002223.SZ-UBS Equities-UBS Fast Take Yuyue Medical _Q326 salesNP beat VA consens...-125126608.pdf)
 - [2026-10-26-002223.SZ-UBS Equities-First Read Yuyue Medical _Q326 beat with China recoveryove...-125148026.pdf](鱼跃医疗/2026-10-26-002223.SZ-UBS Equities-First Read Yuyue Medical _Q326 beat with China recoveryove...-125148026.pdf)
