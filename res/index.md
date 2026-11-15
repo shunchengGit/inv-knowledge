@@ -622,6 +622,7 @@
 - [2026-04-30-601012.SS-UBS Equities-快评 隆基绿能 _FY251Q26业绩疲弱，但组件板块有望于3Q26扭亏为盈_ (买入) 严-121730825.pdf](隆基绿能/2026-04-30-601012.SS-UBS Equities-快评 隆基绿能 _FY251Q26业绩疲弱，但组件板块有望于3Q26扭亏为盈_ (买入) 严-121730825.pdf)
 
 ## 鱼跃医疗
+- [2026-04-25-鱼跃医疗-2025FY-完整报告.pdf](鱼跃医疗/2026-04-25-鱼跃医疗-2025FY-完整报告.pdf)
 - [2026-08-23-002223.SZ-UBS Equities-First Read Yuyue Medical _Mixed Q226; OPEX might remain ele...-124007695.pdf](鱼跃医疗/2026-08-23-002223.SZ-UBS Equities-First Read Yuyue Medical _Mixed Q226; OPEX might remain ele...-124007695.pdf)
 - [2026-10-23-002223.SZ-UBS Equities-UBS Fast Take Yuyue Medical _Q326 salesNP beat VA consens...-125126608.pdf](鱼跃医疗/2026-10-23-002223.SZ-UBS Equities-UBS Fast Take Yuyue Medical _Q326 salesNP beat VA consens...-125126608.pdf)
 - [2026-10-26-002223.SZ-UBS Equities-First Read Yuyue Medical _Q326 beat with China recoveryove...-125148026.pdf](鱼跃医疗/2026-10-26-002223.SZ-UBS Equities-First Read Yuyue Medical _Q326 beat with China recoveryove...-125148026.pdf)
