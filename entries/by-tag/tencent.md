@@ -20,6 +20,9 @@
 - [瑞银腾讯三季度前瞻：AI投入压低利润，盈利下修或延续至2027年](entries/tencent-ubs-q326-preview-20261014.md) — Article
 - [申万宏源腾讯深度之三：AI时代核心受益者，超级入口与生态壁垒的再进化](entries/申万宏源腾讯深度之三-AI时代核心受益者-超级入口与生态壁垒的再进化.md) — Analysis
 - [腾讯发布并开源Hy4 preview：770B MoE与1M上下文进入国产开源第一梯队](entries/腾讯发布并开源Hy4-preview-770B-MoE与1M上下文进入国产开源第一梯队.md) — Reference
+- [腾讯控股2023年官方年报：收入609,015百万元，归母盈利115,216百万元](entries/tencent-2023-annual-official-report.md) — Reference
+- [腾讯控股2024年官方年报：收入660,257百万元，归母盈利194,073百万元](entries/tencent-2024-annual-official-report.md) — Reference
+- [腾讯控股2025年官方年报：收入751,766百万元，归母盈利224,842百万元](entries/tencent-2025-annual-official-report.md) — Reference
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis
 - [腾讯控股2026Q2及H1官方业绩：营收增长11%，Non-IFRS净利增长9%](entries/tencent-2026-q2-h1-official-results.md) — Reference
 - [腾讯控股2026完整中期报告：上半年收入4012亿元与财务附注基准](entries/tencent-2026-complete-interim-report.md) — Reference
