@@ -620,3 +620,6 @@
 - [2026-04-30-601012.SS-JPMorgan-LONGi Green - A FY251Q26 briefing takeaways Pushing on BC ...-121727238.pdf](隆基绿能/2026-04-30-601012.SS-JPMorgan-LONGi Green - A FY251Q26 briefing takeaways Pushing on BC ...-121727238.pdf)
 - [2026-04-30-601012.SS-UBS Equities-First Read Longi Green Energy Technology _Weak FY251Q26 re...-121730786.pdf](隆基绿能/2026-04-30-601012.SS-UBS Equities-First Read Longi Green Energy Technology _Weak FY251Q26 re...-121730786.pdf)
 - [2026-04-30-601012.SS-UBS Equities-快评 隆基绿能 _FY251Q26业绩疲弱，但组件板块有望于3Q26扭亏为盈_ (买入) 严-121730825.pdf](隆基绿能/2026-04-30-601012.SS-UBS Equities-快评 隆基绿能 _FY251Q26业绩疲弱，但组件板块有望于3Q26扭亏为盈_ (买入) 严-121730825.pdf)
+
+## 鱼跃医疗
+- [2026-08-23-002223.SZ-UBS Equities-First Read Yuyue Medical _Mixed Q226; OPEX might remain ele...-124007695.pdf](鱼跃医疗/2026-08-23-002223.SZ-UBS Equities-First Read Yuyue Medical _Mixed Q226; OPEX might remain ele...-124007695.pdf)
