@@ -1,6 +1,5 @@
 # official-source
 
-- [2026年持仓公司官方财报导航与完整性缺口](entries/holdings-2026-official-financial-report-navigation.md) — Note
 - [Alphabet谷歌2026年三季度官方10-Q：资本投入、融资与普通股收益基准](entries/alphabet-2026-q3-official-10q.md) — Reference
 - [Alphabet谷歌2026年三季度官方业绩公告：搜索增长12%与云增长103%](entries/alphabet-2026-q3-official-earnings.md) — Reference
 - [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — Reference
@@ -22,6 +21,7 @@
 - [宁波银行2026年第一季度正式报告：营收利润双位数增长，不良率0.76%](entries/bank-of-ningbo-2026-q1-official-report.md) — Reference
 - [希音国际2026年港股招股书：418亿美元收入与关税压力下的全球时尚平台](entries/希音国际2026年港股招股书-全球线上时尚平台与关税压力.md) — Reference
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
+- [持仓公司官方财报导航：2023—2025年度底座与2026年缺口快照](entries/holdings-2026-official-financial-report-navigation.md) — Note
 - [梅卡曼德机器人2026年港股招股书：收入三年复合增长46.6%的眼脑手组件龙头](entries/梅卡曼德机器人2026年港股招股书-智能机器人眼脑手组件龙头.md) — Reference
 - [福耀玻璃2023年官方年报：营收增长18.02%，归母净利润增长18.37%](entries/fuyao-glass-2023-annual-official-report.md) — Reference
 - [福耀玻璃2024年官方年报：营收增长18.37%，归母净利润增长33.20%](entries/fuyao-glass-2024-annual-official-report.md) — Reference

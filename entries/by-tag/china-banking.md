@@ -10,6 +10,7 @@
 - [UBS中国银行2Q26前瞻：收入仍稳健但利润增速滞后](entries/UBS中国银行2Q26前瞻-收入仍稳健但利润增速滞后.md) — Analysis
 - [UBS大中华区银行业日报2026-07-03：股东高管增持潮、香港2025年AUM创历史新高](entries/UBS大中华区银行业日报2026-07-03.md) — Analysis
 - [UBS大中华银行日报2026-08-24：财政贴息扩围托底信贷，长债收益率下行引发久期监管](entries/UBS大中华银行日报2026-08-24-财政贴息与长债监管.md) — Analysis
+- [UBS大中华银行日报：央行明确"十五五"金融改革方向，1-7月科技贷款同比+17.9%](entries/ubs-greater-china-banks-daily-pboc-15th-five-year-20260911.md) — Article
 - [UBS大中华银行路演反馈：投资兴趣回升与高股息防御配置](entries/UBS大中华银行路演反馈-投资兴趣回升与高股息防御配置.md) — Analysis
 - [德银中国银行三季度前瞻：息差企稳支撑利润，拨备与零售风险仍制约修复](entries/db-china-banks-3q26-preview-20261029.md) — Article
 - [瑞银大中华银行日报：无抵押消费信贷多年拨备压力与地方债提前额度](entries/ubs-greater-china-banks-daily-unsecured-npl-20261026.md) — Article

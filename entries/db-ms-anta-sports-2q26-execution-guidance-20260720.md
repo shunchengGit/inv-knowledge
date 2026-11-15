@@ -5,7 +5,7 @@ description: 德银与大摩联合复盘安踏2Q26表现，安踏主品牌与FIL
 timestamp: 2026-07-20T09:00:00+08:00
 resource: res/安踏体育/2026-07-19-DB-Anta-2Q-Resilient-Execution.pdf
 source_type: pdf
-tags: [anta-sports, 2Q26, retail-sales, inventory-management, cross-check]
+tags: [anta-sports, 2026-Q2, retail-sales, inventory-management, cross-check]
 ---
 
 # 德意志银行与摩根士丹利安踏体育2026年Q2经营走势与指引交叉验证

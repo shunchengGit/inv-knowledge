@@ -5,7 +5,7 @@ description: Morgan Stanley于2026年10月2日估计2026年8月86.6%的制造业
 timestamp: 2026-10-06T23:59:00+08:00
 resource: res/行业研究-金融/2026-10-02-Morgan Stanley-China Financials Tracking industrial risks good control on...-124680282.pdf
 source_type: pdf
-tags: [china-financials, industrial-profits, deleveraging, 2026-08]
+tags: [china-financials, industrial-profits, de-leveraging, 2026-08]
 ---
 
 # Morgan Stanley中国金融：工业产能风险改善为去杠杆创造条件

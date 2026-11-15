@@ -5,7 +5,7 @@ description: 野村10月19日报告称9月中国电商商品销售同比仅增0.
 timestamp: 2026-10-19T00:00:00+08:00
 resource: "res/行业研究-互联网/2026-10-19-0700.HK-Nomura-Quick Note - China e-commerce - China e-commerce market stag...-125012581.pdf"
 source_type: pdf
-tags: [china-internet, ecommerce, profit-trend, risk-factor, 2026-Q3]
+tags: [china-internet, e-commerce, profit-trend, risk-factor, 2026-Q3]
 ---
 
 # 野村中国电商9月点评：线上商品销售近乎停滞，渗透率同比下降

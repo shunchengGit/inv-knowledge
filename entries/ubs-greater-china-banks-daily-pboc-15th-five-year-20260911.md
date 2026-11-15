@@ -5,7 +5,7 @@ description: UBS 2026-09-11大中华银行日报：央行副行长陆磊披露"�
 timestamp: 2026-09-11T00:00:00+08:00
 resource: res/行业研究-银行/2026-09-11-UBS Equities-Greater China Banks Daily _PBOC outlines the 15th five-year ...-124320804.pdf
 source_type: pdf
-tags: [china-banks, pboc, monetary-policy, 15th-five-year-plan, tech-loans, 2026-Q3]
+tags: [china-banking, pboc, monetary-policy, 15th-five-year-plan, tech-loans, 2026-Q3]
 ---
 
 # UBS大中华银行日报：央行明确"十五五"金融改革方向，1-7月科技贷款同比+17.9%

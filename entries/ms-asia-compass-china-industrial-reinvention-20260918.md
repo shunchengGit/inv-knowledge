@@ -5,7 +5,7 @@ description: 摩根士丹利2026-09-18 Asia Compass泛亚研究总监Stoklosa：
 timestamp: 2026-09-18T00:00:00+08:00
 resource: res/行业研究-工业/2026-09-18-Morgan Stanley-Asia Compass China’s Industrial Reinvention-124437913.pdf
 source_type: pdf
-tags: [china-industrial, industry-5-0, sodium-battery, manufacturing, ai-energy-flywheel, 2026-Q3]
+tags: [china-industrials, industry-5-0, sodium-battery, manufacturing, ai-energy-flywheel, 2026-Q3]
 ---
 
 # 摩根士丹利Asia Compass：中国工业再造——从"世界工厂"到"工业操作系统"

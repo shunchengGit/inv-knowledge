@@ -10,7 +10,7 @@ source_type: pdf
 tags:
 - short-drama
 - ai-content
-- byte-dance
+- bytedance
 - internet
 - 2026-Q2
 ---

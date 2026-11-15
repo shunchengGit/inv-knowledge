@@ -1,6 +1,5 @@
 # baseline-data
 
-- [2026年持仓公司官方财报导航与完整性缺口](entries/holdings-2026-official-financial-report-navigation.md) — Note
 - [Alphabet谷歌2026年三季度官方10-Q：资本投入、融资与普通股收益基准](entries/alphabet-2026-q3-official-10q.md) — Reference
 - [Alphabet谷歌2026年三季度官方业绩公告：搜索增长12%与云增长103%](entries/alphabet-2026-q3-official-earnings.md) — Reference
 - [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — Reference
@@ -23,6 +22,7 @@
 - [宁波银行2026年第一季度正式报告：营收利润双位数增长，不良率0.76%](entries/bank-of-ningbo-2026-q1-official-report.md) — Reference
 - [小摩中港地产黄金周初评：二手成交增59%，政策脉冲仍待持续性验证](entries/jpm-mainland-hk-property-golden-week-20261009.md) — Article
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
+- [持仓公司官方财报导航：2023—2025年度底座与2026年缺口快照](entries/holdings-2026-official-financial-report-navigation.md) — Note
 - [摩根大通地产监测：内地领先指标转弱，香港新盘去化取决于定价](entries/jpm-property-data-monitor-leading-indicators-2026-10-28.md) — Analysis
 - [摩根大通深圳地产专家会：供给收缩支撑二手房企稳但回款与存量产品承压](entries/jpm-shenzhen-expert-market-stabilization-2026-10-29.md) — Analysis
 - [江波龙港股IPO聆讯后资料集-全球第九大存储产品企业-2026年极端上行周期毛利率57.5%](entries/江波龙港股IPO-PHIP-2026-08-23.md) — Reference

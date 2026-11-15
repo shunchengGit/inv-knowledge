@@ -306,11 +306,11 @@
 - [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — 野村证券2026年6月App跟踪显示，中国智能手机月活用户同比增1.2%至12.8亿、总时长增8.6%；豆包DAU达1.67亿且同比增3.3倍，字节系Top-50时长份额升至40.1%，跨境电商Temu全球MAU则转为同比下降2%。
 
 ## Note
-- [2026年持仓公司官方财报导航与完整性缺口](entries/holdings-2026-official-financial-report-navigation.md) — 截至2026年11月7日，五家公司Q1与Q2或H1官方材料均在库；福耀、宁波、谷歌Q3齐备，台积电Q3仅业绩公告、完整附注财报待补，腾讯Q3尚待披露核验。
 - [BNP Paribas: ETN Mobility/Dana RMT Transaction](entries/BNP-Paribas-ETN-Mobility-Dana-RMT-Transaction.md) — BNPP 2026-06-11. ETN Mobility/Dana RMT is clear positive: Mobility valued at $5.1bn (8.3x EV/EBITDA, 5.9x with $250m synergies). ETN gets $1.1bn cash for deleveraging (net leverage 3.1x). Accelerates focus on high-growth Electrical + Aerospace. Data center to reach 34% of sales in 2027. ETN at ~24x 2027E PE is undervalued, expect re-rating. PT $490. Top Pick.
 - [Deutsche Bank: ETN 1Q Wrap](entries/Deutsche-Bank-ETN-1Q-Wrap.md) — DB 2026-05-05. ETN 1Q: EA margin 25.6% (-440bps YoY) on capacity expansion + cost inflation. Orders strong (+60% EA). 2H margin recovery to >30% expected. 2026 adj EPS $13.38. PT $461 (27x NTM). Risks: DC capex slowdown, utility investment slowdown, M&A execution.
 - [JPMorgan: ETN 1Q Wrap and Model Update](entries/JPMorgan-ETN-1Q-Wrap-and-Model-Update.md) — JPM 2026-05-06. ETN 1Q: Sales beat (+10% organic vs 6.5% est), EA margin miss (25.6% vs 27.2% est). Data center orders +240%, record EA backlog. DC to be 25-30% of 2026 sales, 35% in 2027. 2027 EPS raised 5% to $16.15. PT $445 (20% sector premium). Maintain OW.
 - [Morgan Stanley: ETN Under-Appreciated Transformation](entries/Morgan-Stanley-ETN-Under-Appreciated-Transformation.md) — MS 2026-05-08. ETN portfolio transformation under-appreciated: Mobility spin-off + Dana RMT ($5.1bn, 8.3x EV/EBITDA), Boyd acquisition. Data center to grow from 21% (2025) to 34% (2027). 2027 EPS $15.91 (P/E 25x). Market too focused on 2026 margin uncertainty, missing 2027 structural re-rating. PT $500. Maintain OW.
+- [持仓公司官方财报导航：2023—2025年度底座与2026年缺口快照](entries/holdings-2026-official-financial-report-navigation.md) — 五家公司2023—2025年度官方底座已在库；台积电2024及2025经营年报与独立审计财报配套。2026年缺口沿用2026年11月7日核验快照，非当前披露状态。
 
 ## Reference
 - [Alphabet谷歌2026年三季度官方10-Q：资本投入、融资与普通股收益基准](entries/alphabet-2026-q3-official-10q.md) — 季度收入1275.77亿美元、普通股摊薄EPS2.12美元；现金FCF负90.65亿美元，需结合租赁、融资与稀释理解盈利现金差异。
