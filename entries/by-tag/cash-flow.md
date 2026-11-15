@@ -1,5 +1,7 @@
 # cash-flow
 
+- [台积电2024年完整审计合并财报及附注：经营现金流1,826,177,068千新台币](entries/tsmc-2024-annual-audited-financial-statements.md) — Reference
+- [台积电2025年完整审计合并财报及附注：经营现金流2,274,975,625千新台币](entries/tsmc-2025-annual-audited-financial-statements.md) — Reference
 - [台积电2026Q1完整官方财报：营收1.134万亿元、归母净利5724.80亿元及附注](entries/tsmc-2026-q1-official-full-statements.md) — Reference
 - [台积电2026Q2完整官方财报：半年现金流与VIS处置收益核验](entries/tsmc-2026-q2-official-full-statements.md) — Reference
 - [台积电2026Q2官方业绩：营收增长36%，净利润增长77%，2nm开始贡献收入](entries/tsmc-2026-q2-official-results.md) — Reference
