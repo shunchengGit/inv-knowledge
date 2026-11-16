@@ -478,6 +478,7 @@
 - [2026-10-19-0700.HK-Nomura-Quick Note - China e-commerce - China e-commerce market stag...-125012581.pdf](行业研究-互联网/2026-10-19-0700.HK-Nomura-Quick Note - China e-commerce - China e-commerce market stag...-125012581.pdf)
 - [2026-10-26-BofA Global Research-Internet - China Reminder China InternetAI Pulse Call th...-125147955.pdf](行业研究-互联网/2026-10-26-BofA Global Research-Internet - China Reminder China InternetAI Pulse Call th...-125147955.pdf)
 - [2026-10-29-PDD.OQ-Deutsche Bank-China E-commerce 3Q26 preview; Upgrade PDD to BUY-125261422.pdf](行业研究-互联网/2026-10-29-PDD.OQ-Deutsche Bank-China E-commerce 3Q26 preview; Upgrade PDD to BUY-125261422.pdf)
+- [2026-11-11-Morgan Stanley-China Internet and Other Services GenAI Marketing Deck-125531602.pdf](行业研究-互联网/2026-11-11-Morgan Stanley-China Internet and Other Services GenAI Marketing Deck-125531602.pdf)
 - [doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf](行业研究-互联网/doc_198c7ad722bc_2026-07-29-9898.HK-Nomura-China Internet  New Media - Monthly App Tracker – June 2026-123465439.pdf)
 - [doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf](行业研究-互联网/doc_2eda3aa8a7d4_2026-08-03-BofA Global Research-Internet - China AI Watch DeepSeek V4 Flash official launc...-123569115.pdf)
 - [doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf](行业研究-互联网/doc_5cf819e84703_2026-08-03-Jefferies-AI Series #63 China CSP Focus Areas in Earnings.pdf)
