@@ -2,6 +2,7 @@
 
 - [Alphabet谷歌2026年三季度官方10-Q：资本投入、融资与普通股收益基准](entries/alphabet-2026-q3-official-10q.md) — Reference
 - [Alphabet谷歌2026年三季度官方业绩公告：搜索增长12%与云增长103%](entries/alphabet-2026-q3-official-earnings.md) — Reference
+- [Salesforce汇丰二季报：AI经常性收入加速，核心业务放缓与投资收益须分离](entries/salesforce-hsbc-ai-acceleration-20260828.md) — Analysis
 - [东方电气2026年半年度报告：订单增长6.71%，扣非利润增长30.96%](entries/dongfang-electric-2026-h1-official-report.md) — Reference
 - [传音控股港股IPO招股章程-非洲手机之王赴港双重上市-存储周期与第二增长曲线](entries/传音控股港股IPO招股章程-2026-10-07.md) — Reference
 - [台积电2023年官方年报：收入2,161,735,841千新台币，摊薄EPS32.34元](entries/tsmc-2023-annual-official-report.md) — Reference

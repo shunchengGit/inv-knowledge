@@ -13,6 +13,8 @@
 - [MSFT FQ3'26 财报速览：Azure加速 + Copilot起飞 (BNP Paribas/HSBC/UBS综合)](entries/MSFT-FQ3-26-财报速览-Azure加速-Copilot起飞-BNP-Paribas-HSBC-UBS综合.md) — Synthesis
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — Analysis
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Analysis
+- [Salesforce瑞银Claudeforce初评：预置技能与权限集成的价值仍待付费验证](entries/salesforce-ubs-new-ai-story-20260910.md) — Analysis
+- [ServiceNow美银三季报前瞻：AI采用支撑溢价，目标价升至180美元](entries/servicenow-bofa-q326-preview-20261023.md) — Analysis
 - [UBS中国在线娱乐2026年7月月报：腾讯网易游戏韧性延续，短视频继续挤压长视频](entries/ubs-china-online-entertainment-monthly-2026-07.md) — Analysis
 - [东方电气01072.HK价值成长QARP深度分析](entries/dongfang-electric-qarp-analysis-2026-07.md) — Analysis
 - [东方电气G50燃机首台整机启运哈萨克斯坦——国产F级重型燃机首次整机出口](entries/dongfang-electric-g50-first-export-kazakhstan-2026-08.md) — Article

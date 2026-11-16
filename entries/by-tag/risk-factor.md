@@ -5,6 +5,9 @@
 - [Broadcom FY26Q2多投行研报汇总：业绩小幅超预期，AI高预期与后端瓶颈并存](entries/broadcom-AVGO-FY26Q2-multi-bank-analysis.md) — Synthesis
 - [JPMorgan中国地产-预售制逐步退出政策点评-利好贝壳与头部国企开发商](entries/jpm-中国地产-预售制逐步退出-2026-08.md) — Analysis
 - [Meta 1Q26业绩超预期但资本开支上调：三家投行对AI回报与FCF存在分歧](entries/Meta-1Q26-Results-Capex-BofA-DB-JPM-20260430.md) — Synthesis
+- [Salesforce瑞银Braze收购初评：补强营销云但并购增速不等于有机复苏](entries/salesforce-ubs-braze-acquisition-20261020.md) — Analysis
+- [ServiceNow摩根士丹利三季报：AI进展尚未带动整体加速，目标价降至160美元](entries/servicenow-ms-q326-ai-growth-20261029.md) — Analysis
+- [ServiceNow麦格理三季报：订阅增长放缓更明显，120美元目标价源于同业重估](entries/servicenow-macquarie-q326-deceleration-20261029.md) — Analysis
 - [三花智控H股BofA：核心经营超预期，但约27倍PE难匹配10%增长](entries/BofA-Zhejiang-Sanhua-1Q26-Core-Beat.md) — Analysis
 - [三花智控UBS：1Q26扣非利润增长15.5%，制冷承压而液冷逐步兑现](entries/UBS-Zhejiang-Sanhua-Intelligent-Controls-Q126-Revenue.md) — Analysis
 - [世界先进VIS：中介层业务改善与VSMC资本支出下调，野村升级买入](entries/日月光投控中介层业务超预期VSMC资本支出降低.md) — Analysis
@@ -79,6 +82,14 @@
 - [谷歌Alphabet2025年官方年报：收入402,836百万美元与云业务经营基准](entries/alphabet-2025-annual-official-report.md) — Reference
 - [谷歌Alphabet二〇二六年一季报官方基准：云增长63%，投资收益须与经营利润分离](entries/alphabet-2026-q1-official-report.md) — Reference
 - [谷歌Alphabet二〇二六年二季报官方基准：云增长82%，巨额投资收益不等于经营利润](entries/alphabet-2026-q2-official-report.md) — Reference
+- [迈瑞医疗大摩三季度电话会：IVD以量补价，2027年原料成本增加3至4亿元](entries/mindray-ms-call-takeaways-20261030.md) — Analysis
+- [迈瑞医疗大摩三季报后模型更新：2027至2028年EPS下调，210元目标价不变](entries/mindray-ms-risk-reward-20261030.md) — Analysis
+- [迈瑞医疗大摩三季报快评：增速放缓符合预期，分部增速与瑞银存在差异](entries/mindray-ms-q326-first-take-20261029.md) — Analysis
+- [迈瑞医疗大摩中报后风险回报更新：国内IVD抵消设备压力，目标价210元](entries/mindray-ms-risk-reward-20260831.md) — Analysis
+- [迈瑞医疗杰富瑞三季报：国内转向份额恢复，海外增长支撑300元目标价](entries/mindray-jefferies-share-gains-20261101.md) — Analysis
+- [迈瑞医疗瑞银A股会议反馈：去库存与长期价格压力并存，AI软件收入尚小](entries/mindray-ubs-conference-20260902.md) — Analysis
+- [迈瑞医疗瑞银三季报首读：归母23.87亿元超自家预期，毛利率61.4%](entries/mindray-ubs-q326-first-read-20261029.md) — Analysis
+- [迈瑞医疗瑞银会后上调目标价至225元：IVD与海外增长增强，毛利率仍承压](entries/mindray-ubs-ivd-overseas-pt-20261030.md) — Analysis
 - [野村中国电商9月点评：线上商品销售近乎停滞，渗透率同比下降](entries/nomura-china-ecommerce-september-stagnation-20261019.md) — Analysis
 - [野村腾讯三季度前瞻：AI投入压低经营利润，目标价降至659港元](entries/tencent-nomura-q326-preview-20261018.md) — Analysis
 - [鱼跃医疗2025年一季报官方全文与现金流基准](entries/鱼跃医疗-官方-2025Q1-完整财报.md) — Reference

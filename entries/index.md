@@ -85,7 +85,16 @@
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Nomura维持Buy评级，1Q26业绩超预期，上调TP至KRW 2,340,000。核心焦点：LTA将推动存储器行业从周期性转向结构性高盈利，降低风险溢价。
 - [Nova NDR要点](entries/Nova-NDR要点.md) — Jefferies Nova NDR要点：GAA机会扩展至三星英特尔、先进DRAM创纪录、混合键合打开新市场，目标价640美元、评级买入（44倍CY28E EPS 14.54美元）
 - [Reddit 2Q26广告高增长与Google搜索流量风险再平衡](entries/reddit-jpm-q2-2026-advertising-search-traffic.md) — Reddit 2Q26收入8.05亿美元同比增长61%，广告收入增长64%、活跃广告主增长70%以上，但美国DAUq环比减少30万；JPMorgan认为商业化强劲尚不足以抵消Google搜索流量不确定性，维持Neutral并设2027年底目标价185美元。
+- [Salesforce汇丰二季报：AI经常性收入加速，核心业务放缓与投资收益须分离](entries/salesforce-hsbc-ai-acceleration-20260828.md) — 汇丰记录2QFY27收入113.45亿美元、非GAAP EPS5.90美元，剔除投资收益后约3.37美元；AI组合ARR约39亿美元，但非AI核心有机固定汇率增速估计仅3%，目标价降至325美元。
+- [Salesforce瑞银Braze收购初评：补强营销云但并购增速不等于有机复苏](entries/salesforce-ubs-braze-acquisition-20261020.md) — 瑞银记录Salesforce拟每股现金47.50美元收购Braze，企业价值57亿美元，对应CY27E收入5倍及FCF31倍；Braze订阅增长逾20%但营业利润率约10%，交易或增厚收入增速并稀释利润率。
+- [Salesforce瑞银Claudeforce初评：预置技能与权限集成的价值仍待付费验证](entries/salesforce-ubs-new-ai-story-20260910.md) — 瑞银记录Claudeforce首个销售插件包含37项预置技能、约25家试点客户，用户需分别向Salesforce与模型商签约；FY28收入增量尚难判断，自建智能体仍可能绕过应用产品。
+- [Salesforce瑞银Dreamforce反馈：高价升级限制AI净增收入，增长路径后置](entries/salesforce-ubs-dreamforce-20260917.md) — 瑞银记录AIforce Max月费每席550美元、Core为195美元，另有60至75美元窄包；将FY28收入增速预测由10.7%降至10.0%，提示旧模块预算重配和用量收费延迟可能稀释新增价值。
+- [Salesforce瑞银二季报解读：有机增长指引不变，需求稳定胜于担忧](entries/salesforce-ubs-reaffirm-20260827.md) — 瑞银记录FY27有机固定汇率收入增长指引维持7%至8%，并购后仍维持约34%非GAAP营业利润率指引；目标价由210升至240美元，主要来自估值倍数上调而非增长预测跳升。
 - [SEMICON Taiwan 2026：AI驱动半导体制造创新，数据中心电力需求加速](entries/tsmc-bofa-semicon-taiwan-20260831.md) — BofA 8月31日SEMICON Taiwan纪要：TSMC预计数据中心电力容量从2025-30年每年30-40GW加速增长，2030年达300GW装机；AI推理token消耗自2022年增长500倍，2030年将再增24倍至120万亿；硅光子COUPE平台降低插入损耗，200Gbps向400Gbps演进。
+- [ServiceNow摩根士丹利三季报：AI进展尚未带动整体加速，目标价降至160美元](entries/servicenow-ms-q326-ai-growth-20261029.md) — 摩根士丹利估算ServiceNow三季度有机恒汇率cRPO增速由19%降至18%，AI ACV目标虽升至17亿美元，仍未带动总增长；维持Overweight但目标价180降至160美元，关注FDE投入及T4C口径影响。
+- [ServiceNow汇丰三季报：cRPO放缓主要是桥接噪声，维持179美元目标价](entries/servicenow-hsbc-q326-bridge-20261029.md) — 汇丰认为四季度18.5%的cRPO恒汇率增长指引经提前续约、联邦本地部署和T4C调整后约19.75%；AI ACV目标提高至17亿美元以上，维持Buy及179美元目标价，但下调2026至2028年EPS预测。
+- [ServiceNow美银三季报前瞻：AI采用支撑溢价，目标价升至180美元](entries/servicenow-bofa-q326-preview-20261023.md) — 美银预计ServiceNow三季度订阅收入增长20.6%、有机增长18.5%，将目标价由150升至180美元，核心变化是目标EV与2027年FCF倍数从23倍升至27倍，而非大幅上修盈利。
+- [ServiceNow麦格理三季报：订阅增长放缓更明显，120美元目标价源于同业重估](entries/servicenow-macquarie-q326-deceleration-20261029.md) — 麦格理维持ServiceNow Neutral，指出AI活跃指标尚未带动收入前景加速、专业服务投入拖累四季度订阅增速50基点；目标价110升至120美元主要源自同业倍数上升，全年FCF率36%指引受较低资本支出支持。
 - [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — 汇丰银行（HSBC）认为市场因2Q26短暂低于预期而过度抛售SK海力士，认为Agentic AI正引发比肩1990-95年的存储超级周期，HBM4溢价与SO-CAMM2普及将推动3Q26营业利润大增至79万亿韩元，重申Buy。
 - [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Macquarie指出SK海力士2Q26营业利润60.5万亿韩元（+61% QoQ），因NAND提价及DRAM均价增长；股价自高点腰斩，当前扣除净现金后2027E PE仅1倍（全表PE 2.5x），重申Outperform。
 - [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Morgan Stanley指出SK海力士2Q26营业利润60.5万亿韩元（OP率76%），因HBM3e组合过渡短期未能达最高共识；但下半年HBM4加速放量与多长单（LTA）锁定将显著提升盈利与FCF，维持Overweight。
@@ -245,6 +254,14 @@
 - [谷歌三季报瑞银首读：广告低预期与芯片销售利润率疑问](entries/googl-ubs-first-read-20261028.md) — 瑞银首读记录谷歌三季度搜索收入634亿美元低于共识649亿美元、云收入307亿美元高于共识292亿美元，但营业利润406亿美元低于434亿美元；云积压订单当时尚未披露，仍列380美元目标价。
 - [谷歌瑞银完整点评：订单增长未消除广告变现与芯片毛利疑问](entries/googl-ubs-questions-20261029.md) — 瑞银10月29日将谷歌目标价从380降至332美元，云积压订单5610亿美元高于其5380亿美元预测；2027年云收入预测3113亿美元，但搜索增速12%低于共识15%，报告降幅与估值算式存在未解释矛盾。
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — 茅台2026年3月飞天出厂价提至Rmb1,269（+8.6%），1Q26收入+6.3%但毛利率-331bp；MS维持OW（PT Rmb1,790），BofA Buy（PT Rmb1,630），Jefferies Buy（PT Rmb2,100），共识聚焦2H26结构性增长
+- [迈瑞医疗大摩三季度电话会：IVD以量补价，2027年原料成本增加3至4亿元](entries/mindray-ms-call-takeaways-20261030.md) — 大摩电话会转述迈瑞2027年国内IVD目标增长10%、新业务20%；约30%试剂销售或面临约10%出厂降价，原料成本增加3至4亿元令毛利率继续承压。
+- [迈瑞医疗大摩三季报后模型更新：2027至2028年EPS下调，210元目标价不变](entries/mindray-ms-risk-reward-20261030.md) — 大摩2026至2028年EPS改为6.35、7.03、7.89元，修订约正1%、负3%、负4%；原料成本压低毛利率假设，但DCF目标价210元及增持评级维持。
+- [迈瑞医疗大摩三季报快评：增速放缓符合预期，分部增速与瑞银存在差异](entries/mindray-ms-q326-first-take-20261029.md) — 大摩记录迈瑞三季度收入增长2.9%、净利下降4.6%，其分部增长为IVD正3%、PMLS负13%、MIS负14%、新业务正27%；与瑞银估算明显不同，分别保留。
+- [迈瑞医疗大摩中报后风险回报更新：国内IVD抵消设备压力，目标价210元](entries/mindray-ms-risk-reward-20260831.md) — 大摩维持迈瑞增持与210元目标价，2026至2028年EPS预测为6.28、7.27、8.23元；正文称调整幅度为约正1%、零及负1%，但首页前值6.07元与2026年调整百分比不一致。
+- [迈瑞医疗杰富瑞三季报：国内转向份额恢复，海外增长支撑300元目标价](entries/mindray-jefferies-share-gains-20261101.md) — 杰富瑞维持迈瑞Buy和Top Pick，DCF目标价300元；2026至2028年EPS预测7.01、8.49、9.96元，国内化学发光前三季度正5%、三季度环比正7%，海外前三季度人民币正11%、美元正16%。
+- [迈瑞医疗瑞银A股会议反馈：去库存与长期价格压力并存，AI软件收入尚小](entries/mindray-ubs-conference-20260902.md) — 瑞银9月2日转述迈瑞下半年去库存9亿元、年底渠道库存40多亿元目标；维持买入与216元目标价，2026至2028年摊薄EPS预测6.93、7.75、8.37元。
+- [迈瑞医疗瑞银三季报首读：归母23.87亿元超自家预期，毛利率61.4%](entries/mindray-ubs-q326-first-read-20261029.md) — 瑞银三季报首读列迈瑞收入93.50亿元、归母23.87亿元，分别较UBS预期高约1%及4%；2027毛利率持平为当日转述，次日更新改为下降。
+- [迈瑞医疗瑞银会后上调目标价至225元：IVD与海外增长增强，毛利率仍承压](entries/mindray-ubs-ivd-overseas-pt-20261030.md) — 瑞银上调迈瑞目标价215至225元，2026至2028年摊薄EPS为6.63、7.92、8.60元；公司预计2027年原料成本增加3至4亿元，毛利率下降，海外固定汇率收入增长15%以上。
 - [野村2026年8月应用跟踪：字节时长份额扩大，流量规模与使用深度分化](entries/nomura-china-internet-app-tracker-august-2026.md) — 野村8月应用跟踪显示中国MAS为12.8亿、总时长同比增8.1%，字节系Top-50应用时长份额41.8%；抖省省MAU升至9900万但人均日时长仅4.7分钟，企业办公、AI、电商及招聘流量呈明显分化。
 - [野村AI办公智能体专家访谈：企业上下文与协同平台成为竞争焦点](entries/nomura-ai-office-agent-enterprise-context-20261001.md) — 野村访谈企业销售专家，认为AI办公智能体竞争重心转向企业文档、权限和工作流，飞书与钉钉的既有部署或形成迁移壁垒；腾讯WorkBuddy的消费端先发优势不等同于企业优势，报告未提供付费率、收入或市场份额量化验证。
 - [野村世界先进涨价强化二〇二七年盈利](entries/野村世界先进涨价强化二〇二七年盈利.md) — 世界先进第三季晶圆出货量指引环比增长1%至3%、平均售价增长2%至4%，管理层预期2027年调价幅度可能高于2026年；野村据此上调2027至2028年每股收益24%，并将目标价由178新台币提高至220新台币，判断涨价可抵消新加坡十二英寸厂爬坡的部分毛利率稀释。

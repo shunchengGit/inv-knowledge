@@ -16,6 +16,11 @@
 - [MSFT FQ3'26 深度分析：Capex飙升、Azure加速与定价模式转型 (UBS)](entries/MSFT-FQ3-26-深度分析-Capex飙升-Azure加速与定价模式转型-UBS.md) — Analysis
 - [MSFT：Anthropic合作有望成为Azure 430亿美元年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis
 - [Nomura: SK Hynix 1Q26 earnings beat; LTAs to make profitability sustainable](entries/Nomura-SK-Hynix-1Q26-earnings-beat-LTAs-to-make-profitability-sustainable.md) — Analysis
+- [Salesforce瑞银二季报解读：有机增长指引不变，需求稳定胜于担忧](entries/salesforce-ubs-reaffirm-20260827.md) — Analysis
+- [ServiceNow摩根士丹利三季报：AI进展尚未带动整体加速，目标价降至160美元](entries/servicenow-ms-q326-ai-growth-20261029.md) — Analysis
+- [ServiceNow汇丰三季报：cRPO放缓主要是桥接噪声，维持179美元目标价](entries/servicenow-hsbc-q326-bridge-20261029.md) — Analysis
+- [ServiceNow美银三季报前瞻：AI采用支撑溢价，目标价升至180美元](entries/servicenow-bofa-q326-preview-20261023.md) — Analysis
+- [ServiceNow麦格理三季报：订阅增长放缓更明显，120美元目标价源于同业重估](entries/servicenow-macquarie-q326-deceleration-20261029.md) — Analysis
 - [SK海力士HSBC 2Q26研报：情绪过度脱节，重申Buy与超级周期，目标价370万韩元](entries/sk-hynix-hsbc-2q26-update.md) — Analysis
 - [SK海力士Macquarie 2Q26研报：现金扣除后扣非PE仅1倍，股价严重超跌](entries/sk-hynix-macquarie-2q26-update.md) — Analysis
 - [SK海力士MS 2Q26研报：短期微小Miss不改下半年强劲反弹，目标价260万韩元](entries/sk-hynix-morgan-stanley-2q26-update.md) — Analysis
@@ -109,6 +114,14 @@
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — Analysis
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — Synthesis
 - [贵州茅台2026前瞻：飞天提价+渠道改革驱动结构性增长——MS/BofA/Jefferies一致看好](entries/贵州茅台2026前瞻-飞天提价与渠道改革驱动结构性增长.md) — Analysis
+- [迈瑞医疗大摩三季度电话会：IVD以量补价，2027年原料成本增加3至4亿元](entries/mindray-ms-call-takeaways-20261030.md) — Analysis
+- [迈瑞医疗大摩三季报后模型更新：2027至2028年EPS下调，210元目标价不变](entries/mindray-ms-risk-reward-20261030.md) — Analysis
+- [迈瑞医疗大摩三季报快评：增速放缓符合预期，分部增速与瑞银存在差异](entries/mindray-ms-q326-first-take-20261029.md) — Analysis
+- [迈瑞医疗大摩中报后风险回报更新：国内IVD抵消设备压力，目标价210元](entries/mindray-ms-risk-reward-20260831.md) — Analysis
+- [迈瑞医疗杰富瑞三季报：国内转向份额恢复，海外增长支撑300元目标价](entries/mindray-jefferies-share-gains-20261101.md) — Analysis
+- [迈瑞医疗瑞银A股会议反馈：去库存与长期价格压力并存，AI软件收入尚小](entries/mindray-ubs-conference-20260902.md) — Analysis
+- [迈瑞医疗瑞银三季报首读：归母23.87亿元超自家预期，毛利率61.4%](entries/mindray-ubs-q326-first-read-20261029.md) — Analysis
+- [迈瑞医疗瑞银会后上调目标价至225元：IVD与海外增长增强，毛利率仍承压](entries/mindray-ubs-ivd-overseas-pt-20261030.md) — Analysis
 - [野村腾讯三季度前瞻：AI投入压低经营利润，目标价降至659港元](entries/tencent-nomura-q326-preview-20261018.md) — Analysis
 - [鱼跃医疗三季度国内渠道恢复与海外扩张的瑞银交流后更新](entries/鱼跃医疗-瑞银-20261026-国内恢复与海外扩张.md) — Article
 - [鱼跃医疗三季度收入利润略超一致预期但经营现金流转负](entries/鱼跃医疗-瑞银-20261023-三季报快评.md) — Article
