@@ -616,6 +616,9 @@
 - [2026-04-26-600519.SS-BofA Global Research-Kweichow Moutai Co. Ltd. (A) 1Q a mixed bag; strong i-Mouta...-121639520.undefined.pdf](贵州茅台/2026-04-26-600519.SS-BofA Global Research-Kweichow Moutai Co. Ltd. (A) 1Q a mixed bag; strong i-Mouta...-121639520.undefined.pdf)
 - [2026-04-27-600519.SS-Jefferies-Positioned for Structural Growth from 2H26-121642799.pdf](贵州茅台/2026-04-27-600519.SS-Jefferies-Positioned for Structural Growth from 2H26-121642799.pdf)
 
+## 迈瑞医疗
+- [2026-08-31-300760.SZ-Morgan Stanley-Mindray Bio-Medical Risk Reward Update-124113775.pdf](迈瑞医疗/2026-08-31-300760.SZ-Morgan Stanley-Mindray Bio-Medical Risk Reward Update-124113775.pdf)
+
 ## 阿里巴巴
 - [2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview Change the...-121227574.pdf](阿里巴巴/2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview Change the...-121227574.pdf)
 - [2026-04-08-9988.HK-UBS Equities-First Read Alibaba Group _4QFY26 preview; higher AI investm...-121225497.pdf](阿里巴巴/2026-04-08-9988.HK-UBS Equities-First Read Alibaba Group _4QFY26 preview; higher AI investm...-121225497.pdf)
