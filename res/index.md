@@ -614,6 +614,7 @@
 - [2026-10-19-JPMorgan-China Regional Banks 3Q26 preview Core earnings growth to m...-125013191.pdf](行业研究-银行/2026-10-19-JPMorgan-China Regional Banks 3Q26 preview Core earnings growth to m...-125013191.pdf)
 - [2026-10-26-UBS Equities-Greater China Banks Daily _APAC Focus Stress-testing the un...-125145929.pdf](行业研究-银行/2026-10-26-UBS Equities-Greater China Banks Daily _APAC Focus Stress-testing the un...-125145929.pdf)
 - [2026-10-28-601288.SS-Deutsche Bank-China banks 3Q26 preview stable margins to underpin solid ...-125239204.pdf](行业研究-银行/2026-10-28-601288.SS-Deutsche Bank-China banks 3Q26 preview stable margins to underpin solid ...-125239204.pdf)
+- [2026-11-11-Morgan Stanley-China Financials Discussion of government bond taxation ma...-125553337.pdf](行业研究-银行/2026-11-11-Morgan Stanley-China Financials Discussion of government bond taxation ma...-125553337.pdf)
 
 ## 谷歌
 - [2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf](谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf)
