@@ -65,6 +65,7 @@
 - [2026-08-28-CRM.N-HSBC Global Investme-Salesforce Inc (CRM US) Buy Solid AI acceleration signals t...-124078381.pdf](Salesforce/2026-08-28-CRM.N-HSBC Global Investme-Salesforce Inc (CRM US) Buy Solid AI acceleration signals t...-124078381.pdf)
 - [2026-09-10-CRM.N-UBS Equities-Salesforce Inc _Initial Thoughts on the New AI Story_ (Neutr...-124319725.pdf](Salesforce/2026-09-10-CRM.N-UBS Equities-Salesforce Inc _Initial Thoughts on the New AI Story_ (Neutr...-124319725.pdf)
 - [2026-09-17-CRM.N-UBS Equities-Salesforce Inc _Dreamforce, AI and the Growth Potential_ (Ne...-124434981.pdf](Salesforce/2026-09-17-CRM.N-UBS Equities-Salesforce Inc _Dreamforce, AI and the Growth Potential_ (Ne...-124434981.pdf)
+- [2026-10-20-CRM.N-UBS Equities-Salesforce Inc _Initial Take on Braze Acquisition_ (Neutral)...-125057028.pdf](Salesforce/2026-10-20-CRM.N-UBS Equities-Salesforce Inc _Initial Take on Braze Acquisition_ (Neutral)...-125057028.pdf)
 
 ## 万国数据
 - [2026-05-21-9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls-122151620.pdf](万国数据/2026-05-21-9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls-122151620.pdf)
