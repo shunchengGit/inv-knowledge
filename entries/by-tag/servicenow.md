@@ -1,5 +1,20 @@
 # servicenow
 
+- [ServiceNowFY2023Q1单季官方完整财报：收入2,096百万美元与三表附注基准](entries/servicenow-official-fy2023-q1-10-q.md) — Reference
+- [ServiceNowFY2023Q2单季官方完整财报：收入2,150百万美元与三表附注基准](entries/servicenow-official-fy2023-q2-10-q.md) — Reference
+- [ServiceNowFY2023Q3单季官方完整财报：收入2,288百万美元与三表附注基准](entries/servicenow-official-fy2023-q3-10-q.md) — Reference
+- [ServiceNowFY2023全年官方完整财报：收入8,971百万美元与三表附注基准](entries/servicenow-official-fy2023-fy-10-k.md) — Reference
+- [ServiceNowFY2024Q1单季官方完整财报：收入2,603百万美元与三表附注基准](entries/servicenow-official-fy2024-q1-10-q.md) — Reference
+- [ServiceNowFY2024Q2单季官方完整财报：收入2,627百万美元与三表附注基准](entries/servicenow-official-fy2024-q2-10-q.md) — Reference
+- [ServiceNowFY2024Q3单季官方完整财报：收入2,797百万美元与三表附注基准](entries/servicenow-official-fy2024-q3-10-q.md) — Reference
+- [ServiceNowFY2024全年官方完整财报：收入10,984百万美元与三表附注基准](entries/servicenow-official-fy2024-fy-10-k.md) — Reference
+- [ServiceNowFY2025Q1单季官方完整财报：收入3,088百万美元与三表附注基准](entries/servicenow-official-fy2025-q1-10-q.md) — Reference
+- [ServiceNowFY2025Q2单季官方完整财报：收入3,215百万美元与三表附注基准](entries/servicenow-official-fy2025-q2-10-q.md) — Reference
+- [ServiceNowFY2025Q3单季官方完整财报：收入3,407百万美元与三表附注基准](entries/servicenow-official-fy2025-q3-10-q.md) — Reference
+- [ServiceNowFY2025全年官方完整财报：收入13,278百万美元与三表附注基准](entries/servicenow-official-fy2025-fy-10-k.md) — Reference
+- [ServiceNowFY2026Q1单季官方完整财报：收入3,770百万美元与三表附注基准](entries/servicenow-official-fy2026-q1-10-q.md) — Reference
+- [ServiceNowFY2026Q2单季官方完整财报：收入3,987百万美元与三表附注基准](entries/servicenow-official-fy2026-q2-10-q.md) — Reference
+- [ServiceNowFY2026Q3单季官方完整财报：收入4,106百万美元与三表附注基准](entries/servicenow-official-fy2026-q3-10-q.md) — Reference
 - [ServiceNow摩根士丹利三季报：AI进展尚未带动整体加速，目标价降至160美元](entries/servicenow-ms-q326-ai-growth-20261029.md) — Analysis
 - [ServiceNow汇丰三季报：cRPO放缓主要是桥接噪声，维持179美元目标价](entries/servicenow-hsbc-q326-bridge-20261029.md) — Analysis
 - [ServiceNow美银三季报前瞻：AI采用支撑溢价，目标价升至180美元](entries/servicenow-bofa-q326-preview-20261023.md) — Analysis

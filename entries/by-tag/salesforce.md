@@ -1,5 +1,19 @@
 # salesforce
 
+- [SalesforceFY2024Q1单季官方完整财报：收入8,247百万美元与三表附注基准](entries/salesforce-official-fy2024-q1-10-q.md) — Reference
+- [SalesforceFY2024Q2单季官方完整财报：收入8,603百万美元与三表附注基准](entries/salesforce-official-fy2024-q2-10-q.md) — Reference
+- [SalesforceFY2024Q3单季官方完整财报：收入8,720百万美元与三表附注基准](entries/salesforce-official-fy2024-q3-10-q.md) — Reference
+- [SalesforceFY2024全年官方完整财报：收入34,857百万美元与三表附注基准](entries/salesforce-official-fy2024-fy-10-k.md) — Reference
+- [SalesforceFY2025Q1单季官方完整财报：收入9,133百万美元与三表附注基准](entries/salesforce-official-fy2025-q1-10-q.md) — Reference
+- [SalesforceFY2025Q2单季官方完整财报：收入9,325百万美元与三表附注基准](entries/salesforce-official-fy2025-q2-10-q.md) — Reference
+- [SalesforceFY2025Q3单季官方完整财报：收入9,444百万美元与三表附注基准](entries/salesforce-official-fy2025-q3-10-q.md) — Reference
+- [SalesforceFY2025全年官方完整财报：收入37,895百万美元与三表附注基准](entries/salesforce-official-fy2025-fy-10-k.md) — Reference
+- [SalesforceFY2026Q1单季官方完整财报：收入9,829百万美元与三表附注基准](entries/salesforce-official-fy2026-q1-10-q.md) — Reference
+- [SalesforceFY2026Q2单季官方完整财报：收入10,236百万美元与三表附注基准](entries/salesforce-official-fy2026-q2-10-q.md) — Reference
+- [SalesforceFY2026Q3单季官方完整财报：收入10,259百万美元与三表附注基准](entries/salesforce-official-fy2026-q3-10-q.md) — Reference
+- [SalesforceFY2026全年官方完整财报：收入41,525百万美元与三表附注基准](entries/salesforce-official-fy2026-fy-10-k.md) — Reference
+- [SalesforceFY2027Q1单季官方完整财报：收入11,133百万美元与三表附注基准](entries/salesforce-official-fy2027-q1-10-q.md) — Reference
+- [SalesforceFY2027Q2单季官方完整财报：收入11,345百万美元与三表附注基准](entries/salesforce-official-fy2027-q2-10-q.md) — Reference
 - [Salesforce汇丰二季报：AI经常性收入加速，核心业务放缓与投资收益须分离](entries/salesforce-hsbc-ai-acceleration-20260828.md) — Analysis
 - [Salesforce瑞银Braze收购初评：补强营销云但并购增速不等于有机复苏](entries/salesforce-ubs-braze-acquisition-20261020.md) — Analysis
 - [Salesforce瑞银Claudeforce初评：预置技能与权限集成的价值仍待付费验证](entries/salesforce-ubs-new-ai-story-20260910.md) — Analysis
