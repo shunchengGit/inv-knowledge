@@ -631,6 +631,7 @@
 - [2026-10-29-300760.SZ-Morgan Stanley-Mindray Bio Medical 3Q26 First Take – Slowdown In Line; Ful...-125262850.pdf](迈瑞医疗/2026-10-29-300760.SZ-Morgan Stanley-Mindray Bio Medical 3Q26 First Take – Slowdown In Line; Ful...-125262850.pdf)
 - [2026-10-29-300760.SZ-UBS Equities-First Read Mindray Bio-Med _Q326 results in line with buysi...-125258154.pdf](迈瑞医疗/2026-10-29-300760.SZ-UBS Equities-First Read Mindray Bio-Med _Q326 results in line with buysi...-125258154.pdf)
 - [2026-10-30-300760.SZ-Morgan Stanley-Mindray Bio-Medical 3Q26 Earnings Call Takeaways-125270944.pdf](迈瑞医疗/2026-10-30-300760.SZ-Morgan Stanley-Mindray Bio-Medical 3Q26 Earnings Call Takeaways-125270944.pdf)
+- [2026-10-30-300760.SZ-Morgan Stanley-Mindray Bio-Medical Risk Reward Update-125271780.pdf](迈瑞医疗/2026-10-30-300760.SZ-Morgan Stanley-Mindray Bio-Medical Risk Reward Update-125271780.pdf)
 
 ## 阿里巴巴
 - [2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview Change the...-121227574.pdf](阿里巴巴/2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview Change the...-121227574.pdf)
