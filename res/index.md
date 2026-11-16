@@ -69,6 +69,7 @@
 
 ## ServiceNow
 - [2026-10-23-NOW.N-BofA Global Research-ServiceNow 3Q26 preview cRPO and AI traction in focus; Rai...-125117365.pdf](ServiceNow/2026-10-23-NOW.N-BofA Global Research-ServiceNow 3Q26 preview cRPO and AI traction in focus; Rai...-125117365.pdf)
+- [2026-10-29-NOW.N-HSBC Global Investme-ServiceNow Inc (NOW US) Buy Noise in the bridge, not the bu...-125268338.pdf](ServiceNow/2026-10-29-NOW.N-HSBC Global Investme-ServiceNow Inc (NOW US) Buy Noise in the bridge, not the bu...-125268338.pdf)
 
 ## 万国数据
 - [2026-05-21-9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls-122151620.pdf](万国数据/2026-05-21-9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls-122151620.pdf)
