@@ -82,6 +82,7 @@
 - [台积电UBS-2026年Q2业绩及后市毛利率展望](entries/台积电UBS-2Q26业绩及后市毛利率展望.md) — Analysis
 - [台积电UBS十月快评：保留Q2标题疑点，第四季收入环增8%至10%预测](entries/tsmc-ubs-sales-fasttake-20261008.md) — Analysis
 - [大摩Alphabet TPU商业化上修：2027至2028年一方销售收入合计近2000亿美元](entries/google-tpu-200bn-revenue-ms-2026-08.md) — Analysis
+- [大摩中国GenAI全产业链专题：算力资本开支、模型分层与消费及企业智能体变现](entries/ms-china-internet-genai-marketing-deck-20261111.md) — Article
 - [大摩台积电三季度点评：需求强劲但利润率承压，下调盈利并上调资本开支](entries/tsmc-ms-q326-review-20261015.md) — Analysis
 - [大摩宁波银行三季度点评：净息差回升支撑增长，目标价50.70元](entries/ningbo-bank-ms-q326-results-20261029.md) — Analysis
 - [大摩福耀2026年三季度前瞻：量弱价升延续，汇兑收窄或推动盈利转正](entries/fuyao-ms-q326-preview-20261012.md) — Article
@@ -113,6 +114,7 @@
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [德银谷歌三季报：查询参与度领先变现，云产能扩张仍受成本约束](entries/googl-db-monetization-20261029.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
+- [摩根士丹利中国金融：政府债利息征税仍在咨询，盈利冲击取决于存量豁免与收益率重定价](entries/ms-china-financials-government-bond-tax-20261111.md) — Article
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — Analysis
 - [摩根大通中国AI基础设施生态：算力需求高增长与先进代工、HBM双重瓶颈](entries/jpm-china-ai-infra-growth-foundry-hbm-constraints-20260902.md) — Article
 - [摩根大通中国互联网AI建设成本：阿里股东显性稀释、腾讯组合机会成本、百度子公司权益让渡](entries/jpm-china-internet-who-pays-ai-build-2026-08.md) — Analysis

@@ -5,6 +5,7 @@
 - [Salesforce瑞银Claudeforce初评：预置技能与权限集成的价值仍待付费验证](entries/salesforce-ubs-new-ai-story-20260910.md) — Analysis
 - [Salesforce瑞银Dreamforce反馈：高价升级限制AI净增收入，增长路径后置](entries/salesforce-ubs-dreamforce-20260917.md) — Analysis
 - [华泰证券腾讯1Q26前瞻：AI布局和云业务迎来拐点，维持买入](entries/华泰证券腾讯1Q26前瞻-AI布局和云业务迎来拐点-维持买入.md) — Analysis
+- [大摩中国GenAI全产业链专题：算力资本开支、模型分层与消费及企业智能体变现](entries/ms-china-internet-genai-marketing-deck-20261111.md) — Article
 - [宁波银行深度：如何理解“大银行做不好，小银行做不了”的客群经营能力（中泰证券 7/25）](entries/ningbo-bank-client-strategy-zhongtai-analysis.md) — Analysis
 - [摩根士丹利人形机器人前沿：莫拉维克悖论、数据瓶颈与商业化检验](entries/ms-humanoid-horizons-moravec-paradox-2026-09.md) — Article
 - [摩根大通认为台积电与特斯拉美国厂合作可采用纯代工或控股合资](entries/tsmc-jpm-tesla-usfab-20261005.md) — Analysis

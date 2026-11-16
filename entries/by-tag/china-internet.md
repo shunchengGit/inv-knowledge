@@ -5,6 +5,7 @@
 - [JPMorgan 2026 Global China Summit - 中国互联网行业关键洞察](entries/JPMorgan-2026-Global-China-Summit-中国互联网行业关键洞察.md) — Analysis
 - [JPMorgan中国外卖行业：软性披露新规影响分析](entries/JPMorgan中国外卖行业-软性披露新规影响分析.md) — Analysis
 - [UBS中国互联网AI下游应用专家会：视频生成竞争格局与商业化进展](entries/ubs-china-internet-ai-downstream-expert-call-20260918.md) — Article
+- [大摩中国GenAI全产业链专题：算力资本开支、模型分层与消费及企业智能体变现](entries/ms-china-internet-genai-marketing-deck-20261111.md) — Article
 - [德银中国电商三季度前瞻：需求承压与外卖减亏并行，拼多多评级上调](entries/db-china-ecommerce-3q26-preview-pdd-upgrade-20261029.md) — Analysis
 - [抖音月时长首次超越微信，字节跳动系占据中国移动时长35%](entries/nomura-china-internet-app-tracker-july-2026.md) — Analysis
 - [摩根士丹利中国人工智能路径路演：8.5万亿元投入、算力扩张与分层商业化](entries/ms-china-internet-ai-path-presentation-20261019.md) — Article

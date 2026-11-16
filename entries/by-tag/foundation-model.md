@@ -1,5 +1,6 @@
 # foundation-model
 
+- [大摩中国GenAI全产业链专题：算力资本开支、模型分层与消费及企业智能体变现](entries/ms-china-internet-genai-marketing-deck-20261111.md) — Article
 - [摩根士丹利中国AI基础大模型路演报告：前沿模型规格对比、定价趋势与阿里全栈AI](entries/ms-investor-presentation-china-ai-path-llm-20260916.md) — Reference
 - [摩根士丹利中国互联网与AI大模型催化剂前瞻：微信AI落地与Qwen/混元模型迭代](entries/ms-china-internet-ai-foundation-models-catalysts-preview-202609.md) — Synthesis
 - [摩根士丹利解读中国人工智能出口限制草案：服务与技术转移须分开判断](entries/ms-china-ai-proposed-export-restrictions-20261018.md) — Article

@@ -1,5 +1,6 @@
 # ai-capex
 
+- [大摩中国GenAI全产业链专题：算力资本开支、模型分层与消费及企业智能体变现](entries/ms-china-internet-genai-marketing-deck-20261111.md) — Article
 - [微软FY2026官方年报：营收增长18%，经营现金流增长34%，AI资本开支压低FCF转化率](entries/microsoft-fy2026-official-10k-results.md) — Reference
 - [摩根士丹利中国AI路径：8.5万亿资本开支到3倍算力，2030年IT容量81GW](entries/ms-china-ai-path-rmb8-5tr-capex-3x-compute-20260913.md) — Analysis
 - [摩根士丹利中国人工智能路径路演：8.5万亿元投入、算力扩张与分层商业化](entries/ms-china-internet-ai-path-presentation-20261019.md) — Article

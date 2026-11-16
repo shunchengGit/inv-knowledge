@@ -13,4 +13,5 @@
 - [UBS大中华银行日报：央行明确"十五五"金融改革方向，1-7月科技贷款同比+17.9%](entries/ubs-greater-china-banks-daily-pboc-15th-five-year-20260911.md) — Article
 - [UBS大中华银行路演反馈：投资兴趣回升与高股息防御配置](entries/UBS大中华银行路演反馈-投资兴趣回升与高股息防御配置.md) — Analysis
 - [德银中国银行三季度前瞻：息差企稳支撑利润，拨备与零售风险仍制约修复](entries/db-china-banks-3q26-preview-20261029.md) — Article
+- [摩根士丹利中国金融：政府债利息征税仍在咨询，盈利冲击取决于存量豁免与收益率重定价](entries/ms-china-financials-government-bond-tax-20261111.md) — Article
 - [瑞银大中华银行日报：无抵押消费信贷多年拨备压力与地方债提前额度](entries/ubs-greater-china-banks-daily-unsecured-npl-20261026.md) — Article
