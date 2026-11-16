@@ -618,6 +618,7 @@
 
 ## 迈瑞医疗
 - [2026-08-31-300760.SZ-Morgan Stanley-Mindray Bio-Medical Risk Reward Update-124113775.pdf](迈瑞医疗/2026-08-31-300760.SZ-Morgan Stanley-Mindray Bio-Medical Risk Reward Update-124113775.pdf)
+- [2026-09-02-300760.SZ-UBS Equities-First Read Mindray Bio-Med _2026 A-share Conference To gro...-124189687.pdf](迈瑞医疗/2026-09-02-300760.SZ-UBS Equities-First Read Mindray Bio-Med _2026 A-share Conference To gro...-124189687.pdf)
 
 ## 阿里巴巴
 - [2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview Change the...-121227574.pdf](阿里巴巴/2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview Change the...-121227574.pdf)
