@@ -67,6 +67,9 @@
 - [2026-09-17-CRM.N-UBS Equities-Salesforce Inc _Dreamforce, AI and the Growth Potential_ (Ne...-124434981.pdf](Salesforce/2026-09-17-CRM.N-UBS Equities-Salesforce Inc _Dreamforce, AI and the Growth Potential_ (Ne...-124434981.pdf)
 - [2026-10-20-CRM.N-UBS Equities-Salesforce Inc _Initial Take on Braze Acquisition_ (Neutral)...-125057028.pdf](Salesforce/2026-10-20-CRM.N-UBS Equities-Salesforce Inc _Initial Take on Braze Acquisition_ (Neutral)...-125057028.pdf)
 
+## ServiceNow
+- [2026-10-23-NOW.N-BofA Global Research-ServiceNow 3Q26 preview cRPO and AI traction in focus; Rai...-125117365.pdf](ServiceNow/2026-10-23-NOW.N-BofA Global Research-ServiceNow 3Q26 preview cRPO and AI traction in focus; Rai...-125117365.pdf)
+
 ## 万国数据
 - [2026-05-21-9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls-122151620.pdf](万国数据/2026-05-21-9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls-122151620.pdf)
 - [2026-05-21-9698.HK-JPMorgan-GDS Holdings Strong 3-year bookings target; revenue expected...-122152324.pdf](万国数据/2026-05-21-9698.HK-JPMorgan-GDS Holdings Strong 3-year bookings target; revenue expected...-122152324.pdf)
