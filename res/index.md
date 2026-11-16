@@ -60,6 +60,9 @@
 - [doc_8ca37be2f209_2026-07-30-000660.KS-HSBC Global Investme-SK Hynix (000660 KP) Buy Excessive divergence – sentiment h...-123472585.pdf](SK海力士/doc_8ca37be2f209_2026-07-30-000660.KS-HSBC Global Investme-SK Hynix (000660 KP) Buy Excessive divergence – sentiment h...-123472585.pdf)
 - [doc_96e2b7f7b0f5_2026-07-29-000660.KS-Macquarie Research-Oversold at 1x ex-cash PE-123468415.pdf](SK海力士/doc_96e2b7f7b0f5_2026-07-29-000660.KS-Macquarie Research-Oversold at 1x ex-cash PE-123468415.pdf)
 
+## Salesforce
+- [2026-08-27-CRM.N-UBS Equities-Salesforce Inc _A Reaffirm May be Good Enough_ (Neutral) Kei...-124064366.pdf](Salesforce/2026-08-27-CRM.N-UBS Equities-Salesforce Inc _A Reaffirm May be Good Enough_ (Neutral) Kei...-124064366.pdf)
+
 ## 万国数据
 - [2026-05-21-9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls-122151620.pdf](万国数据/2026-05-21-9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls-122151620.pdf)
 - [2026-05-21-9698.HK-JPMorgan-GDS Holdings Strong 3-year bookings target; revenue expected...-122152324.pdf](万国数据/2026-05-21-9698.HK-JPMorgan-GDS Holdings Strong 3-year bookings target; revenue expected...-122152324.pdf)
