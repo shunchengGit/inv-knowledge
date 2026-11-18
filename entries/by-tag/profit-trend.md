@@ -181,6 +181,7 @@
 - [腾讯控股2026Q1正式业绩：营收1965亿(+9%)，Non-IFRS净利+11%](entries/腾讯控股2026Q1正式业绩-营收1965亿-9-Non-IFRS净利-11.md) — Analysis
 - [腾讯控股2026Q2及H1官方业绩：营收增长11%，Non-IFRS净利增长9%](entries/tencent-2026-q2-h1-official-results.md) — Reference
 - [腾讯控股2026完整中期报告：上半年收入4012亿元与财务附注基准](entries/tencent-2026-complete-interim-report.md) — Reference
+- [腾讯控股2026年第三季度官方业绩：收入增长8%，Non-IFRS经营利润下降6%](entries/腾讯控股2026年第三季度官方业绩-收入增长8-Non-IFRS经营利润下降6.md) — Reference
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — Synthesis
 - [腾讯控股2Q26前瞻：AI加大投入拖累短期利润率，核心业务韧性良好（野村 7/13）](entries/tencent-2q26-nomura-preview.md) — Analysis
 - [腾讯控股JPM 1Q26：转向更积极，双P&L披露化解AI稀释担忧](entries/腾讯控股JPM-1Q26-转向更积极-双P-L披露化解AI稀释担忧.md) — Analysis

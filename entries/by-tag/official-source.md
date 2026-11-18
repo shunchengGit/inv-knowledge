@@ -64,6 +64,7 @@
 - [腾讯控股2025年官方年报：收入751,766百万元，归母盈利224,842百万元](entries/tencent-2025-annual-official-report.md) — Reference
 - [腾讯控股2026Q2及H1官方业绩：营收增长11%，Non-IFRS净利增长9%](entries/tencent-2026-q2-h1-official-results.md) — Reference
 - [腾讯控股2026完整中期报告：上半年收入4012亿元与财务附注基准](entries/tencent-2026-complete-interim-report.md) — Reference
+- [腾讯控股2026年第三季度官方业绩：收入增长8%，Non-IFRS经营利润下降6%](entries/腾讯控股2026年第三季度官方业绩-收入增长8-Non-IFRS经营利润下降6.md) — Reference
 - [谷歌Alphabet2023年官方年报：收入307,394百万美元与云业务经营基准](entries/alphabet-2023-annual-official-report.md) — Reference
 - [谷歌Alphabet2024年官方年报：收入350,018百万美元与云业务经营基准](entries/alphabet-2024-annual-official-report.md) — Reference
 - [谷歌Alphabet2025年官方年报：收入402,836百万美元与云业务经营基准](entries/alphabet-2025-annual-official-report.md) — Reference
