@@ -440,3 +440,4 @@
 - [腾讯控股2Q26业绩前瞻与微信AI Agent商业化进程](entries/tencent-2q26-preview-and-weixin-ai-agent-milestones.md) — 腾讯2Q26预期营收增速+9%，Non-IFRS净利润+4%至660亿元。核心看点为Weixin AI Agent在6月开启Beta测试，有望开辟微信端领跑、半商城以及顶层流量分发的三层AI电商变现空间（2030年增量收入空间达690亿至4260亿元）。因AI资本支出大幅提升（预测2026年Capex升至1700亿元），多投行下调盈利预测，HSBC将目标价从720港元降至655港元。
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — 谷歌2Q26营收1200亿美元，Google Cloud暴增82%至248亿且OPM达35.6%，Backlog飙升至5140亿美元；德银、美银、大摩、汇丰力挺多引擎变现与高ROIC并予买入评级（目标价$400-$430），瑞银因Capex指引上调至2050亿与FCF承压维持中性（目标价$379）。
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — 2026年4月8日前瞻：JPM与UBS均预计CMR约增1%、All Others亏损约200亿元；UBS即时零售亏损预计150亿元，非快消品，ADS目标降至170美元，JPM降至200美元。
+- [腾讯控股2026年第三季度官方业绩：收入增长8%，Non-IFRS经营利润下降6%](entries/腾讯控股2026年第三季度官方业绩-收入增长8-Non-IFRS经营利润下降6.md) — 腾讯控股2026年第三季度收入2,073.36亿元（同比+8%），IFRS归母净利润636.12亿元（+0.8%），Non-IFRS归母净利润665.19亿元（-6%）；Non-IFRS经营利润680.73亿元（-6%）。
