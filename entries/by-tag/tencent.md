@@ -16,6 +16,7 @@
 - [汇丰腾讯AI投入前瞻：2027年盈利与自由现金流承压，目标价降至600港元](entries/tencent-hsbc-ai-commitment-20261016.md) — Article
 - [汇丰腾讯HY4预览版点评：7700亿参数升级与商业化成本检验](entries/tencent-hsbc-hy4-preview-20260831.md) — Article
 - [汇丰腾讯数字生态大会纪要：办公智能体深化集成，云业务海外客户翻倍](entries/tencent-hsbc-digital-ecosystem-summit-20261029.md) — Analysis
+- [汇丰腾讯混元Hy4正式版快评：新增视觉能力，API价格维持不变](entries/tencent-hsbc-hy4-launch-20261105.md) — Article
 - [王者荣耀：ACE首发成功，iOS畅销榜第5，预计首年流水36亿元](entries/tencent-honor-of-kings-ace-launch-20260914.md) — Analysis
 - [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
 - [瑞银腾讯三季度前瞻：AI投入压低利润，盈利下修或延续至2027年](entries/tencent-ubs-q326-preview-20261014.md) — Article
@@ -36,6 +37,7 @@
 - [腾讯控股UBS 1Q26：符合预期，低估值的期权价值](entries/腾讯控股UBS-1Q26-符合预期-低估值的期权价值.md) — Analysis
 - [野村2026年8月应用跟踪：字节时长份额扩大，流量规模与使用深度分化](entries/nomura-china-internet-app-tracker-august-2026.md) — Analysis
 - [野村AI办公智能体专家访谈：企业上下文与协同平台成为竞争焦点](entries/nomura-ai-office-agent-enterprise-context-20261001.md) — Analysis
+- [野村中国互联网：WorkBuddy连接企业应用，字节与阿里分别领先整体及大模型服务市场](entries/nomura-workbuddy-cross-product-maas-20261102.md) — Article
 - [野村腾讯三季度前瞻：AI投入压低经营利润，目标价降至659港元](entries/tencent-nomura-q326-preview-20261018.md) — Analysis
 - [野村证券中国互联网2026年5月月度流量与App跟踪报告](entries/野村证券中国互联网2026年5月月度流量与App跟踪报告.md) — Article
 - [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — Article

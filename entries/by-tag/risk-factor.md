@@ -44,6 +44,7 @@
 - [汇丰数据中心专家会：项目延期不等于需求消失，电力与交付成为约束](entries/hsbc-ai-data-center-reality-check-20261019.md) — Article
 - [汇丰腾讯AI投入前瞻：2027年盈利与自由现金流承压，目标价降至600港元](entries/tencent-hsbc-ai-commitment-20261016.md) — Article
 - [汇丰腾讯HY4预览版点评：7700亿参数升级与商业化成本检验](entries/tencent-hsbc-hy4-preview-20260831.md) — Article
+- [汇丰腾讯混元Hy4正式版快评：新增视觉能力，API价格维持不变](entries/tencent-hsbc-hy4-launch-20261105.md) — Article
 - [汇川技术二季度通用自动化强劲，美银上调盈利但下调目标价](entries/汇川技术-美银-二季度通用自动化增长与估值下调-20260831.md) — Analysis
 - [汇川技术维持全年指引，摩根大通押注自动化支撑下半年修复](entries/汇川技术-摩根大通-全年指引与下半年修复预期-20260831.md) — Analysis
 - [汇川技术自动化强新能源弱，麦格理提示现金流和原文口径分歧](entries/汇川技术-麦格理-自动化强新能源弱与现金流分歧-20260831.md) — Analysis

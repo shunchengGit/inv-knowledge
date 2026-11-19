@@ -49,3 +49,4 @@
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
 - [野村2026年8月应用跟踪：字节时长份额扩大，流量规模与使用深度分化](entries/nomura-china-internet-app-tracker-august-2026.md) — Analysis
 - [野村AI办公智能体专家访谈：企业上下文与协同平台成为竞争焦点](entries/nomura-ai-office-agent-enterprise-context-20261001.md) — Analysis
+- [野村中国互联网：WorkBuddy连接企业应用，字节与阿里分别领先整体及大模型服务市场](entries/nomura-workbuddy-cross-product-maas-20261102.md) — Article
