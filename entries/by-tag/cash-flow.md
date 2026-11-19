@@ -16,3 +16,4 @@
 - [腾讯控股2026Q2及H1官方业绩：营收增长11%，Non-IFRS净利增长9%](entries/tencent-2026-q2-h1-official-results.md) — Reference
 - [腾讯控股2026完整中期报告：上半年收入4012亿元与财务附注基准](entries/tencent-2026-complete-interim-report.md) — Reference
 - [腾讯控股AI资本开支拐点已现：2027年FCF转正路径明确](entries/tencent-morningstar-ai-cash-drain-end-date-20260902.md) — Analysis
+- [阿里巴巴FY2027二季度及中期业绩：云与算力收入增长53%，单季自由现金流流出344.72亿元](entries/alibaba-fy2027-q2-h1-official-results-20261119.md) — Reference

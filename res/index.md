@@ -672,6 +672,7 @@
 ## 阿里巴巴
 - [2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview Change the...-121227574.pdf](阿里巴巴/2026-04-08-9988.HK-JPMorgan-Alibaba Group (BABA US  9988 HK) CY1Q26 Preview Change the...-121227574.pdf)
 - [2026-04-08-9988.HK-UBS Equities-First Read Alibaba Group _4QFY26 preview; higher AI investm...-121225497.pdf](阿里巴巴/2026-04-08-9988.HK-UBS Equities-First Read Alibaba Group _4QFY26 preview; higher AI investm...-121225497.pdf)
+- [2026-11-19-Alibaba-FY2027-Q2-and-H1-official-results.pdf](阿里巴巴/2026-11-19-Alibaba-FY2027-Q2-and-H1-official-results.pdf)
 
 ## 隆基绿能
 - [2026-04-30-601012.SS-JPMorgan-LONGi Green - A FY251Q26 briefing takeaways Pushing on BC ...-121727238.pdf](隆基绿能/2026-04-30-601012.SS-JPMorgan-LONGi Green - A FY251Q26 briefing takeaways Pushing on BC ...-121727238.pdf)

@@ -15,3 +15,4 @@
 - [野村证券中国互联网2026年5月月度流量与App跟踪报告](entries/野村证券中国互联网2026年5月月度流量与App跟踪报告.md) — Article
 - [野村证券中国互联网2026年6月月度流量与App跟踪报告](entries/野村证券中国互联网2026年6月月度流量与App跟踪报告.md) — Article
 - [阿里巴巴CY1Q26(4QFY26)预览：AI投资加大，电商CMR增长承压(JPMorgan/UBS)](entries/Alibaba-CY1Q26-Preview-AI-Investment-20260408.md) — Synthesis
+- [阿里巴巴FY2027二季度及中期业绩：云与算力收入增长53%，单季自由现金流流出344.72亿元](entries/alibaba-fy2027-q2-h1-official-results-20261119.md) — Reference

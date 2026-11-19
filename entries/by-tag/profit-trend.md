@@ -206,6 +206,7 @@
 - [野村世界先进涨价强化二〇二七年盈利](entries/野村世界先进涨价强化二〇二七年盈利.md) — Analysis
 - [野村中国电商9月点评：线上商品销售近乎停滞，渗透率同比下降](entries/nomura-china-ecommerce-september-stagnation-20261019.md) — Analysis
 - [野村腾讯三季度前瞻：AI投入压低经营利润，目标价降至659港元](entries/tencent-nomura-q326-preview-20261018.md) — Analysis
+- [阿里巴巴FY2027二季度及中期业绩：云与算力收入增长53%，单季自由现金流流出344.72亿元](entries/alibaba-fy2027-q2-h1-official-results-20261119.md) — Reference
 - [鱼跃医疗2025年一季报官方全文与现金流基准](entries/鱼跃医疗-官方-2025Q1-完整财报.md) — Reference
 - [鱼跃医疗2025年三季报官方全文与单季累计口径](entries/鱼跃医疗-官方-2025Q3-完整财报.md) — Reference
 - [鱼跃医疗2025年半年报官方全文与非经常损益基准](entries/鱼跃医疗-官方-2025H1-完整财报.md) — Reference
