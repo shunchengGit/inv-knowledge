@@ -174,6 +174,8 @@
 - [2026-10-15-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Conviction grows as ...-124974549.pdf](台积电/2026-10-15-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Conviction grows as ...-124974549.pdf)
 - [2026-10-15-2330.TW-Morgan Stanley-TSMC No slowdown of AI semi demand; reiterate OW-124970495.pdf](台积电/2026-10-15-2330.TW-Morgan Stanley-TSMC No slowdown of AI semi demand; reiterate OW-124970495.pdf)
 - [2026-10-15-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _Full speed on capacity e...-124969594.pdf](台积电/2026-10-15-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _Full speed on capacity e...-124969594.pdf)
+- [2026-11-10-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Capital budget towar...-125524785.pdf](台积电/2026-11-10-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Capital budget towar...-125524785.pdf)
+- [2026-11-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _Oct sale...-125509237.pdf](台积电/2026-11-10-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _Oct sale...-125509237.pdf)
 - [TSMC-2023-Annual-Report-EN.pdf](台积电/TSMC-2023-Annual-Report-EN.pdf)
 - [TSMC-2024-Annual-Report-EN.pdf](台积电/TSMC-2024-Annual-Report-EN.pdf)
 - [TSMC-2024-Audited-Consolidated-Financial-Statements-EN.pdf](台积电/TSMC-2024-Audited-Consolidated-Financial-Statements-EN.pdf)

@@ -135,6 +135,7 @@
 - [法巴福耀二季报：销量与汇兑压低盈利预测，经营韧性支撑双市场评级](entries/fuyao-bnp-2q26-resilience-20260820.md) — Article
 - [泡泡玛特2026前瞻：Labubu退潮与平台价值之争——DB Sell vs HSBC/国信Buy](entries/泡泡玛特多空观点-增长放缓与平台价值之争.md) — Analysis
 - [瑞银台积电三季度点评：扩产提速，2027年资本开支预测900亿美元](entries/tsmc-ubs-q326-capacity-expansion-20261015.md) — Analysis
+- [瑞银台积电十月营收快评：月增近一成半，第四季进度符合模型](entries/tsmc-ubs-october-sales-20261110.md) — Analysis
 - [瑞银腾讯2Q26：短期盈利受AI投入压制，长期价值需耐心兑现](entries/tencent-ubs-2q26-patience-for-ai-upside.md) — Analysis
 - [瑞银腾讯三季度前瞻：AI投入压低利润，盈利下修或延续至2027年](entries/tencent-ubs-q326-preview-20261014.md) — Article
 - [福耀玻璃2023年官方年报：营收增长18.02%，归母净利润增长18.37%](entries/fuyao-glass-2023-annual-official-report.md) — Reference
