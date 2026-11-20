@@ -274,6 +274,7 @@
 - [2026-10-29-MSFT.OQ-Morgan Stanley-Microsoft 1Q27 Results – Strong Start to the Year-125244688.pdf](微软/2026-10-29-MSFT.OQ-Morgan Stanley-Microsoft 1Q27 Results – Strong Start to the Year-125244688.pdf)
 - [2026-10-29-MSFT.OQ-UBS Equities-Microsoft Corp. _AzureOpenAI Drives the Upside_ (Buy) Keirs...-125252629.pdf](微软/2026-10-29-MSFT.OQ-UBS Equities-Microsoft Corp. _AzureOpenAI Drives the Upside_ (Buy) Keirs...-125252629.pdf)
 - [2026-10-30-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy Azure boldly defies the law of larg...-125272740.pdf](微软/2026-10-30-MSFT.OQ-HSBC Global Investme-Microsoft (MSFT US) Buy Azure boldly defies the law of larg...-125272740.pdf)
+- [2026-11-12-MSFT.OQ-Morgan Stanley-Microsoft Ignite 2026 Preview Will the Enterprise AI Flywh...-125557649.pdf](微软/2026-11-12-MSFT.OQ-Morgan Stanley-Microsoft Ignite 2026 Preview Will the Enterprise AI Flywh...-125557649.pdf)
 - [microsoft-fy2026-sec-10k.pdf](微软/microsoft-fy2026-sec-10k.pdf)
 
 ## 恒瑞医药
@@ -643,6 +644,7 @@
 - [2026-10-29-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Q3 results miss on Google Services ...-125257177.pdf](谷歌/2026-10-29-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Q3 results miss on Google Services ...-125257177.pdf)
 - [2026-10-29-GOOGL.OQ-Morgan Stanley-Alphabet Inc. Searching for Growth-125244400.pdf](谷歌/2026-10-29-GOOGL.OQ-Morgan Stanley-Alphabet Inc. Searching for Growth-125244400.pdf)
 - [2026-10-29-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _More Questions than Answers_ (Neutr...-125245516.pdf](谷歌/2026-10-29-GOOGL.OQ-UBS Equities-Alphabet Inc. - Class A _More Questions than Answers_ (Neutr...-125245516.pdf)
+- [2026-11-13-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Google stable, ChatGPT mixed and steady M...-125591732.pdf](谷歌/2026-11-13-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Google stable, ChatGPT mixed and steady M...-125591732.pdf)
 - [Alphabet-2023-Annual-Report-10K.pdf](谷歌/Alphabet-2023-Annual-Report-10K.pdf)
 - [Alphabet-2024-Annual-Report-10K.pdf](谷歌/Alphabet-2024-Annual-Report-10K.pdf)
 - [Alphabet-2025-Annual-Report-10K.pdf](谷歌/Alphabet-2025-Annual-Report-10K.pdf)

@@ -19,6 +19,7 @@
 - [美银Google AI Wars七月跟踪：搜索份额升至91.3%，AI流量环比季节性放缓](entries/google-ai-wars-july-traffic-bofa-2026-08.md) — Analysis
 - [美银谷歌2Q26点评：Capex上调掩盖强劲云加速，订单积压与高利润率验证AI护城河](entries/google-2q26-bofa-capex-increase-spotlight-cloud.md) — Analysis
 - [美银谷歌三季报：搜索转型压低变现，云增长与人工智能投入并行](entries/googl-bofa-search-ai-20261029.md) — Analysis
+- [美银谷歌十月流量跟踪：搜索份额回升，变现仍待验证](entries/googl-bofa-ai-wars-oct-20261113.md) — Analysis
 - [谷歌2Q26五大投行综合研报分析：云积压订单5140亿与资本开支2000亿大论战](entries/google-2q26-5-bank-synthesis-cloud-capex-debate.md) — Synthesis
 - [谷歌Alphabet2023年官方年报：收入307,394百万美元与云业务经营基准](entries/alphabet-2023-annual-official-report.md) — Reference
 - [谷歌Alphabet2024年官方年报：收入350,018百万美元与云业务经营基准](entries/alphabet-2024-annual-official-report.md) — Reference

@@ -10,6 +10,7 @@
 - [MSFT 跟进分析：Copilot起飞在即，Azure 40%+增长可持续 (BNP Paribas 5/26)](entries/MSFT-跟进分析-Copilot起飞在即-Azure-40-增长可持续-BNP-Paribas-5-26.md) — Analysis
 - [MSFT：Anthropic合作有望成为Azure 430亿美元年化增量机会 (HSBC 5/26)](entries/MSFT-Anthropic合作有望成为Azure-30亿年化增量机会-HSBC-5-26.md) — Analysis
 - [云计算经济性基准显示微软云兼具回报韧性与估值吸引力](entries/云计算经济性基准显示微软云兼具回报韧性与估值吸引力.md) — Analysis
+- [大摩微软大会前瞻：办公智能体、数据平台与算力效率的验证点](entries/msft-ms-ignite-preview-20261112.md) — Analysis
 - [太空探索技术公司扩产揭示二〇二七年图形处理器短缺与新云机会](entries/太空探索技术公司扩产揭示二〇二七年图形处理器短缺与新云机会.md) — Analysis
 - [微软4Q/FY26财报前瞻：Azure增长强劲，Capex预期上修，M365商业云加速（UBS 7/26）](entries/msft-4qfy26-azure-capex-m365-ubs-update.md) — Analysis
 - [微软4QFY26业绩前瞻与Copilot商业化NYC NDR反馈](entries/microsoft-4qfy26-preview-and-copilot-nyc-ndr-feedback.md) — Synthesis
