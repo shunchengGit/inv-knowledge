@@ -6,3 +6,4 @@
 - [Morgan Stanley中国金融：工业产能风险改善为去杠杆创造条件](entries/ms-china-financials-industrial-risk-20261002.md) — Analysis
 - [Morgan Stanley中国银行业投资者演示：支付回暖、信贷理性化与净息差拐点](entries/Morgan-Stanley中国银行业投资者演示-高质量发展与人民币存款新规.md) — Analysis
 - [MS中国金融跟踪：工业信用去风险趋势延续，工业需求增速显著快于供给](entries/MS中国金融跟踪-工业信用去风险趋势延续-需求增速快于供给.md) — Analysis
+- [摩根士丹利中国财富管理深度：居民金融资产预计2035年达693.1万亿元，宁波银行为银行首选](entries/ms-china-wealth-next-chapter-20261116.md) — Analysis
