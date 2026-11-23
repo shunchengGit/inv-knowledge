@@ -6,6 +6,7 @@
 - [大摩福耀三季报电话会：维持6—7%长期ASP复合增速，高附加值占比59.95%，美国工厂三季度利润率约15%](entries/fuyao-ms-3q26-earnings-call-20261021.md) — Article
 - [大摩福耀战术观点：三季报后回调过度，预计15天内绝对上涨，但维持等权](entries/fuyao-ms-tactical-idea-20261021.md) — Article
 - [大摩福耀风险回报更新：汇兑与美国爬坡推动盈利下修，维持等权](entries/fuyao-ms-risk-reward-20260830.md) — Article
+- [德银中国汽车2027年展望：海外销量支撑批发回升，偏好全球化零部件与燃油车出口商](entries/db-china-autos-2027-outlook-20261109.md) — Analysis
 - [德银中国汽车欧洲本地化：福耀现有产能构成先发优势](entries/德银中国汽车欧洲本地化-福耀现有产能构成先发优势.md) — Analysis
 - [摩根大通福耀三季报点评：显著不及预期，下调2026/27年净利7%/6%，A/H目标价降至50元/50港元](entries/fuyao-jpm-3q26-miss-cut-estimates-20261022.md) — Article
 - [法巴福耀三季报分析：海外收入增2.0%，下调2026及2027年EPS预测9%及8%，A及H股目标价76](entries/fuyao-bnp-3q26-bottoming-20261021.md) — Analysis

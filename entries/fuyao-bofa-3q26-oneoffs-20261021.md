@@ -32,4 +32,5 @@ tags: [fuyao-glass, valuation, profit-trend, risk-factor, fx-risk, 2026-Q3]
 - [摩根大通福耀三季报点评](entries/fuyao-jpm-3q26-miss-cut-estimates-20261022.md) — 同一事件的另一机构分析，比较一次性费用口径、税率变化和2027年盈利修订方向。
 
 ## 引用
-- [BofA Global Research：3Q26 earnings miss mainly on one-off; maintain Buy，2026-10-21](<res/福耀玻璃/2026-10-21-600660.SS-BofA Global Research-Fuyao Glass (HA) 3Q26 earnings miss mainly on one-off; mai...-125088496.pdf>) — 共11页，业绩与修订见第1页，模型见第2页，目标价基础及风险见第5页；首页与页脚日期均已核验。
+- [BofA Global Research：3Q26 earnings miss mainly on one-off; maintain Buy，2026-10-21](<res/福耀玻璃/2026-10-21-600660.SS-BofA Global Research-Fuyao Glass (HA) 3Q26 earnings miss mainly on one-off; mai...-125088496.pdf>) — H/A版，11页，业绩与修订见第1页，模型见第2页，目标价基础及风险见第5页。
+- [BofA Global Research：3Q26 earnings miss mainly on one-off; reiterate Buy，2026-10-21](<res/福耀玻璃/2026-10-21-600660.SS-BofA Global Research-Fuyao Glass (H) 3Q26 earnings miss mainly on one-off; reite...-125088498.pdf>) — H股独立发布版，10页；首页仅列61港元目标价，2026–2028年EPS仍为3.21／4.16／4.75元。与H/A版共享核心模型，不算独立机构证据；A股目标价与溢价假设仅引H/A版。
