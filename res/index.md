@@ -609,6 +609,7 @@
 - [2026-09-15-Morgan Stanley-China Financials Doubling down in anti-involution and de-le...-124413368.pdf](行业研究-金融/2026-09-15-Morgan Stanley-China Financials Doubling down in anti-involution and de-le...-124413368.pdf)
 - [2026-09-18-BofA Global Research-Banks - China (HA) 1H26 post-results call takeaways from 1...-124448177.pdf](行业研究-金融/2026-09-18-BofA Global Research-Banks - China (HA) 1H26 post-results call takeaways from 1...-124448177.pdf)
 - [2026-10-02-Morgan Stanley-China Financials Tracking industrial risks good control on...-124680282.pdf](行业研究-金融/2026-10-02-Morgan Stanley-China Financials Tracking industrial risks good control on...-124680282.pdf)
+- [2026-11-15-UBS Equities-China Banks _China bank pulse monthly – Oct RMB loansTSF re...-125611682.pdf](行业研究-金融/2026-11-15-UBS Equities-China Banks _China bank pulse monthly – Oct RMB loansTSF re...-125611682.pdf)
 - [2026-11-16-Morgan Stanley-China Financials Where Chinas Wealth Will Go The Next Cha...-125632435.pdf](行业研究-金融/2026-11-16-Morgan Stanley-China Financials Where Chinas Wealth Will Go The Next Cha...-125632435.pdf)
 - [doc_8148a6e8ca65_2026-07-27-BofA Global Research-Banks - China (HA) 1H26 preview expect continued improvem...-123407564.pdf](行业研究-金融/doc_8148a6e8ca65_2026-07-27-BofA Global Research-Banks - China (HA) 1H26 preview expect continued improvem...-123407564.pdf)
 - [doc_92b69b724f5a_2026-08-07-UBS Equities-First Read Greater China Banks _Marketing feedback interes...-123701855.pdf](行业研究-金融/doc_92b69b724f5a_2026-08-07-UBS Equities-First Read Greater China Banks _Marketing feedback interes...-123701855.pdf)
@@ -624,6 +625,8 @@
 - [2026-10-19-JPMorgan-China Regional Banks 3Q26 preview Core earnings growth to m...-125013191.pdf](行业研究-银行/2026-10-19-JPMorgan-China Regional Banks 3Q26 preview Core earnings growth to m...-125013191.pdf)
 - [2026-10-26-UBS Equities-Greater China Banks Daily _APAC Focus Stress-testing the un...-125145929.pdf](行业研究-银行/2026-10-26-UBS Equities-Greater China Banks Daily _APAC Focus Stress-testing the un...-125145929.pdf)
 - [2026-10-28-601288.SS-Deutsche Bank-China banks 3Q26 preview stable margins to underpin solid ...-125239204.pdf](行业研究-银行/2026-10-28-601288.SS-Deutsche Bank-China banks 3Q26 preview stable margins to underpin solid ...-125239204.pdf)
+- [2026-11-09-UBS Equities-Greater China Banks Daily _China FX Reserves Stay Above US$3...-125479187.pdf](行业研究-银行/2026-11-09-UBS Equities-Greater China Banks Daily _China FX Reserves Stay Above US$3...-125479187.pdf)
+- [2026-11-10-UBS Equities-Greater China Banks Daily _China Oct CPI rose 0.7 YoY, PPI ...-125505123.pdf](行业研究-银行/2026-11-10-UBS Equities-Greater China Banks Daily _China Oct CPI rose 0.7 YoY, PPI ...-125505123.pdf)
 - [2026-11-11-Morgan Stanley-China Financials Discussion of government bond taxation ma...-125553337.pdf](行业研究-银行/2026-11-11-Morgan Stanley-China Financials Discussion of government bond taxation ma...-125553337.pdf)
 
 ## 谷歌
