@@ -282,6 +282,14 @@
 ## 恒瑞医药
 - [2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf](恒瑞医药/2026-05-12-600276.SS-JPMorgan-Hengrui A record-setting US$15.2bn multi-asset global allian...-122004657.pdf)
 
+## 招商银行
+- [2026-08-28-600036.SS-UBS Equities-First Read China Merchants Bank _Q226 NPAT growth in line;...-124090584.pdf](招商银行/2026-08-28-600036.SS-UBS Equities-First Read China Merchants Bank _Q226 NPAT growth in line;...-124090584.pdf)
+- [2026-08-29-600036.SS-BofA Global Research-China Merchants Bank (HA) 1H earnings slightly missed, pre...-124092917.pdf](招商银行/2026-08-29-600036.SS-BofA Global Research-China Merchants Bank (HA) 1H earnings slightly missed, pre...-124092917.pdf)
+- [2026-09-04-600036.SS-HSBC Global Investme-China Merchants Bank (3968 HK600036 CH) HA BuyBuy Takea...-124225320.pdf](招商银行/2026-09-04-600036.SS-HSBC Global Investme-China Merchants Bank (3968 HK600036 CH) HA BuyBuy Takea...-124225320.pdf)
+- [2026-10-30-600036.SS-BofA Global Research-China Merchants Bank (HA) 3Q results in line, focus on qua...-125294157.pdf](招商银行/2026-10-30-600036.SS-BofA Global Research-China Merchants Bank (HA) 3Q results in line, focus on qua...-125294157.pdf)
+- [2026-10-30-600036.SS-UBS Equities-First Read China Merchants Bank - A _Q326 results decent c...-125291763.pdf](招商银行/2026-10-30-600036.SS-UBS Equities-First Read China Merchants Bank - A _Q326 results decent c...-125291763.pdf)
+- [2026-10-31-600036.SS-HSBC Global Investme-China Merchants Bank (3968 HK600036 CH) HA BuyBuy Stayi...-125292855.pdf](招商银行/2026-10-31-600036.SS-HSBC Global Investme-China Merchants Bank (3968 HK600036 CH) HA BuyBuy Stayi...-125292855.pdf)
+
 ## 拼多多
 - [2026-04-23-PDD.OQ-Deutsche Bank-China E-commerce Regulation returns – who benefits and who ...-121600489.pdf](拼多多/2026-04-23-PDD.OQ-Deutsche Bank-China E-commerce Regulation returns – who benefits and who ...-121600489.pdf)
 - [20260326-华泰证券-拼多多-PDD.US-电商业务或进入稳健发展周期.pdf](拼多多/20260326-华泰证券-拼多多-PDD.US-电商业务或进入稳健发展周期.pdf)

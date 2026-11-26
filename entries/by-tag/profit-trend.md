@@ -114,6 +114,7 @@
 - [德银腾讯2Q26业绩分析：AI战略清晰化与Capex激增176%，游戏与广告基本面强劲](entries/tencent-2q26-db-ai-strategy-and-capex-surge.md) — Analysis
 - [德银谷歌三季报：查询参与度领先变现，云产能扩张仍受成本约束](entries/googl-db-monetization-20261029.md) — Analysis
 - [恒立液压601100.SH价值成长QARP深度分析](entries/hengli-hydraulic-qarp-analysis-2026-07.md) — Analysis
+- [招商银行三季报：瑞银看好拨备前利润，但零售信贷仍待验证](entries/cmb-125291763-ubs-cmb-3q26.md) — Analysis
 - [摩根士丹利中国金融：政府债利息征税仍在咨询，盈利冲击取决于存量豁免与收益率重定价](entries/ms-china-financials-government-bond-tax-20261111.md) — Article
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — Analysis
 - [摩根大通中国AI基础设施生态：算力需求高增长与先进代工、HBM双重瓶颈](entries/jpm-china-ai-infra-growth-foundry-hbm-constraints-20260902.md) — Article

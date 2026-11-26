@@ -9,6 +9,8 @@
 - [摩根士丹利宁波银行2Q26点评：增长进一步加速，维持首选股](entries/morgan-stanley-bank-of-ningbo-2q26-top-pick.md) — Analysis
 - [摩根士丹利安踏体育1H26业绩点评与3Q天气影响跟踪](entries/ms-anta-sports-1h26-bucked-trend-20260827.md) — Analysis
 - [摩根大通福耀三季报点评：显著不及预期，下调2026/27年净利7%/6%，A/H目标价降至50元/50港元](entries/fuyao-jpm-3q26-miss-cut-estimates-20261022.md) — Article
+- [瑞银点评招商银行2026年二季度：核心收入提速，减值抵消部分增量](entries/cmb-124090584-ubs-2q26-first-read.md) — Analysis
 - [福耀玻璃2026H1深度复盘：经营小幅超预期，汇兑与H2增速要求构成约束](entries/fuyao-glass-2026-h1-results-expectation-valuation-analysis.md) — Synthesis
 - [福耀玻璃JPMorgan 2Q26业绩快评：销量承压但毛利率创新高](entries/福耀玻璃JPMorgan-2Q26业绩快评-销量承压但毛利率创新高.md) — Analysis
 - [福耀玻璃JPMorgan 2Q26会后更新：最差已过但催化剂仍不足](entries/福耀玻璃JPMorgan-2Q26会后更新-最差已过但催化剂仍不足.md) — Analysis
+- [美银复盘招商银行2026年上半年：超预期拨备拖累利润，A股与H股评级分化](entries/cmb-124092917-bofa-1h26-results.md) — Analysis

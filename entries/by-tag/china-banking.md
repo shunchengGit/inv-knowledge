@@ -14,4 +14,7 @@
 - [UBS大中华银行路演反馈：投资兴趣回升与高股息防御配置](entries/UBS大中华银行路演反馈-投资兴趣回升与高股息防御配置.md) — Analysis
 - [德银中国银行三季度前瞻：息差企稳支撑利润，拨备与零售风险仍制约修复](entries/db-china-banks-3q26-preview-20261029.md) — Article
 - [摩根士丹利中国金融：政府债利息征税仍在咨询，盈利冲击取决于存量豁免与收益率重定价](entries/ms-china-financials-government-bond-tax-20261111.md) — Article
+- [汇丰中国会议纪要：招商银行零售贷款放缓，息差企稳取决于贷款利率与需求](entries/cmb-124225320-hsbc-china-conference.md) — Analysis
 - [瑞银大中华银行日报：无抵押消费信贷多年拨备压力与地方债提前额度](entries/ubs-greater-china-banks-daily-unsecured-npl-20261026.md) — Article
+- [瑞银点评招商银行2026年二季度：核心收入提速，减值抵消部分增量](entries/cmb-124090584-ubs-2q26-first-read.md) — Analysis
+- [美银复盘招商银行2026年上半年：超预期拨备拖累利润，A股与H股评级分化](entries/cmb-124092917-bofa-1h26-results.md) — Analysis
